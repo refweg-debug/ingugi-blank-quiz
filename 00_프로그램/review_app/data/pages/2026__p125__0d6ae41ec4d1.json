@@ -1240,19 +1240,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0026"
       ],
-      "prompt": "[추정] _____은 hepatocyte(간세포) 주변에 있다.",
+      "prompt": "_____은 hepatocyte(간세포) 주변에 있다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1263,7 +1269,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 hepatocyte(간세포) 주변에 있다. / Original: 그게 요 hepatocyte(간세포) 주변에 있는 이 [추정] fat-storing cell(지방저장세포). / Evidence: hepatic stellate cell은 hepatocyte(간세포)와 sinusoid 사이의 space of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 hepatocyte(간세포) 주변에 있다. / Original: 그게 요 hepatocyte(간세포) 주변에 있는 이 hepatic stellate cell(간성상세포). / Evidence: hepatic stellate cell은 hepatocyte(간세포)와 sinusoid 사이의 space of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1274,7 +1280,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0026"
       ],
-      "prompt": "[추정] fat-storing cell(지방저장세포)은 _____ 주변에 있다.",
+      "prompt": "hepatic stellate cell(간성상세포)은 _____ 주변에 있다.",
       "answer": {
         "format": "single_text",
         "value": "hepatocyte(간세포)",
@@ -1297,7 +1303,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 hepatocyte(간세포) 주변에 있다. / Original: 그게 요 hepatocyte(간세포) 주변에 있는 이 [추정] fat-storing cell(지방저장세포). / Evidence: hepatic stellate cell은 hepatocyte(간세포)와 sinusoid 사이의 space of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 hepatocyte(간세포) 주변에 있다. / Original: 그게 요 hepatocyte(간세포) 주변에 있는 이 hepatic stellate cell(간성상세포). / Evidence: hepatic stellate cell은 hepatocyte(간세포)와 sinusoid 사이의 space of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

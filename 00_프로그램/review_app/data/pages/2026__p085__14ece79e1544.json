@@ -1978,18 +1978,19 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0008"
       ],
-      "prompt": "myenteric plexus[추정]_____는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다.",
+      "prompt": "_____는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다.",
       "answer": {
         "format": "single_text",
-        "value": "(근육사이신경얼기)",
+        "value": "myenteric plexus(근육사이신경얼기)",
         "accepted_answers": [
-          "(근육사이신경얼기)",
+          "myenteric plexus(근육사이신경얼기)",
+          "myenteric plexus",
           "근육사이신경얼기"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "(근육사이신경얼기)"
+        "text": "myenteric plexus(근육사이신경얼기)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -2000,7 +2001,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: myenteric plexus[추정](근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus[추정](근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus(근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2011,7 +2012,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0008"
       ],
-      "prompt": "myenteric plexus[추정](근육사이신경얼기)는 _____층과 outer longitudinal(바깥세로)층 사이에 위치한다.",
+      "prompt": "myenteric plexus(근육사이신경얼기)는 _____층과 outer longitudinal(바깥세로)층 사이에 위치한다.",
       "answer": {
         "format": "single_text",
         "value": "inner circular(안쪽환상)",
@@ -2034,7 +2035,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: myenteric plexus[추정](근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus[추정](근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus(근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2045,7 +2046,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0008"
       ],
-      "prompt": "myenteric plexus[추정](근육사이신경얼기)는 inner circular(안쪽환상)층과 _____층 사이에 위치한다.",
+      "prompt": "myenteric plexus(근육사이신경얼기)는 inner circular(안쪽환상)층과 _____층 사이에 위치한다.",
       "answer": {
         "format": "single_text",
         "value": "outer longitudinal(바깥세로)",
@@ -2068,7 +2069,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: myenteric plexus[추정](근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus[추정](근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 inner circular(안쪽환상)층과 outer longitudinal(바깥세로)층 사이에 위치한다. / Original: inner circular(안쪽환상), outer longitudinal(바깥세로) 이 사이에 myenteric plexus(근육사이신경얼기)는 그대로 가지고 있습니다. / Evidence: 근육사이신경얼기는 근육층의 내층과 외층 사이에 있다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

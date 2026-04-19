@@ -585,7 +585,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0003"
       ],
-      "prompt": "[추정] _____ 부위가 있다.",
+      "prompt": "소장의 한 구간은 _____.",
       "answer": {
         "format": "single_text",
         "value": "jejunum(공장)",
@@ -608,7 +608,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] jejunum(공장) 부위가 있다. / Original: 그다음에 여기에 쭉 내려와서 [추정] jejunum(공장) 부위, / Evidence: jejunum(공장)은 소장의 한 구간으로 실제로 존재하는 해부학 용어이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 소장의 한 구간은 jejunum(공장). / Original: 그다음에 여기에 쭉 내려와서 jejunum(공장) 부위, / Evidence: jejunum(공장)은 소장의 한 구간으로 실제로 존재하는 해부학 용어이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -6027,18 +6027,19 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0002"
       ],
-      "prompt": "muscularis mucosae[추정]_____는 아주 얇다.",
+      "prompt": "_____는 아주 얇다.",
       "answer": {
         "format": "single_text",
-        "value": "(점막근층)",
+        "value": "muscularis mucosae(점막근층)",
         "accepted_answers": [
-          "(점막근층)",
+          "muscularis mucosae(점막근층)",
+          "muscularis mucosae",
           "점막근층"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "(점막근층)"
+        "text": "muscularis mucosae(점막근층)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -6049,7 +6050,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: muscularis mucosae[추정](점막근층)는 아주 얇다. / Original: muscularis mucosae[추정](점막근층)를 씁니다. 이거는 아주 얇은 그런 inner circular(안쪽환상), outer longitudinal(바깥세로)의 형태로 되어 있습니다. / Evidence: 점막근층은 일반적으로 얇은 평활근층이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: muscularis mucosae(점막근층)는 아주 얇다. / Original: muscularis mucosae(점막근층)를 씁니다. 이거는 아주 얇은 그런 inner circular(안쪽환상), outer longitudinal(바깥세로)의 형태로 되어 있습니다. / Evidence: 점막근층은 일반적으로 얇은 평활근층이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

@@ -379,7 +379,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0002"
       ],
-      "prompt": "_____ [추정]은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다.",
+      "prompt": "_____ 은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다.",
       "answer": {
         "format": "single_text",
         "value": "serratus anterior muscle(앞톱니근)",
@@ -402,7 +402,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: serratus anterior muscle(앞톱니근) [추정]은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다. / Original: 이 위쪽에 있는데는 serratus anterior muscle(앞톱니근) [추정]하고 마치 깍지이듯이 요렇게 맞물려 있는 배열 / Evidence: 외복사근과 serratus anterior muscle(앞톱니근)의 섬유는 늑골 부위에서 서로 교차하듯 배열된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: serratus anterior muscle(앞톱니근) 은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다. / Original: 이 위쪽에 있는데는 serratus anterior muscle(앞톱니근) 하고 마치 깍지이듯이 요렇게 맞물려 있는 배열 / Evidence: 외복사근과 serratus anterior muscle(앞톱니근)의 섬유는 늑골 부위에서 서로 교차하듯 배열된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -413,7 +413,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0002"
       ],
-      "prompt": "serratus anterior muscle(앞톱니근) [추정]은 _____과 맞물리듯 배열된다.",
+      "prompt": "serratus anterior muscle(앞톱니근) 은 _____과 맞물리듯 배열된다.",
       "answer": {
         "format": "single_text",
         "value": "external abdominal oblique muscle(바깥배빗근)",
@@ -436,7 +436,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: serratus anterior muscle(앞톱니근) [추정]은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다. / Original: 이 위쪽에 있는데는 serratus anterior muscle(앞톱니근) [추정]하고 마치 깍지이듯이 요렇게 맞물려 있는 배열 / Evidence: 외복사근과 serratus anterior muscle(앞톱니근)의 섬유는 늑골 부위에서 서로 교차하듯 배열된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: serratus anterior muscle(앞톱니근) 은 external abdominal oblique muscle(바깥배빗근)과 맞물리듯 배열된다. / Original: 이 위쪽에 있는데는 serratus anterior muscle(앞톱니근) 하고 마치 깍지이듯이 요렇게 맞물려 있는 배열 / Evidence: 외복사근과 serratus anterior muscle(앞톱니근)의 섬유는 늑골 부위에서 서로 교차하듯 배열된다. / Page match: approximate keyword match against existing page text."
       }
     }
   ],

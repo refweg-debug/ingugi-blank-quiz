@@ -1008,19 +1008,21 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0019"
       ],
-      "prompt": "T5에서 T9 쪽으로 오는 _____[추정]가 식도 교감신경과 관련된다.",
+      "prompt": "T5-T9에서 오는 _____가 식도 교감신경과 관련된다.",
       "answer": {
         "format": "single_text",
-        "value": "splanchnic nerve(내장신경)",
+        "value": "greater splanchnic nerve(큰내장신경)",
         "accepted_answers": [
-          "splanchnic nerve(내장신경)",
+          "greater splanchnic nerve(큰내장신경)",
+          "greater splanchnic nerve",
+          "큰내장신경",
           "splanchnic nerve",
           "내장신경"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "splanchnic nerve(내장신경)"
+        "text": "greater splanchnic nerve(큰내장신경)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1031,7 +1033,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: T5에서 T9 쪽으로 오는 splanchnic nerve(내장신경)[추정]가 식도 교감신경과 관련된다. / Original: sympathetic nervous system(교감신경계) 같은 경우에는 여기에 교감과 관련되는 T5에서 T9 쪽으로 오는 splanchnic nerve(내장신경)[추정]이 stellate ganglion(별신경절)[추정]에 있는 데 가서 / Evidence: 흉부 splanchnic nerve(내장신경)은 흉부 및 상복부 장기에 교감성 섬유를 보낸다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: T5-T9에서 오는 greater splanchnic nerve(큰내장신경)가 식도 교감신경과 관련된다. / Original: sympathetic nervous system(교감신경계) 같은 경우에는 여기에 교감과 관련되는 T5에서 T9 쪽으로 오는 splanchnic nerve(내장신경)이 stellate ganglion(별신경절)에 있는 데 가서 / Evidence: 흉부 splanchnic nerve(내장신경)은 흉부 및 상복부 장기에 교감성 섬유를 보낸다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

@@ -1208,7 +1208,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0012"
       ],
-      "prompt": "_____과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)[추정]을 이룬다.",
+      "prompt": "_____과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)을 이룬다.",
       "answer": {
         "format": "single_text",
         "value": "splenic vein(지라정맥)",
@@ -1231,7 +1231,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)[추정]을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)[추정]이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1242,7 +1242,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0012"
       ],
-      "prompt": "splenic vein(지라정맥)과 _____이 합쳐져 hepatic portal vein(간문맥)[추정]을 이룬다.",
+      "prompt": "splenic vein(지라정맥)과 _____이 합쳐져 hepatic portal vein(간문맥)을 이룬다.",
       "answer": {
         "format": "single_text",
         "value": "superior mesenteric vein(위창자간막정맥)",
@@ -1265,7 +1265,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)[추정]을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)[추정]이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1276,7 +1276,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0012"
       ],
-      "prompt": "splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 _____[추정]을 이룬다.",
+      "prompt": "splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 _____을 이룬다.",
       "answer": {
         "format": "single_text",
         "value": "hepatic portal vein(간문맥)",
@@ -1299,7 +1299,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)[추정]을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)[추정]이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져 hepatic portal vein(간문맥)을 이룬다. / Original: splenic vein(지라정맥)과 superior mesenteric vein(위창자간막정맥)이 합쳐져서 hepatic portal vein(간문맥)이 되어서 / Evidence: 비장정맥과 상장간막정맥은 hepatic portal vein(간문맥)을 형성하는 대표적 합류 정맥이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

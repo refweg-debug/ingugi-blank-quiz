@@ -1988,7 +1988,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0006"
       ],
-      "prompt": "_____는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정]",
+      "prompt": "_____는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다.",
       "answer": {
         "format": "single_text",
         "value": "pudendal nerve(음부신경)",
@@ -2011,7 +2011,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정] / Original: 사면[추정]에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍[추정]을 통해가지고 사수[불명]로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다. / Original: 사면에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍을 통해가지고 사수로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2022,7 +2022,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0006"
       ],
-      "prompt": "pudendal nerve(음부신경)는 _____을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정]",
+      "prompt": "pudendal nerve(음부신경)는 _____을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다.",
       "answer": {
         "format": "single_text",
         "value": "greater sciatic foramen(큰궁둥구멍)",
@@ -2045,7 +2045,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정] / Original: 사면[추정]에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍[추정]을 통해가지고 사수[불명]로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다. / Original: 사면에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍을 통해가지고 사수로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2056,7 +2056,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0006"
       ],
-      "prompt": "pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 _____ 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정]",
+      "prompt": "pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 _____ 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다.",
       "answer": {
         "format": "single_text",
         "value": "piriformis(이상근)",
@@ -2079,7 +2079,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 다시 lesser sciatic foramen을 통해 회음부로 들어간다. [추정] / Original: 사면[추정]에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍[추정]을 통해가지고 사수[불명]로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 greater sciatic foramen(큰궁둥구멍)을 통해 골반을 나온 뒤 piriformis(이상근) 아래를 지나 lesser sciatic foramen(작은궁둥구멍)을 통해 회음부로 들어간다. / Original: 사면에 있기 때문에 얘 같은 경우엔 어떻게 됩니까. greater sciatic foramen(큰궁둥구멍)을 통해가지고 piriformis(이상근) 아래쪽으로 해서, 골반 쪽으로 갔다가 piriformis(이상근) 아랫구멍을 통해가지고 사수로 해가지고 주행하는 그러한 것이 pudendal nerve(음부신경) 부분입니다. / Evidence: pudendal nerve(음부신경)은 greater sciatic foramen(큰궁둥구멍)으로 나가고 sacrospinous ligament 주변을 지나 lesser sciatic foramen으로 들어간다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

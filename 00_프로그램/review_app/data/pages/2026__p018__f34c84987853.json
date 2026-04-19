@@ -1519,19 +1519,19 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1200_P0006"
       ],
-      "prompt": "[추정] _____ 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다.",
+      "prompt": "_____ 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다.",
       "answer": {
         "format": "single_text",
-        "value": "RK2 line(선)",
+        "value": "arcuate line(활꼴선)",
         "accepted_answers": [
-          "RK2 line(선)",
-          "RK2 line",
-          "선"
+          "arcuate line(활꼴선)",
+          "arcuate line",
+          "활꼴선"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "RK2 line(선)"
+        "text": "arcuate line(활꼴선)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1542,7 +1542,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] RK2 line(선) 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다. / Original: 그 아래쪽에는 이 3개의 anterior aponeurosis(앞널힘줄)가 모두 앞쪽으로 배열이 되어 있고, / Evidence: arcuate line 아래에서는 배곧은근집의 뒤층이 없어지고 널힘줄이 모두 앞쪽으로 모인다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: arcuate line(활꼴선) 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다. / Original: 그 아래쪽에는 이 3개의 anterior aponeurosis(앞널힘줄)가 모두 앞쪽으로 배열이 되어 있고, / Evidence: arcuate line 아래에서는 배곧은근집의 뒤층이 없어지고 널힘줄이 모두 앞쪽으로 모인다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1553,7 +1553,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1200_P0006"
       ],
-      "prompt": "[추정] RK2 line(선) 아래쪽에서는 3개의 aponeurosis가 모두 _____ 앞쪽을 지난다.",
+      "prompt": "arcuate line(활꼴선) 아래쪽에서는 3개의 aponeurosis가 모두 _____ 앞쪽을 지난다.",
       "answer": {
         "format": "single_text",
         "value": "rectus abdominis muscle(배곧은근)",
@@ -1576,7 +1576,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] RK2 line(선) 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다. / Original: 그 아래쪽에는 이 3개의 anterior aponeurosis(앞널힘줄)가 모두 앞쪽으로 배열이 되어 있고, / Evidence: arcuate line 아래에서는 배곧은근집의 뒤층이 없어지고 널힘줄이 모두 앞쪽으로 모인다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: arcuate line(활꼴선) 아래쪽에서는 3개의 aponeurosis가 모두 rectus abdominis muscle(배곧은근) 앞쪽을 지난다. / Original: 그 아래쪽에는 이 3개의 anterior aponeurosis(앞널힘줄)가 모두 앞쪽으로 배열이 되어 있고, / Evidence: arcuate line 아래에서는 배곧은근집의 뒤층이 없어지고 널힘줄이 모두 앞쪽으로 모인다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1587,19 +1587,19 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1200_P0007"
       ],
-      "prompt": "[추정] _____ 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다.",
+      "prompt": "_____ 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다.",
       "answer": {
         "format": "single_text",
-        "value": "RK2 line(선)",
+        "value": "arcuate line(활꼴선)",
         "accepted_answers": [
-          "RK2 line(선)",
-          "RK2 line",
-          "선"
+          "arcuate line(활꼴선)",
+          "arcuate line",
+          "활꼴선"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "RK2 line(선)"
+        "text": "arcuate line(활꼴선)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1610,7 +1610,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] RK2 line(선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: arcuate line(활꼴선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1621,7 +1621,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1200_P0007"
       ],
-      "prompt": "[추정] RK2 line(선) 아래쪽에서는 _____ 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다.",
+      "prompt": "arcuate line(활꼴선) 아래쪽에서는 _____ 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다.",
       "answer": {
         "format": "single_text",
         "value": "rectus abdominis muscle(배곧은근)",
@@ -1644,7 +1644,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] RK2 line(선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: arcuate line(활꼴선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1655,7 +1655,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1200_P0007"
       ],
-      "prompt": "[추정] RK2 line(선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 _____가 바로 놓인다.",
+      "prompt": "arcuate line(활꼴선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 _____가 바로 놓인다.",
       "answer": {
         "format": "single_text",
         "value": "transversalis fascia(가로근막)",
@@ -1678,7 +1678,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] RK2 line(선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: arcuate line(활꼴선) 아래쪽에서는 rectus abdominis muscle(배곧은근) 뒤쪽에 transversalis fascia(가로근막)가 바로 놓인다. / Original: 뒤에 근육의 그 쪽에는 바로 transversalis fascia(가로근막)가 면해지는 / Evidence: arcuate line 아래에서는 배곧은근 뒤쪽에 transversalis fascia(가로근막)가 직접 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

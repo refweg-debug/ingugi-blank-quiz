@@ -18,19 +18,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0021"
       ],
-      "prompt": "[추정] _____은 vitamin A(비타민 A)를 저장한다.",
+      "prompt": "_____은 vitamin A(비타민 A)를 저장한다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -41,7 +47,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 vitamin A(비타민 A)를 저장한다. / Original: 이거는 주로 저장하는 역할, vitamin A(비타민 A)를 저장을 해가지고. / Evidence: Ito cell은 비타민 A 저장 세포로 알려져 있다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 vitamin A(비타민 A)를 저장한다. / Original: 이거는 주로 저장하는 역할, vitamin A(비타민 A)를 저장을 해가지고. / Evidence: Ito cell은 비타민 A 저장 세포로 알려져 있다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -52,7 +58,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0021"
       ],
-      "prompt": "[추정] fat-storing cell(지방저장세포)은 _____를 저장한다.",
+      "prompt": "hepatic stellate cell(간성상세포)은 _____를 저장한다.",
       "answer": {
         "format": "single_text",
         "value": "vitamin A(비타민 A)",
@@ -75,7 +81,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 vitamin A(비타민 A)를 저장한다. / Original: 이거는 주로 저장하는 역할, vitamin A(비타민 A)를 저장을 해가지고. / Evidence: Ito cell은 비타민 A 저장 세포로 알려져 있다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 vitamin A(비타민 A)를 저장한다. / Original: 이거는 주로 저장하는 역할, vitamin A(비타민 A)를 저장을 해가지고. / Evidence: Ito cell은 비타민 A 저장 세포로 알려져 있다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -86,19 +92,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0022"
       ],
-      "prompt": "[추정] _____은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다.",
+      "prompt": "_____은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -109,7 +121,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다. / Original: 얘네들은 염증 같은 것들의 자극을 받게 되면 이 세포들이 뭐를 분화하게 되냐면 myofibroblast(근섬유모세포)로. / Evidence: hepatic stellate cell은 활성화되면 myofibroblast(근섬유모세포)-like cell로 변한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다. / Original: 얘네들은 염증 같은 것들의 자극을 받게 되면 이 세포들이 뭐를 분화하게 되냐면 myofibroblast(근섬유모세포)로. / Evidence: hepatic stellate cell은 활성화되면 myofibroblast(근섬유모세포)-like cell로 변한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -120,7 +132,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0022"
       ],
-      "prompt": "[추정] fat-storing cell(지방저장세포)은 염증 자극을 받으면 _____로 분화한다.",
+      "prompt": "hepatic stellate cell(간성상세포)은 염증 자극을 받으면 _____로 분화한다.",
       "answer": {
         "format": "single_text",
         "value": "myofibroblast(근섬유모세포)",
@@ -143,7 +155,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다. / Original: 얘네들은 염증 같은 것들의 자극을 받게 되면 이 세포들이 뭐를 분화하게 되냐면 myofibroblast(근섬유모세포)로. / Evidence: hepatic stellate cell은 활성화되면 myofibroblast(근섬유모세포)-like cell로 변한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 염증 자극을 받으면 myofibroblast(근섬유모세포)로 분화한다. / Original: 얘네들은 염증 같은 것들의 자극을 받게 되면 이 세포들이 뭐를 분화하게 되냐면 myofibroblast(근섬유모세포)로. / Evidence: hepatic stellate cell은 활성화되면 myofibroblast(근섬유모세포)-like cell로 변한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -154,19 +166,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0023"
       ],
-      "prompt": "활성화된 [추정] _____은 collagen(콜라겐)을 만든다.",
+      "prompt": "활성화된 _____은 collagen(콜라겐)을 만든다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -177,7 +195,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 활성화된 [추정] fat-storing cell(지방저장세포)은 collagen(콜라겐)을 만든다. / Original: 이것들이 막 collagen(콜라겐)도 만들고 / Evidence: 활성화된 stellate cell은 collagen(콜라겐)을 생성한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 활성화된 hepatic stellate cell(간성상세포)은 collagen(콜라겐)을 만든다. / Original: 이것들이 막 collagen(콜라겐)도 만들고 / Evidence: 활성화된 stellate cell은 collagen(콜라겐)을 생성한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -188,7 +206,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0023"
       ],
-      "prompt": "활성화된 [추정] fat-storing cell(지방저장세포)은 _____을 만든다.",
+      "prompt": "활성화된 hepatic stellate cell(간성상세포)은 _____을 만든다.",
       "answer": {
         "format": "single_text",
         "value": "collagen(콜라겐)",
@@ -211,7 +229,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 활성화된 [추정] fat-storing cell(지방저장세포)은 collagen(콜라겐)을 만든다. / Original: 이것들이 막 collagen(콜라겐)도 만들고 / Evidence: 활성화된 stellate cell은 collagen(콜라겐)을 생성한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 활성화된 hepatic stellate cell(간성상세포)은 collagen(콜라겐)을 만든다. / Original: 이것들이 막 collagen(콜라겐)도 만들고 / Evidence: 활성화된 stellate cell은 collagen(콜라겐)을 생성한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -222,19 +240,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0024"
       ],
-      "prompt": "활성화된 [추정] _____은 fibrosis(섬유화)를 일으킨다.",
+      "prompt": "활성화된 _____은 fibrosis(섬유화)를 일으킨다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -245,7 +269,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 활성화된 [추정] fat-storing cell(지방저장세포)은 fibrosis(섬유화)를 일으킨다. / Original: fibrosis(섬유화)를 일으키기 때문에 / Evidence: stellate cell 활성화는 간 fibrosis(섬유화)의 핵심 기전이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 활성화된 hepatic stellate cell(간성상세포)은 fibrosis(섬유화)를 일으킨다. / Original: fibrosis(섬유화)를 일으키기 때문에 / Evidence: stellate cell 활성화는 간 fibrosis(섬유화)의 핵심 기전이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -256,7 +280,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0024"
       ],
-      "prompt": "활성화된 [추정] fat-storing cell(지방저장세포)은 _____를 일으킨다.",
+      "prompt": "활성화된 hepatic stellate cell(간성상세포)은 _____를 일으킨다.",
       "answer": {
         "format": "single_text",
         "value": "fibrosis(섬유화)",
@@ -279,7 +303,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 활성화된 [추정] fat-storing cell(지방저장세포)은 fibrosis(섬유화)를 일으킨다. / Original: fibrosis(섬유화)를 일으키기 때문에 / Evidence: stellate cell 활성화는 간 fibrosis(섬유화)의 핵심 기전이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 활성화된 hepatic stellate cell(간성상세포)은 fibrosis(섬유화)를 일으킨다. / Original: fibrosis(섬유화)를 일으키기 때문에 / Evidence: stellate cell 활성화는 간 fibrosis(섬유화)의 핵심 기전이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

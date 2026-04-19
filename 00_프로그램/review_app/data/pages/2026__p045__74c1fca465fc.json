@@ -1568,7 +1568,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0002"
       ],
-      "prompt": "_____와 tubulovesicles(소관소포)와 관련된 이런 형태를 보이는 세포는 parietal cell(벽세포)이다.",
+      "prompt": "parietal cell(벽세포)의 특징 구조에는 _____와 tubulovesicles(소관소포)가 있다.",
       "answer": {
         "format": "single_text",
         "value": "intracellular canaliculi(세포내세관)",
@@ -1591,7 +1591,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)와 관련된 이런 형태를 보이는 세포는 parietal cell(벽세포)이다. / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: parietal cell(벽세포)의 특징 구조에는 intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)가 있다. / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1602,7 +1602,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0002"
       ],
-      "prompt": "intracellular canaliculi(세포내세관)와 _____와 관련된 이런 형태를 보이는 세포는 parietal cell(벽세포)이다.",
+      "prompt": "parietal cell(벽세포)의 특징 구조에는 intracellular canaliculi(세포내세관)와 _____가 있다.",
       "answer": {
         "format": "single_text",
         "value": "tubulovesicles(소관소포)",
@@ -1625,7 +1625,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)와 관련된 이런 형태를 보이는 세포는 parietal cell(벽세포)이다. / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: parietal cell(벽세포)의 특징 구조에는 intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)가 있다. / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1636,7 +1636,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0002"
       ],
-      "prompt": "intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)와 관련된 이런 형태를 보이는 세포는 _____이다.",
+      "prompt": "intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)가 특징적인 세포는 _____.",
       "answer": {
         "format": "single_text",
         "value": "parietal cell(벽세포)",
@@ -1659,7 +1659,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)와 관련된 이런 형태를 보이는 세포는 parietal cell(벽세포)이다. / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: intracellular canaliculi(세포내세관)와 tubulovesicles(소관소포)가 특징적인 세포는 parietal cell(벽세포). / Original: 이런 모양을 가진 애가 parietal cell(벽세포)입니다. / Evidence: 해당 소기관 배열과 미세융모 발달은 parietal cell(벽세포)의 전형적 특징이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

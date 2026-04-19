@@ -1194,7 +1194,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0002"
       ],
-      "prompt": "식도 위쪽의 혈액은 _____[추정]을 통해 배출된다.",
+      "prompt": "식도 위쪽의 혈액은 _____을 통해 배출된다.",
       "answer": {
         "format": "single_text",
         "value": "esophageal vein(식도정맥)",
@@ -1217,7 +1217,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 식도 위쪽의 혈액은 esophageal vein(식도정맥)[추정]을 통해 배출된다. / Original: 이 위쪽에 있던 데는 esophageal vein(식도정맥)[추정]을 통해서 배출이 됩니다. / Evidence: 식도 상부는 esophageal vein(식도정맥)을 통해 주로 전신정맥계로 배액된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 식도 위쪽의 혈액은 esophageal vein(식도정맥)을 통해 배출된다. / Original: 이 위쪽에 있던 데는 esophageal vein(식도정맥)을 통해서 배출이 됩니다. / Evidence: 식도 상부는 esophageal vein(식도정맥)을 통해 주로 전신정맥계로 배액된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1228,7 +1228,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0022"
       ],
-      "prompt": "식도는 _____[추정]을 통해 T10 수준에서 복강으로 들어간다.",
+      "prompt": "식도는 _____을 통해 T10 수준에서 복강으로 들어간다.",
       "answer": {
         "format": "single_text",
         "value": "esophageal hiatus(식도열공)",
@@ -1251,7 +1251,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 식도는 esophageal hiatus(식도열공)[추정]을 통해 T10 수준에서 복강으로 들어간다. / Original: 식도하고 함께 esophageal hiatus(식도열공)[추정]을 통해 T10 레벨에서 통과해가지고 배 안으로 들어옵니다. / Evidence: 식도는 횡격막의 esophageal hiatus(식도열공)을 지나는데 일반적으로 T10 수준으로 설명된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 식도는 esophageal hiatus(식도열공)을 통해 T10 수준에서 복강으로 들어간다. / Original: 식도하고 함께 esophageal hiatus(식도열공)을 통해 T10 레벨에서 통과해가지고 배 안으로 들어옵니다. / Evidence: 식도는 횡격막의 esophageal hiatus(식도열공)을 지나는데 일반적으로 T10 수준으로 설명된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

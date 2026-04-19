@@ -121,7 +121,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0025"
       ],
-      "prompt": "[추정] _____ 상피에는 M cell(M세포)이 있다.",
+      "prompt": "_____ 상피에는 M cell(M세포)이 있다.",
       "answer": {
         "format": "single_text",
         "value": "Peyer's patch(페이어판)",
@@ -145,7 +145,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] Peyer's patch(페이어판) 상피에는 M cell(M세포)이 있다. / Original: Peyer's patch(페이어판)에는 바로 위에 뭐가 있냐면 [추정] M cell(M세포) 있습니다. / Evidence: Peyer 패치 위의 follicle-associated epithelium에는 M cell이 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: Peyer's patch(페이어판) 상피에는 M cell(M세포)이 있다. / Original: Peyer's patch(페이어판)에는 바로 위에 뭐가 있냐면 M cell(M세포) 있습니다. / Evidence: Peyer 패치 위의 follicle-associated epithelium에는 M cell이 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -156,7 +156,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0025"
       ],
-      "prompt": "[추정] Peyer's patch(페이어판) 상피에는 _____이 있다.",
+      "prompt": "Peyer's patch(페이어판) 상피에는 _____이 있다.",
       "answer": {
         "format": "single_text",
         "value": "M cell(M세포)",
@@ -179,7 +179,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] Peyer's patch(페이어판) 상피에는 M cell(M세포)이 있다. / Original: Peyer's patch(페이어판)에는 바로 위에 뭐가 있냐면 [추정] M cell(M세포) 있습니다. / Evidence: Peyer 패치 위의 follicle-associated epithelium에는 M cell이 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: Peyer's patch(페이어판) 상피에는 M cell(M세포)이 있다. / Original: Peyer's patch(페이어판)에는 바로 위에 뭐가 있냐면 M cell(M세포) 있습니다. / Evidence: Peyer 패치 위의 follicle-associated epithelium에는 M cell이 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -190,7 +190,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0026"
       ],
-      "prompt": "[추정] _____은 antigen(항원)을 운반한다.",
+      "prompt": "_____은 antigen(항원)을 운반한다.",
       "answer": {
         "format": "single_text",
         "value": "M cell(M세포)",
@@ -213,7 +213,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] M cell(M세포)은 antigen(항원)을 운반한다. / Original: 여기에는 뭐라고 있는 [추정] antigen transport(항원 운반) 보통 [추정] M cell(M세포)이라는 것은 이 Peyer's patch(페이어판)를 바로 위에 위치하고 외부 antigen(항원)을 포착해 가지고 immune system(면역계)에 보고하는 그러한, / Evidence: M cell은 장내 antigen(항원)을 Peyer 패치의 면역세포로 전달한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: M cell(M세포)은 antigen(항원)을 운반한다. / Original: 여기에는 뭐라고 있는 antigen transport(항원 운반) 보통 M cell(M세포)이라는 것은 이 Peyer's patch(페이어판)를 바로 위에 위치하고 외부 antigen(항원)을 포착해 가지고 immune system(면역계)에 보고하는 그러한, / Evidence: M cell은 장내 antigen(항원)을 Peyer 패치의 면역세포로 전달한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -224,7 +224,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0026"
       ],
-      "prompt": "[추정] M cell(M세포)은 _____을 운반한다.",
+      "prompt": "M cell(M세포)은 _____을 운반한다.",
       "answer": {
         "format": "single_text",
         "value": "antigen(항원)",
@@ -247,7 +247,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] M cell(M세포)은 antigen(항원)을 운반한다. / Original: 여기에는 뭐라고 있는 [추정] antigen transport(항원 운반) 보통 [추정] M cell(M세포)이라는 것은 이 Peyer's patch(페이어판)를 바로 위에 위치하고 외부 antigen(항원)을 포착해 가지고 immune system(면역계)에 보고하는 그러한, / Evidence: M cell은 장내 antigen(항원)을 Peyer 패치의 면역세포로 전달한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: M cell(M세포)은 antigen(항원)을 운반한다. / Original: 여기에는 뭐라고 있는 antigen transport(항원 운반) 보통 M cell(M세포)이라는 것은 이 Peyer's patch(페이어판)를 바로 위에 위치하고 외부 antigen(항원)을 포착해 가지고 immune system(면역계)에 보고하는 그러한, / Evidence: M cell은 장내 antigen(항원)을 Peyer 패치의 면역세포로 전달한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -258,7 +258,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0027"
       ],
-      "prompt": "[추정] _____는 외부 항원을 감시하는 역할을 한다.",
+      "prompt": "_____는 외부 항원을 감시하는 역할을 한다.",
       "answer": {
         "format": "single_text",
         "value": "Peyer's patch(페이어판)",
@@ -282,7 +282,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] Peyer's patch(페이어판)는 외부 항원을 감시하는 역할을 한다. / Original: 이게 감시하는 그런 역할을 하는 것이 [추정] lymphoid(림프계의)입니다. / Evidence: Peyer 패치는 장관 면역 감시에 관여한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: Peyer's patch(페이어판)는 외부 항원을 감시하는 역할을 한다. / Original: 이게 감시하는 그런 역할을 하는 것이 lymphoid(림프계의)입니다. / Evidence: Peyer 패치는 장관 면역 감시에 관여한다. / Page match: approximate keyword match against existing page text."
       }
     }
   ],

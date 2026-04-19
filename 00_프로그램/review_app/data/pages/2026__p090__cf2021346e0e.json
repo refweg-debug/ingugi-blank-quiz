@@ -153,7 +153,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0004"
       ],
-      "prompt": "_____ 부위가 있다.",
+      "prompt": "소장의 한 구간은 _____.",
       "answer": {
         "format": "single_text",
         "value": "ileum(회장)",
@@ -176,7 +176,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: ileum(회장) 부위가 있다. / Original: 그리고 여기에 쭉 가는 ileum(회장) 부위. / Evidence: ileum(회장)은 소장의 마지막 구간으로 존재하는 해부학 용어이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 소장의 한 구간은 ileum(회장). / Original: 그리고 여기에 쭉 가는 ileum(회장) 부위. / Evidence: ileum(회장)은 소장의 마지막 구간으로 존재하는 해부학 용어이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

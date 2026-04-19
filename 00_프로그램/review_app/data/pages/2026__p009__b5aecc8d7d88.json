@@ -3222,7 +3222,7 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1400_P0010"
       ],
-      "prompt": "[추정] _____은 iliac crest(엉덩뼈능선)에서 기시한다.",
+      "prompt": "_____은 iliac crest(엉덩뼈능선)에서 기시한다.",
       "answer": {
         "format": "single_text",
         "value": "quadratus lumborum(허리네모근)",
@@ -3245,7 +3245,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] quadratus lumborum(허리네모근)은 iliac crest(엉덩뼈능선)에서 기시한다. / Original: origin(기시) 자체는 [추정] iliac crest(엉덩뼈능선)가 있는데 / Evidence: quadratus lumborum의 기시부에는 iliac crest(엉덩뼈능선)가 포함된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 iliac crest(엉덩뼈능선)에서 기시한다. / Original: origin(기시) 자체는 iliac crest(엉덩뼈능선)가 있는데 / Evidence: quadratus lumborum의 기시부에는 iliac crest(엉덩뼈능선)가 포함된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -3256,7 +3256,7 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1400_P0010"
       ],
-      "prompt": "[추정] quadratus lumborum(허리네모근)은 _____에서 기시한다.",
+      "prompt": "quadratus lumborum(허리네모근)은 _____에서 기시한다.",
       "answer": {
         "format": "single_text",
         "value": "iliac crest(엉덩뼈능선)",
@@ -3279,7 +3279,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] quadratus lumborum(허리네모근)은 iliac crest(엉덩뼈능선)에서 기시한다. / Original: origin(기시) 자체는 [추정] iliac crest(엉덩뼈능선)가 있는데 / Evidence: quadratus lumborum의 기시부에는 iliac crest(엉덩뼈능선)가 포함된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 iliac crest(엉덩뼈능선)에서 기시한다. / Original: origin(기시) 자체는 iliac crest(엉덩뼈능선)가 있는데 / Evidence: quadratus lumborum의 기시부에는 iliac crest(엉덩뼈능선)가 포함된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

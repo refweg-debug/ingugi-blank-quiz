@@ -933,7 +933,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0007"
       ],
-      "prompt": "_____와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다.",
+      "prompt": "_____와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다.",
       "answer": {
         "format": "single_text",
         "value": "hepatocyte(간세포)",
@@ -956,7 +956,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal [추정] space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -967,7 +967,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0007"
       ],
-      "prompt": "hepatocyte(간세포)와 _____의 endothelium(내피) 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다.",
+      "prompt": "hepatocyte(간세포)와 _____의 endothelium(내피) 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다.",
       "answer": {
         "format": "single_text",
         "value": "liver sinusoid(간굴모세혈관)",
@@ -990,7 +990,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal [추정] space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1001,7 +1001,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0007"
       ],
-      "prompt": "hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 _____ 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다.",
+      "prompt": "hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 _____ 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다.",
       "answer": {
         "format": "single_text",
         "value": "endothelium(내피)",
@@ -1024,7 +1024,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal [추정] space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal [추정] space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatocyte(간세포)와 liver sinusoid(간굴모세혈관)의 endothelium(내피) 사이에는 perisinusoidal space(굴모세혈관주위공간)가 있다. / Original: 이게 지금 hepatocyte(간세포) 하나의 세포이고 이 liver sinusoid(간굴모세혈관)의 endothelium(내피), 그래서 이 hepatocyte(간세포)와 endothelium(내피) sinusoid(굴모세혈관) 사이에 이걸 perisinusoidal space(굴모세혈관주위공간)이라고 / Evidence: 간의 sinusoid(굴모세혈관)와 hepatocyte(간세포) 사이에는 space(굴모세혈관주위공간) of Disse가 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1239,19 +1239,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0019"
       ],
-      "prompt": "[추정] _____은 Ito cell(이토세포)이라고도 한다.",
+      "prompt": "_____은 Ito cell(이토세포)이라고도 한다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1262,7 +1268,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 Ito cell(이토세포)이라고도 한다. / Original: 또한 이 perisinusoidal space(굴모세혈관주위공간)에 있는 중요한 세포 중에서 뭐가 있냐면은 [추정] fat-storing cell(지방저장세포) 하는 셀, 이거를 부가적으로 다른 이름으로 Ito cell(이토세포)이라고 하고 / Evidence: fat-storing cell(지방저장세포)과 Ito cell(이토세포)은 같은 hepatic stellate cell을 가리킨다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 Ito cell(이토세포)이라고도 한다. / Original: 또한 이 perisinusoidal space(굴모세혈관주위공간)에 있는 중요한 세포 중에서 뭐가 있냐면은 hepatic stellate cell(간성상세포) 하는 셀, 이거를 부가적으로 다른 이름으로 Ito cell(이토세포)이라고 하고 / Evidence: hepatic stellate cell(간성상세포)과 Ito cell(이토세포)은 같은 hepatic stellate cell을 가리킨다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1273,7 +1279,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0019"
       ],
-      "prompt": "[추정] fat-storing cell(지방저장세포)은 _____이라고도 한다.",
+      "prompt": "hepatic stellate cell(간성상세포)은 _____이라고도 한다.",
       "answer": {
         "format": "single_text",
         "value": "Ito cell(이토세포)",
@@ -1296,7 +1302,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 Ito cell(이토세포)이라고도 한다. / Original: 또한 이 perisinusoidal space(굴모세혈관주위공간)에 있는 중요한 세포 중에서 뭐가 있냐면은 [추정] fat-storing cell(지방저장세포) 하는 셀, 이거를 부가적으로 다른 이름으로 Ito cell(이토세포)이라고 하고 / Evidence: fat-storing cell(지방저장세포)과 Ito cell(이토세포)은 같은 hepatic stellate cell을 가리킨다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 Ito cell(이토세포)이라고도 한다. / Original: 또한 이 perisinusoidal space(굴모세혈관주위공간)에 있는 중요한 세포 중에서 뭐가 있냐면은 hepatic stellate cell(간성상세포) 하는 셀, 이거를 부가적으로 다른 이름으로 Ito cell(이토세포)이라고 하고 / Evidence: hepatic stellate cell(간성상세포)과 Ito cell(이토세포)은 같은 hepatic stellate cell을 가리킨다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1307,19 +1313,25 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0020"
       ],
-      "prompt": "[추정] _____은 perisinusoidal space(굴모세혈관주위공간)에 있다.",
+      "prompt": "_____은 perisinusoidal space(굴모세혈관주위공간)에 있다.",
       "answer": {
         "format": "single_text",
-        "value": "fat-storing cell(지방저장세포)",
+        "value": "hepatic stellate cell(간성상세포)",
         "accepted_answers": [
+          "hepatic stellate cell(간성상세포)",
+          "hepatic stellate cell",
+          "간성상세포",
           "fat-storing cell(지방저장세포)",
           "fat-storing cell",
-          "지방저장세포"
+          "지방저장세포",
+          "Ito cell(이토세포)",
+          "Ito cell",
+          "이토세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "fat-storing cell(지방저장세포)"
+        "text": "hepatic stellate cell(간성상세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1330,7 +1342,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 perisinusoidal space(굴모세혈관주위공간)에 있다. / Original: 그게 여기 space(공간)에 있습니다. / Evidence: hepatic stellate cell은 space(공간) of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 perisinusoidal space(굴모세혈관주위공간)에 있다. / Original: 그게 여기 space(공간)에 있습니다. / Evidence: hepatic stellate cell은 space(공간) of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1341,7 +1353,7 @@
       "proposition_refs": [
         "배_녹음파일_20260409-1200_P0020"
       ],
-      "prompt": "[추정] fat-storing cell(지방저장세포)은 _____에 있다.",
+      "prompt": "hepatic stellate cell(간성상세포)은 _____에 있다.",
       "answer": {
         "format": "single_text",
         "value": "perisinusoidal space(굴모세혈관주위공간)",
@@ -1364,7 +1376,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] fat-storing cell(지방저장세포)은 perisinusoidal space(굴모세혈관주위공간)에 있다. / Original: 그게 여기 space(공간)에 있습니다. / Evidence: hepatic stellate cell은 space(공간) of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: hepatic stellate cell(간성상세포)은 perisinusoidal space(굴모세혈관주위공간)에 있다. / Original: 그게 여기 space(공간)에 있습니다. / Evidence: hepatic stellate cell은 space(공간) of Disse에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

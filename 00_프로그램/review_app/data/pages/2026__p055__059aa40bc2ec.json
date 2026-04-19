@@ -2933,7 +2933,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0015"
       ],
-      "prompt": "_____는 thoracic trunk(가슴림프줄기)[추정]으로 모일 수 있다.",
+      "prompt": "_____는 thoracic duct(가슴림프관)으로 모일 수 있다.",
       "answer": {
         "format": "single_text",
         "value": "lymph(림프)",
@@ -2956,7 +2956,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: lymph(림프)는 thoracic trunk(가슴림프줄기)[추정]으로 모일 수 있다. / Original: thoracic trunk(가슴림프줄기)[추정]에 있는데 모여 있는 lymph node(림프절)를 통해서 / Evidence: 흉관은 여러 림프줄기에서 림프를 모아 최종적으로 정맥계로 보낸다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: lymph(림프)는 thoracic duct(가슴림프관)으로 모일 수 있다. / Original: thoracic duct(가슴림프관)에 있는데 모여 있는 lymph node(림프절)를 통해서 / Evidence: 흉관은 여러 림프줄기에서 림프를 모아 최종적으로 정맥계로 보낸다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2967,19 +2967,20 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0015"
       ],
-      "prompt": "lymph(림프)는 _____[추정]으로 모일 수 있다.",
+      "prompt": "lymph(림프)는 _____으로 모일 수 있다.",
       "answer": {
         "format": "single_text",
-        "value": "thoracic trunk(가슴림프줄기)",
+        "value": "thoracic duct(가슴림프관)",
         "accepted_answers": [
-          "thoracic trunk(가슴림프줄기)",
-          "thoracic trunk",
-          "가슴림프줄기"
+          "thoracic duct(가슴림프관)",
+          "thoracic duct",
+          "가슴림프관",
+          "흉관"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "thoracic trunk(가슴림프줄기)"
+        "text": "thoracic duct(가슴림프관)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -2990,7 +2991,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: lymph(림프)는 thoracic trunk(가슴림프줄기)[추정]으로 모일 수 있다. / Original: thoracic trunk(가슴림프줄기)[추정]에 있는데 모여 있는 lymph node(림프절)를 통해서 / Evidence: 흉관은 여러 림프줄기에서 림프를 모아 최종적으로 정맥계로 보낸다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: lymph(림프)는 thoracic duct(가슴림프관)으로 모일 수 있다. / Original: thoracic duct(가슴림프관)에 있는데 모여 있는 lymph node(림프절)를 통해서 / Evidence: 흉관은 여러 림프줄기에서 림프를 모아 최종적으로 정맥계로 보낸다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -3001,7 +3002,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0017"
       ],
-      "prompt": "식도 주위에는 _____[추정]가 있다.",
+      "prompt": "식도 주위에는 _____가 있다.",
       "answer": {
         "format": "single_text",
         "value": "esophageal plexus(식도얼기)",
@@ -3024,7 +3025,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 식도 주위에는 esophageal plexus(식도얼기)[추정]가 있다. / Original: esophageal plexus(식도얼기)[추정] / Evidence: 식도에는 미주신경과 교감신경 섬유로 이루어진 esophageal plexus(식도얼기)가 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 식도 주위에는 esophageal plexus(식도얼기)가 있다. / Original: esophageal plexus(식도얼기) / Evidence: 식도에는 미주신경과 교감신경 섬유로 이루어진 esophageal plexus(식도얼기)가 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

@@ -1625,18 +1625,19 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0015"
       ],
-      "prompt": "cecum[추정]_____은 맹장(cecum)을 가리킨다",
+      "prompt": "_____은 맹장(cecum)을 뜻한다.",
       "answer": {
         "format": "single_text",
-        "value": "(맹장)",
+        "value": "cecum(맹장)",
         "accepted_answers": [
-          "(맹장)",
+          "cecum(맹장)",
+          "cecum",
           "맹장"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "(맹장)"
+        "text": "cecum(맹장)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1647,7 +1648,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: cecum[추정](맹장)은 맹장(cecum)을 가리킨다 / Original: 옛날에는 이거를 cecum[추정](맹장)이라고 얘기를 했었습니다 / Evidence: cecum은 맹장을 뜻하는 표준 해부학 용어이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: cecum(맹장)은 맹장(cecum)을 뜻한다. / Original: 옛날에는 이거를 cecum(맹장)이라고 얘기를 했었습니다 / Evidence: cecum은 맹장을 뜻하는 표준 해부학 용어이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1658,18 +1659,17 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0015"
       ],
-      "prompt": "cecum[추정](맹장)은 맹장_____을 가리킨다",
+      "prompt": "cecum은 한국어로 _____이다.",
       "answer": {
         "format": "single_text",
-        "value": "(cecum)",
+        "value": "맹장",
         "accepted_answers": [
-          "(cecum)",
-          "cecum"
+          "맹장"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "(cecum)"
+        "text": "맹장"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1680,7 +1680,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: cecum[추정](맹장)은 맹장(cecum)을 가리킨다 / Original: 옛날에는 이거를 cecum[추정](맹장)이라고 얘기를 했었습니다 / Evidence: cecum은 맹장을 뜻하는 표준 해부학 용어이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: cecum은 한국어로 맹장이다. / Original: 옛날에는 이거를 cecum(맹장)이라고 얘기를 했었습니다 / Evidence: cecum은 맹장을 뜻하는 표준 해부학 용어이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2371,7 +2371,7 @@
       "proposition_refs": [
         "배_녹음파일_20260413-1200_P0004"
       ],
-      "prompt": "[추정] _____은 medulla(수질) 근처에 위치한다.",
+      "prompt": "_____은 medulla(수질) 근처에 위치한다.",
       "answer": {
         "format": "single_text",
         "value": "juxtamedullary nephron(곁수질네프론)",
@@ -2394,7 +2394,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] juxtamedullary nephron(곁수질네프론)은 medulla(수질) 근처에 위치한다. / Original: [추정] juxtamedullary nephron(곁수질네프론)은 옆에, 그러니까 medulla(수질) 근처에 있는 nephron(네프론)이다 / Evidence: juxtamedullary nephron(곁수질네프론)은 신장의 medulla(수질) 쪽, 특히 수질-피질 경계 부근에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: juxtamedullary nephron(곁수질네프론)은 medulla(수질) 근처에 위치한다. / Original: juxtamedullary nephron(곁수질네프론)은 옆에, 그러니까 medulla(수질) 근처에 있는 nephron(네프론)이다 / Evidence: juxtamedullary nephron(곁수질네프론)은 신장의 medulla(수질) 쪽, 특히 수질-피질 경계 부근에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2405,7 +2405,7 @@
       "proposition_refs": [
         "배_녹음파일_20260413-1200_P0004"
       ],
-      "prompt": "[추정] juxtamedullary nephron(곁수질네프론)은 _____ 근처에 위치한다.",
+      "prompt": "juxtamedullary nephron(곁수질네프론)은 _____ 근처에 위치한다.",
       "answer": {
         "format": "single_text",
         "value": "medulla(수질)",
@@ -2428,7 +2428,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] juxtamedullary nephron(곁수질네프론)은 medulla(수질) 근처에 위치한다. / Original: [추정] juxtamedullary nephron(곁수질네프론)은 옆에, 그러니까 medulla(수질) 근처에 있는 nephron(네프론)이다 / Evidence: juxtamedullary nephron(곁수질네프론)은 신장의 medulla(수질) 쪽, 특히 수질-피질 경계 부근에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: juxtamedullary nephron(곁수질네프론)은 medulla(수질) 근처에 위치한다. / Original: juxtamedullary nephron(곁수질네프론)은 옆에, 그러니까 medulla(수질) 근처에 있는 nephron(네프론)이다 / Evidence: juxtamedullary nephron(곁수질네프론)은 신장의 medulla(수질) 쪽, 특히 수질-피질 경계 부근에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

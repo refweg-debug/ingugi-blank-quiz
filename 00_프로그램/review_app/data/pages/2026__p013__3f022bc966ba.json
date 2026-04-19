@@ -630,7 +630,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0007"
       ],
-      "prompt": "[추정] _____과 internal oblique muscle(속빗근)은 근육층에 포함된다.",
+      "prompt": "_____과 internal oblique muscle(속빗근)은 근육층에 포함된다.",
       "answer": {
         "format": "single_text",
         "value": "external oblique muscle(바깥빗근)",
@@ -653,7 +653,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -664,7 +664,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0007"
       ],
-      "prompt": "[추정] external oblique muscle(바깥빗근)과 _____은 근육층에 포함된다.",
+      "prompt": "external oblique muscle(바깥빗근)과 _____은 근육층에 포함된다.",
       "answer": {
         "format": "single_text",
         "value": "internal oblique muscle(속빗근)",
@@ -687,7 +687,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

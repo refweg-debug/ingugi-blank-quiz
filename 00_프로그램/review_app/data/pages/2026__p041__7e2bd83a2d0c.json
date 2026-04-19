@@ -120,19 +120,19 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0001"
       ],
-      "prompt": "이 _____은 배변 조절에 중요한 역할을 한다.",
+      "prompt": "배변 조절에 중요한 골반저 근육은 _____.",
       "answer": {
         "format": "single_text",
-        "value": "muscle(근육)",
+        "value": "levator ani muscle(항문올림근)",
         "accepted_answers": [
-          "muscle(근육)",
-          "muscle",
-          "근육"
+          "levator ani muscle(항문올림근)",
+          "levator ani muscle",
+          "항문올림근"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "muscle(근육)"
+        "text": "levator ani muscle(항문올림근)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -143,7 +143,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 이 muscle(근육)은 배변 조절에 중요한 역할을 한다. / Original: 이 muscle(근육)은 배변도 조절해 주고 자극을 받쳐주는 그런 역할을 하게 됩니다. / Evidence: 골반저근과 항문거근군은 배변과 배변 유지에 관여한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 배변 조절에 중요한 골반저 근육은 levator ani muscle(항문올림근). / Original: 이 muscle(근육)은 배변도 조절해 주고 자극을 받쳐주는 그런 역할을 하게 됩니다. / Evidence: 골반저근과 항문거근군은 배변과 배변 유지에 관여한다. / Page match: approximate keyword match against existing page text."
       }
     }
   ],

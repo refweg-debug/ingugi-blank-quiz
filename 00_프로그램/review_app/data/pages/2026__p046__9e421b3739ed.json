@@ -2739,7 +2739,7 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1500_P0037"
       ],
-      "prompt": "rectum[추정]은 _____로부터 부교감신경을 받는다.",
+      "prompt": "rectum(직장)은 _____로부터 부교감신경을 받는다.",
       "answer": {
         "format": "single_text",
         "value": "pelvic splanchnic nerves(골반내장신경)",
@@ -2762,7 +2762,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: rectum[추정]은 pelvic splanchnic nerves(골반내장신경)로부터 부교감신경을 받는다. / Original: 나머지 디센딩 일부하고 시그모이드, 랩텀[추정] / Evidence: 직장은 골반내장신경의 부교감지배를 받는다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: rectum(직장)은 pelvic splanchnic nerves(골반내장신경)로부터 부교감신경을 받는다. / Original: 나머지 디센딩 일부하고 시그모이드, 랩텀 / Evidence: 직장은 골반내장신경의 부교감지배를 받는다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

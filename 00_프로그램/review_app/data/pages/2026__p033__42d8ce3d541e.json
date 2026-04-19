@@ -1961,19 +1961,22 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1400_P0013"
       ],
-      "prompt": "모든 [추정] _____이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다.",
+      "prompt": "모든 _____이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다.",
       "answer": {
         "format": "single_text",
-        "value": "number vein(분절정맥)",
+        "value": "segmental veins(분절정맥)",
         "accepted_answers": [
-          "number vein(분절정맥)",
-          "number vein",
-          "분절정맥"
+          "segmental veins(분절정맥)",
+          "segmental veins",
+          "segmental vein",
+          "분절정맥",
+          "lumbar veins",
+          "허리정맥"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "number vein(분절정맥)"
+        "text": "segmental veins(분절정맥)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1984,7 +1987,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 모든 [추정] number vein(분절정맥)이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다. / Original: lumbar artery(허리동맥)는 다 abdominal aorta(배대동맥)에서 나오는데 [추정] number vein(분절정맥)은 모두 inferior vena cava(하대정맥)로 하지 않습니다. / Evidence: 일부 number vein(분절정맥)은 대정맥계가 아니라 다른 정맥을 거쳐 배출된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 모든 segmental veins(분절정맥)이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다. / Original: lumbar artery(허리동맥)는 다 abdominal aorta(배대동맥)에서 나오는데 segmental veins(분절정맥)은 모두 inferior vena cava(하대정맥)로 하지 않습니다. / Evidence: 일부 segmental veins(분절정맥)은 대정맥계가 아니라 다른 정맥을 거쳐 배출된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1995,7 +1998,7 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1400_P0013"
       ],
-      "prompt": "모든 [추정] number vein(분절정맥)이 _____로 직접 들어가지는 않는다.",
+      "prompt": "모든 segmental veins(분절정맥)이 _____로 직접 들어가지는 않는다.",
       "answer": {
         "format": "single_text",
         "value": "inferior vena cava(하대정맥)",
@@ -2018,7 +2021,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 모든 [추정] number vein(분절정맥)이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다. / Original: lumbar artery(허리동맥)는 다 abdominal aorta(배대동맥)에서 나오는데 [추정] number vein(분절정맥)은 모두 inferior vena cava(하대정맥)로 하지 않습니다. / Evidence: 일부 number vein(분절정맥)은 대정맥계가 아니라 다른 정맥을 거쳐 배출된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 모든 segmental veins(분절정맥)이 inferior vena cava(하대정맥)로 직접 들어가지는 않는다. / Original: lumbar artery(허리동맥)는 다 abdominal aorta(배대동맥)에서 나오는데 segmental veins(분절정맥)은 모두 inferior vena cava(하대정맥)로 하지 않습니다. / Evidence: 일부 segmental veins(분절정맥)은 대정맥계가 아니라 다른 정맥을 거쳐 배출된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

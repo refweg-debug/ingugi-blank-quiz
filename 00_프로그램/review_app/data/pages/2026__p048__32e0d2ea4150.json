@@ -372,7 +372,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0004"
       ],
-      "prompt": "_____는 회음에 분포하는 nerve(신경)이다. [추정]",
+      "prompt": "_____는 회음에 분포하는 nerve(신경)이다.",
       "answer": {
         "format": "single_text",
         "value": "pudendal nerve(음부신경)",
@@ -395,7 +395,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 회음에 분포하는 nerve(신경)이다. [추정] / Original: pudendal nerve(음부신경) 같은 경우에는 이게 아주 대표적인, 이 사면[추정]에 분포하는 그러한 nerve(신경) 부분입니다. / Evidence: 원문의 `사면[추정]`은 회음으로 해석되는 맥락이며, pudendal nerve(음부신경)은 회음부를 지배한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 회음에 분포하는 nerve(신경)이다. / Original: pudendal nerve(음부신경) 같은 경우에는 이게 아주 대표적인, 이 사면에 분포하는 그러한 nerve(신경) 부분입니다. / Evidence: 원문의 `사면`은 회음으로 해석되는 맥락이며, pudendal nerve(음부신경)은 회음부를 지배한다. / Page match: approximate keyword match against existing page text."
       },
       "page_reassignment": {
         "from_page": 46,
@@ -412,7 +412,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0004"
       ],
-      "prompt": "pudendal nerve(음부신경)는 회음에 분포하는 _____이다. [추정]",
+      "prompt": "pudendal nerve(음부신경)는 회음에 분포하는 _____이다.",
       "answer": {
         "format": "single_text",
         "value": "nerve(신경)",
@@ -435,7 +435,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 회음에 분포하는 nerve(신경)이다. [추정] / Original: pudendal nerve(음부신경) 같은 경우에는 이게 아주 대표적인, 이 사면[추정]에 분포하는 그러한 nerve(신경) 부분입니다. / Evidence: 원문의 `사면[추정]`은 회음으로 해석되는 맥락이며, pudendal nerve(음부신경)은 회음부를 지배한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 회음에 분포하는 nerve(신경)이다. / Original: pudendal nerve(음부신경) 같은 경우에는 이게 아주 대표적인, 이 사면에 분포하는 그러한 nerve(신경) 부분입니다. / Evidence: 원문의 `사면`은 회음으로 해석되는 맥락이며, pudendal nerve(음부신경)은 회음부를 지배한다. / Page match: approximate keyword match against existing page text."
       },
       "page_reassignment": {
         "from_page": 46,

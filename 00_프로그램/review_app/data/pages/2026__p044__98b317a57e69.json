@@ -521,7 +521,7 @@
       "proposition_refs": [
         "배_녹음파일_20260413-1200_P0003"
       ],
-      "prompt": "네프론의 다른 유형은 [추정] _____이다.",
+      "prompt": "네프론의 다른 유형은 _____이다.",
       "answer": {
         "format": "single_text",
         "value": "juxtamedullary nephron(곁수질네프론)",
@@ -544,7 +544,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 네프론의 다른 유형은 [추정] juxtamedullary nephron(곁수질네프론)이다. / Original: 두 번째는 [추정] juxtamedullary nephron(곁수질네프론). / Evidence: juxtamedullary nephron(곁수질네프론)은 cortical nephron과 함께 네프론의 대표적 유형이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 네프론의 다른 유형은 juxtamedullary nephron(곁수질네프론)이다. / Original: 두 번째는 juxtamedullary nephron(곁수질네프론). / Evidence: juxtamedullary nephron(곁수질네프론)은 cortical nephron과 함께 네프론의 대표적 유형이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

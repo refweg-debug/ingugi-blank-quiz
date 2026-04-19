@@ -797,7 +797,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1400_P0020"
       ],
-      "prompt": "_____ 주변에는 greater omentum(큰그물막)이 관련된다. [추정]",
+      "prompt": "_____ 주변에는 greater omentum(큰그물막)이 관련된다.",
       "answer": {
         "format": "single_text",
         "value": "omental bursa(그물주머니)",
@@ -820,7 +820,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: omental bursa(그물주머니) 주변에는 greater omentum(큰그물막)이 관련된다. [추정] / Original: omental bursa(그물주머니)의 공간 중에서 superior recess(위오목), inferior recess(아래오목) 같은 경우에 이 아래쪽으로 해가지고 이것이 요기에도 [추정] greater omentum(큰그물막)이라는 부분이 있는데 / Evidence: greater omentum(큰그물막)은 위쪽 복막 구조들과 연관되어 작은낭 주변에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: omental bursa(그물주머니) 주변에는 greater omentum(큰그물막)이 관련된다. / Original: omental bursa(그물주머니)의 공간 중에서 superior recess(위오목), inferior recess(아래오목) 같은 경우에 이 아래쪽으로 해가지고 이것이 요기에도 greater omentum(큰그물막)이라는 부분이 있는데 / Evidence: greater omentum(큰그물막)은 위쪽 복막 구조들과 연관되어 작은낭 주변에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -831,7 +831,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1400_P0020"
       ],
-      "prompt": "omental bursa(그물주머니) 주변에는 _____이 관련된다. [추정]",
+      "prompt": "omental bursa(그물주머니) 주변에는 _____이 관련된다.",
       "answer": {
         "format": "single_text",
         "value": "greater omentum(큰그물막)",
@@ -854,7 +854,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: omental bursa(그물주머니) 주변에는 greater omentum(큰그물막)이 관련된다. [추정] / Original: omental bursa(그물주머니)의 공간 중에서 superior recess(위오목), inferior recess(아래오목) 같은 경우에 이 아래쪽으로 해가지고 이것이 요기에도 [추정] greater omentum(큰그물막)이라는 부분이 있는데 / Evidence: greater omentum(큰그물막)은 위쪽 복막 구조들과 연관되어 작은낭 주변에 위치한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: omental bursa(그물주머니) 주변에는 greater omentum(큰그물막)이 관련된다. / Original: omental bursa(그물주머니)의 공간 중에서 superior recess(위오목), inferior recess(아래오목) 같은 경우에 이 아래쪽으로 해가지고 이것이 요기에도 greater omentum(큰그물막)이라는 부분이 있는데 / Evidence: greater omentum(큰그물막)은 위쪽 복막 구조들과 연관되어 작은낭 주변에 위치한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

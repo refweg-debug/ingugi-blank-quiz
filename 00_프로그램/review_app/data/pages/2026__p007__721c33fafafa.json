@@ -1105,19 +1105,23 @@
       "proposition_refs": [
         "배_녹음파일_20260415-1400_P0012"
       ],
-      "prompt": "각 척추 분절 수준에는 [추정] _____이 있다.",
+      "prompt": "각 척추 분절 수준에는 _____이 있다.",
       "answer": {
         "format": "single_text",
-        "value": "number vein(분절정맥)",
+        "value": "segmental vein(분절정맥)",
         "accepted_answers": [
-          "number vein(분절정맥)",
-          "number vein",
-          "분절정맥"
+          "segmental vein(분절정맥)",
+          "segmental vein",
+          "segmental veins",
+          "분절정맥",
+          "lumbar vein",
+          "lumbar veins",
+          "허리정맥"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "number vein(분절정맥)"
+        "text": "segmental vein(분절정맥)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -1128,7 +1132,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 각 척추 분절 수준에는 [추정] number vein(분절정맥)이 있다. / Original: 아까 lumbar artery(허리동맥)가 있듯이 vein(정맥)에도 이렇게 각 level에서 [추정] number vein(분절정맥)이 있습니다. / Evidence: 복벽과 척추 주위에는 분절성 정맥들이 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 각 척추 분절 수준에는 segmental vein(분절정맥)이 있다. / Original: 아까 lumbar artery(허리동맥)가 있듯이 vein(정맥)에도 이렇게 각 level에서 segmental veins(분절정맥)이 있습니다. / Evidence: 복벽과 척추 주위에는 분절성 정맥들이 존재한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

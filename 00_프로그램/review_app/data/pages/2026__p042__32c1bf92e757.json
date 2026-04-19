@@ -86,19 +86,22 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0002"
       ],
-      "prompt": "이 _____은 지지 기능을 한다.",
+      "prompt": "골반 장기를 지지하는 골반저 근육은 _____.",
       "answer": {
         "format": "single_text",
-        "value": "muscle(근육)",
+        "value": "pelvic floor muscles(골반저근)",
         "accepted_answers": [
-          "muscle(근육)",
-          "muscle",
-          "근육"
+          "pelvic floor muscles(골반저근)",
+          "pelvic floor muscle",
+          "pelvic floor muscles",
+          "골반저근",
+          "pelvic diaphragm",
+          "골반가로막"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "muscle(근육)"
+        "text": "pelvic floor muscles(골반저근)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -109,7 +112,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 이 muscle(근육)은 지지 기능을 한다. / Original: 이 muscle(근육)은 배변도 조절해 주고 자극을 받쳐주는 그런 역할을 하게 됩니다. / Evidence: 골반저근은 골반 장기를 지지하는 역할을 한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 골반 장기를 지지하는 골반저 근육은 pelvic floor muscles(골반저근). / Original: 이 muscle(근육)은 배변도 조절해 주고 자극을 받쳐주는 그런 역할을 하게 됩니다. / Evidence: 골반저근은 골반 장기를 지지하는 역할을 한다. / Page match: approximate keyword match against existing page text."
       }
     }
   ],

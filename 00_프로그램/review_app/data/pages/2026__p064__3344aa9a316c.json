@@ -116,7 +116,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0021"
       ],
-      "prompt": "미주신경 섬유는 _____[추정]를 형성한다.",
+      "prompt": "미주신경 섬유는 _____를 형성한다.",
       "answer": {
         "format": "single_text",
         "value": "posterior vagal trunk(뒤미주신경줄기)",
@@ -139,7 +139,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 미주신경 섬유는 posterior vagal trunk(뒤미주신경줄기)[추정]를 형성한다. / Original: posterior vagal trunk(뒤미주신경줄기)[추정]를 만듭니다. / Evidence: 식도에서 양측 미주신경은 앞뒤 미주신경줄기로 재배열된다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 미주신경 섬유는 posterior vagal trunk(뒤미주신경줄기)를 형성한다. / Original: posterior vagal trunk(뒤미주신경줄기)를 만듭니다. / Evidence: 식도에서 양측 미주신경은 앞뒤 미주신경줄기로 재배열된다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

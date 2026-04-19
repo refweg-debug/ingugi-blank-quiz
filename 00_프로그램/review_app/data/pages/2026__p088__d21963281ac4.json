@@ -3059,7 +3059,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0031"
       ],
-      "prompt": "_____의 장샘에는 connective cell[추정](결합조직세포)이 없다.",
+      "prompt": "_____의 장샘에는 connective tissue cell(결합조직세포)이 없다.",
       "answer": {
         "format": "single_text",
         "value": "large intestine(큰창자)",
@@ -3082,7 +3082,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: large intestine(큰창자)의 장샘에는 connective cell[추정](결합조직세포)이 없다. / Original: 그 세포들도 거의 다 거기에 존재하고 connective cell[추정](결합조직세포) 이런 건 없습니다. / Evidence: 장샘은 상피성 구조로, 결합조직세포가 샘의 구성세포로 보통 분류되지는 않는다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: large intestine(큰창자)의 장샘에는 connective tissue cell(결합조직세포)이 없다. / Original: 그 세포들도 거의 다 거기에 존재하고 connective tissue cell(결합조직세포) 이런 건 없습니다. / Evidence: 장샘은 상피성 구조로, 결합조직세포가 샘의 구성세포로 보통 분류되지는 않는다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -3093,18 +3093,19 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0031"
       ],
-      "prompt": "large intestine(큰창자)의 장샘에는 connective cell[추정]_____이 없다.",
+      "prompt": "large intestine(큰창자)의 장샘에는 _____이 없다.",
       "answer": {
         "format": "single_text",
-        "value": "(결합조직세포)",
+        "value": "connective tissue cell(결합조직세포)",
         "accepted_answers": [
-          "(결합조직세포)",
+          "connective tissue cell(결합조직세포)",
+          "connective tissue cell",
           "결합조직세포"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "(결합조직세포)"
+        "text": "connective tissue cell(결합조직세포)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -3115,7 +3116,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: large intestine(큰창자)의 장샘에는 connective cell[추정](결합조직세포)이 없다. / Original: 그 세포들도 거의 다 거기에 존재하고 connective cell[추정](결합조직세포) 이런 건 없습니다. / Evidence: 장샘은 상피성 구조로, 결합조직세포가 샘의 구성세포로 보통 분류되지는 않는다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: large intestine(큰창자)의 장샘에는 connective tissue cell(결합조직세포)이 없다. / Original: 그 세포들도 거의 다 거기에 존재하고 connective tissue cell(결합조직세포) 이런 건 없습니다. / Evidence: 장샘은 상피성 구조로, 결합조직세포가 샘의 구성세포로 보통 분류되지는 않는다. / Page match: approximate keyword match against existing page text."
       }
     },
     {

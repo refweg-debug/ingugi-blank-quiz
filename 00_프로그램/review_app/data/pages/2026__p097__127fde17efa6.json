@@ -18,7 +18,7 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0005"
       ],
-      "prompt": "pudendal nerve는 _____와 함께 주행한다. [추정]",
+      "prompt": "pudendal nerve(음부신경)는 _____와 함께 주행한다.",
       "answer": {
         "format": "single_text",
         "value": "internal pudendal artery(속음부동맥)",
@@ -41,7 +41,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve는 internal pudendal artery(속음부동맥)와 함께 주행한다. [추정] / Original: 그래서 얘는 뭐하고 같이 움직이는지, internal pudendal artery(속음부동맥)[추정]라고 함께 움직인다. / Evidence: 음부신경은 internal pudendal artery(속음부동맥)과 동반 주행하는 것이 표준 해부학 지식이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: pudendal nerve(음부신경)는 internal pudendal artery(속음부동맥)와 함께 주행한다. / Original: 그래서 얘는 뭐하고 같이 움직이는지, internal pudendal artery(속음부동맥)라고 함께 움직인다. / Evidence: 음부신경은 internal pudendal artery(속음부동맥)과 동반 주행하는 것이 표준 해부학 지식이다. / Page match: approximate keyword match against existing page text."
       }
     }
   ],

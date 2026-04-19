@@ -206,19 +206,19 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0005"
       ],
-      "prompt": "_____과 lateral bone wall([추정] 가쪽뼈벽)에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다.",
+      "prompt": "_____에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다.",
       "answer": {
         "format": "single_text",
-        "value": "anterior wall(앞벽)",
+        "value": "abdominal wall(배벽)",
         "accepted_answers": [
-          "anterior wall(앞벽)",
-          "anterior wall",
-          "앞벽"
+          "abdominal wall(배벽)",
+          "abdominal wall",
+          "배벽"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "anterior wall(앞벽)"
+        "text": "abdominal wall(배벽)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -229,7 +229,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: anterior wall(앞벽)과 lateral bone wall([추정] 가쪽뼈벽)에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다. / Original: 이 anterior wall(앞벽)과 lateral bone wall([추정] 가쪽뼈벽)은 boundary(경계)도 불분명하면서 muscle(근육)이나 cutaneous nerve(피부신경), blood vessel nerve([추정] 혈관신경)가 있다고 얘기하게 됩니다. / Evidence: 복벽과 측벽에는 근육층과 cutaneous nerve(피부신경), 혈관 및 신경이 분포한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: abdominal wall(배벽)에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다. / Original: 이 anterior wall(앞벽)과 lateral bone wall( 가쪽뼈벽)은 boundary(경계)도 불분명하면서 muscle(근육)이나 cutaneous nerve(피부신경), blood vessel nerve( 혈관신경)가 있다고 얘기하게 됩니다. / Evidence: 복벽과 측벽에는 근육층과 cutaneous nerve(피부신경), 혈관 및 신경이 분포한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -274,7 +274,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0005"
       ],
-      "prompt": "anterior wall(앞벽)과 lateral bone wall([추정] 가쪽뼈벽)에는 _____, cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다.",
+      "prompt": "abdominal wall(배벽)에는 _____, cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다.",
       "answer": {
         "format": "single_text",
         "value": "muscle(근육)",
@@ -297,7 +297,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: anterior wall(앞벽)과 lateral bone wall([추정] 가쪽뼈벽)에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다. / Original: 이 anterior wall(앞벽)과 lateral bone wall([추정] 가쪽뼈벽)은 boundary(경계)도 불분명하면서 muscle(근육)이나 cutaneous nerve(피부신경), blood vessel nerve([추정] 혈관신경)가 있다고 얘기하게 됩니다. / Evidence: 복벽과 측벽에는 근육층과 cutaneous nerve(피부신경), 혈관 및 신경이 분포한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: abdominal wall(배벽)에는 muscle(근육), cutaneous nerve(피부신경), 혈관과 신경이 관련되어 있다. / Original: 이 anterior wall(앞벽)과 lateral bone wall( 가쪽뼈벽)은 boundary(경계)도 불분명하면서 muscle(근육)이나 cutaneous nerve(피부신경), blood vessel nerve( 혈관신경)가 있다고 얘기하게 됩니다. / Evidence: 복벽과 측벽에는 근육층과 cutaneous nerve(피부신경), 혈관 및 신경이 분포한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1589,7 +1589,7 @@
       "proposition_refs": [
         "배_녹음파일_20260402-1100_P0006"
       ],
-      "prompt": "lateral bone wall([추정] 가쪽뼈벽)의 앞쪽에는 _____이 있다.",
+      "prompt": "anterolateral abdominal wall(앞가쪽배벽)에는 _____이 있다.",
       "answer": {
         "format": "single_text",
         "value": "muscle(근육)",
@@ -1612,7 +1612,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: lateral bone wall([추정] 가쪽뼈벽)의 앞쪽에는 muscle(근육)이 있다. / Original: lateral bone wall([추정] 가쪽뼈벽) 이렇게 봤더니 앞쪽에 이렇게 muscle(근육)이 있네. / Evidence: 복벽의 가쪽 부분에는 전방의 근육층이 존재한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: anterolateral abdominal wall(앞가쪽배벽)에는 muscle(근육)이 있다. / Original: lateral bone wall( 가쪽뼈벽) 이렇게 봤더니 앞쪽에 이렇게 muscle(근육)이 있네. / Evidence: 복벽의 가쪽 부분에는 전방의 근육층이 존재한다. / Page match: approximate keyword match against existing page text."
       },
       "page_reassignment": {
         "from_page": 4,
