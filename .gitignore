@@ -1,0 +1,49 @@
+# Local source materials
+/가슴/
+/등/
+/배/
+/공통자료/
+
+# This repository publishes the static blank quiz app, not the full local workspace.
+/00_프로그램/*
+!/00_프로그램/README.md
+
+**/01_원본자료/
+**/*.pdf
+**/*.mp3
+**/*.m4a
+**/*.wav
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.hwp
+**/*.docx
+
+# Generated intermediate data and local review artifacts
+**/02_정제텍스트/
+**/03_메타데이터/
+**/04_검증대기/
+**/07_페이지판독/
+**/08_문항/
+**/09_현재통합/
+**/12_완전텍스트기록/
+**/13_강의비교기록/
+00_프로그램/output/
+00_프로그램/00_프로그램/output/
+00_프로그램/_scratch/
+
+# Keep the exported static quiz bundle
+!00_프로그램/blank_quiz_app/
+!00_프로그램/blank_quiz_app/**
+
+# Runtime/cache
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS/editor noise
+desktop.ini
+Thumbs.db
+.DS_Store
