@@ -310,7 +310,6 @@ function renderPagePayload(payload) {
   payload.questions.forEach((question, index) => {
     const fragment = questionCardTemplate.content.cloneNode(true);
     fragment.querySelector(".question-index").textContent = `Question ${index + 1}`;
-    fragment.querySelector(".question-badge").textContent = question.question_focus;
     fragment.querySelector(".question-prompt").textContent = question.prompt;
     fragment.querySelector(".answer-value").textContent = formatAnswerValue(question.answer);
     fragment.querySelector(".accepted-answer-value").textContent = formatAcceptedAnswers(question.answer);
