@@ -350,11 +350,14 @@ button:disabled {
 
 .reveal-answer-button {
   background: #000;
-  border: 1px solid #f3f3f3;
+  border: 2px solid #fff;
   color: #f3f3f3;
-  flex: 0 0 96px;
-  min-width: 96px;
-  width: 96px;
+  flex: 0 0 192px;
+  font-size: 13px;
+  font-weight: 600;
+  min-height: 56px;
+  min-width: 192px;
+  width: 192px;
 }
 
 .answer-panel {
