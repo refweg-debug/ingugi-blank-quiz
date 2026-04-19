@@ -1804,16 +1804,8 @@
         "review_image_url": "./data/images/merged_20260404_010004__p002__270a7e28acd7.webp"
       },
       {
-        "page_number": 3,
-        "question_count": 54,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p003__9635c7191dea.json",
-        "review_image_url": "./data/images/merged_20260404_010004__p003__9635c7191dea.webp"
-      },
-      {
         "page_number": 4,
-        "question_count": 48,
+        "question_count": 102,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p004__3908a86a8f81.json",
@@ -2030,15 +2022,8 @@
         "static_page_file": "pages/merged_20260404_010004__p033__eea0658df225.json"
       },
       {
-        "page_number": 34,
-        "question_count": 51,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p034__6b3461ddff75.json"
-      },
-      {
         "page_number": 35,
-        "question_count": 50,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p035__7e1fec67c1f5.json"
@@ -2149,15 +2134,8 @@
         "static_page_file": "pages/merged_20260404_010004__p050__f89b40685ccf.json"
       },
       {
-        "page_number": 51,
-        "question_count": 54,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p051__7a369d8debb3.json"
-      },
-      {
         "page_number": 52,
-        "question_count": 50,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p052__2a44d2e01c8c.json"
@@ -2464,7 +2442,7 @@
         "static_page_file": "pages/merged_20260404_010004__p095__8f4de7c82e8a.json"
       }
     ],
-    "current_index": 10,
+    "current_index": 9,
     "previous_page": 10,
     "next_page": 12
   },

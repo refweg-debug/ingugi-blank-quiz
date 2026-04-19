@@ -310,16 +310,841 @@
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 간(liver)의 혈관분포와 쓸개관계통(biliary system)을 간구역(liver segment)과 연관지어 설명할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
       }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_002"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_002"
+      ],
+      "prompt": "복막(peritoneum)은 _____과 장쪽복막(visceral peritoneum)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)",
+          "parietal peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_002"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "_____은 큰주머니(greater sac)와 그물막주머니(omental bursa)로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막안(peritoneal cavity)",
+        "accepted_answers": [
+          "복막안(peritoneal cavity)",
+          "peritoneal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막안(peritoneal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막안(peritoneal cavity)은 큰주머니(greater sac)와 그물막주머니(omental bursa)로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "복막안(peritoneal cavity)은 _____와 그물막주머니(omental bursa)로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰주머니(greater sac)",
+        "accepted_answers": [
+          "큰주머니(greater sac)",
+          "greater sac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰주머니(greater sac)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막안(peritoneal cavity)은 큰주머니(greater sac)와 그물막주머니(omental bursa)로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_004_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "복막안(peritoneal cavity)은 큰주머니(greater sac)와 _____로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막주머니(omental bursa)",
+        "accepted_answers": [
+          "그물막주머니(omental bursa)",
+          "omental bursa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막주머니(omental bursa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막안(peritoneal cavity)은 큰주머니(greater sac)와 그물막주머니(omental bursa)로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_005"
+      ],
+      "prompt": "_____은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막구멍(omental foramen)",
+        "accepted_answers": [
+          "그물막구멍(omental foramen)",
+          "omental foramen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막구멍(omental foramen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 그물막구멍(omental foramen)은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_005"
+      ],
+      "prompt": "그물막구멍(omental foramen)은 _____와 그물막주머니(omental bursa)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰주머니(greater sac)",
+        "accepted_answers": [
+          "큰주머니(greater sac)",
+          "greater sac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰주머니(greater sac)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 그물막구멍(omental foramen)은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_course_005_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_005"
+      ],
+      "prompt": "그물막구멍(omental foramen)은 큰주머니(greater sac)와 _____를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막주머니(omental bursa)",
+        "accepted_answers": [
+          "그물막주머니(omental bursa)",
+          "omental bursa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막주머니(omental bursa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 그물막구멍(omental foramen)은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_001"
+      ],
+      "prompt": "_____은 장막(serous membrane)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복막(peritoneum)은 장막(serous membrane)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "_____은 배벽(abdominal wall)의 안쪽을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)",
+          "parietal peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 벽쪽복막(parietal peritoneum)은 배벽(abdominal wall)의 안쪽을 덮는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "벽쪽복막(parietal peritoneum)은 _____의 안쪽을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배벽(abdominal wall)",
+        "accepted_answers": [
+          "배벽(abdominal wall)",
+          "abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배벽(abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 벽쪽복막(parietal peritoneum)은 배벽(abdominal wall)의 안쪽을 덮는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_003"
+      ],
+      "prompt": "_____은 배속내장(abdominal viscera)의 바깥면을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 장쪽복막(visceral peritoneum)은 배속내장(abdominal viscera)의 바깥면을 덮는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_003"
+      ],
+      "prompt": "장쪽복막(visceral peritoneum)은 _____의 바깥면을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배속내장(abdominal viscera)",
+        "accepted_answers": [
+          "배속내장(abdominal viscera)",
+          "abdominal viscera"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배속내장(abdominal viscera)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 장쪽복막(visceral peritoneum)은 배속내장(abdominal viscera)의 바깥면을 덮는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_004"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum) 사이의 잠재공간(potential space)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막안(peritoneal cavity)",
+        "accepted_answers": [
+          "복막안(peritoneal cavity)",
+          "peritoneal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막안(peritoneal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복막안(peritoneal cavity)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum) 사이의 잠재공간(potential space)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_004"
+      ],
+      "prompt": "복막안(peritoneal cavity)은 _____과 장쪽복막(visceral peritoneum) 사이의 잠재공간(potential space)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)",
+          "parietal peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복막안(peritoneal cavity)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum) 사이의 잠재공간(potential space)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_007"
+      ],
+      "prompt": "_____은 두 층의 복막(peritoneum)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 창자간막(mesentery)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_007"
+      ],
+      "prompt": "창자간막(mesentery)은 두 층의 _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 창자간막(mesentery)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_008"
+      ],
+      "prompt": "_____은 두 층의 복막(peritoneum)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_008"
+      ],
+      "prompt": "작은그물막(lesser omentum)은 두 층의 _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_009"
+      ],
+      "prompt": "_____은 두 층의 복막(peritoneum)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰그물막(greater omentum)",
+        "accepted_answers": [
+          "큰그물막(greater omentum)",
+          "greater omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰그물막(greater omentum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 큰그물막(greater omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_필기본_020_ai_corrected_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_009"
+      ],
+      "prompt": "큰그물막(greater omentum)은 두 층의 _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 큰그물막(greater omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_강의원본_043_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_043_ai_corrected_007"
+      ],
+      "prompt": "_____, 작은그물막(lesser omentum), 큰그물막(greater omentum)은 두 층의 복막(peritoneum)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 창자간막(mesentery), 작은그물막(lesser omentum), 큰그물막(greater omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_강의원본_043_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_043_ai_corrected_007"
+      ],
+      "prompt": "창자간막(mesentery), 작은그물막(lesser omentum), _____은 두 층의 복막(peritoneum)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰그물막(greater omentum)",
+        "accepted_answers": [
+          "큰그물막(greater omentum)",
+          "greater omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰그물막(greater omentum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 창자간막(mesentery), 작은그물막(lesser omentum), 큰그물막(greater omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
+    },
+    {
+      "question_id": "배_통합_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p020_course_배_강의원본_043_ai_corrected_007_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_043_ai_corrected_007"
+      ],
+      "prompt": "창자간막(mesentery), 작은그물막(lesser omentum), 큰그물막(greater omentum)은 두 층의 _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 창자간막(mesentery), 작은그물막(lesser omentum), 큰그물막(greater omentum)은 두 층의 복막(double layer of peritoneum)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 20,
+        "to_page": 21,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "note_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 11,
+    "question_count": 36,
     "question_type_count": {
-      "fill_blank": 11
+      "fill_blank": 36
     },
     "question_focus_count": {
-      "course_exam_style_provisional": 8,
-      "course_exam_style": 3
+      "course_exam_style_provisional": 17,
+      "course_exam_style": 19
     }
   },
   "blocked_image_question_reasons": [],
@@ -478,24 +1303,16 @@
         "static_page_file": "pages/20260406____1___2__p019__a3a92b522c6e.json"
       },
       {
-        "page_number": 20,
-        "source_page_number": 43,
-        "question_count": 25,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/20260406____1___2__p020__aa01aec0912c.json"
-      },
-      {
         "page_number": 21,
         "source_page_number": 44,
-        "question_count": 11,
+        "question_count": 36,
         "finalization_status": "question_set_ready",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p021__b3dc36c9a6ee.json"
       }
     ],
-    "current_index": 20,
-    "previous_page": 20
+    "current_index": 19,
+    "previous_page": 19
   },
   "analysis": {
     "analysis_ref": {

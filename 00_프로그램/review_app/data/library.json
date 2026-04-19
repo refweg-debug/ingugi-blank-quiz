@@ -10,7 +10,7 @@
           "sources": [
             {
               "source_stem": "merged_20260404_010004",
-              "page_count": 95,
+              "page_count": 92,
               "question_total": 4736,
               "pages": [
                 {
@@ -30,16 +30,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p002__270a7e28acd7.webp"
                 },
                 {
-                  "page_number": 3,
-                  "question_count": 54,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p003__9635c7191dea.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p003__9635c7191dea.webp"
-                },
-                {
                   "page_number": 4,
-                  "question_count": 48,
+                  "question_count": 102,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p004__3908a86a8f81.json",
@@ -278,16 +270,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p033__eea0658df225.webp"
                 },
                 {
-                  "page_number": 34,
-                  "question_count": 51,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p034__6b3461ddff75.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p034__6b3461ddff75.webp"
-                },
-                {
                   "page_number": 35,
-                  "question_count": 50,
+                  "question_count": 101,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p035__7e1fec67c1f5.json",
@@ -414,16 +398,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p050__f89b40685ccf.webp"
                 },
                 {
-                  "page_number": 51,
-                  "question_count": 54,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p051__7a369d8debb3.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p051__7a369d8debb3.webp"
-                },
-                {
                   "page_number": 52,
-                  "question_count": 50,
+                  "question_count": 104,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p052__2a44d2e01c8c.json",
@@ -789,7 +765,7 @@
           "sources": [
             {
               "source_stem": "2026년 골반(여성 남성생식계통)",
-              "page_count": 86,
+              "page_count": 83,
               "question_total": 414,
               "pages": [
                 {
@@ -801,16 +777,8 @@
                   "review_image_url": "./data/images/2026__p001__52e6b9b37a10.webp"
                 },
                 {
-                  "page_number": 3,
-                  "question_count": 15,
-                  "finalization_status": "question_set_provisional_from_recording_propositions",
-                  "page_read_status": "recording_proposition_page_estimate",
-                  "static_page_file": "pages/2026__p003__4fac792dc5fb.json",
-                  "review_image_url": "./data/images/2026__p003__4fac792dc5fb.webp"
-                },
-                {
                   "page_number": 4,
-                  "question_count": 18,
+                  "question_count": 33,
                   "finalization_status": "question_set_provisional_from_recording_propositions",
                   "page_read_status": "recording_proposition_page_estimate",
                   "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -1081,16 +1049,8 @@
                   "review_image_url": "./data/images/2026__p045__ed4889042d26.webp"
                 },
                 {
-                  "page_number": 46,
-                  "question_count": 12,
-                  "finalization_status": "question_set_provisional_from_recording_propositions",
-                  "page_read_status": "recording_proposition_page_estimate",
-                  "static_page_file": "pages/2026__p046__8eea0b0c7683.json",
-                  "review_image_url": "./data/images/2026__p046__8eea0b0c7683.webp"
-                },
-                {
                   "page_number": 48,
-                  "question_count": 1,
+                  "question_count": 13,
                   "finalization_status": "question_set_provisional_from_recording_propositions",
                   "page_read_status": "recording_proposition_page_estimate",
                   "static_page_file": "pages/2026__p048__32e0d2ea4150.json",
@@ -1401,16 +1361,8 @@
                   "review_image_url": "./data/images/2026__p106__b0731eb71416.webp"
                 },
                 {
-                  "page_number": 107,
-                  "question_count": 9,
-                  "finalization_status": "question_set_provisional_from_recording_propositions",
-                  "page_read_status": "recording_proposition_page_estimate",
-                  "static_page_file": "pages/2026__p107__b7a2d68aa454.json",
-                  "review_image_url": "./data/images/2026__p107__b7a2d68aa454.webp"
-                },
-                {
                   "page_number": 108,
-                  "question_count": 3,
+                  "question_count": 12,
                   "finalization_status": "question_set_provisional_from_recording_propositions",
                   "page_read_status": "recording_proposition_page_estimate",
                   "static_page_file": "pages/2026__p108__ccc6b5704941.json",
@@ -1496,7 +1448,7 @@
           "sources": [
             {
               "source_stem": "merged_20260404_010004",
-              "page_count": 95,
+              "page_count": 92,
               "question_total": 274,
               "pages": [
                 {
@@ -1516,16 +1468,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p002__0beb02358428.webp"
                 },
                 {
-                  "page_number": 3,
-                  "question_count": 9,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p003__10a43b9e0249.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p003__10a43b9e0249.webp"
-                },
-                {
                   "page_number": 4,
-                  "question_count": 7,
+                  "question_count": 16,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p004__ccf8dd9cf9dc.json",
@@ -1764,16 +1708,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p033__c0c74e2adab6.webp"
                 },
                 {
-                  "page_number": 34,
-                  "question_count": 8,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p034__2048bf6400cf.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p034__2048bf6400cf.webp"
-                },
-                {
                   "page_number": 35,
-                  "question_count": 3,
+                  "question_count": 11,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p035__a4eaad836415.json",
@@ -1900,16 +1836,8 @@
                   "review_image_url": "./data/images/merged_20260404_010004__p050__a062c560423e.webp"
                 },
                 {
-                  "page_number": 51,
-                  "question_count": 8,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/merged_20260404_010004__p051__628e9f1a66ae.json",
-                  "review_image_url": "./data/images/merged_20260404_010004__p051__628e9f1a66ae.webp"
-                },
-                {
                   "page_number": 52,
-                  "question_count": 3,
+                  "question_count": 11,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/merged_20260404_010004__p052__73916edfbd35.json",
@@ -2275,7 +2203,7 @@
           "sources": [
             {
               "source_stem": "2026년 배(소화계통 비뇨계통)",
-              "page_count": 180,
+              "page_count": 176,
               "question_total": 2111,
               "pages": [
                 {
@@ -2306,18 +2234,9 @@
                   "review_image_url": "./data/images/2026__p003__62dc70e14a72.webp"
                 },
                 {
-                  "page_number": 4,
-                  "source_page_number": 4,
-                  "question_count": 22,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p004__fbde3a9f4224.json",
-                  "review_image_url": "./data/images/2026__p004__fbde3a9f4224.webp"
-                },
-                {
                   "page_number": 5,
                   "source_page_number": 5,
-                  "question_count": 14,
+                  "question_count": 36,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p005__42c45b745a8f.json",
@@ -2657,18 +2576,9 @@
                   "review_image_url": "./data/images/2026__p042__38df47adf210.webp"
                 },
                 {
-                  "page_number": 43,
-                  "source_page_number": 43,
-                  "question_count": 25,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p043__787a18aa7cf5.json",
-                  "review_image_url": "./data/images/2026__p043__787a18aa7cf5.webp"
-                },
-                {
                   "page_number": 44,
                   "source_page_number": 44,
-                  "question_count": 11,
+                  "question_count": 36,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p044__191901fac17a.json",
@@ -2738,18 +2648,9 @@
                   "review_image_url": "./data/images/2026__p051__9e1261a8f444.webp"
                 },
                 {
-                  "page_number": 52,
-                  "source_page_number": 52,
-                  "question_count": 22,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p052__a08578ba02b7.json",
-                  "review_image_url": "./data/images/2026__p052__a08578ba02b7.webp"
-                },
-                {
                   "page_number": 53,
                   "source_page_number": 53,
-                  "question_count": 23,
+                  "question_count": 45,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p053__6caf069e0bda.json",
@@ -3701,18 +3602,9 @@
                   "review_image_url": "./data/images/2026__p158__cc2d54af62f1.webp"
                 },
                 {
-                  "page_number": 159,
-                  "source_page_number": 159,
-                  "question_count": 10,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/2026__p159__0c6e52d518b9.json",
-                  "review_image_url": "./data/images/2026__p159__0c6e52d518b9.webp"
-                },
-                {
                   "page_number": 160,
                   "source_page_number": 160,
-                  "question_count": 0,
+                  "question_count": 10,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
                   "page_read_status": "blocked_until_ai_page_read",
                   "static_page_file": "pages/2026__p160__859e4a6bfe38.json",
@@ -3908,7 +3800,7 @@
           "sources": [
             {
               "source_stem": "2026년 배(소화계통 비뇨계통)",
-              "page_count": 180,
+              "page_count": 176,
               "question_total": 3779,
               "pages": [
                 {
@@ -3936,16 +3828,8 @@
                   "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
                 },
                 {
-                  "page_number": 4,
-                  "question_count": 87,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-                  "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-                },
-                {
                   "page_number": 5,
-                  "question_count": 24,
+                  "question_count": 111,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -4248,16 +4132,8 @@
                   "review_image_url": "./data/images/2026__p042__e4972a401b99.webp"
                 },
                 {
-                  "page_number": 43,
-                  "question_count": 33,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p043__8545104b7256.json",
-                  "review_image_url": "./data/images/2026__p043__8545104b7256.webp"
-                },
-                {
                   "page_number": 44,
-                  "question_count": 55,
+                  "question_count": 88,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -4320,16 +4196,8 @@
                   "review_image_url": "./data/images/2026__p051__b96f8982b511.webp"
                 },
                 {
-                  "page_number": 52,
-                  "question_count": 37,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/2026__p052__e138b8f71020.json",
-                  "review_image_url": "./data/images/2026__p052__e138b8f71020.webp"
-                },
-                {
                   "page_number": 53,
-                  "question_count": 85,
+                  "question_count": 122,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -5176,14 +5044,6 @@
                   "review_image_url": "./data/images/2026__p158__aad68362f95a.webp"
                 },
                 {
-                  "page_number": 159,
-                  "question_count": 0,
-                  "finalization_status": "question_set_provisional_requires_ai_page_read",
-                  "page_read_status": "blocked_until_ai_page_read",
-                  "static_page_file": "pages/2026__p159__92b999952d4c.json",
-                  "review_image_url": "./data/images/2026__p159__92b999952d4c.webp"
-                },
-                {
                   "page_number": 160,
                   "question_count": 0,
                   "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -5361,7 +5221,7 @@
           "sources": [
             {
               "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
-              "page_count": 23,
+              "page_count": 22,
               "question_total": 488,
               "pages": [
                 {
@@ -5389,17 +5249,9 @@
                   "static_page_file": "pages/20260402____1___1__p003__f477c3aac9cd.json"
                 },
                 {
-                  "page_number": 4,
-                  "source_page_number": 4,
-                  "question_count": 22,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260402____1___1__p004__955eb52e460f.json"
-                },
-                {
                   "page_number": 5,
                   "source_page_number": 5,
-                  "question_count": 14,
+                  "question_count": 36,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260402____1___1__p005__afcf110a0b5b.json"
@@ -5552,7 +5404,7 @@
             },
             {
               "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
-              "page_count": 21,
+              "page_count": 20,
               "question_total": 387,
               "pages": [
                 {
@@ -5708,17 +5560,9 @@
                   "static_page_file": "pages/20260406____1___2__p019__a3a92b522c6e.json"
                 },
                 {
-                  "page_number": 20,
-                  "source_page_number": 43,
-                  "question_count": 25,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260406____1___2__p020__aa01aec0912c.json"
-                },
-                {
                   "page_number": 21,
                   "source_page_number": 44,
-                  "question_count": 11,
+                  "question_count": 36,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260406____1___2__p021__b3dc36c9a6ee.json"
@@ -5727,7 +5571,7 @@
             },
             {
               "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
-              "page_count": 27,
+              "page_count": 26,
               "question_total": 526,
               "pages": [
                 {
@@ -5787,17 +5631,9 @@
                   "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
                 },
                 {
-                  "page_number": 8,
-                  "source_page_number": 52,
-                  "question_count": 22,
-                  "finalization_status": "question_set_ready",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
-                },
-                {
                   "page_number": 9,
                   "source_page_number": 53,
-                  "question_count": 23,
+                  "question_count": 45,
                   "finalization_status": "question_set_ready",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
@@ -6458,7 +6294,7 @@
           "sources": [
             {
               "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
-              "page_count": 23,
+              "page_count": 22,
               "question_total": 362,
               "pages": [
                 {
@@ -6486,16 +6322,8 @@
                   "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
                 },
                 {
-                  "page_number": 4,
-                  "question_count": 19,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
-                  "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
-                },
-                {
                   "page_number": 5,
-                  "question_count": 6,
+                  "question_count": 25,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
@@ -6649,7 +6477,7 @@
             },
             {
               "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
-              "page_count": 21,
+              "page_count": 20,
               "question_total": 389,
               "pages": [
                 {
@@ -6805,16 +6633,8 @@
                   "review_image_url": "./data/images/20260406____1___2__p019__7c02408b76a9.webp"
                 },
                 {
-                  "page_number": 20,
-                  "question_count": 22,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json",
-                  "review_image_url": "./data/images/20260406____1___2__p020__ea1162d15f54.webp"
-                },
-                {
                   "page_number": 21,
-                  "question_count": 6,
+                  "question_count": 28,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json",
@@ -6824,7 +6644,7 @@
             },
             {
               "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
-              "page_count": 27,
+              "page_count": 26,
               "question_total": 443,
               "pages": [
                 {
@@ -6884,16 +6704,8 @@
                   "review_image_url": "./data/images/20260407____1___3__p007__a70a40625276.webp"
                 },
                 {
-                  "page_number": 8,
-                  "question_count": 18,
-                  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-                  "page_read_status": "ai_page_read_complete",
-                  "static_page_file": "pages/20260407____1___3__p008__d6f8d7e95b67.json",
-                  "review_image_url": "./data/images/20260407____1___3__p008__d6f8d7e95b67.webp"
-                },
-                {
                   "page_number": 9,
-                  "question_count": 34,
+                  "question_count": 52,
                   "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
                   "page_read_status": "ai_page_read_complete",
                   "static_page_file": "pages/20260407____1___3__p009__23c8755e9e36.json",

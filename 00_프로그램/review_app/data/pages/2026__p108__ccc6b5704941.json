@@ -111,15 +111,375 @@
         "short": "Generated from a verified true proposition in the recording text.",
         "full": "Recording proposition: superior gluteal nerve(위둔근신경)와 inferior gluteal nerve(아래둔근신경)는 gluteus muscle(볼기근)을 지배한다. / Original: superior gluteal nerve(위둔근신경), inferior gluteal nerve(아래둔근신경)는 gluteus muscle(볼기근)에다가 nerve(신경) 지배하는 겁니다. / Evidence: superior gluteal nerve(위둔근신경)과 inferior gluteal nerve(아래둔근신경)은 둔근군의 운동신경이다. / Page match: approximate keyword match against existing page text."
       }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1100_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0008"
+      ],
+      "prompt": "_____은 골반 바깥쪽의 아래쪽 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "perineum(회음)",
+        "accepted_answers": [
+          "perineum(회음)",
+          "perineum",
+          "회음"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "perineum(회음)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)은 골반 바깥쪽의 아래쪽 공간이다. / Original: perineum(회음)라고 하면 골반 바깥쪽에 있는 아래쪽 공간이면서, 앞뒤로는 pubis(치골)과 coccyx(미추) 사이에 있는 공간입니다. / Evidence: perineum(회음)은 골반 아래쪽의 외부 영역으로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1100_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0009"
+      ],
+      "prompt": "_____은 pubis(치골)와 coccyx(미추) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "perineum(회음)",
+        "accepted_answers": [
+          "perineum(회음)",
+          "perineum",
+          "회음"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "perineum(회음)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)은 pubis(치골)와 coccyx(미추) 사이에 있다. / Original: perineum(회음)라고 하면 골반 바깥쪽에 있는 아래쪽 공간이면서, 앞뒤로는 pubis(치골)과 coccyx(미추) 사이에 있는 공간입니다. / Evidence: perineum(회음)의 전후 방향 경계는 pubis(치골)와 coccyx(미추) 사이로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1100_P0009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0009"
+      ],
+      "prompt": "perineum(회음)은 _____와 coccyx(미추) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubis(치골)",
+        "accepted_answers": [
+          "pubis(치골)",
+          "pubis",
+          "치골"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubis(치골)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)은 pubis(치골)와 coccyx(미추) 사이에 있다. / Original: perineum(회음)라고 하면 골반 바깥쪽에 있는 아래쪽 공간이면서, 앞뒤로는 pubis(치골)과 coccyx(미추) 사이에 있는 공간입니다. / Evidence: perineum(회음)의 전후 방향 경계는 pubis(치골)와 coccyx(미추) 사이로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1100_P0009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0009"
+      ],
+      "prompt": "perineum(회음)은 pubis(치골)와 _____ 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "coccyx(미추)",
+        "accepted_answers": [
+          "coccyx(미추)",
+          "coccyx",
+          "미추"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "coccyx(미추)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)은 pubis(치골)와 coccyx(미추) 사이에 있다. / Original: perineum(회음)라고 하면 골반 바깥쪽에 있는 아래쪽 공간이면서, 앞뒤로는 pubis(치골)과 coccyx(미추) 사이에 있는 공간입니다. / Evidence: perineum(회음)의 전후 방향 경계는 pubis(치골)와 coccyx(미추) 사이로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1100_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0010"
+      ],
+      "prompt": "_____에는 남성과 여성의 외부 생식기가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "perineum(회음)",
+        "accepted_answers": [
+          "perineum(회음)",
+          "perineum",
+          "회음"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "perineum(회음)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)에는 남성과 여성의 외부 생식기가 포함된다. / Original: 남성과 여성의 외부 생식기 같은 공간이 perineum(회음)입니다. / Evidence: perineum(회음)에는 외부 생식기와 항문 주위 영역이 포함된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1200_P0019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0019"
+      ],
+      "prompt": "출산 중 _____과 levator ani(항문올림근), fascia(근막)는 손상될 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "perineum(회음)",
+        "accepted_answers": [
+          "perineum(회음)",
+          "perineum",
+          "회음"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "perineum(회음)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 출산 중 perineum(회음)과 levator ani(항문올림근), fascia(근막)는 손상될 수 있다. / Original: 출산이 진행되면서는 이런 perineum(회음), 여기가 지금 perineum(회음), 산부위, 그리고 levator ani(항문올림근), fascia(근막) 이런 것들이 손상받을 가능성이 굉장히 높습니다. / Evidence: 분만은 회음부와 골반저 근육 및 fascia(근막) 손상의 흔한 원인이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1200_P0019_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0019"
+      ],
+      "prompt": "출산 중 perineum(회음)과 _____, fascia(근막)는 손상될 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "levator ani(항문올림근)",
+        "accepted_answers": [
+          "levator ani(항문올림근)",
+          "levator ani",
+          "항문올림근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "levator ani(항문올림근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 출산 중 perineum(회음)과 levator ani(항문올림근), fascia(근막)는 손상될 수 있다. / Original: 출산이 진행되면서는 이런 perineum(회음), 여기가 지금 perineum(회음), 산부위, 그리고 levator ani(항문올림근), fascia(근막) 이런 것들이 손상받을 가능성이 굉장히 높습니다. / Evidence: 분만은 회음부와 골반저 근육 및 fascia(근막) 손상의 흔한 원인이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1200_P0019_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0019"
+      ],
+      "prompt": "출산 중 perineum(회음)과 levator ani(항문올림근), _____는 손상될 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fascia(근막)",
+        "accepted_answers": [
+          "fascia(근막)",
+          "fascia",
+          "근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fascia(근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 출산 중 perineum(회음)과 levator ani(항문올림근), fascia(근막)는 손상될 수 있다. / Original: 출산이 진행되면서는 이런 perineum(회음), 여기가 지금 perineum(회음), 산부위, 그리고 levator ani(항문올림근), fascia(근막) 이런 것들이 손상받을 가능성이 굉장히 높습니다. / Evidence: 분만은 회음부와 골반저 근육 및 fascia(근막) 손상의 흔한 원인이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p107_recording_20260416-1200_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0016"
+      ],
+      "prompt": "_____는 대퇴 내측 피부 감각에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "obturator nerve(폐쇄신경)",
+        "accepted_answers": [
+          "obturator nerve(폐쇄신경)",
+          "obturator nerve",
+          "폐쇄신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "obturator nerve(폐쇄신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "중간",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: obturator nerve(폐쇄신경)는 대퇴 내측 피부 감각에 관여한다. / Original: 거기 피부에 관여하는 것이 obturator nerve(폐쇄신경)다. / Evidence: obturator nerve(폐쇄신경)은 대퇴 내측 부위의 피부 감각을 일부 담당할 수 있다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 107,
+        "to_page": 108,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 3,
+    "question_count": 12,
     "question_type_count": {
-      "fill_blank": 3
+      "fill_blank": 12
     },
     "question_focus_count": {
-      "recording_proposition_review": 3
+      "recording_proposition_review": 12
     }
   },
   "blocked_image_question_reasons": [],
@@ -134,16 +494,8 @@
         "review_image_url": "./data/images/2026__p001__52e6b9b37a10.webp"
       },
       {
-        "page_number": 3,
-        "question_count": 15,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p003__4fac792dc5fb.json",
-        "review_image_url": "./data/images/2026__p003__4fac792dc5fb.webp"
-      },
-      {
         "page_number": 4,
-        "question_count": 18,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -414,16 +766,8 @@
         "review_image_url": "./data/images/2026__p045__ed4889042d26.webp"
       },
       {
-        "page_number": 46,
-        "question_count": 12,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p046__8eea0b0c7683.json",
-        "review_image_url": "./data/images/2026__p046__8eea0b0c7683.webp"
-      },
-      {
         "page_number": 48,
-        "question_count": 1,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json",
@@ -734,16 +1078,8 @@
         "review_image_url": "./data/images/2026__p106__b0731eb71416.webp"
       },
       {
-        "page_number": 107,
-        "question_count": 9,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p107__b7a2d68aa454.json",
-        "review_image_url": "./data/images/2026__p107__b7a2d68aa454.webp"
-      },
-      {
         "page_number": 108,
-        "question_count": 3,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p108__ccc6b5704941.json",
@@ -806,8 +1142,8 @@
         "static_page_file": "pages/2026__p128__8481c46b439a.json"
       }
     ],
-    "current_index": 77,
-    "previous_page": 107,
+    "current_index": 74,
+    "previous_page": 106,
     "next_page": 109
   },
   "review_image_url": "./data/images/2026__p108__ccc6b5704941.webp",

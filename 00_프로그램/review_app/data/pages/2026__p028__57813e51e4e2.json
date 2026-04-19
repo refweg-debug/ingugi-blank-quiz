@@ -525,16 +525,8 @@
         "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 87,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 24,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -823,15 +815,8 @@
         "static_page_file": "pages/2026__p042__e4972a401b99.json"
       },
       {
-        "page_number": 43,
-        "question_count": 33,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__8545104b7256.json"
-      },
-      {
         "page_number": 44,
-        "question_count": 55,
+        "question_count": 88,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
@@ -886,15 +871,8 @@
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
       },
       {
-        "page_number": 52,
-        "question_count": 37,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__e138b8f71020.json"
-      },
-      {
         "page_number": 53,
-        "question_count": 85,
+        "question_count": 122,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json"
@@ -1635,13 +1613,6 @@
         "static_page_file": "pages/2026__p158__aad68362f95a.json"
       },
       {
-        "page_number": 159,
-        "question_count": 0,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__92b999952d4c.json"
-      },
-      {
         "page_number": 160,
         "question_count": 0,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -1789,7 +1760,7 @@
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
       }
     ],
-    "current_index": 27,
+    "current_index": 26,
     "previous_page": 27,
     "next_page": 29
   },

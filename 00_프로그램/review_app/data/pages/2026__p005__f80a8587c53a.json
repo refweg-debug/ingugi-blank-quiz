@@ -807,18 +807,3391 @@
         "short": "Generated from a verified true proposition in the recording text.",
         "full": "Recording proposition: splanchnic nerve(내장신경)에는 교감성도 있고 부교감성도 있다. / Original: `splanchnic nerve(내장신경)`는 교감도 있고 부교감도 있습니다. / Evidence: splanchnic nerve(내장신경)라는 용어는 교감성 splanchnic nerve(내장신경)과 부교감성 splanchnic nerve(내장신경)을 모두 포함해 사용된다. / Page match: approximate keyword match against existing page text."
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_001"
+      ],
+      "prompt": "_____은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_001"
+      ],
+      "prompt": "샅굴(inguinal canal)은 _____에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은고샅구멍(deep inguinal ring)",
+        "accepted_answers": [
+          "깊은고샅구멍(deep inguinal ring)",
+          "deep inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은고샅구멍(deep inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_001"
+      ],
+      "prompt": "샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은고샅구멍(superficial inguinal ring)",
+        "accepted_answers": [
+          "얕은고샅구멍(superficial inguinal ring)",
+          "superficial inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은고샅구멍(superficial inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_003"
+      ],
+      "prompt": "_____과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_003"
+      ],
+      "prompt": "고환(testis)과 _____은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환(epididymis)",
+        "accepted_answers": [
+          "부고환(epididymis)",
+          "epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환(epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_003"
+      ],
+      "prompt": "고환(testis)과 부고환(epididymis)은 _____ 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음낭(scrotum)",
+        "accepted_answers": [
+          "음낭(scrotum)",
+          "scrotum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음낭(scrotum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_004"
+      ],
+      "prompt": "_____은 배벽(abdominal wall) 근육(muscles)을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은근막(deep fascia)",
+        "accepted_answers": [
+          "깊은근막(deep fascia)",
+          "deep fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은근막(deep fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_004"
+      ],
+      "prompt": "깊은근막(deep fascia)은 배벽(abdominal wall) _____을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육(muscles)",
+        "accepted_answers": [
+          "근육(muscles)",
+          "muscles",
+          "muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육(muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_005"
+      ],
+      "prompt": "_____은 샅굴(inguinal canal)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정삭(spermatic cord)",
+        "accepted_answers": [
+          "정삭(spermatic cord)",
+          "spermatic cord"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정삭(spermatic cord)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_004_course_005"
+      ],
+      "prompt": "정삭(spermatic cord)은 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_004_ai_corrected_001"
+      ],
+      "prompt": "_____의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_004_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), _____을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "혈관신경면(neurovascular plane)",
+        "accepted_answers": [
+          "혈관신경면(neurovascular plane)",
+          "neurovascular plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "혈관신경면(neurovascular plane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_004_ai_corrected_002"
+      ],
+      "prompt": "_____, 앞가쪽배벽의 속면 구조물, 샅굴(inguinal canal)의 경계와 얕은고샅구멍(superficial inguinal ring), 깊은고샅구멍(deep inguinal ring)에 관련된 구조물을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배곧은집(rectus sheath), 앞가쪽배벽의 속면 구조물, 샅굴(inguinal canal)의 경계와 얕은고샅구멍(superficial inguinal ring), 깊은고샅구멍(deep inguinal ring)에 관련된 구조물을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_004_ai_corrected_002"
+      ],
+      "prompt": "배곧은집(rectus sheath), 앞가쪽배벽의 속면 구조물, _____의 경계와 얕은고샅구멍(superficial inguinal ring), 깊은고샅구멍(deep inguinal ring)에 관련된 구조물을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배곧은집(rectus sheath), 앞가쪽배벽의 속면 구조물, 샅굴(inguinal canal)의 경계와 얕은고샅구멍(superficial inguinal ring), 깊은고샅구멍(deep inguinal ring)에 관련된 구조물을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_course_배_강의원본_004_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_004_ai_corrected_002"
+      ],
+      "prompt": "배곧은집(rectus sheath), 앞가쪽배벽의 속면 구조물, 샅굴(inguinal canal)의 경계와 얕은고샅구멍(superficial inguinal ring), _____에 관련된 구조물을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은고샅구멍(deep inguinal ring)",
+        "accepted_answers": [
+          "깊은고샅구멍(deep inguinal ring)",
+          "deep inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은고샅구멍(deep inguinal ring)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배곧은집(rectus sheath), 앞가쪽배벽의 속면 구조물, 샅굴(inguinal canal)의 경계와 얕은고샅구멍(superficial inguinal ring), 깊은고샅구멍(deep inguinal ring)에 관련된 구조물을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "_____은 복부를 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal wall(배벽)",
+        "accepted_answers": [
+          "abdominal wall(배벽)",
+          "abdominal wall",
+          "배벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal wall(배벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: abdominal wall(배벽)은 복부를 둘러싼다. / Original: abdominal wall(배벽) 같은 경우에는 abdominal wall(배벽)로 둘러싸여져 있습니다. / Evidence: 복벽은 복강의 전외측 경계를 이룬다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "_____는 비뇨기계의 대표적 장기이다",
+      "answer": {
+        "format": "single_text",
+        "value": "kidney(콩팥)",
+        "accepted_answers": [
+          "kidney(콩팥)",
+          "kidney",
+          "콩팥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "kidney(콩팥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: kidney(콩팥)는 비뇨기계의 대표적 장기이다 / Original: 뒷배경에 보면 비뇨기의 대표적인 게 바로 kidney(콩팥)입니다 / Evidence: 신장은 비뇨계의 핵심 기관이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0019"
+      ],
+      "prompt": "_____은 복부 해부학의 한 범주이다",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal wall(배벽)",
+        "accepted_answers": [
+          "abdominal wall(배벽)",
+          "abdominal wall",
+          "배벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal wall(배벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: abdominal wall(배벽)은 복부 해부학의 한 범주이다 / Original: 첫 번째 파트는 뭘 볼 거냐면 배 벽에 의해서 / Evidence: 복벽은 복부 해부학의 주요 구성 요소이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0027_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0027"
+      ],
+      "prompt": "고환_____과 부고환(부정소) 및 정삭(정삭)은 서로 관련된 구조이다",
+      "answer": {
+        "format": "single_text",
+        "value": "(정소)",
+        "accepted_answers": [
+          "(정소)",
+          "정소"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "(정소)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0027",
+        "confidence": "높음 ## 20260402-1100_chunk_003",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 고환(정소)과 부고환(부정소) 및 정삭(정삭)은 서로 관련된 구조이다 / Original: 고환(정소) 및 부고환(부정소)의 구조와 정삭(정삭) 기출 경로 / Evidence: 부고환은 고환에 이어지고 정삭은 고환에서 시작되는 구조물을 포함한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0027_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0027"
+      ],
+      "prompt": "고환(정소)과 부고환_____ 및 정삭(정삭)은 서로 관련된 구조이다",
+      "answer": {
+        "format": "single_text",
+        "value": "(부정소)",
+        "accepted_answers": [
+          "(부정소)",
+          "부정소"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "(부정소)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0027",
+        "confidence": "높음 ## 20260402-1100_chunk_003",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 고환(정소)과 부고환(부정소) 및 정삭(정삭)은 서로 관련된 구조이다 / Original: 고환(정소) 및 부고환(부정소)의 구조와 정삭(정삭) 기출 경로 / Evidence: 부고환은 고환에 이어지고 정삭은 고환에서 시작되는 구조물을 포함한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0027_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0027"
+      ],
+      "prompt": "고환(정소)과 부고환(부정소) 및 정삭_____은 서로 관련된 구조이다",
+      "answer": {
+        "format": "single_text",
+        "value": "(정삭)",
+        "accepted_answers": [
+          "(정삭)",
+          "정삭"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "(정삭)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0027",
+        "confidence": "높음 ## 20260402-1100_chunk_003",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 고환(정소)과 부고환(부정소) 및 정삭(정삭)은 서로 관련된 구조이다 / Original: 고환(정소) 및 부고환(부정소)의 구조와 정삭(정삭) 기출 경로 / Evidence: 부고환은 고환에 이어지고 정삭은 고환에서 시작되는 구조물을 포함한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0006"
+      ],
+      "prompt": "_____의 앞쪽에는 muscle(근육)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lateral bone wall([추정] 가쪽뼈벽)",
+        "accepted_answers": [
+          "lateral bone wall([추정] 가쪽뼈벽)",
+          "lateral bone wall",
+          "[추정] 가쪽뼈벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lateral bone wall([추정] 가쪽뼈벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0006",
+        "confidence": "중간",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lateral bone wall([추정] 가쪽뼈벽)의 앞쪽에는 muscle(근육)이 있다. / Original: lateral bone wall([추정] 가쪽뼈벽) 이렇게 봤더니 앞쪽에 이렇게 muscle(근육)이 있네. / Evidence: 복벽의 가쪽 부분에는 전방의 근육층이 존재한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0006"
+      ],
+      "prompt": "lateral bone wall([추정] 가쪽뼈벽)의 앞쪽에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscle(근육)",
+        "accepted_answers": [
+          "muscle(근육)",
+          "muscle",
+          "근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscle(근육)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0006",
+        "confidence": "중간",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lateral bone wall([추정] 가쪽뼈벽)의 앞쪽에는 muscle(근육)이 있다. / Original: lateral bone wall([추정] 가쪽뼈벽) 이렇게 봤더니 앞쪽에 이렇게 muscle(근육)이 있네. / Evidence: 복벽의 가쪽 부분에는 전방의 근육층이 존재한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0006"
+      ],
+      "prompt": "_____은 L5(제5허리뼈) 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "infratubercular plane(결절아래면)",
+        "accepted_answers": [
+          "infratubercular plane(결절아래면)",
+          "infratubercular plane",
+          "결절아래면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "infratubercular plane(결절아래면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: infratubercular plane(결절아래면)은 L5(제5허리뼈) 수준에 해당한다. / Original: 척추뼈를 기준으로 한다면 L5(제5허리뼈)에 해당이 되어집니다. / Evidence: 표준적으로 infratubercular plane은 L5(제5허리뼈) 수준을 지난다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0006"
+      ],
+      "prompt": "infratubercular plane(결절아래면)은 _____ 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L5(제5허리뼈)",
+        "accepted_answers": [
+          "L5(제5허리뼈)",
+          "L5",
+          "제5허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L5(제5허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: infratubercular plane(결절아래면)은 L5(제5허리뼈) 수준에 해당한다. / Original: 척추뼈를 기준으로 한다면 L5(제5허리뼈)에 해당이 되어집니다. / Evidence: 표준적으로 infratubercular plane은 L5(제5허리뼈) 수준을 지난다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0010"
+      ],
+      "prompt": "_____는 복벽의 근막 구조를 가리킨다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior abdominal fascia(앞배벽근막)",
+        "accepted_answers": [
+          "anterior abdominal fascia(앞배벽근막)",
+          "anterior abdominal fascia",
+          "앞배벽근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior abdominal fascia(앞배벽근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterior abdominal fascia(앞배벽근막)는 복벽의 근막 구조를 가리킨다. / Original: anterior abdominal fascia(앞배벽근막) / Evidence: anterior abdominal fascia(앞배벽근막)는 앞배벽의 근막을 의미하는 용어이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "_____는 subcutaneous tissue(피하조직)와 관련된 층이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superficial fascia(얕은근막)",
+        "accepted_answers": [
+          "superficial fascia(얕은근막)",
+          "superficial fascia",
+          "얕은근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superficial fascia(얕은근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "보통",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superficial fascia(얕은근막)는 subcutaneous tissue(피하조직)와 관련된 층이다. / Original: 바깥쪽에 지방이 많은 것은 바로 다음 어디냐면 subcutaneous tissue(피하조직), 그걸 뭐라고 하지 superficial fascia(얕은근막)라고 얘기를 하죠. / Evidence: superficial fascia(얕은근막)는 subcutaneous tissue(피하조직)과 같은 영역을 지칭하거나 그 안의 주요 결합조직층을 의미한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "superficial fascia(얕은근막)는 _____와 관련된 층이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcutaneous tissue(피하조직)",
+        "accepted_answers": [
+          "subcutaneous tissue(피하조직)",
+          "subcutaneous tissue",
+          "피하조직"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subcutaneous tissue(피하조직)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "보통",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superficial fascia(얕은근막)는 subcutaneous tissue(피하조직)와 관련된 층이다. / Original: 바깥쪽에 지방이 많은 것은 바로 다음 어디냐면 subcutaneous tissue(피하조직), 그걸 뭐라고 하지 superficial fascia(얕은근막)라고 얘기를 하죠. / Evidence: superficial fascia(얕은근막)는 subcutaneous tissue(피하조직)과 같은 영역을 지칭하거나 그 안의 주요 결합조직층을 의미한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "_____는 근육을 싸는 근막이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep fascia(깊은근막)",
+        "accepted_answers": [
+          "deep fascia(깊은근막)",
+          "deep fascia",
+          "깊은근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep fascia(깊은근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep fascia(깊은근막)는 근육을 싸는 근막이다. / Original: deep fascia(깊은근막), 모든 근육들은 대부분 이렇게 싸고 있으니까 / Evidence: deep fascia(깊은근막)는 일반적으로 근육을 둘러싸는 결합조직층이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0015"
+      ],
+      "prompt": "_____은 flat한 근육 3개와 vertical한 근육 2개로 크게 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 flat한 근육 3개와 vertical한 근육 2개로 크게 나뉜다. / Original: anterolateral abdominal muscle(앞가쪽배근)은 크게 flat한 게 3개가 있고 vertical한 게 가운데로 2개가 있습니다. / Evidence: 전외측 복벽 근육은 일반적으로 3개의 평편근과 2개의 수직근으로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0016"
+      ],
+      "prompt": "_____은 배벽을 지지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 배벽을 지지한다. / Original: 얘네들의 기능은 결국은 배벽의 지지를 해주고, 요 안쪽이 다 뭐냐면 배안 장기들이에요. 그러니까 배안 장기들을 이렇게 보호를 해줍니다. / Evidence: 복벽 근육은 체벽 지지에 기여한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "_____은 몸통 자세 유지에 기여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 몸통 자세 유지에 기여한다. / Original: 몸통의 자세를 유지해주는 그런 역할을 하는 것들이 바로 anterolateral abdominal muscle(앞가쪽배근)입니다. / Evidence: 복벽 근육은 체간 안정성과 자세 유지에 관여한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1100_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0025"
+      ],
+      "prompt": "_____은 평편근 3개와 수직근 2개로 구성된다고 볼 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 평편근 3개와 수직근 2개로 구성된다고 볼 수 있다. / Original: 앞쪽에서 잠시 봤었는데 anterolateral abdominal muscle(앞가쪽배근)은 크게 flat한 게 3개가 있고 vertical한 게 가운데로 2개가 있습니다. / Evidence: 전외측 복벽의 표준 분류와 부합한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0017"
+      ],
+      "prompt": "_____는 복벽 전면에서 잘 보이는 근육이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)는 복벽 전면에서 잘 보이는 근육이다. / Original: rectus abdominis muscle(배곧은근)가 가장 잘 보여지는 게 ... rectus abdominis muscle(배곧은근)입니다. / Evidence: 복직근은 전복벽의 대표적인 표층 근육이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0018"
+      ],
+      "prompt": "_____는 rectus sheath(배곧은근집) 안에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)는 rectus sheath(배곧은근집) 안에 있다. / Original: rectus sheath(배곧은근집)에 쌓여 있습니다. / Evidence: 복직근은 복직근집에 의해 둘러싸인다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0018"
+      ],
+      "prompt": "rectus abdominis muscle(배곧은근)는 _____ 안에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus sheath(배곧은근집)",
+        "accepted_answers": [
+          "rectus sheath(배곧은근집)",
+          "rectus sheath",
+          "배곧은근집"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus sheath(배곧은근집)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)는 rectus sheath(배곧은근집) 안에 있다. / Original: rectus sheath(배곧은근집)에 쌓여 있습니다. / Evidence: 복직근은 복직근집에 의해 둘러싸인다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0020"
+      ],
+      "prompt": "_____는 복부 장기를 압박하는 데 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)는 복부 장기를 압박하는 데 관여한다. / Original: 얘네들은 배안 장기를 눌러주고 / Evidence: 복직근은 복압 증가와 복부 내용물 압박에 기여한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0021"
+      ],
+      "prompt": "_____는 골반과 척추를 굴곡시키는 작용을 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0021",
+        "confidence": "높음 ## 20260402-1200_chunk_002",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)는 골반과 척추를 굴곡시키는 작용을 한다. / Original: 세로로 되어 있어서 골반 척추를 굽혀주고 / Evidence: 복직근은 몸통 굴곡과 골반 후방경사에 기여한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "_____은 rectus sheath(배곧은근집) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)은 rectus sheath(배곧은근집) 안에 위치한다. / Original: 여기에 지금 rectus abdominis muscle(배곧은근)이 위치를 한다. / Evidence: rectus abdominis muscle(배곧은근)은 배곧은근집 안을 주행하는 근육이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "rectus abdominis muscle(배곧은근)은 _____ 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus sheath(배곧은근집)",
+        "accepted_answers": [
+          "rectus sheath(배곧은근집)",
+          "rectus sheath",
+          "배곧은근집"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus sheath(배곧은근집)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectus abdominis muscle(배곧은근)은 rectus sheath(배곧은근집) 안에 위치한다. / Original: 여기에 지금 rectus abdominis muscle(배곧은근)이 위치를 한다. / Evidence: rectus abdominis muscle(배곧은근)은 배곧은근집 안을 주행하는 근육이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0011"
+      ],
+      "prompt": "T7에서 T12의 _____는 전벽 배벽의 nerve(신경) 공급에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior rami(앞가지)",
+        "accepted_answers": [
+          "anterior rami(앞가지)",
+          "anterior rami",
+          "앞가지"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior rami(앞가지)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: T7에서 T12의 anterior rami(앞가지)는 전벽 배벽의 nerve(신경) 공급에 관여한다. / Original: 이 신경들은 T7에서 T12의 nerve(신경)의 anterior ramus(앞가지)의 끝부분이 / Evidence: 하부 흉신경의 anterior ramus(앞가지)는 배벽의 감각과 운동을 담당한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0011"
+      ],
+      "prompt": "T7에서 T12의 anterior rami(앞가지)는 전벽 배벽의 _____ 공급에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "nerve(신경)",
+        "accepted_answers": [
+          "nerve(신경)",
+          "nerve",
+          "신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "nerve(신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: T7에서 T12의 anterior rami(앞가지)는 전벽 배벽의 nerve(신경) 공급에 관여한다. / Original: 이 신경들은 T7에서 T12의 nerve(신경)의 anterior ramus(앞가지)의 끝부분이 / Evidence: 하부 흉신경의 anterior ramus(앞가지)는 배벽의 감각과 운동을 담당한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "T7에서 T12의 anterior rami는 _____과 skin(피부)를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscle(근육)",
+        "accepted_answers": [
+          "muscle(근육)",
+          "muscle",
+          "근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscle(근육)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: T7에서 T12의 anterior rami는 muscle(근육)과 skin(피부)를 지배한다. / Original: 얘네들은 다 muscle(근육) skin(피부)에 분포를 하는데 / Evidence: 하부 흉신경은 배벽 muscle(근육)과 skin(피부)에 분포한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "T7에서 T12의 anterior rami는 muscle(근육)과 _____를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "skin(피부)",
+        "accepted_answers": [
+          "skin(피부)",
+          "skin",
+          "피부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "skin(피부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: T7에서 T12의 anterior rami는 muscle(근육)과 skin(피부)를 지배한다. / Original: 얘네들은 다 muscle(근육) skin(피부)에 분포를 하는데 / Evidence: 하부 흉신경은 배벽 muscle(근육)과 skin(피부)에 분포한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "_____는 inguinal canal(샅굴)을 통과해 superficial inguinal ring(얕은샅굴고리)으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "ilioinguinal nerve(샅굴신경)",
+        "accepted_answers": [
+          "ilioinguinal nerve(샅굴신경)",
+          "ilioinguinal nerve",
+          "샅굴신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "ilioinguinal nerve(샅굴신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: ilioinguinal nerve(샅굴신경)는 inguinal canal(샅굴)을 통과해 superficial inguinal ring(얕은샅굴고리)으로 나온다. / Original: inguinal canal(샅굴)을 타고, 이거를 지나고 옵니다. inguinal canal(샅굴)이 지나가고 오는 것은 ... superficial inguinal ring(얕은샅굴고리)을 뚫고 안쪽으로 이렇게 나오게 됩니다. / Evidence: 샅굴신경은 샅굴관을 지나 superficial inguinal ring(얕은샅굴고리)로 나오는 것이 표준 해부학이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "ilioinguinal nerve(샅굴신경)는 _____을 통과해 superficial inguinal ring(얕은샅굴고리)으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal canal(샅굴)",
+        "accepted_answers": [
+          "inguinal canal(샅굴)",
+          "inguinal canal",
+          "샅굴"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal canal(샅굴)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: ilioinguinal nerve(샅굴신경)는 inguinal canal(샅굴)을 통과해 superficial inguinal ring(얕은샅굴고리)으로 나온다. / Original: inguinal canal(샅굴)을 타고, 이거를 지나고 옵니다. inguinal canal(샅굴)이 지나가고 오는 것은 ... superficial inguinal ring(얕은샅굴고리)을 뚫고 안쪽으로 이렇게 나오게 됩니다. / Evidence: 샅굴신경은 샅굴관을 지나 superficial inguinal ring(얕은샅굴고리)로 나오는 것이 표준 해부학이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "ilioinguinal nerve(샅굴신경)는 inguinal canal(샅굴)을 통과해 _____으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superficial inguinal ring(얕은샅굴고리)",
+        "accepted_answers": [
+          "superficial inguinal ring(얕은샅굴고리)",
+          "superficial inguinal ring",
+          "얕은샅굴고리"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superficial inguinal ring(얕은샅굴고리)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: ilioinguinal nerve(샅굴신경)는 inguinal canal(샅굴)을 통과해 superficial inguinal ring(얕은샅굴고리)으로 나온다. / Original: inguinal canal(샅굴)을 타고, 이거를 지나고 옵니다. inguinal canal(샅굴)이 지나가고 오는 것은 ... superficial inguinal ring(얕은샅굴고리)을 뚫고 안쪽으로 이렇게 나오게 됩니다. / Evidence: 샅굴신경은 샅굴관을 지나 superficial inguinal ring(얕은샅굴고리)로 나오는 것이 표준 해부학이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0018"
+      ],
+      "prompt": "_____는 aorta(대동맥)에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcostal artery(갈비밑동맥)",
+        "accepted_answers": [
+          "subcostal artery(갈비밑동맥)",
+          "subcostal artery",
+          "갈비밑동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subcostal artery(갈비밑동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0018",
+        "confidence": "높음 ## 20260402-1200_chunk_006",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal artery(갈비밑동맥)는 aorta(대동맥)에서 기시한다. / Original: 맨 마지막에 subcostal artery(갈비밑동맥)도 마찬가지입니다. aorta(대동맥)에서 origin한 / Evidence: subcostal artery(갈비밑동맥)은 aorta(대동맥)의 가지이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0018"
+      ],
+      "prompt": "subcostal artery(갈비밑동맥)는 _____에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "aorta(대동맥)",
+        "accepted_answers": [
+          "aorta(대동맥)",
+          "aorta",
+          "대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "aorta(대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0018",
+        "confidence": "높음 ## 20260402-1200_chunk_006",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal artery(갈비밑동맥)는 aorta(대동맥)에서 기시한다. / Original: 맨 마지막에 subcostal artery(갈비밑동맥)도 마찬가지입니다. aorta(대동맥)에서 origin한 / Evidence: subcostal artery(갈비밑동맥)은 aorta(대동맥)의 가지이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0001"
+      ],
+      "prompt": "_____는 aorta(대동맥)에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcostal artery(갈비밑동맥)",
+        "accepted_answers": [
+          "subcostal artery(갈비밑동맥)",
+          "subcostal artery",
+          "갈비밑동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subcostal artery(갈비밑동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal artery(갈비밑동맥)는 aorta(대동맥)에서 기시한다. / Original: subcostal artery(갈비밑동맥)도 마찬가지입니다. aorta(대동맥)에서 origin한 / Evidence: subcostal artery(갈비밑동맥)는 aorta(대동맥)의 후방에서 나오는 분지이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0001"
+      ],
+      "prompt": "subcostal artery(갈비밑동맥)는 _____에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "aorta(대동맥)",
+        "accepted_answers": [
+          "aorta(대동맥)",
+          "aorta",
+          "대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "aorta(대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal artery(갈비밑동맥)는 aorta(대동맥)에서 기시한다. / Original: subcostal artery(갈비밑동맥)도 마찬가지입니다. aorta(대동맥)에서 origin한 / Evidence: subcostal artery(갈비밑동맥)는 aorta(대동맥)의 후방에서 나오는 분지이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0005"
+      ],
+      "prompt": "_____은 portal system(문맥계)으로 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "paraumbilical vein(배꼽주위정맥)",
+        "accepted_answers": [
+          "paraumbilical vein(배꼽주위정맥)",
+          "paraumbilical vein",
+          "배꼽주위정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "paraumbilical vein(배꼽주위정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: paraumbilical vein(배꼽주위정맥)은 portal system(문맥계)으로 연결된다. / Original: 이거는 안쪽으로 해서 portal system(문맥계)으로 들어가는 / Evidence: 배꼽주위정맥은 간문맥계와 문맥-체정맥 문합을 이룬다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0005"
+      ],
+      "prompt": "paraumbilical vein(배꼽주위정맥)은 _____으로 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "portal system(문맥계)",
+        "accepted_answers": [
+          "portal system(문맥계)",
+          "portal system",
+          "문맥계"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "portal system(문맥계)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: paraumbilical vein(배꼽주위정맥)은 portal system(문맥계)으로 연결된다. / Original: 이거는 안쪽으로 해서 portal system(문맥계)으로 들어가는 / Evidence: 배꼽주위정맥은 간문맥계와 문맥-체정맥 문합을 이룬다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "림프는 _____와 deep lymph(깊은림프)로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superficial lymph(얕은림프)",
+        "accepted_answers": [
+          "superficial lymph(얕은림프)",
+          "superficial lymph",
+          "얕은림프"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superficial lymph(얕은림프)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 림프는 superficial lymph(얕은림프)와 deep lymph(깊은림프)로 구분할 수 있다. / Original: superficial lymph(얕은림프) 같은 경우에는 항상 기본은 그거죠. superficial lymph(얕은림프)가 있고 deep lymph(깊은림프)가 있습니다. / Evidence: 림프관은 표재성과 심부계로 나뉜다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "림프는 superficial lymph(얕은림프)와 _____로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep lymph(깊은림프)",
+        "accepted_answers": [
+          "deep lymph(깊은림프)",
+          "deep lymph",
+          "깊은림프"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep lymph(깊은림프)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 림프는 superficial lymph(얕은림프)와 deep lymph(깊은림프)로 구분할 수 있다. / Original: superficial lymph(얕은림프) 같은 경우에는 항상 기본은 그거죠. superficial lymph(얕은림프)가 있고 deep lymph(깊은림프)가 있습니다. / Evidence: 림프관은 표재성과 심부계로 나뉜다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0013"
+      ],
+      "prompt": "_____는 deep vein(깊은정맥)과 동행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep lymph(깊은림프)",
+        "accepted_answers": [
+          "deep lymph(깊은림프)",
+          "deep lymph",
+          "깊은림프"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep lymph(깊은림프)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep lymph(깊은림프)는 deep vein(깊은정맥)과 동행한다. / Original: deep lymph(깊은림프)는 항상 뭐하고 같이 가느냐 하면 deep vein(깊은정맥)하고 같이 움직입니다. / Evidence: 심부 림프관은 대개 심부 정맥을 따라 주행한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260402-1200_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0013"
+      ],
+      "prompt": "deep lymph(깊은림프)는 _____과 동행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep vein(깊은정맥)",
+        "accepted_answers": [
+          "deep vein(깊은정맥)",
+          "deep vein",
+          "깊은정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep vein(깊은정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep lymph(깊은림프)는 deep vein(깊은정맥)과 동행한다. / Original: deep lymph(깊은림프)는 항상 뭐하고 같이 가느냐 하면 deep vein(깊은정맥)하고 같이 움직입니다. / Evidence: 심부 림프관은 대개 심부 정맥을 따라 주행한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0039_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0039"
+      ],
+      "prompt": "_____에서 bladder(방광)까지의 소변 배출 경로를 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "renal papilla(신유두)",
+        "accepted_answers": [
+          "renal papilla(신유두)",
+          "renal papilla",
+          "신유두"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "renal papilla(신유두)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0039",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: renal papilla(신유두)에서 bladder(방광)까지의 소변 배출 경로를 설명한다. / Original: 이렇게 지금 빠져나가는 경로 단계를 보여주고 있습니다. / Evidence: 문맥상 집합관에서 요로로 이어지는 배출 경로를 설명한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0039_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0039"
+      ],
+      "prompt": "renal papilla(신유두)에서 _____까지의 소변 배출 경로를 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "bladder(방광)",
+        "accepted_answers": [
+          "bladder(방광)",
+          "bladder",
+          "방광"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "bladder(방광)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0039",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: renal papilla(신유두)에서 bladder(방광)까지의 소변 배출 경로를 설명한다. / Original: 이렇게 지금 빠져나가는 경로 단계를 보여주고 있습니다. / Evidence: 문맥상 집합관에서 요로로 이어지는 배출 경로를 설명한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0001"
+      ],
+      "prompt": "_____에 의한 미세순환에는 3가지 경로가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "capillary(모세혈관)",
+        "accepted_answers": [
+          "capillary(모세혈관)",
+          "capillary",
+          "모세혈관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "capillary(모세혈관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: capillary(모세혈관)에 의한 미세순환에는 3가지 경로가 있다. / Original: 조직학 인트로에서 우리 capillary(모세혈관)에 의한 미세순환에는 3가지가 있었습니다. / Evidence: 미세순환은 일반적으로 단순 경로, 단락 경로, 문맥계로 나누어 설명한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "prompt": "사구체 여과에서 물질은 먼저 _____를, 그다음 basement membrane(기저막)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "endothelium(내피)",
+        "accepted_answers": [
+          "endothelium(내피)",
+          "endothelium",
+          "내피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "endothelium(내피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "prompt": "사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "basement membrane(기저막)",
+        "accepted_answers": [
+          "basement membrane(기저막)",
+          "basement membrane",
+          "기저막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "basement membrane(기저막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "prompt": "사구체 여과에서 물질은 _____ 사이의 filtration slit(여과틈새)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pedicel(족돌기)",
+        "accepted_answers": [
+          "pedicel(족돌기)",
+          "pedicel",
+          "족돌기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pedicel(족돌기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "prompt": "사구체 여과에서 물질은 pedicel(족돌기) 사이의 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "filtration slit(여과틈새)",
+        "accepted_answers": [
+          "filtration slit(여과틈새)",
+          "filtration slit",
+          "여과틈새"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "filtration slit(여과틈새)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0003"
+      ],
+      "prompt": "_____와 tubular pole(세뇨관극)은 cortex(겉질)에서 관찰된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "glomerulus(토리)",
+        "accepted_answers": [
+          "glomerulus(토리)",
+          "glomerulus",
+          "토리"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "glomerulus(토리)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(토리)와 tubular pole(세뇨관극)은 cortex(겉질)에서 관찰된다. / Original: cortex(겉질)를 보니까 되게 이렇게 glomerulus(토리), 그다음에 tubular pole(세뇨관극) 이런 게 관찰이 되는 것은 cortex(겉질) 부분입니다. / Evidence: 둘 다 신소체의 피질 내 구조이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0003"
+      ],
+      "prompt": "glomerulus(토리)와 _____은 cortex(겉질)에서 관찰된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "tubular pole(세뇨관극)",
+        "accepted_answers": [
+          "tubular pole(세뇨관극)",
+          "tubular pole",
+          "세뇨관극"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "tubular pole(세뇨관극)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(토리)와 tubular pole(세뇨관극)은 cortex(겉질)에서 관찰된다. / Original: cortex(겉질)를 보니까 되게 이렇게 glomerulus(토리), 그다음에 tubular pole(세뇨관극) 이런 게 관찰이 되는 것은 cortex(겉질) 부분입니다. / Evidence: 둘 다 신소체의 피질 내 구조이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260413-1200_P0003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0003"
+      ],
+      "prompt": "glomerulus(토리)와 tubular pole(세뇨관극)은 _____에서 관찰된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cortex(겉질)",
+        "accepted_answers": [
+          "cortex(겉질)",
+          "cortex",
+          "겉질"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cortex(겉질)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(토리)와 tubular pole(세뇨관극)은 cortex(겉질)에서 관찰된다. / Original: cortex(겉질)를 보니까 되게 이렇게 glomerulus(토리), 그다음에 tubular pole(세뇨관극) 이런 게 관찰이 되는 것은 cortex(겉질) 부분입니다. / Evidence: 둘 다 신소체의 피질 내 구조이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0012"
+      ],
+      "prompt": "_____은 T8 높이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "caval opening(대정맥구멍)",
+        "accepted_answers": [
+          "caval opening(대정맥구멍)",
+          "caval opening",
+          "대정맥구멍"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "caval opening(대정맥구멍)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: caval opening(대정맥구멍)은 T8 높이에 있다. / Original: caval opening(대정맥구멍) 같은 경우에는 T8 높이고 / Evidence: caval opening(대정맥구멍)의 표준 척추 높이는 T8이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0008"
+      ],
+      "prompt": "_____은 T8 높이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "caval opening(대정맥구멍)",
+        "accepted_answers": [
+          "caval opening(대정맥구멍)",
+          "caval opening",
+          "대정맥구멍"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "caval opening(대정맥구멍)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: caval opening(대정맥구멍)은 T8 높이에 있다. / Original: 높이는 T8번 위치에 있습니다. / Evidence: 대정맥구멍의 대표적인 척추 수준은 T8이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0006"
+      ],
+      "prompt": "_____는 근육을 싸는 근막이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep fascia(깊은근막)",
+        "accepted_answers": [
+          "deep fascia(깊은근막)",
+          "deep fascia",
+          "깊은근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep fascia(깊은근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep fascia(깊은근막)는 근육을 싸는 근막이다. / Original: 먼저 deep fascia(깊은근막)는 큰 근육을 싸고 있는 거지. / Evidence: deep fascia(깊은근막)은 근육을 감싸고 지지하는 결합조직층이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0020"
+      ],
+      "prompt": "_____은 L2, L3의 lumbar nerve(허리신경) 앞가지로 지배된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "psoas major muscle(큰허리근)",
+        "accepted_answers": [
+          "psoas major muscle(큰허리근)",
+          "psoas major muscle",
+          "큰허리근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "psoas major muscle(큰허리근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas major muscle(큰허리근)은 L2, L3의 lumbar nerve(허리신경) 앞가지로 지배된다. / Original: L2, L3의 lumbar nerve(허리신경) 앞가지에 대해서 신경지배를 받고 있습니다. / Evidence: 큰허리근은 주로 요신경총의 분지인 L1-L3 앞가지 지배를 받는다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0020"
+      ],
+      "prompt": "psoas major muscle(큰허리근)은 L2, L3의 _____ 앞가지로 지배된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar nerve(허리신경)",
+        "accepted_answers": [
+          "lumbar nerve(허리신경)",
+          "lumbar nerve",
+          "허리신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lumbar nerve(허리신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas major muscle(큰허리근)은 L2, L3의 lumbar nerve(허리신경) 앞가지로 지배된다. / Original: L2, L3의 lumbar nerve(허리신경) 앞가지에 대해서 신경지배를 받고 있습니다. / Evidence: 큰허리근은 주로 요신경총의 분지인 L1-L3 앞가지 지배를 받는다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0024"
+      ],
+      "prompt": "_____은 L1 앞가지의 신경지배를 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "psoas minor muscle(작은허리근)",
+        "accepted_answers": [
+          "psoas minor muscle(작은허리근)",
+          "psoas minor muscle",
+          "작은허리근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "psoas minor muscle(작은허리근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas minor muscle(작은허리근)은 L1 앞가지의 신경지배를 받는다. / Original: L1의 앞가지에 의해서 신경지배를 받게 됩니다. / Evidence: 작은허리근의 대표적 신경지배는 L1 앞가지이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0005"
+      ],
+      "prompt": "_____과 iliopsoas muscle(엉덩허리근)은 같은 근육을 가리킨다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliopsoas muscle(엉덩허리근)",
+        "accepted_answers": [
+          "iliopsoas muscle(엉덩허리근)",
+          "iliopsoas muscle",
+          "엉덩허리근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliopsoas muscle(엉덩허리근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliopsoas muscle(엉덩허리근)과 iliopsoas muscle(엉덩허리근)은 같은 근육을 가리킨다. / Original: iliopsoas muscle(엉덩허근)이 iliopsoas muscle(엉덩허리근)입니다. / Evidence: 원문은 같은 용어의 표기 차이를 말한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0008"
+      ],
+      "prompt": "_____ artery(부신동맥)들은 보통 L1 또는 L2 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "suprarenal(부신)",
+        "accepted_answers": [
+          "suprarenal(부신)",
+          "suprarenal",
+          "부신"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "suprarenal(부신)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0008",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: suprarenal(부신) artery(부신동맥)들은 보통 L1 또는 L2 높이에서 분지한다. / Original: 이 suprarenal(부신) 같은 경우는 보통 L1(1번 허리뼈) 또는 L2(2번 허리뼈)에서 나옵니다. / Evidence: suprarenal(부신) 관련 동맥 분지는 대체로 L1-L2 수준에서 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0008"
+      ],
+      "prompt": "suprarenal(부신) _____들은 보통 L1 또는 L2 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "artery(부신동맥)",
+        "accepted_answers": [
+          "artery(부신동맥)",
+          "artery",
+          "부신동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "artery(부신동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0008",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: suprarenal(부신) artery(부신동맥)들은 보통 L1 또는 L2 높이에서 분지한다. / Original: 이 suprarenal(부신) 같은 경우는 보통 L1(1번 허리뼈) 또는 L2(2번 허리뼈)에서 나옵니다. / Evidence: suprarenal(부신) 관련 동맥 분지는 대체로 L1-L2 수준에서 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0009"
+      ],
+      "prompt": "_____는 보통 L1 또는 L2 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "renal artery(콩팥동맥)",
+        "accepted_answers": [
+          "renal artery(콩팥동맥)",
+          "renal artery",
+          "콩팥동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "renal artery(콩팥동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: renal artery(콩팥동맥)는 보통 L1 또는 L2 높이에서 분지한다. / Original: 오른쪽 renal artery(콩팥동맥), 왼쪽 renal artery(콩팥동맥)도 나오는 것이 보통 L1(1번 허리뼈) 또는 L2(2번 허리뼈) 높이에서 나온다고 생각하시면 됩니다. / Evidence: renal artery(콩팥동맥)의 일반적 기시 수준은 L1-L2 부근이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0007"
+      ],
+      "prompt": "_____은 T8 높이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "caval opening(대정맥구멍)",
+        "accepted_answers": [
+          "caval opening(대정맥구멍)",
+          "caval opening",
+          "대정맥구멍"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "caval opening(대정맥구멍)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: caval opening(대정맥구멍)은 T8 높이에 있다. / Original: caval opening(대정맥구멍)은 T8 높습니다. / Evidence: caval opening(대정맥구멍)은 횡격막의 T8 수준에 위치한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0023"
+      ],
+      "prompt": "_____는 L2 수준과 연관된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "renal artery(콩팥동맥)",
+        "accepted_answers": [
+          "renal artery(콩팥동맥)",
+          "renal artery",
+          "콩팥동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "renal artery(콩팥동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0023",
+        "confidence": "중간",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: renal artery(콩팥동맥)는 L2 수준과 연관된다. / Original: renal artery(콩팥동맥) 같은 경우에 L2라고 얘기했습니다. / Evidence: renal artery(콩팥동맥)의 기시는 대체로 L1-L2 부근으로 설명된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1400_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0024"
+      ],
+      "prompt": "_____은 대략 L1 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "trans-pyloric plane(유문횡평면)",
+        "accepted_answers": [
+          "trans-pyloric plane(유문횡평면)",
+          "trans-pyloric plane",
+          "유문횡평면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "trans-pyloric plane(유문횡평면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: trans-pyloric plane(유문횡평면)은 대략 L1 수준에 해당한다. / Original: trans-pyloric plane(유문횡평면) ... 아홉 번째 costal cartilage(갈비연골) 끝하고 L1하고 연결되는 데 하고 관련이 있다 / Evidence: trans-pyloric plane(유문횡평면)은 일반적으로 L1 높이의 기준면이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0010"
+      ],
+      "prompt": "_____는 L1에서 L4까지의 앞가지로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar plexus(허리신경얼기)",
+        "accepted_answers": [
+          "lumbar plexus(허리신경얼기)",
+          "lumbar plexus",
+          "허리신경얼기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lumbar plexus(허리신경얼기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lumbar plexus(허리신경얼기)는 L1에서 L4까지의 앞가지로 구성된다. / Original: lumbar plexus(허리신경얼기) 같은 경우에는 L1에서 L4까지의 앞가지로 구성이 되어져 있습니다. / Evidence: 요신경얼기는 L1-L4 전가지로 형성된다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0015"
+      ],
+      "prompt": "_____는 L1, L2에서 기원한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "genitofemoral nerve(음부넙다리신경)",
+        "accepted_answers": [
+          "genitofemoral nerve(음부넙다리신경)",
+          "genitofemoral nerve",
+          "음부넙다리신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "genitofemoral nerve(음부넙다리신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: genitofemoral nerve(음부넙다리신경)는 L1, L2에서 기원한다. / Original: genitofemoral nerve(음부넙다리신경) ... 그게 L1, L2 기원이다. / Evidence: genitofemoral nerve(음부넙다리신경)은 보통 L1-L2 전가지에서 나온다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0023"
+      ],
+      "prompt": "_____는 L1, L2에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "genitofemoral nerve(음부넙다리신경)",
+        "accepted_answers": [
+          "genitofemoral nerve(음부넙다리신경)",
+          "genitofemoral nerve",
+          "음부넙다리신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "genitofemoral nerve(음부넙다리신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: genitofemoral nerve(음부넙다리신경)는 L1, L2에서 온다. / Original: genitofemoral nerve(음부넙다리신경) 같은 경우 앞서 받은 L1, L2에서 온 겁니다. / Evidence: genitofemoral nerve(음부넙다리신경)의 표준 기원은 L1-L2이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0020"
+      ],
+      "prompt": "_____는 주로 L1-L3에서 일어난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "least splanchnic nerve(가장 작은 스플래닉 신경)",
+        "accepted_answers": [
+          "least splanchnic nerve(가장 작은 스플래닉 신경)",
+          "least splanchnic nerve",
+          "가장 작은 스플래닉 신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "least splanchnic nerve(가장 작은 스플래닉 신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: least splanchnic nerve(가장 작은 스플래닉 신경)는 주로 L1-L3에서 일어난다. / Original: least splanchnic nerve(가장 작은 스플래닉 신경) 같은 경우에 이거는 주로 L1-L3에서 일어나게 됩니다. / Evidence: least splanchnic nerve(가장 작은 스플래닉 신경)는 요추부에서 기시하는 것으로 알려져 있다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0023"
+      ],
+      "prompt": "_____는 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)로 들어가며 S2-S4에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic splanchnic nerve(펠빅 스플래닉 신경)",
+        "accepted_answers": [
+          "pelvic splanchnic nerve(펠빅 스플래닉 신경)",
+          "pelvic splanchnic nerve",
+          "펠빅 스플래닉 신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic splanchnic nerve(펠빅 스플래닉 신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic splanchnic nerve(펠빅 스플래닉 신경)는 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)로 들어가며 S2-S4에서 나온다. / Original: pelvic splanchnic nerve(펠빅 스플래닉 신경)도 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)로 들어가는데 요번은 S2에서 S4의 앞까지입니다. / Evidence: pelvic splanchnic nerves는 S2-S4의 전근에서 나와 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)에 합류한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0023_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0023"
+      ],
+      "prompt": "pelvic splanchnic nerve(펠빅 스플래닉 신경)는 _____로 들어가며 S2-S4에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)",
+        "accepted_answers": [
+          "inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)",
+          "inferior hypogastric plexus",
+          "인페리어 하이포가스트릭 플렉서스"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic splanchnic nerve(펠빅 스플래닉 신경)는 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)로 들어가며 S2-S4에서 나온다. / Original: pelvic splanchnic nerve(펠빅 스플래닉 신경)도 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)로 들어가는데 요번은 S2에서 S4의 앞까지입니다. / Evidence: pelvic splanchnic nerves는 S2-S4의 전근에서 나와 inferior hypogastric plexus(인페리어 하이포가스트릭 플렉서스)에 합류한다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p004_recording_20260415-1500_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0003"
+      ],
+      "prompt": "통증이 일어난 장기와 같은 척수절의 체성 감각 _____ 섬유에서 통증이 느껴질 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "somatic sensory nerve(신경)",
+        "accepted_answers": [
+          "somatic sensory nerve(신경)",
+          "somatic sensory nerve",
+          "신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "somatic sensory nerve(신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 통증이 일어난 장기와 같은 척수절의 체성 감각 somatic sensory nerve(신경) 섬유에서 통증이 느껴질 수 있다. / Original: 그러다 보니까 통증이 일어난 장기하고 같은 척수절(spinal segment)에 있는 몸 감각 신경 섬유(somatic sensory nerve(신경) fibers) 있는 데서 이제 동일한 통증을 느끼는 겁니다. / Evidence: referred pain은 같은 척수 분절로 들어오는 체성 감각에 통증이 투사되는 현상이다. / Page match: approximate keyword match against existing page text."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 24,
+    "question_count": 111,
     "question_type_count": {
-      "fill_blank": 22,
+      "fill_blank": 109,
       "image_grounded_fill_blank": 2
     },
     "question_focus_count": {
-      "course_exam_style_provisional": 1,
-      "course_exam_style": 4,
-      "recording_proposition_review": 19
+      "course_exam_style_provisional": 11,
+      "course_exam_style": 9,
+      "recording_proposition_review": 91
     }
   },
   "blocked_image_question_reasons": [],
@@ -849,16 +4222,8 @@
         "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 87,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 24,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -1124,15 +4489,8 @@
         "static_page_file": "pages/2026__p042__e4972a401b99.json"
       },
       {
-        "page_number": 43,
-        "question_count": 33,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__8545104b7256.json"
-      },
-      {
         "page_number": 44,
-        "question_count": 55,
+        "question_count": 88,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
@@ -1187,15 +4545,8 @@
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
       },
       {
-        "page_number": 52,
-        "question_count": 37,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__e138b8f71020.json"
-      },
-      {
         "page_number": 53,
-        "question_count": 85,
+        "question_count": 122,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json"
@@ -1936,13 +5287,6 @@
         "static_page_file": "pages/2026__p158__aad68362f95a.json"
       },
       {
-        "page_number": 159,
-        "question_count": 0,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__92b999952d4c.json"
-      },
-      {
         "page_number": 160,
         "question_count": 0,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -2090,8 +5434,8 @@
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
       }
     ],
-    "current_index": 4,
-    "previous_page": 4,
+    "current_index": 3,
+    "previous_page": 3,
     "next_page": 6
   },
   "review_image_url": "./data/images/2026__p005__f80a8587c53a.webp",

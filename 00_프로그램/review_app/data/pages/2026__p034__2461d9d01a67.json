@@ -66,16 +66,8 @@
         "review_image_url": "./data/images/2026__p001__52e6b9b37a10.webp"
       },
       {
-        "page_number": 3,
-        "question_count": 15,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p003__4fac792dc5fb.json",
-        "review_image_url": "./data/images/2026__p003__4fac792dc5fb.webp"
-      },
-      {
         "page_number": 4,
-        "question_count": 18,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -335,15 +327,8 @@
         "static_page_file": "pages/2026__p045__ed4889042d26.json"
       },
       {
-        "page_number": 46,
-        "question_count": 12,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p046__8eea0b0c7683.json"
-      },
-      {
         "page_number": 48,
-        "question_count": 1,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json"
@@ -615,15 +600,8 @@
         "static_page_file": "pages/2026__p106__b0731eb71416.json"
       },
       {
-        "page_number": 107,
-        "question_count": 9,
-        "finalization_status": "question_set_provisional_from_recording_propositions",
-        "page_read_status": "recording_proposition_page_estimate",
-        "static_page_file": "pages/2026__p107__b7a2d68aa454.json"
-      },
-      {
         "page_number": 108,
-        "question_count": 3,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p108__ccc6b5704941.json"
@@ -685,7 +663,7 @@
         "static_page_file": "pages/2026__p128__8481c46b439a.json"
       }
     ],
-    "current_index": 24,
+    "current_index": 23,
     "previous_page": 33,
     "next_page": 35
   },

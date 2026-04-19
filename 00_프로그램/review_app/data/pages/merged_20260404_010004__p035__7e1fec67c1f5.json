@@ -1599,16 +1599,1921 @@
         "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
         "full": "원문 명제: 가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
       }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_001"
+      ],
+      "prompt": "_____의 영어 이름은 mediastinum이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴세로칸",
+        "accepted_answers": [
+          "가슴세로칸"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴세로칸"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_001"
+      ],
+      "prompt": "가슴세로칸의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mediastinum",
+        "accepted_answers": [
+          "mediastinum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mediastinum"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_001"
+      ],
+      "prompt": "(__1__)의 영어 이름은 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴세로칸",
+          "mediastinum"
+        ],
+        "accepted_answers": [
+          [
+            "가슴세로칸"
+          ],
+          [
+            "mediastinum"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴세로칸",
+          "mediastinum"
+        ]
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_002"
+      ],
+      "prompt": "_____의 영어 이름은 esophagus이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도",
+        "accepted_answers": [
+          "식도"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 식도의 영어 이름은 esophagus이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_002"
+      ],
+      "prompt": "식도의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "esophagus",
+        "accepted_answers": [
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "esophagus"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 식도의 영어 이름은 esophagus이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_002"
+      ],
+      "prompt": "(__1__)의 영어 이름은 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "식도",
+          "esophagus"
+        ],
+        "accepted_answers": [
+          [
+            "식도"
+          ],
+          [
+            "esophagus"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "식도",
+          "esophagus"
+        ]
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 식도의 영어 이름은 esophagus이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_003"
+      ],
+      "prompt": "_____의 영어 이름은 cervical region이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목",
+        "accepted_answers": [
+          "목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_003"
+      ],
+      "prompt": "목의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cervical region",
+        "accepted_answers": [
+          "cervical region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cervical region"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_003"
+      ],
+      "prompt": "(__1__)의 영어 이름은 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "목",
+          "cervical region"
+        ],
+        "accepted_answers": [
+          [
+            "목"
+          ],
+          [
+            "cervical region"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "목",
+          "cervical region"
+        ]
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_004"
+      ],
+      "prompt": "_____의 영어 이름은 thorax이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴",
+        "accepted_answers": [
+          "가슴"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_004"
+      ],
+      "prompt": "가슴의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "thorax",
+        "accepted_answers": [
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "thorax"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_course_가슴_필기본_034_trans_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "가슴_필기본_034_trans_004"
+      ],
+      "prompt": "(__1__)의 영어 이름은 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴",
+          "thorax"
+        ],
+        "accepted_answers": [
+          [
+            "가슴"
+          ],
+          [
+            "thorax"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴",
+          "thorax"
+        ]
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_001"
+      ],
+      "prompt": "_____은 목(cervical region)과 배(abdominal region) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "가슴",
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 _____과 배(abdominal region) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목(cervical region)",
+        "accepted_answers": [
+          "목(cervical region)",
+          "목",
+          "cervical region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목(cervical region)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 목(cervical region)과 _____ 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배(abdominal region)",
+        "accepted_answers": [
+          "배(abdominal region)",
+          "배",
+          "abdominal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배(abdominal region)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 목(cervical region)과 배(abdominal region) _____",
+      "answer": {
+        "format": "single_text",
+        "value": "사이에 위치한다.",
+        "accepted_answers": [
+          "사이에 위치한다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "사이에 위치한다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_001"
+      ],
+      "prompt": "(__1__)은 (__2__)과 (__3__) (__4__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴(thorax)",
+          "목(cervical region)",
+          "배(abdominal region)",
+          "사이에 위치한다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴(thorax)",
+            "가슴",
+            "thorax"
+          ],
+          [
+            "목(cervical region)",
+            "목",
+            "cervical region"
+          ],
+          [
+            "배(abdominal region)",
+            "배",
+            "abdominal region"
+          ],
+          [
+            "사이에 위치한다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴(thorax)",
+          "목(cervical region)",
+          "배(abdominal region)",
+          "사이에 위치한다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "_____은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "가슴",
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 _____, 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴벽(thoracic wall)",
+        "accepted_answers": [
+          "가슴벽(thoracic wall)",
+          "가슴벽",
+          "thoracic wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴벽(thoracic wall)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), _____, 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), _____로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안 장기(thoracic organs)",
+        "accepted_answers": [
+          "가슴안 장기(thoracic organs)",
+          "가슴안 장기",
+          "thoracic organs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안 장기(thoracic organs)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "로 구성된다.",
+        "accepted_answers": [
+          "로 구성된다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "로 구성된다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_002_006",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_002"
+      ],
+      "prompt": "(__1__)은 (__2__), (__3__), (__4__)로 구성된다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴(thorax)",
+          "가슴벽(thoracic wall)",
+          "가슴안(thoracic cavity)",
+          "가슴안 장기(thoracic organs)"
+        ],
+        "accepted_answers": [
+          [
+            "가슴(thorax)",
+            "가슴",
+            "thorax"
+          ],
+          [
+            "가슴벽(thoracic wall)",
+            "가슴벽",
+            "thoracic wall"
+          ],
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "가슴안 장기(thoracic organs)",
+            "가슴안 장기",
+            "thoracic organs"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴(thorax)",
+          "가슴벽(thoracic wall)",
+          "가슴안(thoracic cavity)",
+          "가슴안 장기(thoracic organs)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_003"
+      ],
+      "prompt": "_____은 허파(lung)가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_003"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허파(lung)",
+        "accepted_answers": [
+          "허파(lung)",
+          "허파",
+          "lung"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허파(lung)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_003"
+      ],
+      "prompt": "(__1__)은 (__2__)가 들어 있는 공간이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)"
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "허파(lung)",
+            "허파",
+            "lung"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_004"
+      ],
+      "prompt": "_____은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_004"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____와 심장(heart) 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허파(lung)",
+        "accepted_answers": [
+          "허파(lung)",
+          "허파",
+          "lung"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허파(lung)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_004"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 허파(lung)와 _____ 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "심장(heart)",
+        "accepted_answers": [
+          "심장(heart)",
+          "심장",
+          "heart"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "심장(heart)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_004_004",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_004"
+      ],
+      "prompt": "(__1__)은 (__2__)와 (__3__) 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "심장(heart)"
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "허파(lung)",
+            "허파",
+            "lung"
+          ],
+          [
+            "심장(heart)",
+            "심장",
+            "heart"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "심장(heart)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_005"
+      ],
+      "prompt": "_____은 피부, 근막, 근육이 붙어 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴벽(thoracic wall)",
+        "accepted_answers": [
+          "가슴벽(thoracic wall)",
+          "가슴벽",
+          "thoracic wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴벽(thoracic wall)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴벽(thoracic wall)은 피부, 근막, 근육이 붙어 이루어진다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_008"
+      ],
+      "prompt": "_____는 12쌍이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "갈비뼈",
+          "rib"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_008"
+      ],
+      "prompt": "갈비뼈(rib)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "12쌍",
+        "accepted_answers": [
+          "12쌍"
+        ]
+      },
+      "target": {
+        "kind": "number_or_range",
+        "text": "12쌍"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_008"
+      ],
+      "prompt": "(__1__)는 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비뼈(rib)",
+          "12쌍"
+        ],
+        "accepted_answers": [
+          [
+            "갈비뼈(rib)",
+            "갈비뼈",
+            "rib"
+          ],
+          [
+            "12쌍"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비뼈(rib)",
+          "12쌍"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_009"
+      ],
+      "prompt": "_____는 보호하는 역할도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "갈비뼈",
+          "rib"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 보호하는 역할도 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "_____은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비사이근(intercostal muscles)",
+        "accepted_answers": [
+          "갈비사이근(intercostal muscles)",
+          "갈비사이근",
+          "intercostal muscles"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비사이근(intercostal muscles)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 _____, 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥갈비사이근(external intercostal muscle)",
+        "accepted_answers": [
+          "바깥갈비사이근(external intercostal muscle)",
+          "바깥갈비사이근",
+          "external intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥갈비사이근(external intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), _____, 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속갈비사이근(internal intercostal muscle)",
+        "accepted_answers": [
+          "속갈비사이근(internal intercostal muscle)",
+          "속갈비사이근",
+          "internal intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속갈비사이근(internal intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), _____으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맨속갈비사이근(innermost intercostal muscle)",
+        "accepted_answers": [
+          "맨속갈비사이근(innermost intercostal muscle)",
+          "맨속갈비사이근",
+          "innermost intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맨속갈비사이근(innermost intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "으로 구분할 수 있다.",
+        "accepted_answers": [
+          "으로 구분할 수 있다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "으로 구분할 수 있다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_011_006",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_011"
+      ],
+      "prompt": "(__1__)은 (__2__), (__3__), (__4__)으로 구분할 수 있다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비사이근(intercostal muscles)",
+          "바깥갈비사이근(external intercostal muscle)",
+          "속갈비사이근(internal intercostal muscle)",
+          "맨속갈비사이근(innermost intercostal muscle)"
+        ],
+        "accepted_answers": [
+          [
+            "갈비사이근(intercostal muscles)",
+            "갈비사이근",
+            "intercostal muscles"
+          ],
+          [
+            "바깥갈비사이근(external intercostal muscle)",
+            "바깥갈비사이근",
+            "external intercostal muscle"
+          ],
+          [
+            "속갈비사이근(internal intercostal muscle)",
+            "속갈비사이근",
+            "internal intercostal muscle"
+          ],
+          [
+            "맨속갈비사이근(innermost intercostal muscle)",
+            "맨속갈비사이근",
+            "innermost intercostal muscle"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비사이근(intercostal muscles)",
+          "바깥갈비사이근(external intercostal muscle)",
+          "속갈비사이근(internal intercostal muscle)",
+          "맨속갈비사이근(innermost intercostal muscle)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_012"
+      ],
+      "prompt": "_____은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비사이근(intercostal muscles)",
+        "accepted_answers": [
+          "갈비사이근(intercostal muscles)",
+          "갈비사이근",
+          "intercostal muscles"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비사이근(intercostal muscles)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_016"
+      ],
+      "prompt": "_____은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____과 가슴세로칸(mediastinum)으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "양쪽 양쪽 가슴막안(pleural cavities)",
+        "accepted_answers": [
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "양쪽 양쪽 가슴막안",
+          "pleural cavities"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "양쪽 양쪽 가슴막안(pleural cavities)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_016_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 _____으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴세로칸(mediastinum)",
+        "accepted_answers": [
+          "가슴세로칸(mediastinum)",
+          "가슴세로칸",
+          "mediastinum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴세로칸(mediastinum)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_016_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "으로 구성된다.",
+        "accepted_answers": [
+          "으로 구성된다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "으로 구성된다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_016_005",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_016"
+      ],
+      "prompt": "(__1__)은 (__2__)과 (__3__)(__4__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "가슴세로칸(mediastinum)",
+          "으로 구성된다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "양쪽 양쪽 가슴막안(pleural cavities)",
+            "양쪽 양쪽 가슴막안",
+            "pleural cavities"
+          ],
+          [
+            "가슴세로칸(mediastinum)",
+            "가슴세로칸",
+            "mediastinum"
+          ],
+          [
+            "으로 구성된다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "가슴세로칸(mediastinum)",
+          "으로 구성된다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_020"
+      ],
+      "prompt": "_____은 목신경얼기(cervical plexus)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막신경(phrenic nerve)",
+        "accepted_answers": [
+          "가로막신경(phrenic nerve)",
+          "가로막신경",
+          "phrenic nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막신경(phrenic nerve)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_020"
+      ],
+      "prompt": "가로막신경(phrenic nerve)은 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목신경얼기(cervical plexus)",
+        "accepted_answers": [
+          "목신경얼기(cervical plexus)",
+          "목신경얼기",
+          "cervical plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목신경얼기(cervical plexus)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_020_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_020"
+      ],
+      "prompt": "(__1__)은 (__2__)의 가지이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가로막신경(phrenic nerve)",
+          "목신경얼기(cervical plexus)"
+        ],
+        "accepted_answers": [
+          [
+            "가로막신경(phrenic nerve)",
+            "가로막신경",
+            "phrenic nerve"
+          ],
+          [
+            "목신경얼기(cervical plexus)",
+            "목신경얼기",
+            "cervical plexus"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가로막신경(phrenic nerve)",
+          "목신경얼기(cervical plexus)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p034_canon_가슴_필기본_034_canon_021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_034_canon_021"
+      ],
+      "prompt": "_____은 빗장밑동맥과 빗장밑정맥 사이를 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막신경(phrenic nerve)",
+        "accepted_answers": [
+          "가로막신경(phrenic nerve)",
+          "가로막신경",
+          "phrenic nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막신경(phrenic nerve)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 50,
+    "question_count": 101,
     "question_type_count": {
-      "fill_blank": 50
+      "fill_blank": 101
     },
     "question_focus_count": {
-      "course_exam_style": 3,
-      "canonical_fact_mastery": 47
+      "course_exam_style": 15,
+      "canonical_fact_mastery": 86
     }
   },
   "blocked_image_question_reasons": [
@@ -1633,16 +3538,8 @@
         "review_image_url": "./data/images/merged_20260404_010004__p002__270a7e28acd7.webp"
       },
       {
-        "page_number": 3,
-        "question_count": 54,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p003__9635c7191dea.json",
-        "review_image_url": "./data/images/merged_20260404_010004__p003__9635c7191dea.webp"
-      },
-      {
         "page_number": 4,
-        "question_count": 48,
+        "question_count": 102,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p004__3908a86a8f81.json",
@@ -1881,16 +3778,8 @@
         "review_image_url": "./data/images/merged_20260404_010004__p033__eea0658df225.webp"
       },
       {
-        "page_number": 34,
-        "question_count": 51,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p034__6b3461ddff75.json",
-        "review_image_url": "./data/images/merged_20260404_010004__p034__6b3461ddff75.webp"
-      },
-      {
         "page_number": 35,
-        "question_count": 50,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p035__7e1fec67c1f5.json",
@@ -2002,15 +3891,8 @@
         "static_page_file": "pages/merged_20260404_010004__p050__f89b40685ccf.json"
       },
       {
-        "page_number": 51,
-        "question_count": 54,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p051__7a369d8debb3.json"
-      },
-      {
         "page_number": 52,
-        "question_count": 50,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p052__2a44d2e01c8c.json"
@@ -2317,8 +4199,8 @@
         "static_page_file": "pages/merged_20260404_010004__p095__8f4de7c82e8a.json"
       }
     ],
-    "current_index": 34,
-    "previous_page": 34,
+    "current_index": 32,
+    "previous_page": 33,
     "next_page": 36
   },
   "review_image_url": "./data/images/merged_20260404_010004__p035__7e1fec67c1f5.webp",

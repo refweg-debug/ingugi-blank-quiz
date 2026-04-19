@@ -180,15 +180,644 @@
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
       }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_001"
+      ],
+      "prompt": "_____은 앞벽(anterior wall)의 아래쪽 연장선에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "생식기관(genital organs)",
+        "accepted_answers": [
+          "생식기관(genital organs)",
+          "genital organs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "생식기관(genital organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 생식기관(genital organs)은 앞벽(anterior wall)의 아래쪽 연장선에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_001"
+      ],
+      "prompt": "생식기관(genital organs)은 _____의 아래쪽 연장선에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞벽(anterior wall)",
+        "accepted_answers": [
+          "앞벽(anterior wall)",
+          "anterior wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞벽(anterior wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 생식기관(genital organs)은 앞벽(anterior wall)의 아래쪽 연장선에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_002"
+      ],
+      "prompt": "_____의 큰 학습 범주는 배벽(abdominal wall), 배속내장(abdominal viscera), 뒤배부분(posterior abdominal part)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배(abdominal region)",
+        "accepted_answers": [
+          "배(abdominal region)",
+          "abdominal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배(abdominal region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배(abdominal region)의 큰 학습 범주는 배벽(abdominal wall), 배속내장(abdominal viscera), 뒤배부분(posterior abdominal part)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_003"
+      ],
+      "prompt": "_____ 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_003"
+      ],
+      "prompt": "배곧은집(rectus sheath) 안에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_004"
+      ],
+      "prompt": "_____ 안에는 피라미드근(pyramidalis)이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 피라미드근(pyramidalis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_004"
+      ],
+      "prompt": "배곧은집(rectus sheath) 안에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "피라미드근(pyramidalis)",
+        "accepted_answers": [
+          "피라미드근(pyramidalis)",
+          "pyramidalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "피라미드근(pyramidalis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 피라미드근(pyramidalis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_005"
+      ],
+      "prompt": "_____은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_005"
+      ],
+      "prompt": "샅굴(inguinal canal)은 _____에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은고샅구멍(deep inguinal ring)",
+        "accepted_answers": [
+          "깊은고샅구멍(deep inguinal ring)",
+          "deep inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은고샅구멍(deep inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_005_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_005"
+      ],
+      "prompt": "샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은고샅구멍(superficial inguinal ring)",
+        "accepted_answers": [
+          "얕은고샅구멍(superficial inguinal ring)",
+          "superficial inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은고샅구멍(superficial inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_006"
+      ],
+      "prompt": "_____은 샅굴(inguinal canal)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정삭(spermatic cord)",
+        "accepted_answers": [
+          "정삭(spermatic cord)",
+          "spermatic cord"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정삭(spermatic cord)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_006"
+      ],
+      "prompt": "정삭(spermatic cord)은 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_007"
+      ],
+      "prompt": "_____과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_007"
+      ],
+      "prompt": "고환(testis)과 _____은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환(epididymis)",
+        "accepted_answers": [
+          "부고환(epididymis)",
+          "epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환(epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_007_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_007"
+      ],
+      "prompt": "고환(testis)과 부고환(epididymis)은 _____ 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음낭(scrotum)",
+        "accepted_answers": [
+          "음낭(scrotum)",
+          "scrotum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음낭(scrotum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_015"
+      ],
+      "prompt": "_____은 배벽(abdominal wall) 근육(muscles)을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은근막(deep fascia)",
+        "accepted_answers": [
+          "깊은근막(deep fascia)",
+          "deep fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은근막(deep fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_course_015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_015"
+      ],
+      "prompt": "깊은근막(deep fascia)은 배벽(abdominal wall) _____을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육(muscles)",
+        "accepted_answers": [
+          "근육(muscles)",
+          "muscles",
+          "muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육(muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "_____의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p004_course_배_필기본_004_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), _____을 설명한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "혈관신경면(neurovascular plane)",
+        "accepted_answers": [
+          "혈관신경면(neurovascular plane)",
+          "neurovascular plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "혈관신경면(neurovascular plane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 표면해부학, 근막(fascia), 구성근육(muscles), 혈관신경면(neurovascular plane)을 설명한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      },
+      "page_reassignment": {
+        "from_page": 4,
+        "to_page": 5,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 6,
+    "question_count": 25,
     "question_type_count": {
-      "fill_blank": 6
+      "fill_blank": 25
     },
     "question_focus_count": {
-      "course_exam_style_provisional": 6
+      "course_exam_style_provisional": 23,
+      "course_exam_style": 2
     }
   },
   "blocked_image_question_reasons": [],
@@ -219,16 +848,8 @@
         "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 19,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
-        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 6,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
@@ -361,8 +982,8 @@
         "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
       }
     ],
-    "current_index": 4,
-    "previous_page": 4,
+    "current_index": 3,
+    "previous_page": 3,
     "next_page": 6
   },
   "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp",

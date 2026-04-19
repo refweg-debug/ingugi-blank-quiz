@@ -943,7 +943,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0022"
       ],
-      "prompt": "여기서 언급된 많은 소화관 장기들의 _____은 hepatic portal system(간문맥계)으로 간다.",
+      "prompt": "For many gastrointestinal organs, _____ drains to the hepatic portal system(간문맥계).",
       "answer": {
         "format": "single_text",
         "value": "venous drainage(정맥 배출)",
@@ -966,7 +966,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 여기서 언급된 많은 소화관 장기들의 venous drainage(정맥 배출)은 hepatic portal system(간문맥계)으로 간다. / Original: venous drainage(정맥 배출)는 어차피 얘네들은 다 어디로 가나 hepatic portal system(간문맥계)으로 가게 되는데 / Evidence: 위장관과 관련 장기의 정맥혈은 대체로 문맥계로 모인다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: For many gastrointestinal organs, venous drainage(정맥 배출) drains to the hepatic portal system(간문맥계). / Original: venous drainage(정맥 배출)는 어차피 얘네들은 다 어디로 가나 hepatic portal system(간문맥계)으로 가게 되는데 / Evidence: 위장관과 관련 장기의 정맥혈은 대체로 문맥계로 모인다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -977,7 +977,7 @@
       "proposition_refs": [
         "배_녹음파일_20260407-1500_P0022"
       ],
-      "prompt": "여기서 언급된 많은 소화관 장기들의 venous drainage(정맥 배출)은 _____으로 간다.",
+      "prompt": "For many gastrointestinal organs, venous drainage(정맥 배출) drains to _____.",
       "answer": {
         "format": "single_text",
         "value": "hepatic portal system(간문맥계)",
@@ -1000,7 +1000,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 여기서 언급된 많은 소화관 장기들의 venous drainage(정맥 배출)은 hepatic portal system(간문맥계)으로 간다. / Original: venous drainage(정맥 배출)는 어차피 얘네들은 다 어디로 가나 hepatic portal system(간문맥계)으로 가게 되는데 / Evidence: 위장관과 관련 장기의 정맥혈은 대체로 문맥계로 모인다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: For many gastrointestinal organs, venous drainage(정맥 배출) drains to hepatic portal system(간문맥계). / Original: venous drainage(정맥 배출)는 어차피 얘네들은 다 어디로 가나 hepatic portal system(간문맥계)으로 가게 되는데 / Evidence: 위장관과 관련 장기의 정맥혈은 대체로 문맥계로 모인다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -1725,16 +1725,8 @@
         "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 87,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 24,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -2037,16 +2029,8 @@
         "review_image_url": "./data/images/2026__p042__e4972a401b99.webp"
       },
       {
-        "page_number": 43,
-        "question_count": 33,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__8545104b7256.json",
-        "review_image_url": "./data/images/2026__p043__8545104b7256.webp"
-      },
-      {
         "page_number": 44,
-        "question_count": 55,
+        "question_count": 88,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -2109,16 +2093,8 @@
         "review_image_url": "./data/images/2026__p051__b96f8982b511.webp"
       },
       {
-        "page_number": 52,
-        "question_count": 37,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__e138b8f71020.json",
-        "review_image_url": "./data/images/2026__p052__e138b8f71020.webp"
-      },
-      {
         "page_number": 53,
-        "question_count": 85,
+        "question_count": 122,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -2861,13 +2837,6 @@
         "static_page_file": "pages/2026__p158__aad68362f95a.json"
       },
       {
-        "page_number": 159,
-        "question_count": 0,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__92b999952d4c.json"
-      },
-      {
         "page_number": 160,
         "question_count": 0,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -3015,7 +2984,7 @@
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
       }
     ],
-    "current_index": 53,
+    "current_index": 50,
     "previous_page": 53,
     "next_page": 55
   },

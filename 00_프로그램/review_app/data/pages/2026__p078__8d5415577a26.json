@@ -1809,7 +1809,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0009"
       ],
-      "prompt": "해당 부분은 _____에 가깝다.",
+      "prompt": "Small-intestine regions with less mesenteric fat and longer vasa recta are closer to _____.",
       "answer": {
         "format": "single_text",
         "value": "jejunum(공장)",
@@ -1832,7 +1832,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 해당 부분은 jejunum(공장)에 가깝다. / Original: jejunum(공장)에서 가까이 있는 부분입니다. / Evidence: 원문은 jejunum(공장) 쪽 소장 구간을 지칭한다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: Small-intestine regions with less mesenteric fat and longer vasa recta are closer to jejunum(공장). / Original: jejunum(공장)에서 가까이 있는 부분입니다. / Evidence: 원문은 jejunum(공장) 쪽 소장 구간을 지칭한다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -6332,7 +6332,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1500_P0005"
       ],
-      "prompt": "해당 구조는 _____ 안에 있다.",
+      "prompt": "Submucosal plexus and vascular components are located in the _____.",
       "answer": {
         "format": "single_text",
         "value": "submucosa(점막하층)",
@@ -6355,7 +6355,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 해당 구조는 submucosa(점막하층) 안에 있다. / Original: submucosa(점막하층) 안에 있고 / Evidence: 문맥상 항문 괄약근과 관련해 submucosa(점막하층) 아래의 구조를 설명하는 부분이다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: Submucosal plexus and vascular components are located in the submucosa(점막하층). / Original: submucosa(점막하층) 안에 있고 / Evidence: 문맥상 항문 괄약근과 관련해 submucosa(점막하층) 아래의 구조를 설명하는 부분이다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -7181,16 +7181,8 @@
         "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 87,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 24,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -7493,16 +7485,8 @@
         "review_image_url": "./data/images/2026__p042__e4972a401b99.webp"
       },
       {
-        "page_number": 43,
-        "question_count": 33,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__8545104b7256.json",
-        "review_image_url": "./data/images/2026__p043__8545104b7256.webp"
-      },
-      {
         "page_number": 44,
-        "question_count": 55,
+        "question_count": 88,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -7565,16 +7549,8 @@
         "review_image_url": "./data/images/2026__p051__b96f8982b511.webp"
       },
       {
-        "page_number": 52,
-        "question_count": 37,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__e138b8f71020.json",
-        "review_image_url": "./data/images/2026__p052__e138b8f71020.webp"
-      },
-      {
         "page_number": 53,
-        "question_count": 85,
+        "question_count": 122,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -8341,13 +8317,6 @@
         "static_page_file": "pages/2026__p158__aad68362f95a.json"
       },
       {
-        "page_number": 159,
-        "question_count": 0,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__92b999952d4c.json"
-      },
-      {
         "page_number": 160,
         "question_count": 0,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -8495,7 +8464,7 @@
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
       }
     ],
-    "current_index": 77,
+    "current_index": 74,
     "previous_page": 77,
     "next_page": 79
   },

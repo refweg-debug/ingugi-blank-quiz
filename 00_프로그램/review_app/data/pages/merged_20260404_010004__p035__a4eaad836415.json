@@ -114,15 +114,310 @@
         "short": "용어 사전과 일치한다.",
         "full": "원문 명제: 허파의 영어 이름은 lung이다. / 검증 메모: 용어 사전과 일치한다."
       }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_001"
+      ],
+      "prompt": "_____의 영어 이름은 mediastinum이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴세로칸",
+        "accepted_answers": [
+          "가슴세로칸",
+          "가슴세로칸(mediastinum)",
+          "mediastinum",
+          "종격"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴세로칸"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_001"
+      ],
+      "prompt": "가슴세로칸의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mediastinum",
+        "accepted_answers": [
+          "mediastinum",
+          "가슴세로칸(mediastinum)",
+          "가슴세로칸",
+          "종격"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mediastinum"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_001"
+      ],
+      "prompt": "(__1__)의 영어 이름은 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴세로칸",
+          "mediastinum"
+        ],
+        "accepted_answers": [
+          [
+            "가슴세로칸",
+            "가슴세로칸(mediastinum)",
+            "mediastinum",
+            "종격"
+          ],
+          [
+            "mediastinum",
+            "가슴세로칸(mediastinum)",
+            "가슴세로칸",
+            "종격"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴세로칸",
+          "mediastinum"
+        ]
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴세로칸의 영어 이름은 mediastinum이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_002"
+      ],
+      "prompt": "_____의 영어 이름은 esophagus이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도",
+        "accepted_answers": [
+          "식도",
+          "식도(esophagus)",
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 식도의 영어 이름은 esophagus이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_002"
+      ],
+      "prompt": "식도의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "esophagus",
+        "accepted_answers": [
+          "esophagus",
+          "식도(esophagus)",
+          "식도"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "esophagus"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 식도의 영어 이름은 esophagus이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_003"
+      ],
+      "prompt": "목의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cervical region",
+        "accepted_answers": [
+          "cervical region",
+          "목(cervical region)",
+          "cervical",
+          "목",
+          "경부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cervical region"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_004"
+      ],
+      "prompt": "_____의 영어 이름은 thorax이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴",
+        "accepted_answers": [
+          "가슴",
+          "가슴(thorax)",
+          "thorax",
+          "흉부",
+          "chest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
+    },
+    {
+      "question_id": "등_필기본_merged_20260404_010004_p034_course_등_필기본_034_trans_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "등_필기본_034_trans_004"
+      ],
+      "prompt": "가슴의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "thorax",
+        "accepted_answers": [
+          "thorax",
+          "가슴(thorax)",
+          "가슴",
+          "흉부",
+          "chest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "thorax"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 34,
+        "to_page": 35,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "direct_page"
+      }
     }
   ],
   "summary": {
-    "question_count": 3,
+    "question_count": 11,
     "question_type_count": {
-      "fill_blank": 3
+      "fill_blank": 11
     },
     "question_focus_count": {
-      "course_exam_style": 3
+      "course_exam_style": 11
     }
   },
   "blocked_image_question_reasons": [
@@ -147,16 +442,8 @@
         "review_image_url": "./data/images/merged_20260404_010004__p002__0beb02358428.webp"
       },
       {
-        "page_number": 3,
-        "question_count": 9,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p003__10a43b9e0249.json",
-        "review_image_url": "./data/images/merged_20260404_010004__p003__10a43b9e0249.webp"
-      },
-      {
         "page_number": 4,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p004__ccf8dd9cf9dc.json",
@@ -395,16 +682,8 @@
         "review_image_url": "./data/images/merged_20260404_010004__p033__c0c74e2adab6.webp"
       },
       {
-        "page_number": 34,
-        "question_count": 8,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p034__2048bf6400cf.json",
-        "review_image_url": "./data/images/merged_20260404_010004__p034__2048bf6400cf.webp"
-      },
-      {
         "page_number": 35,
-        "question_count": 3,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p035__a4eaad836415.json",
@@ -516,15 +795,8 @@
         "static_page_file": "pages/merged_20260404_010004__p050__a062c560423e.json"
       },
       {
-        "page_number": 51,
-        "question_count": 8,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/merged_20260404_010004__p051__628e9f1a66ae.json"
-      },
-      {
         "page_number": 52,
-        "question_count": 3,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/merged_20260404_010004__p052__73916edfbd35.json"
@@ -831,8 +1103,8 @@
         "static_page_file": "pages/merged_20260404_010004__p095__5873379c5a3d.json"
       }
     ],
-    "current_index": 34,
-    "previous_page": 34,
+    "current_index": 32,
+    "previous_page": 33,
     "next_page": 36
   },
   "review_image_url": "./data/images/merged_20260404_010004__p035__a4eaad836415.webp",

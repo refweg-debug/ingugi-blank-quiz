@@ -12,11 +12,336 @@
   "finalization_status": "question_set_provisional_requires_ai_page_read",
   "page_read_status": "blocked_until_ai_page_read",
   "source_verified_status": "verified_but_requires_ai_page_read",
-  "questions": [],
+  "questions": [
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_001"
+      ],
+      "prompt": "_____의 영어 이름은 abdominal region이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배",
+        "accepted_answers": [
+          "배"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 배의 영어 이름은 abdominal region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_001"
+      ],
+      "prompt": "배의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal region",
+        "accepted_answers": [
+          "abdominal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal region"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 배의 영어 이름은 abdominal region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_002"
+      ],
+      "prompt": "_____의 영어 이름은 cervical region이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목",
+        "accepted_answers": [
+          "목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_002"
+      ],
+      "prompt": "목의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cervical region",
+        "accepted_answers": [
+          "cervical region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cervical region"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_003"
+      ],
+      "prompt": "_____의 영어 이름은 diaphragm이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막",
+        "accepted_answers": [
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가로막의 영어 이름은 diaphragm이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_003"
+      ],
+      "prompt": "가로막의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm",
+        "accepted_answers": [
+          "diaphragm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가로막의 영어 이름은 diaphragm이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_004"
+      ],
+      "prompt": "_____의 영어 이름은 vena cava이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "대정맥",
+        "accepted_answers": [
+          "대정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "대정맥"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 대정맥의 영어 이름은 vena cava이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_004"
+      ],
+      "prompt": "대정맥의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "vena cava",
+        "accepted_answers": [
+          "vena cava"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "vena cava"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 대정맥의 영어 이름은 vena cava이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_005"
+      ],
+      "prompt": "_____의 영어 이름은 thorax이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴",
+        "accepted_answers": [
+          "가슴"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_159_trans_005"
+      ],
+      "prompt": "가슴의 영어 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "thorax",
+        "accepted_answers": [
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "thorax"
+      },
+      "verification_status": "verified_by_glossary",
+      "explanation": {
+        "short": "용어 사전과 일치한다.",
+        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+      },
+      "page_reassignment": {
+        "from_page": 159,
+        "to_page": 160,
+        "reason": "source_page_is_learning_goal_or_contents",
+        "matched_bad_page_reason": "original_page"
+      }
+    }
+  ],
   "summary": {
-    "question_count": 0,
-    "question_type_count": {},
-    "question_focus_count": {}
+    "question_count": 10,
+    "question_type_count": {
+      "fill_blank": 10
+    },
+    "question_focus_count": {
+      "course_exam_style": 10
+    }
   },
   "blocked_image_question_reasons": [
     "ai_page_read_not_complete"
@@ -51,18 +376,9 @@
         "review_image_url": "./data/images/2026__p003__62dc70e14a72.webp"
       },
       {
-        "page_number": 4,
-        "source_page_number": 4,
-        "question_count": 22,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__fbde3a9f4224.json",
-        "review_image_url": "./data/images/2026__p004__fbde3a9f4224.webp"
-      },
-      {
         "page_number": 5,
         "source_page_number": 5,
-        "question_count": 14,
+        "question_count": 36,
         "finalization_status": "question_set_ready",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__42c45b745a8f.json",
@@ -402,18 +718,9 @@
         "review_image_url": "./data/images/2026__p042__38df47adf210.webp"
       },
       {
-        "page_number": 43,
-        "source_page_number": 43,
-        "question_count": 25,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__787a18aa7cf5.json",
-        "review_image_url": "./data/images/2026__p043__787a18aa7cf5.webp"
-      },
-      {
         "page_number": 44,
         "source_page_number": 44,
-        "question_count": 11,
+        "question_count": 36,
         "finalization_status": "question_set_ready",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__191901fac17a.json",
@@ -483,18 +790,9 @@
         "review_image_url": "./data/images/2026__p051__9e1261a8f444.webp"
       },
       {
-        "page_number": 52,
-        "source_page_number": 52,
-        "question_count": 22,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__a08578ba02b7.json",
-        "review_image_url": "./data/images/2026__p052__a08578ba02b7.webp"
-      },
-      {
         "page_number": 53,
         "source_page_number": 53,
-        "question_count": 23,
+        "question_count": 45,
         "finalization_status": "question_set_ready",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__6caf069e0bda.json",
@@ -1446,18 +1744,9 @@
         "review_image_url": "./data/images/2026__p158__cc2d54af62f1.webp"
       },
       {
-        "page_number": 159,
-        "source_page_number": 159,
-        "question_count": 10,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__0c6e52d518b9.json",
-        "review_image_url": "./data/images/2026__p159__0c6e52d518b9.webp"
-      },
-      {
         "page_number": 160,
         "source_page_number": 160,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p160__859e4a6bfe38.json",
@@ -1624,8 +1913,8 @@
         "static_page_file": "pages/2026__p180__efa698839d0e.json"
       }
     ],
-    "current_index": 159,
-    "previous_page": 159,
+    "current_index": 155,
+    "previous_page": 158,
     "next_page": 161
   },
   "review_image_url": "./data/images/2026__p160__859e4a6bfe38.webp",

@@ -486,15 +486,8 @@
         "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
       },
       {
-        "page_number": 20,
-        "question_count": 22,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
-      },
-      {
         "page_number": 21,
-        "question_count": 6,
+        "question_count": 28,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"

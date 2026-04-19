@@ -1400,7 +1400,7 @@
       "proposition_refs": [
         "배_녹음파일_20260408-1400_P0001"
       ],
-      "prompt": "해당 구조는 _____로 덮여 있다.",
+      "prompt": "The absorptive surface of small-intestine mucosa is covered by _____.",
       "answer": {
         "format": "single_text",
         "value": "microvilli(미세융모)",
@@ -1423,7 +1423,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 해당 구조는 microvilli(미세융모)로 덮여 있다. / Original: 요게 막 microvilli(미세융모)로 되어 있고, 그렇기 때문에 우리가 보통 이런 구조로 되어 있어요. / Evidence: 소장 점막의 흡수면은 microvilli(미세융모)를 가진다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: The absorptive surface of small-intestine mucosa is covered by microvilli(미세융모). / Original: 요게 막 microvilli(미세융모)로 되어 있고, 그렇기 때문에 우리가 보통 이런 구조로 되어 있어요. / Evidence: 소장 점막의 흡수면은 microvilli(미세융모)를 가진다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -2352,16 +2352,8 @@
         "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
       },
       {
-        "page_number": 4,
-        "question_count": 87,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
-        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
-      },
-      {
         "page_number": 5,
-        "question_count": 24,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -2664,16 +2656,8 @@
         "review_image_url": "./data/images/2026__p042__e4972a401b99.webp"
       },
       {
-        "page_number": 43,
-        "question_count": 33,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p043__8545104b7256.json",
-        "review_image_url": "./data/images/2026__p043__8545104b7256.webp"
-      },
-      {
         "page_number": 44,
-        "question_count": 55,
+        "question_count": 88,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -2736,16 +2720,8 @@
         "review_image_url": "./data/images/2026__p051__b96f8982b511.webp"
       },
       {
-        "page_number": 52,
-        "question_count": 37,
-        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
-        "page_read_status": "ai_page_read_complete",
-        "static_page_file": "pages/2026__p052__e138b8f71020.json",
-        "review_image_url": "./data/images/2026__p052__e138b8f71020.webp"
-      },
-      {
         "page_number": 53,
-        "question_count": 85,
+        "question_count": 122,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -3519,13 +3495,6 @@
         "static_page_file": "pages/2026__p158__aad68362f95a.json"
       },
       {
-        "page_number": 159,
-        "question_count": 0,
-        "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
-        "static_page_file": "pages/2026__p159__92b999952d4c.json"
-      },
-      {
         "page_number": 160,
         "question_count": 0,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
@@ -3673,7 +3642,7 @@
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
       }
     ],
-    "current_index": 84,
+    "current_index": 81,
     "previous_page": 84,
     "next_page": 86
   },
