@@ -349,7 +349,12 @@ button:disabled {
 }
 
 .reveal-answer-button {
-  min-width: 74px;
+  background: #000;
+  border: 1px solid #f3f3f3;
+  color: #f3f3f3;
+  flex: 0 0 96px;
+  min-width: 96px;
+  width: 96px;
 }
 
 .answer-panel {
