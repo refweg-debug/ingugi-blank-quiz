@@ -78,6 +78,11 @@ python .\src\ingugi_pipeline.py build
 
 ## 기존 8765 review_app 정적 배포
 
+- Active completion scope: `배` and `골반` only.
+- Frozen units: do not update `가슴` or `등`; those exams are already completed.
+- Question prompt quality rule: every fill-blank prompt must be self-contained. Do not use context-dependent references such as `이 두`, `이들`, `그 구멍`, `방금`, `여기서`, `해당 구조`, or `해당 부분` unless the antecedent is explicitly named inside the same prompt.
+- Encoding guard: before running inline Python or regex scans from PowerShell, run `Set-ExecutionPolicy -Scope Process Bypass; . .\tools\Set-Utf8Session.ps1` inside `00_프로그램`. Without this, `$OutputEncoding` may be `us-ascii` and Korean literals can arrive in Python as `?`, breaking regex and path/prompt checks.
+
 - 원본 로컬 검토 앱은 `review_app`이며, LAN 서버 주소는 `http://192.168.1.3:8765/` 형태다.
 - Git에는 원본 PDF, 전공서, 녹음파일, 파이프라인 중간 산출물 전체를 올리지 않고, 정적 웹앱에 필요한 `review_app` 파일과 export된 `review_app/data`만 올린다.
 - 정적 데이터는 기존 8765 서버의 `/api/library`, `/api/page`, `/api/review-image` 응답 형태를 파일로 바꾼 것이다.

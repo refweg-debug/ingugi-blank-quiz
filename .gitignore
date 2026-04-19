@@ -8,6 +8,11 @@
 # This repository publishes the existing review_app as a static web app, not the full local workspace.
 /00_프로그램/*
 !/00_프로그램/README.md
+!/00_프로그램/config/
+/00_프로그램/config/*
+!/00_프로그램/config/domain_profiles/
+/00_프로그램/config/domain_profiles/*
+!/00_프로그램/config/domain_profiles/ingugi_anatomy_course.json
 !/00_프로그램/review_app/
 !/00_프로그램/review_app/**
 !/00_프로그램/src/
@@ -16,6 +21,9 @@
 /00_프로그램/src/adapter_bridge/*
 !/00_프로그램/src/adapter_bridge/run_question_review_server.py
 !/00_프로그램/src/adapter_bridge/export_review_app_static_bundle.py
+!/00_프로그램/tools/
+/00_프로그램/tools/*
+!/00_프로그램/tools/Set-Utf8Session.ps1
 
 **/01_원본자료/
 **/*.pdf

@@ -1,0 +1,104 @@
+{
+  "profile_id": "ingugi_anatomy_course",
+  "display_name": "인구기 해부학 수업",
+  "domain_id": "anatomy_course",
+  "supported_media_types": [
+    "pdf",
+    "image",
+    "plain_text"
+  ],
+  "learning_goal": "수업자료의 전체 요소를 누락 없이 이해하고 시험 형식에 맞는 문제로 재구성한다.",
+  "authority_layers": [
+    {
+      "layer_name": "official_terminology",
+      "priority": 1,
+      "source_classes": [
+        "official_terminology"
+      ],
+      "minimum_support_count": 1
+    },
+    {
+      "layer_name": "reference_consensus",
+      "priority": 2,
+      "source_classes": [
+        "reference_text",
+        "atlas"
+      ],
+      "minimum_support_count": 2
+    },
+    {
+      "layer_name": "course_context",
+      "priority": 3,
+      "source_classes": [
+        "course_material",
+        "past_exam"
+      ],
+      "minimum_support_count": 1
+    }
+  ],
+  "grounding_policy": {
+    "source_grounding": true,
+    "reference_grounding": true,
+    "context_grounding": true,
+    "temporal_grounding": false
+  },
+  "active_completion_scope": {
+    "active_units": [
+      "배",
+      "골반"
+    ],
+    "frozen_units": [
+      "가슴",
+      "등"
+    ],
+    "rule": "Do not update frozen units because those exams are already completed. Continue quality review and completion work only for the active units.",
+    "current_phase": "Iteratively review and refine abdomen and pelvis question quality."
+  },
+  "normalization_policy": {
+    "require_full_name_for_learning_statement": true,
+    "preferred_surface_form": "ko_full_name_with_en_gloss",
+    "disallow_abbreviation_only_statement": true
+  },
+  "question_policy": {
+    "allowed_types": [
+      "fill_blank",
+      "image_grounded_fill_blank"
+    ],
+    "require_english_name_in_answer": true,
+    "require_page_term_inventory_target_only": true,
+    "allowed_blank_target_kinds": [
+      "term"
+    ],
+    "blocked_course_rule_ids_for_questions": [
+      "abdomen_between_thorax_and_pelvis",
+      "perineum_below_pelvis"
+    ],
+    "allow_multi_blank": false,
+    "max_blanks_per_question": 1,
+    "require_atomic_serial_generation": true,
+    "max_inflight_propositions": 1,
+    "freeform_ai_question_writing_forbidden": true,
+    "question_generation_template_only": true,
+    "require_self_contained_prompt": true,
+    "forbid_context_dependent_prompt_references": [
+      "이 두",
+      "이들",
+      "그 구멍",
+      "방금",
+      "여기서",
+      "해당 구조",
+      "해당 부분"
+    ],
+    "context_reference_rule": "If a prompt refers to a structure, ligament, hole, region, cell, or relationship introduced in nearby text, name that antecedent inside the same prompt.",
+    "suppress_translation_if_structural_page": true,
+    "suppress_translation_if_note_fragment_expansion_exists": true,
+    "use_course_statement_for_exam_style_questions": true,
+    "use_canonical_statement_for_fact_mastery_questions": true
+  },
+  "review_triggers": [
+    "visual_only_claim",
+    "conflict_between_course_and_reference",
+    "simplified_claim_used_as_canonical",
+    "unresolved_label_mapping"
+  ]
+}
