@@ -351,10 +351,8 @@ button:disabled {
 .question-actions .reveal-answer-button {
   appearance: none;
   background: #000;
-  border: 2px solid #fff;
-  box-shadow:
-    0 0 0 1px #fff,
-    inset 0 0 0 1px rgba(255, 255, 255, 0.45);
+  border: 1px solid #fff;
+  box-shadow: none;
   color: #fff;
   flex: 0 0 192px;
   font-size: 13px;
@@ -367,13 +365,6 @@ button:disabled {
 .question-actions .reveal-answer-button:focus-visible {
   outline: 2px solid #fff;
   outline-offset: 3px;
-}
-
-@media (max-width: 700px), (hover: none) and (pointer: coarse) {
-  .question-actions .reveal-answer-button {
-    border-width: 2px;
-    box-shadow: none;
-  }
 }
 
 .answer-panel {
