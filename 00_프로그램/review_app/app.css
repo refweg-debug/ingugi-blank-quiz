@@ -351,9 +351,9 @@ button:disabled {
 .question-actions .reveal-answer-button {
   appearance: none;
   background: #000;
-  border: 1px solid #fff;
+  border: 1px solid #252525;
   box-shadow: none;
-  color: #fff;
+  color: #d8d0b3;
   flex: 0 0 192px;
   font-size: 13px;
   font-weight: 700;
