@@ -576,16 +576,2189 @@
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 아래창자간막동맥(inferior mesenteric artery)은 뒤창자(hindgut)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0004"
+      ],
+      "prompt": "_____의 대부분은 가슴에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "esophagus(식도)",
+        "accepted_answers": [
+          "esophagus(식도)",
+          "esophagus",
+          "식도"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "esophagus(식도)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: esophagus(식도)의 대부분은 가슴에 있다. / Original: esophagus(식도) 같은 경우에는 대부분이 여기 가슴에 있고, diaphragm(횡격막)을 지난 다음에 일부 이렇게 있습니다. / Evidence: esophagus(식도)는 대부분 흉부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0026_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0026"
+      ],
+      "prompt": "위와 _____에서 digestive digestion(소화)가 많이 일어난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "duodenum(십이지장)",
+        "accepted_answers": [
+          "duodenum(십이지장)",
+          "duodenum",
+          "십이지장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "duodenum(십이지장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0026",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위와 duodenum(십이지장)에서 digestive digestion(소화)가 많이 일어난다. / Original: 일단 입에서 씹고 그다음에 대부분 바로 이 stomach(위) 부분하고 duodenum(십이지장)에서 대부분 이 digestive digestion(소화) 부분이 일어납니다. / Evidence: 위와 duodenum(십이지장)은 주요 digestive digestion(소화)가 진행되는 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0026_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0026"
+      ],
+      "prompt": "위와 duodenum(십이지장)에서 _____가 많이 일어난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "digestive digestion(소화)",
+        "accepted_answers": [
+          "digestive digestion(소화)",
+          "digestive digestion",
+          "소화"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "digestive digestion(소화)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0026",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위와 duodenum(십이지장)에서 digestive digestion(소화)가 많이 일어난다. / Original: 일단 입에서 씹고 그다음에 대부분 바로 이 stomach(위) 부분하고 duodenum(십이지장)에서 대부분 이 digestive digestion(소화) 부분이 일어납니다. / Evidence: 위와 duodenum(십이지장)은 주요 digestive digestion(소화)가 진행되는 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0030_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0030"
+      ],
+      "prompt": "복강의 많은 장기는 _____의 branch(가지)에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal aorta(복부대동맥)",
+        "accepted_answers": [
+          "abdominal aorta(복부대동맥)",
+          "abdominal aorta",
+          "복부대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal aorta(복부대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0030",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 복강의 많은 장기는 abdominal aorta(복부대동맥)의 branch(가지)에서 혈액 공급을 받는다. / Original: tract(관) 같은 경우에는 arterial supply(동맥공급)가 배 안에 있는 부분 대부분이 abdominal aorta(복부대동맥)의 branch(가지)에 의해서 혈액 공급이 됩니다. / Evidence: 복부 장기의 동맥은 대체로 abdominal aorta(복부대동맥)의 분지에서 나온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0030_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0030"
+      ],
+      "prompt": "복강의 많은 장기는 abdominal aorta(복부대동맥)의 _____에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "branch(가지)",
+        "accepted_answers": [
+          "branch(가지)",
+          "branch",
+          "가지"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "branch(가지)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0030",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 복강의 많은 장기는 abdominal aorta(복부대동맥)의 branch(가지)에서 혈액 공급을 받는다. / Original: tract(관) 같은 경우에는 arterial supply(동맥공급)가 배 안에 있는 부분 대부분이 abdominal aorta(복부대동맥)의 branch(가지)에 의해서 혈액 공급이 됩니다. / Evidence: 복부 장기의 동맥은 대체로 abdominal aorta(복부대동맥)의 분지에서 나온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0031_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0031"
+      ],
+      "prompt": "_____, superior mesenteric artery(위창자간막동맥), inferior mesenteric artery(아래창자간막동맥)는 복부대동맥의 주요 큰 branch(가지)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥줄기)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥줄기)",
+          "celiac trunk",
+          "복강동맥줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0031",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기), superior mesenteric artery(위창자간막동맥), inferior mesenteric artery(아래창자간막동맥)는 복부대동맥의 주요 큰 branch(가지)이다. / Original: 자, 이 branch(가지) 중에서 가장 큰 게 세 가지가 있는데, [추정] celiac trunk(복강동맥줄기)라고 부르게 됩니다. 그리고 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 이 세 동맥은 복부대동맥의 대표적 주요 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0031_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0031"
+      ],
+      "prompt": "celiac trunk(복강동맥줄기), _____, inferior mesenteric artery(아래창자간막동맥)는 복부대동맥의 주요 큰 branch(가지)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric artery(위창자간막동맥)",
+        "accepted_answers": [
+          "superior mesenteric artery(위창자간막동맥)",
+          "superior mesenteric artery",
+          "위창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric artery(위창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0031",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기), superior mesenteric artery(위창자간막동맥), inferior mesenteric artery(아래창자간막동맥)는 복부대동맥의 주요 큰 branch(가지)이다. / Original: 자, 이 branch(가지) 중에서 가장 큰 게 세 가지가 있는데, [추정] celiac trunk(복강동맥줄기)라고 부르게 됩니다. 그리고 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 이 세 동맥은 복부대동맥의 대표적 주요 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0031_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0031"
+      ],
+      "prompt": "celiac trunk(복강동맥줄기), superior mesenteric artery(위창자간막동맥), _____는 복부대동맥의 주요 큰 branch(가지)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior mesenteric artery(아래창자간막동맥)",
+        "accepted_answers": [
+          "inferior mesenteric artery(아래창자간막동맥)",
+          "inferior mesenteric artery",
+          "아래창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior mesenteric artery(아래창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0031",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기), superior mesenteric artery(위창자간막동맥), inferior mesenteric artery(아래창자간막동맥)는 복부대동맥의 주요 큰 branch(가지)이다. / Original: 자, 이 branch(가지) 중에서 가장 큰 게 세 가지가 있는데, [추정] celiac trunk(복강동맥줄기)라고 부르게 됩니다. 그리고 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 이 세 동맥은 복부대동맥의 대표적 주요 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0032_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0032"
+      ],
+      "prompt": "_____는 foregut(앞창자) 유래 장기에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥줄기)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥줄기)",
+          "celiac trunk",
+          "복강동맥줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0032",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기)는 foregut(앞창자) 유래 장기에 혈액을 공급한다. / Original: celiac trunk(복강동맥줄기) 같은 경우에는 주로 foregut(앞창자)에서 발생한 소화기관 / Evidence: celiac trunk(복강동맥줄기)는 foregut(앞창자) 유래 구조의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0032_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0032"
+      ],
+      "prompt": "celiac trunk(복강동맥줄기)는 _____ 유래 장기에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "foregut(앞창자)",
+        "accepted_answers": [
+          "foregut(앞창자)",
+          "foregut",
+          "앞창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "foregut(앞창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0032",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기)는 foregut(앞창자) 유래 장기에 혈액을 공급한다. / Original: celiac trunk(복강동맥줄기) 같은 경우에는 주로 foregut(앞창자)에서 발생한 소화기관 / Evidence: celiac trunk(복강동맥줄기)는 foregut(앞창자) 유래 구조의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0033_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0033"
+      ],
+      "prompt": "_____의 근위부는 foregut(앞창자) 유래로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "duodenum(십이지장)",
+        "accepted_answers": [
+          "duodenum(십이지장)",
+          "duodenum",
+          "십이지장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "duodenum(십이지장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0033",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: duodenum(십이지장)의 근위부는 foregut(앞창자) 유래로 본다. / Original: foregut(앞창자)에서 발생하는 기준으로 [추정] duodenum(십이지장) 이 절반 부분, 요거를 기준으로 해서 윗부분에 있는 요거는 foregut(앞창자)에서 발생을 했기 때문에 대부분의 혈액은 [추정] celiac trunk(복강동맥줄기)에서 혈액 공급이 됩니다. / Evidence: duodenum(십이지장)의 근위부는 foregut(앞창자) 유래로 분류된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0033_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0033"
+      ],
+      "prompt": "duodenum(십이지장)의 근위부는 _____ 유래로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "foregut(앞창자)",
+        "accepted_answers": [
+          "foregut(앞창자)",
+          "foregut",
+          "앞창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "foregut(앞창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0033",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: duodenum(십이지장)의 근위부는 foregut(앞창자) 유래로 본다. / Original: foregut(앞창자)에서 발생하는 기준으로 [추정] duodenum(십이지장) 이 절반 부분, 요거를 기준으로 해서 윗부분에 있는 요거는 foregut(앞창자)에서 발생을 했기 때문에 대부분의 혈액은 [추정] celiac trunk(복강동맥줄기)에서 혈액 공급이 됩니다. / Evidence: duodenum(십이지장)의 근위부는 foregut(앞창자) 유래로 분류된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0034_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0034"
+      ],
+      "prompt": "_____ 유래 장기는 celiac trunk(복강동맥줄기)에서 주로 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "foregut(앞창자)",
+        "accepted_answers": [
+          "foregut(앞창자)",
+          "foregut",
+          "앞창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "foregut(앞창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0034",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: foregut(앞창자) 유래 장기는 celiac trunk(복강동맥줄기)에서 주로 혈액 공급을 받는다. / Original: duodenum(십이지장) 이 절반 부분, 요거를 기준으로 해서 윗부분에 있는 요거는 foregut(앞창자)에서 발생을 했기 때문에 대부분의 혈액은 [추정] celiac trunk(복강동맥줄기)에서 혈액 공급이 됩니다. / Evidence: foregut(앞창자) 유래 구조의 혈류는 주로 celiac trunk(복강동맥줄기)에서 온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0034_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0034"
+      ],
+      "prompt": "foregut(앞창자) 유래 장기는 _____에서 주로 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥줄기)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥줄기)",
+          "celiac trunk",
+          "복강동맥줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0034",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: foregut(앞창자) 유래 장기는 celiac trunk(복강동맥줄기)에서 주로 혈액 공급을 받는다. / Original: duodenum(십이지장) 이 절반 부분, 요거를 기준으로 해서 윗부분에 있는 요거는 foregut(앞창자)에서 발생을 했기 때문에 대부분의 혈액은 [추정] celiac trunk(복강동맥줄기)에서 혈액 공급이 됩니다. / Evidence: foregut(앞창자) 유래 구조의 혈류는 주로 celiac trunk(복강동맥줄기)에서 온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0035_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0035"
+      ],
+      "prompt": "_____의 원위부부터 transverse colon(가로결장) 중간까지는 midgut(중간창자) 유래로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "duodenum(십이지장)",
+        "accepted_answers": [
+          "duodenum(십이지장)",
+          "duodenum",
+          "십이지장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "duodenum(십이지장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0035",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: duodenum(십이지장)의 원위부부터 transverse colon(가로결장) 중간까지는 midgut(중간창자) 유래로 본다. / Original: 요거는 [추정] duodenum(십이지장)의 절반 아래 부분에서부터 해가지고 small intestine(작은창자), large intestine(큰창자), transverse colon(가로결장) 중간쯤까지가 midgut(중간창자)에서 발생을 했기 때문에 이까지는 superior mesenteric artery(위창장간막동맥)에 의해서 혈액 공급이 되어집니다. / Evidence: midgut(중간창자)는 duodenum(십이지장) 원위부에서 transverse colon(가로결장) 근위 2/3까지를 포함한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0035_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0035"
+      ],
+      "prompt": "duodenum(십이지장)의 원위부부터 _____ 중간까지는 midgut(중간창자) 유래로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transverse colon(가로결장)",
+        "accepted_answers": [
+          "transverse colon(가로결장)",
+          "transverse colon",
+          "가로결장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transverse colon(가로결장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0035",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: duodenum(십이지장)의 원위부부터 transverse colon(가로결장) 중간까지는 midgut(중간창자) 유래로 본다. / Original: 요거는 [추정] duodenum(십이지장)의 절반 아래 부분에서부터 해가지고 small intestine(작은창자), large intestine(큰창자), transverse colon(가로결장) 중간쯤까지가 midgut(중간창자)에서 발생을 했기 때문에 이까지는 superior mesenteric artery(위창장간막동맥)에 의해서 혈액 공급이 되어집니다. / Evidence: midgut(중간창자)는 duodenum(십이지장) 원위부에서 transverse colon(가로결장) 근위 2/3까지를 포함한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0035_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0035"
+      ],
+      "prompt": "duodenum(십이지장)의 원위부부터 transverse colon(가로결장) 중간까지는 _____ 유래로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "midgut(중간창자)",
+        "accepted_answers": [
+          "midgut(중간창자)",
+          "midgut",
+          "중간창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "midgut(중간창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0035",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: duodenum(십이지장)의 원위부부터 transverse colon(가로결장) 중간까지는 midgut(중간창자) 유래로 본다. / Original: 요거는 [추정] duodenum(십이지장)의 절반 아래 부분에서부터 해가지고 small intestine(작은창자), large intestine(큰창자), transverse colon(가로결장) 중간쯤까지가 midgut(중간창자)에서 발생을 했기 때문에 이까지는 superior mesenteric artery(위창장간막동맥)에 의해서 혈액 공급이 되어집니다. / Evidence: midgut(중간창자)는 duodenum(십이지장) 원위부에서 transverse colon(가로결장) 근위 2/3까지를 포함한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0036_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0036"
+      ],
+      "prompt": "_____ 유래 장기는 superior mesenteric artery(위창자간막동맥)에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "midgut(중간창자)",
+        "accepted_answers": [
+          "midgut(중간창자)",
+          "midgut",
+          "중간창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "midgut(중간창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0036",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: midgut(중간창자) 유래 장기는 superior mesenteric artery(위창자간막동맥)에서 혈액 공급을 받는다. / Original: 이까지는 superior mesenteric artery(위창자간막동맥)에 의해서 혈액 공급이 되어집니다. / Evidence: superior mesenteric artery(위창자간막동맥)은 중간창자 유래 장기의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0036_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0036"
+      ],
+      "prompt": "midgut(중간창자) 유래 장기는 _____에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric artery(위창자간막동맥)",
+        "accepted_answers": [
+          "superior mesenteric artery(위창자간막동맥)",
+          "superior mesenteric artery",
+          "위창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric artery(위창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0036",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: midgut(중간창자) 유래 장기는 superior mesenteric artery(위창자간막동맥)에서 혈액 공급을 받는다. / Original: 이까지는 superior mesenteric artery(위창자간막동맥)에 의해서 혈액 공급이 되어집니다. / Evidence: superior mesenteric artery(위창자간막동맥)은 중간창자 유래 장기의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0037_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0037"
+      ],
+      "prompt": "_____ 유래 구조는 inferior mesenteric artery(아래창자간막동맥)에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "hindgut(뒤창자)",
+        "accepted_answers": [
+          "hindgut(뒤창자)",
+          "hindgut",
+          "뒤창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "hindgut(뒤창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0037",
+        "confidence": "높음 ## 20260407-1400_chunk_007",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: hindgut(뒤창자) 유래 구조는 inferior mesenteric artery(아래창자간막동맥)에서 혈액 공급을 받는다. / Original: 그리고 나머지 부위는 hindgut(뒤창자)에서 발생했기 때문에 inferior mesenteric artery(아래창자간막동맥)에서 [불명] / Evidence: inferior mesenteric artery(아래창자간막동맥)은 hindgut(뒤창자) 유래 장기의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0037_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0037"
+      ],
+      "prompt": "hindgut(뒤창자) 유래 구조는 _____에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior mesenteric artery(아래창자간막동맥)",
+        "accepted_answers": [
+          "inferior mesenteric artery(아래창자간막동맥)",
+          "inferior mesenteric artery",
+          "아래창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior mesenteric artery(아래창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0037",
+        "confidence": "높음 ## 20260407-1400_chunk_007",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: hindgut(뒤창자) 유래 구조는 inferior mesenteric artery(아래창자간막동맥)에서 혈액 공급을 받는다. / Original: 그리고 나머지 부위는 hindgut(뒤창자)에서 발생했기 때문에 inferior mesenteric artery(아래창자간막동맥)에서 [불명] / Evidence: inferior mesenteric artery(아래창자간막동맥)은 hindgut(뒤창자) 유래 장기의 주혈관이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0001"
+      ],
+      "prompt": "_____에서 유래한 구조는 inferior mesenteric artery(하장간막동맥)에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "hindgut(후장)",
+        "accepted_answers": [
+          "hindgut(후장)",
+          "hindgut",
+          "후장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "hindgut(후장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: hindgut(후장)에서 유래한 구조는 inferior mesenteric artery(하장간막동맥)에서 혈액 공급을 받는다. / Original: hindgut(후장)에서 발생했기 때문에 [추정] inferior mesenteric artery(하장간막동맥)에서 혈액 공급이 되어집니다. / Evidence: hindgut(후장) 유래 장기는 일반적으로 inferior mesenteric artery(하장간막동맥)의 분지를 통해 혈액 공급을 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0001"
+      ],
+      "prompt": "hindgut(후장)에서 유래한 구조는 _____에서 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior mesenteric artery(하장간막동맥)",
+        "accepted_answers": [
+          "inferior mesenteric artery(하장간막동맥)",
+          "inferior mesenteric artery",
+          "하장간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior mesenteric artery(하장간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: hindgut(후장)에서 유래한 구조는 inferior mesenteric artery(하장간막동맥)에서 혈액 공급을 받는다. / Original: hindgut(후장)에서 발생했기 때문에 [추정] inferior mesenteric artery(하장간막동맥)에서 혈액 공급이 되어집니다. / Evidence: hindgut(후장) 유래 장기는 일반적으로 inferior mesenteric artery(하장간막동맥)의 분지를 통해 혈액 공급을 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0004"
+      ],
+      "prompt": "대장과 _____에서 오는 정맥혈은 산소 분압이 낮다.",
+      "answer": {
+        "format": "single_text",
+        "value": "spleen(비장)",
+        "accepted_answers": [
+          "spleen(비장)",
+          "spleen",
+          "비장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "spleen(비장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "중간",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 대장과 spleen(비장)에서 오는 정맥혈은 산소 분압이 낮다. / Original: hepatic portal vein(정맥) system(간문맥계)은 대장에 있는 소화관이라든지 아니면 [추정] spleen(비장)이라든지 이런 정맥이 되는 것은 얘네들은 사실 산소 분압은 낮아요. / Evidence: 문맥혈은 동맥혈보다 산소가 적은 정맥혈이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1400_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1400_P0008"
+      ],
+      "prompt": "식도에는 _____의 주요 협착 부위가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "세 개",
+        "accepted_answers": [
+          "세 개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "세 개"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1400.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 식도에는 세 개의 주요 협착 부위가 있다. / Original: 이렇게 세 개의 부위에서 조여지는 그런 부분이 있다. / Evidence: 식도의 대표적 협착은 세 곳으로 정리된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0034_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0034"
+      ],
+      "prompt": "실제 해부 시 _____의 윗부분은 liver(간)에 의해 어느 정도 가려질 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "stomach(위)",
+        "accepted_answers": [
+          "stomach(위)",
+          "stomach",
+          "위"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "stomach(위)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0034",
+        "confidence": "중간 ## 20260407-1500_chunk_002",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 실제 해부 시 stomach(위)의 윗부분은 liver(간)에 의해 어느 정도 가려질 수 있다. / Original: 실제 열어봤을 때 stomach(위)은 liver(간)에 거의 가려져 윗부분은 / Evidence: 간은 위의 상부 전면을 부분적으로 덮는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0034_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0034"
+      ],
+      "prompt": "실제 해부 시 stomach(위)의 윗부분은 _____에 의해 어느 정도 가려질 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "liver(간)",
+        "accepted_answers": [
+          "liver(간)",
+          "liver",
+          "간"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "liver(간)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0034",
+        "confidence": "중간 ## 20260407-1500_chunk_002",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 실제 해부 시 stomach(위)의 윗부분은 liver(간)에 의해 어느 정도 가려질 수 있다. / Original: 실제 열어봤을 때 stomach(위)은 liver(간)에 거의 가려져 윗부분은 / Evidence: 간은 위의 상부 전면을 부분적으로 덮는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "_____, liver(간), pancreas(이자), spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "stomach(위)",
+        "accepted_answers": [
+          "stomach(위)",
+          "stomach",
+          "위"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "stomach(위)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위), liver(간), pancreas(이자), spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다. / Original: 이 혈액공급은 이 celiac trunk(복강동맥줄기)에서 오기 때문에 이 celiac trunk(복강동맥줄기)에 의해서 혈액공급받는 그러한 [불명] stomach(위) liver(간) pancreas(이자) spleen(비장) 이것들이 혈액 공급을 모두 한번 보도록 하겠습니다. / Evidence: 이들 기관은 celiac trunk(복강동맥줄기)에서 분지하는 혈관들에 의해 주로 혈액 공급을 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "stomach(위), _____, pancreas(이자), spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "liver(간)",
+        "accepted_answers": [
+          "liver(간)",
+          "liver",
+          "간"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "liver(간)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위), liver(간), pancreas(이자), spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다. / Original: 이 혈액공급은 이 celiac trunk(복강동맥줄기)에서 오기 때문에 이 celiac trunk(복강동맥줄기)에 의해서 혈액공급받는 그러한 [불명] stomach(위) liver(간) pancreas(이자) spleen(비장) 이것들이 혈액 공급을 모두 한번 보도록 하겠습니다. / Evidence: 이들 기관은 celiac trunk(복강동맥줄기)에서 분지하는 혈관들에 의해 주로 혈액 공급을 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0015_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "stomach(위), liver(간), _____, spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pancreas(이자)",
+        "accepted_answers": [
+          "pancreas(이자)",
+          "pancreas",
+          "이자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pancreas(이자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위), liver(간), pancreas(이자), spleen(비장)은 celiac trunk(복강동맥줄기) 계통의 혈액 공급을 받는다. / Original: 이 혈액공급은 이 celiac trunk(복강동맥줄기)에서 오기 때문에 이 celiac trunk(복강동맥줄기)에 의해서 혈액공급받는 그러한 [불명] stomach(위) liver(간) pancreas(이자) spleen(비장) 이것들이 혈액 공급을 모두 한번 보도록 하겠습니다. / Evidence: 이들 기관은 celiac trunk(복강동맥줄기)에서 분지하는 혈관들에 의해 주로 혈액 공급을 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0002"
+      ],
+      "prompt": "_____는 celiac trunk(복강동맥)에서 나오는 세 branch(가지) 주요 branch(가지) 중 가장 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "splenic artery(비장동맥)",
+        "accepted_answers": [
+          "splenic artery(비장동맥)",
+          "splenic artery",
+          "비장동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "splenic artery(비장동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 celiac trunk(복강동맥)에서 나오는 세 branch(가지) 주요 branch(가지) 중 가장 크다. / Original: splenic artery(비장동맥)는 이 3개의 branch(가지) 중에서 가장 큽니다. / Evidence: 복강동맥의 세 주분지 중 splenic artery(비장동맥)이 가장 굵고 길다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0002"
+      ],
+      "prompt": "splenic artery(비장동맥)는 _____에서 나오는 세 branch(가지) 주요 branch(가지) 중 가장 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥)",
+          "celiac trunk",
+          "복강동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 celiac trunk(복강동맥)에서 나오는 세 branch(가지) 주요 branch(가지) 중 가장 크다. / Original: splenic artery(비장동맥)는 이 3개의 branch(가지) 중에서 가장 큽니다. / Evidence: 복강동맥의 세 주분지 중 splenic artery(비장동맥)이 가장 굵고 길다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0002"
+      ],
+      "prompt": "splenic artery(비장동맥)는 celiac trunk(복강동맥)에서 나오는 세 _____ 주요 branch(가지) 중 가장 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "branch(가지)",
+        "accepted_answers": [
+          "branch(가지)",
+          "branch",
+          "가지"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "branch(가지)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 celiac trunk(복강동맥)에서 나오는 세 branch(가지) 주요 branch(가지) 중 가장 크다. / Original: splenic artery(비장동맥)는 이 3개의 branch(가지) 중에서 가장 큽니다. / Evidence: 복강동맥의 세 주분지 중 splenic artery(비장동맥)이 가장 굵고 길다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "_____는 pancreas(췌장) 위쪽 가장자리를 따라 spleen(비장) 쪽으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "splenic artery(비장동맥)",
+        "accepted_answers": [
+          "splenic artery(비장동맥)",
+          "splenic artery",
+          "비장동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "splenic artery(비장동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "보통",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 pancreas(췌장) 위쪽 가장자리를 따라 spleen(비장) 쪽으로 주행한다. / Original: [추정] spleen(비장) 위쪽을 통해서 굴곡져 갑니다. / Evidence: 비장동맥은 췌장 상연을 따라 좌측으로 굽이쳐 간다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "splenic artery(비장동맥)는 _____ 위쪽 가장자리를 따라 spleen(비장) 쪽으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pancreas(췌장)",
+        "accepted_answers": [
+          "pancreas(췌장)",
+          "pancreas",
+          "췌장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pancreas(췌장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "보통",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 pancreas(췌장) 위쪽 가장자리를 따라 spleen(비장) 쪽으로 주행한다. / Original: [추정] spleen(비장) 위쪽을 통해서 굴곡져 갑니다. / Evidence: 비장동맥은 췌장 상연을 따라 좌측으로 굽이쳐 간다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "splenic artery(비장동맥)는 pancreas(췌장) 위쪽 가장자리를 따라 _____ 쪽으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "spleen(비장)",
+        "accepted_answers": [
+          "spleen(비장)",
+          "spleen",
+          "비장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "spleen(비장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "보통",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: splenic artery(비장동맥)는 pancreas(췌장) 위쪽 가장자리를 따라 spleen(비장) 쪽으로 주행한다. / Original: [추정] spleen(비장) 위쪽을 통해서 굴곡져 갑니다. / Evidence: 비장동맥은 췌장 상연을 따라 좌측으로 굽이쳐 간다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "_____는 stomach(위)의 왼쪽 부분에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "left gastro-omental artery(왼쪽 위망동맥)",
+        "accepted_answers": [
+          "left gastro-omental artery(왼쪽 위망동맥)",
+          "left gastro-omental artery",
+          "왼쪽 위망동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "left gastro-omental artery(왼쪽 위망동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: left gastro-omental artery(왼쪽 위망동맥)는 stomach(위)의 왼쪽 부분에 혈액을 공급한다. / Original: 그래서 stomach(위)의 왼쪽 부분에 blood supply(혈액 공급)를 하게 됩니다. / Evidence: 왼쪽 위망동맥은 비장동맥의 가지로 위 큰굽이 좌측을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "left gastro-omental artery(왼쪽 위망동맥)는 _____의 왼쪽 부분에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "stomach(위)",
+        "accepted_answers": [
+          "stomach(위)",
+          "stomach",
+          "위"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "stomach(위)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: left gastro-omental artery(왼쪽 위망동맥)는 stomach(위)의 왼쪽 부분에 혈액을 공급한다. / Original: 그래서 stomach(위)의 왼쪽 부분에 blood supply(혈액 공급)를 하게 됩니다. / Evidence: 왼쪽 위망동맥은 비장동맥의 가지로 위 큰굽이 좌측을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0010"
+      ],
+      "prompt": "_____는 duodenum(십이지장)의 상부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior pancreaticoduodenal artery(위췌십이지장동맥)",
+        "accepted_answers": [
+          "superior pancreaticoduodenal artery(위췌십이지장동맥)",
+          "superior pancreaticoduodenal artery",
+          "위췌십이지장동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior pancreaticoduodenal artery(위췌십이지장동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior pancreaticoduodenal artery(위췌십이지장동맥)는 duodenum(십이지장)의 상부에 혈액을 공급한다. / Original: superior pancreaticoduodenal artery(위췌십이지장동맥)는 원래 duodenum(십이지장)의 위쪽에 blood supply(혈액 공급)를 하게 됩니다. / Evidence: 상췌십이지장동맥은 duodenum(십이지장) 상부와 췌장두부를 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0010_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0010"
+      ],
+      "prompt": "superior pancreaticoduodenal artery(위췌십이지장동맥)는 _____의 상부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "duodenum(십이지장)",
+        "accepted_answers": [
+          "duodenum(십이지장)",
+          "duodenum",
+          "십이지장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "duodenum(십이지장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior pancreaticoduodenal artery(위췌십이지장동맥)는 duodenum(십이지장)의 상부에 혈액을 공급한다. / Original: superior pancreaticoduodenal artery(위췌십이지장동맥)는 원래 duodenum(십이지장)의 위쪽에 blood supply(혈액 공급)를 하게 됩니다. / Evidence: 상췌십이지장동맥은 duodenum(십이지장) 상부와 췌장두부를 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0012"
+      ],
+      "prompt": "_____는 superior(위쪽) mesenteric artery(위장간막동맥)에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior pancreaticoduodenal artery(아래췌십이지장동맥)",
+        "accepted_answers": [
+          "inferior pancreaticoduodenal artery(아래췌십이지장동맥)",
+          "inferior pancreaticoduodenal artery",
+          "아래췌십이지장동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior pancreaticoduodenal artery(아래췌십이지장동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior pancreaticoduodenal artery(아래췌십이지장동맥)는 superior(위쪽) mesenteric artery(위장간막동맥)에서 분지한다. / Original: duodenum(십이지장)의 아래쪽에 있는 것은 이게 superior(위쪽)니까 inferior pancreaticoduodenal artery(아래췌십이지장동맥). 이거의 기원은 뭐냐면 superior mesenteric artery(위장간막동맥)가 기원이 되어 있습니다. / Evidence: inferior pancreaticoduodenal artery(아래췌십이지장동맥)은 상장간막동맥의 가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0012"
+      ],
+      "prompt": "inferior pancreaticoduodenal artery(아래췌십이지장동맥)는 _____ mesenteric artery(위장간막동맥)에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior(위쪽)",
+        "accepted_answers": [
+          "superior(위쪽)",
+          "superior",
+          "위쪽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior(위쪽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior pancreaticoduodenal artery(아래췌십이지장동맥)는 superior(위쪽) mesenteric artery(위장간막동맥)에서 분지한다. / Original: duodenum(십이지장)의 아래쪽에 있는 것은 이게 superior(위쪽)니까 inferior pancreaticoduodenal artery(아래췌십이지장동맥). 이거의 기원은 뭐냐면 superior mesenteric artery(위장간막동맥)가 기원이 되어 있습니다. / Evidence: inferior pancreaticoduodenal artery(아래췌십이지장동맥)은 상장간막동맥의 가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0012"
+      ],
+      "prompt": "inferior pancreaticoduodenal artery(아래췌십이지장동맥)는 superior(위쪽) _____에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mesenteric artery(위장간막동맥)",
+        "accepted_answers": [
+          "mesenteric artery(위장간막동맥)",
+          "mesenteric artery",
+          "위장간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mesenteric artery(위장간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior pancreaticoduodenal artery(아래췌십이지장동맥)는 superior(위쪽) mesenteric artery(위장간막동맥)에서 분지한다. / Original: duodenum(십이지장)의 아래쪽에 있는 것은 이게 superior(위쪽)니까 inferior pancreaticoduodenal artery(아래췌십이지장동맥). 이거의 기원은 뭐냐면 superior mesenteric artery(위장간막동맥)가 기원이 되어 있습니다. / Evidence: inferior pancreaticoduodenal artery(아래췌십이지장동맥)은 상장간막동맥의 가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "_____는 right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "proper hepatic artery(고유간동맥)",
+        "accepted_answers": [
+          "proper hepatic artery(고유간동맥)",
+          "proper hepatic artery",
+          "고유간동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "proper hepatic artery(고유간동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: proper hepatic artery(고유간동맥)는 right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)로 나뉜다. / Original: right hepatic artery(오른간동맥), proper hepatic artery(고유간동맥)가 되고 left hepatic artery(왼간동맥)가 되어가지고 / Evidence: proper hepatic artery(고유간동맥)은 보통 우간동맥과 좌간동맥으로 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0017_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "proper hepatic artery(고유간동맥)는 _____와 left hepatic artery(왼간동맥)로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "right hepatic artery(오른간동맥)",
+        "accepted_answers": [
+          "right hepatic artery(오른간동맥)",
+          "right hepatic artery",
+          "오른간동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "right hepatic artery(오른간동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: proper hepatic artery(고유간동맥)는 right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)로 나뉜다. / Original: right hepatic artery(오른간동맥), proper hepatic artery(고유간동맥)가 되고 left hepatic artery(왼간동맥)가 되어가지고 / Evidence: proper hepatic artery(고유간동맥)은 보통 우간동맥과 좌간동맥으로 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0017_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "proper hepatic artery(고유간동맥)는 right hepatic artery(오른간동맥)와 _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "left hepatic artery(왼간동맥)",
+        "accepted_answers": [
+          "left hepatic artery(왼간동맥)",
+          "left hepatic artery",
+          "왼간동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "left hepatic artery(왼간동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: proper hepatic artery(고유간동맥)는 right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)로 나뉜다. / Original: right hepatic artery(오른간동맥), proper hepatic artery(고유간동맥)가 되고 left hepatic artery(왼간동맥)가 되어가지고 / Evidence: proper hepatic artery(고유간동맥)은 보통 우간동맥과 좌간동맥으로 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "_____와 left hepatic artery(왼간동맥)는 liver(간)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "right hepatic artery(오른간동맥)",
+        "accepted_answers": [
+          "right hepatic artery(오른간동맥)",
+          "right hepatic artery",
+          "오른간동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "right hepatic artery(오른간동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)는 liver(간)에 혈액을 공급한다. / Original: 이거는 liver(간)하고 gallbladder(담낭) 있는 데 blood supply(혈액 공급)를 하는 / Evidence: 간의 주된 동맥 공급은 간동맥계에서 이루어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "right hepatic artery(오른간동맥)와 _____는 liver(간)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "left hepatic artery(왼간동맥)",
+        "accepted_answers": [
+          "left hepatic artery(왼간동맥)",
+          "left hepatic artery",
+          "왼간동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "left hepatic artery(왼간동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)는 liver(간)에 혈액을 공급한다. / Original: 이거는 liver(간)하고 gallbladder(담낭) 있는 데 blood supply(혈액 공급)를 하는 / Evidence: 간의 주된 동맥 공급은 간동맥계에서 이루어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0018_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)는 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "liver(간)",
+        "accepted_answers": [
+          "liver(간)",
+          "liver",
+          "간"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "liver(간)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: right hepatic artery(오른간동맥)와 left hepatic artery(왼간동맥)는 liver(간)에 혈액을 공급한다. / Original: 이거는 liver(간)하고 gallbladder(담낭) 있는 데 blood supply(혈액 공급)를 하는 / Evidence: 간의 주된 동맥 공급은 간동맥계에서 이루어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260407-1500_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0023"
+      ],
+      "prompt": "식도의 주요 부교감신경 지배는 _____에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "posterior vagal trunk(뒤미주신경줄기)",
+        "accepted_answers": [
+          "posterior vagal trunk(뒤미주신경줄기)",
+          "posterior vagal trunk",
+          "뒤미주신경줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "posterior vagal trunk(뒤미주신경줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 식도의 주요 부교감신경 지배는 posterior vagal trunk(뒤미주신경줄기)에서 온다. / Original: 여기 있는 대부분은 바로 posterior vagal trunk(뒤미주신경줄기)에서 오는 parasympathetic nervous system(부교감신경계)이 요기 위의 parasympathetic nervous system(부교감신경계)에 신경 지배를 하게 된다. / Evidence: 식도의 부교감신경 섬유는 미주신경의 앞뒤 줄기에서 공급된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0017"
+      ],
+      "prompt": "_____는 혈액을 복부와 골반 쪽에 분배하는 주요 동맥이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal aorta(배대동맥)",
+        "accepted_answers": [
+          "abdominal aorta(배대동맥)",
+          "abdominal aorta",
+          "배대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal aorta(배대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: abdominal aorta(배대동맥)는 혈액을 복부와 골반 쪽에 분배하는 주요 동맥이다. / Original: abdominal aorta(배대동맥) 볼게요. / Evidence: abdominal aorta(배대동맥)는 복부와 골반 장기로 가는 주요 분지를 낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0025"
+      ],
+      "prompt": "_____는 celiac trunk(복강동맥줄기)와 같은 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac artery(복강동맥)",
+        "accepted_answers": [
+          "celiac artery(복강동맥)",
+          "celiac artery",
+          "복강동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac artery(복강동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac artery(복강동맥)는 celiac trunk(복강동맥줄기)와 같은 말이다. / Original: celiac artery(복강동맥), celiac trunk(복강동맥줄기)라고도 얘기하죠. 그리고 요 안쪽에 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: celiac artery(복강동맥)는 celiac trunk(복강동맥줄기)의 동의어로 사용된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0025_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0025"
+      ],
+      "prompt": "celiac artery(복강동맥)는 _____와 같은 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥줄기)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥줄기)",
+          "celiac trunk",
+          "복강동맥줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac artery(복강동맥)는 celiac trunk(복강동맥줄기)와 같은 말이다. / Original: celiac artery(복강동맥), celiac trunk(복강동맥줄기)라고도 얘기하죠. 그리고 요 안쪽에 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: celiac artery(복강동맥)는 celiac trunk(복강동맥줄기)의 동의어로 사용된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0026_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0026"
+      ],
+      "prompt": "_____와 inferior mesenteric artery(아래창자간막동맥)는 abdominal aorta(배대동맥)의 주요 내장 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric artery(위창자간막동맥)",
+        "accepted_answers": [
+          "superior mesenteric artery(위창자간막동맥)",
+          "superior mesenteric artery",
+          "위창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric artery(위창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260415-1400_chunk_007",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric artery(위창자간막동맥)와 inferior mesenteric artery(아래창자간막동맥)는 abdominal aorta(배대동맥)의 주요 내장 가지이다. / Original: celiac artery(복강동맥), celiac trunk(복강동맥줄기)라고도 얘기하죠. 그리고 요 안쪽에 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 두 동맥은 복부대동맥의 대표적인 내장 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0026_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0026"
+      ],
+      "prompt": "superior mesenteric artery(위창자간막동맥)와 _____는 abdominal aorta(배대동맥)의 주요 내장 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior mesenteric artery(아래창자간막동맥)",
+        "accepted_answers": [
+          "inferior mesenteric artery(아래창자간막동맥)",
+          "inferior mesenteric artery",
+          "아래창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior mesenteric artery(아래창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260415-1400_chunk_007",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric artery(위창자간막동맥)와 inferior mesenteric artery(아래창자간막동맥)는 abdominal aorta(배대동맥)의 주요 내장 가지이다. / Original: celiac artery(복강동맥), celiac trunk(복강동맥줄기)라고도 얘기하죠. 그리고 요 안쪽에 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 두 동맥은 복부대동맥의 대표적인 내장 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0026_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0026"
+      ],
+      "prompt": "superior mesenteric artery(위창자간막동맥)와 inferior mesenteric artery(아래창자간막동맥)는 _____의 주요 내장 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal aorta(배대동맥)",
+        "accepted_answers": [
+          "abdominal aorta(배대동맥)",
+          "abdominal aorta",
+          "배대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal aorta(배대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260415-1400_chunk_007",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric artery(위창자간막동맥)와 inferior mesenteric artery(아래창자간막동맥)는 abdominal aorta(배대동맥)의 주요 내장 가지이다. / Original: celiac artery(복강동맥), celiac trunk(복강동맥줄기)라고도 얘기하죠. 그리고 요 안쪽에 superior mesenteric artery(위창자간막동맥), 그리고 inferior mesenteric artery(아래창자간막동맥). / Evidence: 두 동맥은 복부대동맥의 대표적인 내장 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "_____은 T12(12번 흉추) 높이에서 분지한다고 말할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥)",
+          "celiac trunk",
+          "복강동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 T12(12번 흉추) 높이에서 분지한다고 말할 수 있다. / Original: celiac trunk(복강동맥) 같은 경우에는 T12(12번 흉추)라고도 합니다. / Evidence: celiac trunk(복강동맥)은 보통 T12 부근에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "celiac trunk(복강동맥)은 _____ 높이에서 분지한다고 말할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "T12(12번 흉추)",
+        "accepted_answers": [
+          "T12(12번 흉추)",
+          "T12",
+          "12번 흉추"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "T12(12번 흉추)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 T12(12번 흉추) 높이에서 분지한다고 말할 수 있다. / Original: celiac trunk(복강동맥) 같은 경우에는 T12(12번 흉추)라고도 합니다. / Evidence: celiac trunk(복강동맥)은 보통 T12 부근에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "celiac trunk(복강동맥)은 T12(_____ 흉추) 높이에서 분지한다고 말할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "12번",
+        "accepted_answers": [
+          "12번"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "12번"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 T12(12번 흉추) 높이에서 분지한다고 말할 수 있다. / Original: celiac trunk(복강동맥) 같은 경우에는 T12(12번 흉추)라고도 합니다. / Evidence: celiac trunk(복강동맥)은 보통 T12 부근에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0020"
+      ],
+      "prompt": "_____는 L1의 윗모서리 높이에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥줄기)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥줄기)",
+          "celiac trunk",
+          "복강동맥줄기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥줄기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥줄기)는 L1의 윗모서리 높이에서 나온다. / Original: celiac trunk(복강동맥줄기) 같은 경우에는 L1의 윗모서리라고 있어요. / Evidence: celiac trunk(복강동맥줄기)는 보통 T12-L1 부근, 특히 L1 상연으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0021"
+      ],
+      "prompt": "_____는 L1의 아래모서리 높이에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric artery(위창자간막동맥)",
+        "accepted_answers": [
+          "superior mesenteric artery(위창자간막동맥)",
+          "superior mesenteric artery",
+          "위창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric artery(위창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0021",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric artery(위창자간막동맥)는 L1의 아래모서리 높이에서 나온다. / Original: superior mesenteric artery(위창자간막동맥) 같은 경우에는 이거는 L1의 아래 모서리라고 있습니다. / Evidence: superior mesenteric artery(위창자간막동맥)은 보통 L1 수준에서 기시한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1400_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0025"
+      ],
+      "prompt": "복부 _____의 주요 분지 기시 높이는 해부학적 기준점으로 사용된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Aorta(대동맥)",
+        "accepted_answers": [
+          "Aorta(대동맥)",
+          "Aorta",
+          "대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Aorta(대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 복부 Aorta(대동맥)의 주요 분지 기시 높이는 해부학적 기준점으로 사용된다. / Original: Aorta(대동맥) ... aorta(대동맥) 뭐랬냐면 celiac trunk(복강동맥줄기) ... superior mesenteric artery(위창자간막동맥) ... inferior mesenteric artery(아래창자간막동맥) ... renal artery(콩팥동맥) ... / Evidence: 복부 Aorta(대동맥)의 분지 높이는 임상 및 해부학에서 중요한 표지다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1500_P0032_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0032"
+      ],
+      "prompt": "_____는 superior mesenteric artery(스페프슈페리어 메센테릭 아트리에) 근처에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric ganglia(슈페리어 메센테리 강글리아)",
+        "accepted_answers": [
+          "superior mesenteric ganglia(슈페리어 메센테리 강글리아)",
+          "superior mesenteric ganglia",
+          "슈페리어 메센테리 강글리아"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric ganglia(슈페리어 메센테리 강글리아)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0032",
+        "confidence": "높음 ## 20260415-1500_chunk_005",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric ganglia(슈페리어 메센테리 강글리아)는 superior mesenteric artery(스페프슈페리어 메센테릭 아트리에) 근처에 있다. / Original: superior mesenteric ganglia(슈페리어 메센테리 강글리아) 근처에 superior mesenteric artery(스페프슈페리어 메센테릭 아트리에) 거기에 ganglion(강글리온)하고 [불명] / Evidence: superior mesenteric ganglion(강글리온)과 plexus는 상장간막동맥 주위에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p053_recording_20260415-1500_P0032_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0032"
+      ],
+      "prompt": "superior mesenteric ganglia(슈페리어 메센테리 강글리아)는 _____ 근처에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior mesenteric artery(스페프슈페리어 메센테릭 아트리에)",
+        "accepted_answers": [
+          "superior mesenteric artery(스페프슈페리어 메센테릭 아트리에)",
+          "superior mesenteric artery",
+          "스페프슈페리어 메센테릭 아트리에"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior mesenteric artery(스페프슈페리어 메센테릭 아트리에)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0032",
+        "confidence": "높음 ## 20260415-1500_chunk_005",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior mesenteric ganglia(슈페리어 메센테리 강글리아)는 superior mesenteric artery(스페프슈페리어 메센테릭 아트리에) 근처에 있다. / Original: superior mesenteric ganglia(슈페리어 메센테리 강글리아) 근처에 superior mesenteric artery(스페프슈페리어 메센테릭 아트리에) 거기에 ganglion(강글리온)하고 [불명] / Evidence: superior mesenteric ganglion(강글리온)과 plexus는 상장간막동맥 주위에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
     }
   ],
   "summary": {
-    "question_count": 21,
+    "question_count": 85,
     "question_type_count": {
-      "fill_blank": 21
+      "fill_blank": 85
     },
     "question_focus_count": {
       "course_exam_style_provisional": 11,
-      "course_exam_style": 10
+      "course_exam_style": 10,
+      "recording_proposition_review": 64
     }
   },
   "blocked_image_question_reasons": [],
@@ -593,7 +2766,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -601,7 +2774,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -609,7 +2782,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -617,7 +2790,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -625,7 +2798,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -633,7 +2806,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -641,7 +2814,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -649,7 +2822,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -657,7 +2830,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -665,7 +2838,7 @@
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json",
@@ -673,7 +2846,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -681,7 +2854,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -689,7 +2862,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -697,7 +2870,7 @@
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json",
@@ -705,7 +2878,7 @@
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json",
@@ -713,7 +2886,7 @@
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json",
@@ -721,7 +2894,7 @@
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json",
@@ -729,7 +2902,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -737,7 +2910,7 @@
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json",
@@ -745,7 +2918,7 @@
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json",
@@ -753,7 +2926,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -761,7 +2934,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -769,7 +2942,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -777,7 +2950,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -785,7 +2958,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -801,7 +2974,7 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json",
@@ -809,7 +2982,7 @@
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json",
@@ -849,7 +3022,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -857,7 +3030,7 @@
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json",
@@ -865,7 +3038,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -881,7 +3054,7 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json",
@@ -889,7 +3062,7 @@
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json",
@@ -921,7 +3094,7 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json",
@@ -929,7 +3102,7 @@
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json",
@@ -937,7 +3110,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -945,7 +3118,7 @@
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json",
@@ -953,7 +3126,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json",
@@ -961,7 +3134,7 @@
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json",
@@ -969,7 +3142,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json",
@@ -977,7 +3150,7 @@
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json",
@@ -985,7 +3158,7 @@
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json",
@@ -993,7 +3166,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json",
@@ -1001,7 +3174,7 @@
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json",
@@ -1009,7 +3182,7 @@
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -1017,140 +3190,140 @@
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json"
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json"
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json"
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json"
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json"
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json"
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json"
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -1164,42 +3337,42 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json"
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json"
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json"
@@ -1234,7 +3407,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json"
@@ -1255,77 +3428,77 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json"
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json"
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json"
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json"
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json"
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -1339,7 +3512,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -1353,49 +3526,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -1430,7 +3603,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -1444,28 +3617,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -1479,7 +3652,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -1514,21 +3687,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1549,7 +3722,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1675,7 +3848,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1787,7 +3960,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1836,7 +4009,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1899,7 +4072,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"

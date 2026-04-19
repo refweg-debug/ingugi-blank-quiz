@@ -1,0 +1,1868 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "강의원본",
+    "source_stem": "2026년 골반(여성 남성생식계통)",
+    "page_number": 11
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_from_recording_propositions",
+  "page_read_status": "recording_proposition_page_estimate",
+  "source_verified_status": "recording_true_proposition_text",
+  "questions": [
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0004"
+      ],
+      "prompt": "_____의 앞쪽 경계는 pubic symphysis(치골결합)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(골반출구)",
+        "accepted_answers": [
+          "pelvic outlet(골반출구)",
+          "pelvic outlet",
+          "골반출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(골반출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구)의 앞쪽 경계는 pubic symphysis(치골결합)이다. / Original: 앞쪽 경계는 [추정] pubic symphysis(치골결합)이고, 뒤쪽 경계는 coccyx(미추)입니다. / Evidence: pelvic outlet의 전방 경계는 pubic symphysis(치골결합) 쪽으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0004"
+      ],
+      "prompt": "pelvic outlet(골반출구)의 앞쪽 경계는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic symphysis(치골결합)",
+        "accepted_answers": [
+          "pubic symphysis(치골결합)",
+          "pubic symphysis",
+          "치골결합"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic symphysis(치골결합)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구)의 앞쪽 경계는 pubic symphysis(치골결합)이다. / Original: 앞쪽 경계는 [추정] pubic symphysis(치골결합)이고, 뒤쪽 경계는 coccyx(미추)입니다. / Evidence: pelvic outlet의 전방 경계는 pubic symphysis(치골결합) 쪽으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0005"
+      ],
+      "prompt": "_____의 뒤쪽 경계는 coccyx(미추)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(골반출구)",
+        "accepted_answers": [
+          "pelvic outlet(골반출구)",
+          "pelvic outlet",
+          "골반출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(골반출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구)의 뒤쪽 경계는 coccyx(미추)이다. / Original: 앞쪽 경계는 [추정] pubic symphysis(치골결합)이고, 뒤쪽 경계는 coccyx(미추)입니다. / Evidence: pelvic outlet의 후방 경계는 coccyx(미추) 쪽이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0005"
+      ],
+      "prompt": "pelvic outlet(골반출구)의 뒤쪽 경계는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "coccyx(미추)",
+        "accepted_answers": [
+          "coccyx(미추)",
+          "coccyx",
+          "미추"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "coccyx(미추)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구)의 뒤쪽 경계는 coccyx(미추)이다. / Original: 앞쪽 경계는 [추정] pubic symphysis(치골결합)이고, 뒤쪽 경계는 coccyx(미추)입니다. / Evidence: pelvic outlet의 후방 경계는 coccyx(미추) 쪽이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0014"
+      ],
+      "prompt": "_____은 골반의 위쪽 경계에 해당하는 뼈성 가장자리로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)은 골반의 위쪽 경계에 해당하는 뼈성 가장자리로 이루어진다. / Original: pelvic inlet(골반입구), 윗골반은 이렇게 되는데 위 골반 부분 같은 경우에 뼈의 모서리로 놓여 있습니다. / Evidence: pelvic inlet(골반입구)는 선골갑각과 치골결합 상연 등으로 이루어진 뼈성 경계이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0015"
+      ],
+      "prompt": "_____은 둘러싸는 뼈 모서리들로 정의된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)은 둘러싸는 뼈 모서리들로 정의된다. / Original: pelvic inlet(골반입구)을 둘러싸고 있는 뼈 모서리로 이루어져 있는 것이 pelvic inlet(골반입구)입니다. / Evidence: pelvic inlet(골반입구)는 골반의 뼈성 원형 경계로 정의된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0016"
+      ],
+      "prompt": "_____의 앞쪽 경계에는 pubic symphysis(두덩결합)의 상연이 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)의 앞쪽 경계에는 pubic symphysis(두덩결합)의 상연이 관여한다. / Original: pelvic inlet(골반입구)의 앞쪽에서는 pubic symphysis(두덩결합)가 윗모서리가 닿아 있는 모습을 구성하고 있고, / Evidence: pelvic inlet(골반입구)의 앞쪽 경계는 치골결합의 상연과 연결된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0016"
+      ],
+      "prompt": "pelvic inlet(골반입구)의 앞쪽 경계에는 _____의 상연이 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic symphysis(두덩결합)",
+        "accepted_answers": [
+          "pubic symphysis(두덩결합)",
+          "pubic symphysis",
+          "두덩결합"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic symphysis(두덩결합)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)의 앞쪽 경계에는 pubic symphysis(두덩결합)의 상연이 관여한다. / Original: pelvic inlet(골반입구)의 앞쪽에서는 pubic symphysis(두덩결합)가 윗모서리가 닿아 있는 모습을 구성하고 있고, / Evidence: pelvic inlet(골반입구)의 앞쪽 경계는 치골결합의 상연과 연결된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0020"
+      ],
+      "prompt": "_____의 가쪽연은 pelvic inlet의 경계 형성에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "sacral ala(날개)",
+        "accepted_answers": [
+          "sacral ala(날개)",
+          "sacral ala",
+          "날개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "sacral ala(날개)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sacral ala(날개)의 가쪽연은 pelvic inlet의 경계 형성에 관여한다. / Original: sacrum(엉치뼈) 중에서 ala(날개) 부분, margin of ala(날개가쪽연) 부분이 ilium(엉덩뼈) 부분을 차지하고 있고, / Evidence: 천골날개와 그 가장자리는 골반입구의 일부 경계를 이룬다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0021"
+      ],
+      "prompt": "_____는 pelvic inlet(골반입구)의 경계를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "sacral promontory(갑각)",
+        "accepted_answers": [
+          "sacral promontory(갑각)",
+          "sacral promontory",
+          "갑각"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "sacral promontory(갑각)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0021",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sacral promontory(갑각)는 pelvic inlet(골반입구)의 경계를 이룬다. / Original: 그리고 안쪽으로는 sacrum(엉치뼈)의 promontory(갑각), 이렇게 해서 pelvic inlet(골반입구)를 구성합니다. / Evidence: 천골갑각은 pelvic inlet(골반입구)의 뒤쪽 중앙 경계이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0021_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0021"
+      ],
+      "prompt": "sacral promontory(갑각)는 _____의 경계를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0021",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sacral promontory(갑각)는 pelvic inlet(골반입구)의 경계를 이룬다. / Original: 그리고 안쪽으로는 sacrum(엉치뼈)의 promontory(갑각), 이렇게 해서 pelvic inlet(골반입구)를 구성합니다. / Evidence: 천골갑각은 pelvic inlet(골반입구)의 뒤쪽 중앙 경계이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0022"
+      ],
+      "prompt": "_____은 골반의 아래쪽 개구부이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(골반출구)",
+        "accepted_answers": [
+          "pelvic outlet(골반출구)",
+          "pelvic outlet",
+          "골반출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(골반출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구)은 골반의 아래쪽 개구부이다. / Original: pelvic outlet(골반출구), 즉 아래쪽에 있는 것입니다. / Evidence: pelvic outlet(골반출구)는 골반의 하부 개구를 뜻한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0023"
+      ],
+      "prompt": "_____의 앞쪽 경계에는 pubic symphysis(두덩결합)의 아래쪽이 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(출구)",
+        "accepted_answers": [
+          "pelvic outlet(출구)",
+          "pelvic outlet",
+          "출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(출구)의 앞쪽 경계에는 pubic symphysis(두덩결합)의 아래쪽이 관여한다. / Original: 앞쪽에는 pubic symphysis(두덩결합) 아랫모서리가 outlet(출구)을 구성하고 있습니다. / Evidence: 골반출구의 앞쪽은 치골궁 부위로 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0023_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0023"
+      ],
+      "prompt": "pelvic outlet(출구)의 앞쪽 경계에는 _____의 아래쪽이 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic symphysis(두덩결합)",
+        "accepted_answers": [
+          "pubic symphysis(두덩결합)",
+          "pubic symphysis",
+          "두덩결합"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic symphysis(두덩결합)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(출구)의 앞쪽 경계에는 pubic symphysis(두덩결합)의 아래쪽이 관여한다. / Original: 앞쪽에는 pubic symphysis(두덩결합) 아랫모서리가 outlet(출구)을 구성하고 있습니다. / Evidence: 골반출구의 앞쪽은 치골궁 부위로 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0024"
+      ],
+      "prompt": "pelvic outlet의 앞쪽 가쪽 경계에는 _____가 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior pubic ramus(아래두덩가지)",
+        "accepted_answers": [
+          "inferior pubic ramus(아래두덩가지)",
+          "inferior pubic ramus",
+          "아래두덩가지"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior pubic ramus(아래두덩가지)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet의 앞쪽 가쪽 경계에는 inferior pubic ramus(아래두덩가지)가 관여한다. / Original: 그 다음에 옆쪽으로는 inferior pubic ramus(아래두덩가지)가 이쪽을 차지하고 있습니다. / Evidence: 골반출구의 앞쪽 가쪽 경계는 아래치골가지와 치골궁이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0026_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0026"
+      ],
+      "prompt": "pelvic outlet의 뒤쪽 경계에는 _____가 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "sacrotuberous ligament(엉치결절인대)",
+        "accepted_answers": [
+          "sacrotuberous ligament(엉치결절인대)",
+          "sacrotuberous ligament",
+          "엉치결절인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "sacrotuberous ligament(엉치결절인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0026",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet의 뒤쪽 경계에는 sacrotuberous ligament(엉치결절인대)가 관여한다. / Original: 그리고 뒤쪽은 조금 전에 봤던 ligament(인대) 중 하나인 sacrotuberous ligament(엉치결절인대)가 뒤쪽을 차지합니다. / Evidence: 천결절인대는 골반출구의 뒤쪽 경계를 이룬다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0028_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0028"
+      ],
+      "prompt": "_____의 뒤쪽 경계에는 coccyx(꼬리뼈)가 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(출구)",
+        "accepted_answers": [
+          "pelvic outlet(출구)",
+          "pelvic outlet",
+          "출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0028",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(출구)의 뒤쪽 경계에는 coccyx(꼬리뼈)가 관여한다. / Original: 그리고 완전 뒤쪽은 coccyx(꼬리뼈)를 차지하고 있고, 이 부분을 outlet(출구)이라고 합니다. / Evidence: 골반출구의 뒤쪽 끝은 미골 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0028_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0028"
+      ],
+      "prompt": "pelvic outlet(출구)의 뒤쪽 경계에는 _____가 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "coccyx(꼬리뼈)",
+        "accepted_answers": [
+          "coccyx(꼬리뼈)",
+          "coccyx",
+          "꼬리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "coccyx(꼬리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0028",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(출구)의 뒤쪽 경계에는 coccyx(꼬리뼈)가 관여한다. / Original: 그리고 완전 뒤쪽은 coccyx(꼬리뼈)를 차지하고 있고, 이 부분을 outlet(출구)이라고 합니다. / Evidence: 골반출구의 뒤쪽 끝은 미골 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0002"
+      ],
+      "prompt": "_____는 pelvic inlet(골반입구)보다 위에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "greater pelvis(큰골반)",
+        "accepted_answers": [
+          "greater pelvis(큰골반)",
+          "greater pelvis",
+          "큰골반"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "greater pelvis(큰골반)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: greater pelvis(큰골반)는 pelvic inlet(골반입구)보다 위에 있다. / Original: greater pelvis(큰골반)가 inlet(입구)보다 더 위에 있는 부분입니다. / Evidence: greater pelvis(큰골반)은 골반입구 위쪽의 부분이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0002"
+      ],
+      "prompt": "greater pelvis(큰골반)는 _____보다 위에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: greater pelvis(큰골반)는 pelvic inlet(골반입구)보다 위에 있다. / Original: greater pelvis(큰골반)가 inlet(입구)보다 더 위에 있는 부분입니다. / Evidence: greater pelvis(큰골반)은 골반입구 위쪽의 부분이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0014"
+      ],
+      "prompt": "_____는 pelvic inlet(골반입구)과 outlet(골반출구) 사이에서 곡선으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic axis(골반축)",
+        "accepted_answers": [
+          "pelvic axis(골반축)",
+          "pelvic axis",
+          "골반축"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic axis(골반축)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic axis(골반축)는 pelvic inlet(골반입구)과 outlet(골반출구) 사이에서 곡선으로 이어진다. / Original: pelvis(골반)의 axis(축)라고 얘기하면 이쪽에 있는 pelvic inlet(골반입구)하고 outlet(출구) 사이에 있는 axis(축)는 오목하게 휘어져 있기 때문에 여기를 따라서 이렇게 휘어지는 것이 바로 axis(축) 부분이다. / Evidence: 골반축은 골반강을 따라 굽은 곡선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0014_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0014"
+      ],
+      "prompt": "pelvic axis(골반축)는 _____과 outlet(골반출구) 사이에서 곡선으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic axis(골반축)는 pelvic inlet(골반입구)과 outlet(골반출구) 사이에서 곡선으로 이어진다. / Original: pelvis(골반)의 axis(축)라고 얘기하면 이쪽에 있는 pelvic inlet(골반입구)하고 outlet(출구) 사이에 있는 axis(축)는 오목하게 휘어져 있기 때문에 여기를 따라서 이렇게 휘어지는 것이 바로 axis(축) 부분이다. / Evidence: 골반축은 골반강을 따라 굽은 곡선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0014_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0014"
+      ],
+      "prompt": "pelvic axis(골반축)는 pelvic inlet(골반입구)과 _____ 사이에서 곡선으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "outlet(골반출구)",
+        "accepted_answers": [
+          "outlet(골반출구)",
+          "outlet",
+          "골반출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "outlet(골반출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic axis(골반축)는 pelvic inlet(골반입구)과 outlet(골반출구) 사이에서 곡선으로 이어진다. / Original: pelvis(골반)의 axis(축)라고 얘기하면 이쪽에 있는 pelvic inlet(골반입구)하고 outlet(출구) 사이에 있는 axis(축)는 오목하게 휘어져 있기 때문에 여기를 따라서 이렇게 휘어지는 것이 바로 axis(축) 부분이다. / Evidence: 골반축은 골반강을 따라 굽은 곡선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0017"
+      ],
+      "prompt": "_____은 pelvic inlet(골반입구), pelvic cavity(골반강), pelvic outlet(골반출구)을 따라 이어지는 통로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic canal(골반관)",
+        "accepted_answers": [
+          "pelvic canal(골반관)",
+          "pelvic canal",
+          "골반관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic canal(골반관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic canal(골반관)은 pelvic inlet(골반입구), pelvic cavity(골반강), pelvic outlet(골반출구)을 따라 이어지는 통로이다. / Original: pelvic canal(골반관)이라고 하면 결국은 pelvic inlet(골반입구) 그리고 [추정] pelvic cavity(골반강), pelvic outlet(골반출구)으로 이어지면서 이게 출산할 때 안에 머리가 이렇게 통과해서 통과되는 그런 통로다. / Evidence: pelvic canal(골반관)은 골반입구에서 골반강을 지나 골반출구로 이어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0017_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0017"
+      ],
+      "prompt": "pelvic canal(골반관)은 _____, pelvic cavity(골반강), pelvic outlet(골반출구)을 따라 이어지는 통로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic canal(골반관)은 pelvic inlet(골반입구), pelvic cavity(골반강), pelvic outlet(골반출구)을 따라 이어지는 통로이다. / Original: pelvic canal(골반관)이라고 하면 결국은 pelvic inlet(골반입구) 그리고 [추정] pelvic cavity(골반강), pelvic outlet(골반출구)으로 이어지면서 이게 출산할 때 안에 머리가 이렇게 통과해서 통과되는 그런 통로다. / Evidence: pelvic canal(골반관)은 골반입구에서 골반강을 지나 골반출구로 이어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0017_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0017"
+      ],
+      "prompt": "pelvic canal(골반관)은 pelvic inlet(골반입구), _____, pelvic outlet(골반출구)을 따라 이어지는 통로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic cavity(골반강)",
+        "accepted_answers": [
+          "pelvic cavity(골반강)",
+          "pelvic cavity",
+          "골반강"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic cavity(골반강)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic canal(골반관)은 pelvic inlet(골반입구), pelvic cavity(골반강), pelvic outlet(골반출구)을 따라 이어지는 통로이다. / Original: pelvic canal(골반관)이라고 하면 결국은 pelvic inlet(골반입구) 그리고 [추정] pelvic cavity(골반강), pelvic outlet(골반출구)으로 이어지면서 이게 출산할 때 안에 머리가 이렇게 통과해서 통과되는 그런 통로다. / Evidence: pelvic canal(골반관)은 골반입구에서 골반강을 지나 골반출구로 이어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0021"
+      ],
+      "prompt": "_____ 평면은 수평면과 약 50-60도 각도를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0021",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구) 평면은 수평면과 약 50-60도 각도를 이룬다. / Original: 여기에 있는 inlet(입구) 부분, inlet(입구) 같은 경우에 이 수평면하고 한 50에서 60도 정도 되어 줍니다. / Evidence: 골반입구는 해부학적 자세에서 수평면과 약 55도 기울어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0021_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0021"
+      ],
+      "prompt": "pelvic inlet(골반입구) 평면은 수평면과 약 50-_____ 각도를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "60도",
+        "accepted_answers": [
+          "60도"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "60도"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0021",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구) 평면은 수평면과 약 50-60도 각도를 이룬다. / Original: 여기에 있는 inlet(입구) 부분, inlet(입구) 같은 경우에 이 수평면하고 한 50에서 60도 정도 되어 줍니다. / Evidence: 골반입구는 해부학적 자세에서 수평면과 약 55도 기울어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0022"
+      ],
+      "prompt": "_____ 평면은 수평면과 약 15도 각도를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic outlet(골반출구)",
+        "accepted_answers": [
+          "pelvic outlet(골반출구)",
+          "pelvic outlet",
+          "골반출구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic outlet(골반출구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구) 평면은 수평면과 약 15도 각도를 이룬다. / Original: 그리고 pelvic outlet(골반출구) 같은 경우에는 여기에 평면하고 했을 때 그게 한 15도 기울어진 상태로 있다. / Evidence: pelvic outlet(골반출구) 평면은 해부학적 자세에서 약 15도 기울어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0022_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0022"
+      ],
+      "prompt": "pelvic outlet(골반출구) 평면은 수평면과 약 _____ 각도를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "15도",
+        "accepted_answers": [
+          "15도"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "15도"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic outlet(골반출구) 평면은 수평면과 약 15도 각도를 이룬다. / Original: 그리고 pelvic outlet(골반출구) 같은 경우에는 여기에 평면하고 했을 때 그게 한 15도 기울어진 상태로 있다. / Evidence: pelvic outlet(골반출구) 평면은 해부학적 자세에서 약 15도 기울어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0030_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0030"
+      ],
+      "prompt": "_____에는 transverse diameter(가로지름)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0030",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)에는 transverse diameter(가로지름)가 있다. / Original: 먼저 여기에 pelvic inlet(골반입구) 부분이 있고 transverse diameter(가로지름)라고 있습니다. / Evidence: 골반입구의 지름 중 하나가 transverse diameter이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0030_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0030"
+      ],
+      "prompt": "pelvic inlet(골반입구)에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transverse diameter(가로지름)",
+        "accepted_answers": [
+          "transverse diameter(가로지름)",
+          "transverse diameter",
+          "가로지름"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transverse diameter(가로지름)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0030",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvic inlet(골반입구)에는 transverse diameter(가로지름)가 있다. / Original: 먼저 여기에 pelvic inlet(골반입구) 부분이 있고 transverse diameter(가로지름)라고 있습니다. / Evidence: 골반입구의 지름 중 하나가 transverse diameter이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0031_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0031"
+      ],
+      "prompt": "_____는 pelvic inlet(골반입구)에서 좌우 같은 지점을 잇는 가장 긴 지름이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transverse diameter(가로지름)",
+        "accepted_answers": [
+          "transverse diameter(가로지름)",
+          "transverse diameter",
+          "가로지름"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transverse diameter(가로지름)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0031",
+        "confidence": "높음 ## 20260416-1100_chunk_005",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transverse diameter(가로지름)는 pelvic inlet(골반입구)에서 좌우 같은 지점을 잇는 가장 긴 지름이다. / Original: transverse diameter(가로지름) 같은 경우에는 이거는 이렇게 이 inlet(입구) 부분에서 양쪽에 같은 지점 양쪽에 같은 지점을 잇는 가장 긴 지름, 양쪽으로 이렇게 있는데 그 중에서 가장 긴 지름 부분을 transverse diameter(가로지름)라고 합니다. / Evidence: transverse diameter(가로지름)는 골반입구의 좌우 최대 폭이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0031_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0031"
+      ],
+      "prompt": "transverse diameter(가로지름)는 _____에서 좌우 같은 지점을 잇는 가장 긴 지름이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvic inlet(골반입구)",
+        "accepted_answers": [
+          "pelvic inlet(골반입구)",
+          "pelvic inlet",
+          "골반입구"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvic inlet(골반입구)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0031",
+        "confidence": "높음 ## 20260416-1100_chunk_005",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transverse diameter(가로지름)는 pelvic inlet(골반입구)에서 좌우 같은 지점을 잇는 가장 긴 지름이다. / Original: transverse diameter(가로지름) 같은 경우에는 이거는 이렇게 이 inlet(입구) 부분에서 양쪽에 같은 지점 양쪽에 같은 지점을 잇는 가장 긴 지름, 양쪽으로 이렇게 있는데 그 중에서 가장 긴 지름 부분을 transverse diameter(가로지름)라고 합니다. / Evidence: transverse diameter(가로지름)는 골반입구의 좌우 최대 폭이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0016"
+      ],
+      "prompt": "남성의 _____은 여성보다 좁다.",
+      "answer": {
+        "format": "single_text",
+        "value": "outlet(골반아래구멍)",
+        "accepted_answers": [
+          "outlet(골반아래구멍)",
+          "outlet",
+          "골반아래구멍"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "outlet(골반아래구멍)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 남성의 outlet(골반아래구멍)은 여성보다 좁다. / Original: outlet(골반아래구멍) 같은 경우에도 상대적으로 남성이 outlet(골반아래구멍)이 훨씬 좁습니다. / Evidence: 남성 골반출구는 여성보다 좁은 것이 일반적이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p011_recording_20260416-1100_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0017"
+      ],
+      "prompt": "여성의 _____은 남성보다 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "outlet(골반아래구멍)",
+        "accepted_answers": [
+          "outlet(골반아래구멍)",
+          "outlet",
+          "골반아래구멍"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "outlet(골반아래구멍)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 여성의 outlet(골반아래구멍)은 남성보다 크다. / Original: 여성 같은 경우에는 남성의 outlet(골반아래구멍) 부분이 훨씬 더 크다 / Evidence: 여성 골반출구는 분만을 위해 더 넓다. / Page match: approximate keyword match against existing page text."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 36,
+    "question_type_count": {
+      "fill_blank": 36
+    },
+    "question_focus_count": {
+      "recording_proposition_review": 36
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p001__52e6b9b37a10.json",
+        "review_image_url": "./data/images/2026__p001__52e6b9b37a10.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p003__4fac792dc5fb.json",
+        "review_image_url": "./data/images/2026__p003__4fac792dc5fb.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
+        "review_image_url": "./data/images/2026__p004__7ed8bbf1cba5.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p005__ebb6997892d0.json",
+        "review_image_url": "./data/images/2026__p005__ebb6997892d0.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p008__74b0770887cd.json",
+        "review_image_url": "./data/images/2026__p008__74b0770887cd.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p010__e32bb41c668c.json",
+        "review_image_url": "./data/images/2026__p010__e32bb41c668c.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 36,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p011__ae863d2e6e49.json",
+        "review_image_url": "./data/images/2026__p011__ae863d2e6e49.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 63,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p012__3464e85a1843.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p013__08fd55525c66.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p014__f2d4bf2b6105.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p015__59fbf4d5ea55.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p016__1da3567101ef.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p018__d57073d7e345.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p019__90ecedb34cb7.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p020__b51a3f435dc8.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p021__c2839efde8de.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p023__a3c715e9ca60.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p024__d9b0348c7e94.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p025__4b14062e55b6.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p026__73b0205ffcc5.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p029__b21d0ff927a3.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p031__4d5ad2f59f28.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p032__03e34db11c7c.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p033__bb26f83bd463.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p034__2461d9d01a67.json"
+      },
+      {
+        "page_number": 35,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p035__6de7262562fe.json"
+      },
+      {
+        "page_number": 36,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p036__aface19073f7.json"
+      },
+      {
+        "page_number": 37,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p037__230828074450.json"
+      },
+      {
+        "page_number": 38,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p038__c701bb940c98.json"
+      },
+      {
+        "page_number": 39,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p039__ebf6a21e6faf.json"
+      },
+      {
+        "page_number": 40,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p040__909a3ec19ba3.json"
+      },
+      {
+        "page_number": 41,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p041__7e2bd83a2d0c.json"
+      },
+      {
+        "page_number": 42,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p042__32c1bf92e757.json"
+      },
+      {
+        "page_number": 43,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p043__5ae2ca128f56.json"
+      },
+      {
+        "page_number": 44,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p044__533b8e13c331.json"
+      },
+      {
+        "page_number": 45,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p045__ed4889042d26.json"
+      },
+      {
+        "page_number": 46,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p046__8eea0b0c7683.json"
+      },
+      {
+        "page_number": 48,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p048__32e0d2ea4150.json"
+      },
+      {
+        "page_number": 49,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p049__85b07ed7dcf5.json"
+      },
+      {
+        "page_number": 50,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p050__2cdc5cbfd38d.json"
+      },
+      {
+        "page_number": 51,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p051__9e3f425710dd.json"
+      },
+      {
+        "page_number": 52,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p052__ed23e335fbe3.json"
+      },
+      {
+        "page_number": 53,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p053__d9174102d20e.json"
+      },
+      {
+        "page_number": 54,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p054__6b7d0f1ab4b7.json"
+      },
+      {
+        "page_number": 55,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p055__41dac299e841.json"
+      },
+      {
+        "page_number": 57,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p057__7b6de9aef512.json"
+      },
+      {
+        "page_number": 61,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p061__2ec5e2147d99.json"
+      },
+      {
+        "page_number": 64,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p064__d1850a256a0b.json"
+      },
+      {
+        "page_number": 65,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p065__3d99a846a1cd.json"
+      },
+      {
+        "page_number": 66,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p066__10befca09dcf.json"
+      },
+      {
+        "page_number": 67,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p067__855f6ee0dd10.json"
+      },
+      {
+        "page_number": 68,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p068__3da8f8867363.json"
+      },
+      {
+        "page_number": 69,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p069__8967bc8d60f2.json"
+      },
+      {
+        "page_number": 74,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p074__4f3024f7ee4d.json"
+      },
+      {
+        "page_number": 75,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p075__37ea3c53e590.json"
+      },
+      {
+        "page_number": 77,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p077__a7e8cfcf0636.json"
+      },
+      {
+        "page_number": 78,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p078__68d4d81c001b.json"
+      },
+      {
+        "page_number": 79,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p079__2bfde406496e.json"
+      },
+      {
+        "page_number": 81,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p081__f7db09a5be05.json"
+      },
+      {
+        "page_number": 83,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p083__98eab257e8d5.json"
+      },
+      {
+        "page_number": 87,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p087__cdb9351a4939.json"
+      },
+      {
+        "page_number": 88,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p088__4fede44f6a4e.json"
+      },
+      {
+        "page_number": 90,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p090__d5d305d92606.json"
+      },
+      {
+        "page_number": 91,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p091__042b411a3cb5.json"
+      },
+      {
+        "page_number": 92,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p092__e2d91681cdf7.json"
+      },
+      {
+        "page_number": 93,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p093__43aeb25f08b5.json"
+      },
+      {
+        "page_number": 94,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p094__13510ea4bf10.json"
+      },
+      {
+        "page_number": 95,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p095__cd9815db7950.json"
+      },
+      {
+        "page_number": 96,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p096__1de57c38ecb3.json"
+      },
+      {
+        "page_number": 97,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p097__127fde17efa6.json"
+      },
+      {
+        "page_number": 99,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p099__1d16beba84d2.json"
+      },
+      {
+        "page_number": 100,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p100__0a9384427a69.json"
+      },
+      {
+        "page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p101__7a76ead1c749.json"
+      },
+      {
+        "page_number": 102,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p102__e822982cd17c.json"
+      },
+      {
+        "page_number": 103,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p103__4627d2eafb59.json"
+      },
+      {
+        "page_number": 106,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p106__b0731eb71416.json"
+      },
+      {
+        "page_number": 107,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p107__b7a2d68aa454.json"
+      },
+      {
+        "page_number": 108,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p108__ccc6b5704941.json"
+      },
+      {
+        "page_number": 109,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p109__4dfa67e6888d.json"
+      },
+      {
+        "page_number": 113,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p113__fd5f42e066fa.json"
+      },
+      {
+        "page_number": 115,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p115__283ba446f156.json"
+      },
+      {
+        "page_number": 116,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p116__c55903a3d2e6.json"
+      },
+      {
+        "page_number": 124,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p124__b87007a21ed1.json"
+      },
+      {
+        "page_number": 126,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p126__302956318ac6.json"
+      },
+      {
+        "page_number": 127,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p127__cea39293ebb1.json"
+      },
+      {
+        "page_number": 128,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p128__8481c46b439a.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 10,
+    "next_page": 12
+  },
+  "review_image_url": "./data/images/2026__p011__ae863d2e6e49.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "강의원본",
+      "source_stem": "2026년 골반(여성 남성생식계통)",
+      "page_number": 11
+    }
+  }
+}

@@ -375,16 +375,901 @@
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 앞갈비사이동맥(anterior intercostal arteries)은 속가슴동맥(internal thoracic artery)의 가지이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1100_P0022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0022"
+      ],
+      "prompt": "호흡의 주된 근육은 _____과 intercostal muscle(갈비사이근)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 호흡의 주된 근육은 diaphragm(가로막)과 intercostal muscle(갈비사이근)이다. / Original: 원래 호흡은 주로 diaphragm(가로막)과 intercostal muscle(갈비사이근)에 대해서 작용을 하게 되는데 / Evidence: 호흡의 주된 운동은 diaphragm(가로막)과 intercostal muscle(갈비사이근)이 담당한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1100_P0022_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0022"
+      ],
+      "prompt": "호흡의 주된 근육은 diaphragm(가로막)과 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "intercostal muscle(갈비사이근)",
+        "accepted_answers": [
+          "intercostal muscle(갈비사이근)",
+          "intercostal muscle",
+          "갈비사이근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "intercostal muscle(갈비사이근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 호흡의 주된 근육은 diaphragm(가로막)과 intercostal muscle(갈비사이근)이다. / Original: 원래 호흡은 주로 diaphragm(가로막)과 intercostal muscle(갈비사이근)에 대해서 작용을 하게 되는데 / Evidence: 호흡의 주된 운동은 diaphragm(가로막)과 intercostal muscle(갈비사이근)이 담당한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0013"
+      ],
+      "prompt": "_____는 internal thoracic artery(속가슴동맥)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior epigastric artery(위배동맥)",
+        "accepted_answers": [
+          "superior epigastric artery(위배동맥)",
+          "superior epigastric artery",
+          "위배동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior epigastric artery(위배동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior epigastric artery(위배동맥)는 internal thoracic artery(속가슴동맥)의 가지이다. / Original: superior epigastric artery(위배동맥)하고도 서로 연결이 되는 그런 부분인데, 이게 internal thoracic artery(속가슴동맥)에서 온 거다. / Evidence: superior epigastric artery(위배동맥)은 internal thoracic artery(속가슴동맥)의 종말가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0013"
+      ],
+      "prompt": "superior epigastric artery(위배동맥)는 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal thoracic artery(속가슴동맥)",
+        "accepted_answers": [
+          "internal thoracic artery(속가슴동맥)",
+          "internal thoracic artery",
+          "속가슴동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal thoracic artery(속가슴동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior epigastric artery(위배동맥)는 internal thoracic artery(속가슴동맥)의 가지이다. / Original: superior epigastric artery(위배동맥)하고도 서로 연결이 되는 그런 부분인데, 이게 internal thoracic artery(속가슴동맥)에서 온 거다. / Evidence: superior epigastric artery(위배동맥)은 internal thoracic artery(속가슴동맥)의 종말가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0014"
+      ],
+      "prompt": "_____는 diaphragm(가로막)과 관련된 혈관이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "musculophrenic artery(가로막배동맥)",
+        "accepted_answers": [
+          "musculophrenic artery(가로막배동맥)",
+          "musculophrenic artery",
+          "가로막배동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "musculophrenic artery(가로막배동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(가로막배동맥)는 diaphragm(가로막)과 관련된 혈관이다. / Original: musculophrenic artery(가로막배동맥)가 있습니다. phrenic이라고 나오면 이건 무조건 가로막과 관련이 있습니다. / Evidence: musculophrenic artery(가로막배동맥)은 가로막의 혈액 공급에 관여한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0014_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0014"
+      ],
+      "prompt": "musculophrenic artery(가로막배동맥)는 _____과 관련된 혈관이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(가로막배동맥)는 diaphragm(가로막)과 관련된 혈관이다. / Original: musculophrenic artery(가로막배동맥)가 있습니다. phrenic이라고 나오면 이건 무조건 가로막과 관련이 있습니다. / Evidence: musculophrenic artery(가로막배동맥)은 가로막의 혈액 공급에 관여한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0016"
+      ],
+      "prompt": "_____는 aorta(대동맥)에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "posterior intercostal arteries(뒤갈비사이동맥)",
+        "accepted_answers": [
+          "posterior intercostal arteries(뒤갈비사이동맥)",
+          "posterior intercostal arteries",
+          "뒤갈비사이동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "posterior intercostal arteries(뒤갈비사이동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: posterior intercostal arteries(뒤갈비사이동맥)는 aorta(대동맥)에서 기시한다. / Original: posterior intercostal artery(뒤갈비사이동맥)에서부터 posterior intercostal artery(뒤갈비사이동맥) 같은 경우에는 origin 자체가 aorta(대동맥)죠. / Evidence: posterior intercostal artery(뒤갈비사이동맥)의 대부분은 aorta(대동맥)에서 나온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0016"
+      ],
+      "prompt": "posterior intercostal arteries(뒤갈비사이동맥)는 _____에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "aorta(대동맥)",
+        "accepted_answers": [
+          "aorta(대동맥)",
+          "aorta",
+          "대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "aorta(대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: posterior intercostal arteries(뒤갈비사이동맥)는 aorta(대동맥)에서 기시한다. / Original: posterior intercostal artery(뒤갈비사이동맥)에서부터 posterior intercostal artery(뒤갈비사이동맥) 같은 경우에는 origin 자체가 aorta(대동맥)죠. / Evidence: posterior intercostal artery(뒤갈비사이동맥)의 대부분은 aorta(대동맥)에서 나온다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0003"
+      ],
+      "prompt": "_____는 external iliac artery(바깥장골동맥)의 분지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep circumflex iliac artery(깊은장골휘돌이동맥)",
+        "accepted_answers": [
+          "deep circumflex iliac artery(깊은장골휘돌이동맥)",
+          "deep circumflex iliac artery",
+          "깊은장골휘돌이동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep circumflex iliac artery(깊은장골휘돌이동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep circumflex iliac artery(깊은장골휘돌이동맥)는 external iliac artery(바깥장골동맥)의 분지이다. / Original: deep circumflex iliac artery(깊은장골휘돌이동맥)도 마찬가지고, 둘 다 external iliac artery(바깥장골동맥)의 branch이다. / Evidence: deep circumflex iliac artery(깊은장골휘돌이동맥)는 external iliac artery(바깥장골동맥)의 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0003"
+      ],
+      "prompt": "deep circumflex iliac artery(깊은장골휘돌이동맥)는 _____의 분지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "external iliac artery(바깥장골동맥)",
+        "accepted_answers": [
+          "external iliac artery(바깥장골동맥)",
+          "external iliac artery",
+          "바깥장골동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "external iliac artery(바깥장골동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep circumflex iliac artery(깊은장골휘돌이동맥)는 external iliac artery(바깥장골동맥)의 분지이다. / Original: deep circumflex iliac artery(깊은장골휘돌이동맥)도 마찬가지고, 둘 다 external iliac artery(바깥장골동맥)의 branch이다. / Evidence: deep circumflex iliac artery(깊은장골휘돌이동맥)는 external iliac artery(바깥장골동맥)의 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "_____는 iliacus muscle(엉덩근)과 anterior abdominal wall(앞쪽 배벽) 아래부분에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "deep circumflex iliac artery(깊은장골휘돌이동맥)",
+        "accepted_answers": [
+          "deep circumflex iliac artery(깊은장골휘돌이동맥)",
+          "deep circumflex iliac artery",
+          "깊은장골휘돌이동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "deep circumflex iliac artery(깊은장골휘돌이동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep circumflex iliac artery(깊은장골휘돌이동맥)는 iliacus muscle(엉덩근)과 anterior abdominal wall(앞쪽 배벽) 아래부분에 혈액을 공급한다. / Original: deep circumflex iliac artery(깊은장골휘돌이동맥) 같은 경우에는 ... iliacus muscle(엉덩근)이라든지 anterior abdominal wall(앞쪽 배벽)의 아랫부분에다가 혈액 공급을 하고 / Evidence: 이 동맥은 장골부와 하부 전외측 복벽에 혈액을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "deep circumflex iliac artery(깊은장골휘돌이동맥)는 _____과 anterior abdominal wall(앞쪽 배벽) 아래부분에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliacus muscle(엉덩근)",
+        "accepted_answers": [
+          "iliacus muscle(엉덩근)",
+          "iliacus muscle",
+          "엉덩근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliacus muscle(엉덩근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep circumflex iliac artery(깊은장골휘돌이동맥)는 iliacus muscle(엉덩근)과 anterior abdominal wall(앞쪽 배벽) 아래부분에 혈액을 공급한다. / Original: deep circumflex iliac artery(깊은장골휘돌이동맥) 같은 경우에는 ... iliacus muscle(엉덩근)이라든지 anterior abdominal wall(앞쪽 배벽)의 아랫부분에다가 혈액 공급을 하고 / Evidence: 이 동맥은 장골부와 하부 전외측 복벽에 혈액을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260402-1200_P0004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "deep circumflex iliac artery(깊은장골휘돌이동맥)는 iliacus muscle(엉덩근)과 _____ 아래부분에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior abdominal wall(앞쪽 배벽)",
+        "accepted_answers": [
+          "anterior abdominal wall(앞쪽 배벽)",
+          "anterior abdominal wall",
+          "앞쪽 배벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior abdominal wall(앞쪽 배벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: deep circumflex iliac artery(깊은장골휘돌이동맥)는 iliacus muscle(엉덩근)과 anterior abdominal wall(앞쪽 배벽) 아래부분에 혈액을 공급한다. / Original: deep circumflex iliac artery(깊은장골휘돌이동맥) 같은 경우에는 ... iliacus muscle(엉덩근)이라든지 anterior abdominal wall(앞쪽 배벽)의 아랫부분에다가 혈액 공급을 하고 / Evidence: 이 동맥은 장골부와 하부 전외측 복벽에 혈액을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0012"
+      ],
+      "prompt": "_____와 pericardiophrenic artery(심장막가로막동맥)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "musculophrenic artery(근육가로막동맥)",
+        "accepted_answers": [
+          "musculophrenic artery(근육가로막동맥)",
+          "musculophrenic artery",
+          "근육가로막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "musculophrenic artery(근육가로막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)가 있다. / Original: musculophrenic artery(근육가로막동맥)가 있고, 또 여기에 뭐 있냐면은 pericardiophrenic artery(심장막가로막동맥)가 있습니다. / Evidence: 두 혈관은 실제로 존재하는 가로막 관련 동맥이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0012"
+      ],
+      "prompt": "musculophrenic artery(근육가로막동맥)와 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pericardiophrenic artery(심장막가로막동맥)",
+        "accepted_answers": [
+          "pericardiophrenic artery(심장막가로막동맥)",
+          "pericardiophrenic artery",
+          "심장막가로막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pericardiophrenic artery(심장막가로막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)가 있다. / Original: musculophrenic artery(근육가로막동맥)가 있고, 또 여기에 뭐 있냐면은 pericardiophrenic artery(심장막가로막동맥)가 있습니다. / Evidence: 두 혈관은 실제로 존재하는 가로막 관련 동맥이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0013"
+      ],
+      "prompt": "_____와 pericardiophrenic artery(심장막가로막동맥)는 internal thoracic artery(속가슴동맥)에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "musculophrenic artery(근육가로막동맥)",
+        "accepted_answers": [
+          "musculophrenic artery(근육가로막동맥)",
+          "musculophrenic artery",
+          "근육가로막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "musculophrenic artery(근육가로막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)는 internal thoracic artery(속가슴동맥)에서 분지한다. / Original: internal thoracic artery(속가슴동맥)에서 musculophrenic artery(근육가로막동맥), pericardiophrenic artery(심장막가로막동맥)가 나와서 혈액을 공급해주고 / Evidence: 두 동맥은 internal thoracic artery(속가슴동맥)의 끝가지 또는 가지로 알려져 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0013"
+      ],
+      "prompt": "musculophrenic artery(근육가로막동맥)와 _____는 internal thoracic artery(속가슴동맥)에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pericardiophrenic artery(심장막가로막동맥)",
+        "accepted_answers": [
+          "pericardiophrenic artery(심장막가로막동맥)",
+          "pericardiophrenic artery",
+          "심장막가로막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pericardiophrenic artery(심장막가로막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)는 internal thoracic artery(속가슴동맥)에서 분지한다. / Original: internal thoracic artery(속가슴동맥)에서 musculophrenic artery(근육가로막동맥), pericardiophrenic artery(심장막가로막동맥)가 나와서 혈액을 공급해주고 / Evidence: 두 동맥은 internal thoracic artery(속가슴동맥)의 끝가지 또는 가지로 알려져 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0013"
+      ],
+      "prompt": "musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)는 _____에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal thoracic artery(속가슴동맥)",
+        "accepted_answers": [
+          "internal thoracic artery(속가슴동맥)",
+          "internal thoracic artery",
+          "속가슴동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal thoracic artery(속가슴동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic artery(근육가로막동맥)와 pericardiophrenic artery(심장막가로막동맥)는 internal thoracic artery(속가슴동맥)에서 분지한다. / Original: internal thoracic artery(속가슴동맥)에서 musculophrenic artery(근육가로막동맥), pericardiophrenic artery(심장막가로막동맥)가 나와서 혈액을 공급해주고 / Evidence: 두 동맥은 internal thoracic artery(속가슴동맥)의 끝가지 또는 가지로 알려져 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0016"
+      ],
+      "prompt": "_____은 internal thoracic vein(속가슴정맥)으로 배출된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "musculophrenic vein(근육가로막정맥)",
+        "accepted_answers": [
+          "musculophrenic vein(근육가로막정맥)",
+          "musculophrenic vein",
+          "근육가로막정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "musculophrenic vein(근육가로막정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic vein(근육가로막정맥)은 internal thoracic vein(속가슴정맥)으로 배출된다. / Original: musculophrenic vein(근육가로막정맥)은 어디로 배출이 된다? internal thoracic vein(속가슴정맥)으로 요렇게 배출이 되어집니다. / Evidence: musculophrenic vein(근육가로막정맥)은 internal thoracic vein(속가슴정맥)으로 들어간다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0016"
+      ],
+      "prompt": "musculophrenic vein(근육가로막정맥)은 _____으로 배출된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal thoracic vein(속가슴정맥)",
+        "accepted_answers": [
+          "internal thoracic vein(속가슴정맥)",
+          "internal thoracic vein",
+          "속가슴정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal thoracic vein(속가슴정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: musculophrenic vein(근육가로막정맥)은 internal thoracic vein(속가슴정맥)으로 배출된다. / Original: musculophrenic vein(근육가로막정맥)은 어디로 배출이 된다? internal thoracic vein(속가슴정맥)으로 요렇게 배출이 되어집니다. / Evidence: musculophrenic vein(근육가로막정맥)은 internal thoracic vein(속가슴정맥)으로 들어간다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "_____의 주변부 감각은 intercostal nerve(갈비사이신경)와 subcostal nerve(갈비아래신경)가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 주변부 감각은 intercostal nerve(갈비사이신경)와 subcostal nerve(갈비아래신경)가 담당한다. / Original: 한쪽 부분, 주변부에서의 감각은 intercostal nerve(갈비사이신경), 즉 아래쪽 6개에서 7개의 intercostal nerve(갈비사이신경)하고 subcostal nerve(갈비아래신경)가 감각 신경을 담당하는 그러한 곳이 diaphragm(가로막)입니다. / Evidence: diaphragm(가로막)의 주변부 감각은 하부 늑간신경과 subcostal nerve(갈비아래신경)이 맡는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "diaphragm(가로막)의 주변부 감각은 _____와 subcostal nerve(갈비아래신경)가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "intercostal nerve(갈비사이신경)",
+        "accepted_answers": [
+          "intercostal nerve(갈비사이신경)",
+          "intercostal nerve",
+          "갈비사이신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "intercostal nerve(갈비사이신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 주변부 감각은 intercostal nerve(갈비사이신경)와 subcostal nerve(갈비아래신경)가 담당한다. / Original: 한쪽 부분, 주변부에서의 감각은 intercostal nerve(갈비사이신경), 즉 아래쪽 6개에서 7개의 intercostal nerve(갈비사이신경)하고 subcostal nerve(갈비아래신경)가 감각 신경을 담당하는 그러한 곳이 diaphragm(가로막)입니다. / Evidence: diaphragm(가로막)의 주변부 감각은 하부 늑간신경과 subcostal nerve(갈비아래신경)이 맡는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "diaphragm(가로막)의 주변부 감각은 intercostal nerve(갈비사이신경)와 _____가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcostal nerve(갈비아래신경)",
+        "accepted_answers": [
+          "subcostal nerve(갈비아래신경)",
+          "subcostal nerve",
+          "갈비아래신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subcostal nerve(갈비아래신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 주변부 감각은 intercostal nerve(갈비사이신경)와 subcostal nerve(갈비아래신경)가 담당한다. / Original: 한쪽 부분, 주변부에서의 감각은 intercostal nerve(갈비사이신경), 즉 아래쪽 6개에서 7개의 intercostal nerve(갈비사이신경)하고 subcostal nerve(갈비아래신경)가 감각 신경을 담당하는 그러한 곳이 diaphragm(가로막)입니다. / Evidence: diaphragm(가로막)의 주변부 감각은 하부 늑간신경과 subcostal nerve(갈비아래신경)이 맡는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "_____의 중심 감각은 phrenic nerve(횡격막신경), 바깥쪽 감각은 intercostal nerve(갈비사이신경)가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 중심 감각은 phrenic nerve(횡격막신경), 바깥쪽 감각은 intercostal nerve(갈비사이신경)가 담당한다. / Original: 그리고 감각은 중심으로는 phrenic nerve(횡격막신경), 바깥쪽은 intercostal nerve(갈비사이신경) / Evidence: 가로막의 중심부와 주변부 감각 분포는 이와 같다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "diaphragm(가로막)의 중심 감각은 _____, 바깥쪽 감각은 intercostal nerve(갈비사이신경)가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "phrenic nerve(횡격막신경)",
+        "accepted_answers": [
+          "phrenic nerve(횡격막신경)",
+          "phrenic nerve",
+          "횡격막신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "phrenic nerve(횡격막신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 중심 감각은 phrenic nerve(횡격막신경), 바깥쪽 감각은 intercostal nerve(갈비사이신경)가 담당한다. / Original: 그리고 감각은 중심으로는 phrenic nerve(횡격막신경), 바깥쪽은 intercostal nerve(갈비사이신경) / Evidence: 가로막의 중심부와 주변부 감각 분포는 이와 같다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p021_recording_20260415-1400_P0004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "diaphragm(가로막)의 중심 감각은 phrenic nerve(횡격막신경), 바깥쪽 감각은 _____가 담당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "intercostal nerve(갈비사이신경)",
+        "accepted_answers": [
+          "intercostal nerve(갈비사이신경)",
+          "intercostal nerve",
+          "갈비사이신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "intercostal nerve(갈비사이신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 중심 감각은 phrenic nerve(횡격막신경), 바깥쪽 감각은 intercostal nerve(갈비사이신경)가 담당한다. / Original: 그리고 감각은 중심으로는 phrenic nerve(횡격막신경), 바깥쪽은 intercostal nerve(갈비사이신경) / Evidence: 가로막의 중심부와 주변부 감각 분포는 이와 같다. / Page match: approximate keyword match against existing page text."
+      }
     }
   ],
   "summary": {
-    "question_count": 12,
+    "question_count": 38,
     "question_type_count": {
-      "fill_blank": 6,
+      "fill_blank": 32,
       "image_grounded_fill_blank": 6
     },
     "question_focus_count": {
-      "course_exam_style_provisional": 12
+      "course_exam_style_provisional": 12,
+      "recording_proposition_review": 26
     }
   },
   "blocked_image_question_reasons": [],
@@ -392,7 +1277,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -400,7 +1285,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -408,7 +1293,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -416,7 +1301,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -424,7 +1309,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -432,7 +1317,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -440,7 +1325,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -448,7 +1333,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -456,7 +1341,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -464,7 +1349,7 @@
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json",
@@ -472,7 +1357,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -480,7 +1365,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -488,7 +1373,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -496,7 +1381,7 @@
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json",
@@ -504,7 +1389,7 @@
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json",
@@ -512,7 +1397,7 @@
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json",
@@ -520,7 +1405,7 @@
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json",
@@ -528,7 +1413,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -536,7 +1421,7 @@
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json",
@@ -544,7 +1429,7 @@
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json",
@@ -552,7 +1437,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -560,28 +1445,28 @@
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json"
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json"
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json"
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json"
@@ -595,14 +1480,14 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json"
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json"
@@ -637,21 +1522,21 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json"
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json"
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json"
@@ -665,14 +1550,14 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json"
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json"
@@ -700,224 +1585,224 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json"
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json"
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json"
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json"
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json"
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json"
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json"
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json"
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json"
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json"
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json"
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json"
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json"
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json"
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json"
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json"
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json"
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -931,42 +1816,42 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json"
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json"
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json"
@@ -1001,7 +1886,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json"
@@ -1022,77 +1907,77 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json"
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json"
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json"
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json"
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json"
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -1106,7 +1991,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -1120,49 +2005,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -1197,7 +2082,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -1211,28 +2096,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -1246,7 +2131,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -1281,21 +2166,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1316,7 +2201,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1442,7 +2327,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1554,7 +2439,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1603,7 +2488,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1666,7 +2551,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"

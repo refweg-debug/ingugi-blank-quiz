@@ -1,0 +1,925 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "강의원본",
+    "source_stem": "2026년 골반(여성 남성생식계통)",
+    "page_number": 113
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_from_recording_propositions",
+  "page_read_status": "recording_proposition_page_estimate",
+  "source_verified_status": "recording_true_proposition_text",
+  "questions": [
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1100_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0001"
+      ],
+      "prompt": "골반 입구의 지름에는 _____와 oblique diameter(사선지름)가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transverse diameter(가로지름)",
+        "accepted_answers": [
+          "transverse diameter(가로지름)",
+          "transverse diameter",
+          "가로지름"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transverse diameter(가로지름)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 골반 입구의 지름에는 transverse diameter(가로지름)와 oblique diameter(사선지름)가 포함된다. / Original: transverse diameter(가로지름)이 있고, 그다음에 세 번째는 oblique diameter(사선지름)입니다. / Evidence: 골반 입구의 대표적인 지름에는 횡지름과 oblique diameter(사선지름)이 포함된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1100_P0001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1100_P0001"
+      ],
+      "prompt": "골반 입구의 지름에는 transverse diameter(가로지름)와 _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "oblique diameter(사선지름)",
+        "accepted_answers": [
+          "oblique diameter(사선지름)",
+          "oblique diameter",
+          "사선지름"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "oblique diameter(사선지름)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 골반 입구의 지름에는 transverse diameter(가로지름)와 oblique diameter(사선지름)가 포함된다. / Original: transverse diameter(가로지름)이 있고, 그다음에 세 번째는 oblique diameter(사선지름)입니다. / Evidence: 골반 입구의 대표적인 지름에는 횡지름과 oblique diameter(사선지름)이 포함된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1200_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0005"
+      ],
+      "prompt": "_____은 obturator membrane(폐쇄막)으로 대부분 막혀 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "obturator foramen(폐쇄공)",
+        "accepted_answers": [
+          "obturator foramen(폐쇄공)",
+          "obturator foramen",
+          "폐쇄공"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "obturator foramen(폐쇄공)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: obturator foramen(폐쇄공)은 obturator membrane(폐쇄막)으로 대부분 막혀 있다. / Original: 여기에 obturator foramen(폐쇄공)이 있는데, 여기가 obturator membrane(폐쇄막)으로 막혀 있습니다. / Evidence: obturator foramen(폐쇄공)은 obturator membrane(폐쇄막)이 덮고 있으며 상부에 폐쇄관이 남는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1200_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0005"
+      ],
+      "prompt": "obturator foramen(폐쇄공)은 _____으로 대부분 막혀 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "obturator membrane(폐쇄막)",
+        "accepted_answers": [
+          "obturator membrane(폐쇄막)",
+          "obturator membrane",
+          "폐쇄막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "obturator membrane(폐쇄막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: obturator foramen(폐쇄공)은 obturator membrane(폐쇄막)으로 대부분 막혀 있다. / Original: 여기에 obturator foramen(폐쇄공)이 있는데, 여기가 obturator membrane(폐쇄막)으로 막혀 있습니다. / Evidence: obturator foramen(폐쇄공)은 obturator membrane(폐쇄막)이 덮고 있으며 상부에 폐쇄관이 남는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1200_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0006"
+      ],
+      "prompt": "_____에는 혈관과 신경이 지나가는 구멍이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "obturator membrane(폐쇄막)",
+        "accepted_answers": [
+          "obturator membrane(폐쇄막)",
+          "obturator membrane",
+          "폐쇄막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "obturator membrane(폐쇄막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: obturator membrane(폐쇄막)에는 혈관과 신경이 지나가는 구멍이 있다. / Original: 그런데 여기에 혈관, 신경이 지나가도록 구멍이 있습니다. / Evidence: 폐쇄막의 상부에 폐쇄관이 형성되어 혈관과 신경이 통과한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p113_recording_20260416-1200_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "골반_녹음파일_20260416-1200_P0025"
+      ],
+      "prompt": "_____는 꼬리뼈 끝과 항문 주위 피부에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anococcygeal nerve(항문꼬리뼈신경)",
+        "accepted_answers": [
+          "anococcygeal nerve(항문꼬리뼈신경)",
+          "anococcygeal nerve",
+          "항문꼬리뼈신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anococcygeal nerve(항문꼬리뼈신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1200.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anococcygeal nerve(항문꼬리뼈신경)는 꼬리뼈 끝과 항문 주위 피부에 분포한다. / Original: 꼬리뼈 끝하고 항문에 있는 피부에 분포하는 것이 anococcygeal nerve(항문꼬리뼈신경) 부분이다. / Evidence: anococcygeal nerve(항문꼬리뼈신경)은 꼬리뼈 부근과 항문 주위 피부의 감각을 담당한다. / Page match: approximate keyword match against existing page text."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 6,
+    "question_type_count": {
+      "fill_blank": 6
+    },
+    "question_focus_count": {
+      "recording_proposition_review": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p001__52e6b9b37a10.json",
+        "review_image_url": "./data/images/2026__p001__52e6b9b37a10.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p003__4fac792dc5fb.json",
+        "review_image_url": "./data/images/2026__p003__4fac792dc5fb.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
+        "review_image_url": "./data/images/2026__p004__7ed8bbf1cba5.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p005__ebb6997892d0.json",
+        "review_image_url": "./data/images/2026__p005__ebb6997892d0.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p008__74b0770887cd.json",
+        "review_image_url": "./data/images/2026__p008__74b0770887cd.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p010__e32bb41c668c.json",
+        "review_image_url": "./data/images/2026__p010__e32bb41c668c.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 36,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p011__ae863d2e6e49.json",
+        "review_image_url": "./data/images/2026__p011__ae863d2e6e49.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 63,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p012__3464e85a1843.json",
+        "review_image_url": "./data/images/2026__p012__3464e85a1843.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p013__08fd55525c66.json",
+        "review_image_url": "./data/images/2026__p013__08fd55525c66.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p014__f2d4bf2b6105.json",
+        "review_image_url": "./data/images/2026__p014__f2d4bf2b6105.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p015__59fbf4d5ea55.json",
+        "review_image_url": "./data/images/2026__p015__59fbf4d5ea55.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p016__1da3567101ef.json",
+        "review_image_url": "./data/images/2026__p016__1da3567101ef.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p018__d57073d7e345.json",
+        "review_image_url": "./data/images/2026__p018__d57073d7e345.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p019__90ecedb34cb7.json",
+        "review_image_url": "./data/images/2026__p019__90ecedb34cb7.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p020__b51a3f435dc8.json",
+        "review_image_url": "./data/images/2026__p020__b51a3f435dc8.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p021__c2839efde8de.json",
+        "review_image_url": "./data/images/2026__p021__c2839efde8de.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p023__a3c715e9ca60.json",
+        "review_image_url": "./data/images/2026__p023__a3c715e9ca60.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p024__d9b0348c7e94.json",
+        "review_image_url": "./data/images/2026__p024__d9b0348c7e94.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p025__4b14062e55b6.json",
+        "review_image_url": "./data/images/2026__p025__4b14062e55b6.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p026__73b0205ffcc5.json",
+        "review_image_url": "./data/images/2026__p026__73b0205ffcc5.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p029__b21d0ff927a3.json",
+        "review_image_url": "./data/images/2026__p029__b21d0ff927a3.webp"
+      },
+      {
+        "page_number": 31,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p031__4d5ad2f59f28.json",
+        "review_image_url": "./data/images/2026__p031__4d5ad2f59f28.webp"
+      },
+      {
+        "page_number": 32,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p032__03e34db11c7c.json",
+        "review_image_url": "./data/images/2026__p032__03e34db11c7c.webp"
+      },
+      {
+        "page_number": 33,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p033__bb26f83bd463.json",
+        "review_image_url": "./data/images/2026__p033__bb26f83bd463.webp"
+      },
+      {
+        "page_number": 34,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p034__2461d9d01a67.json",
+        "review_image_url": "./data/images/2026__p034__2461d9d01a67.webp"
+      },
+      {
+        "page_number": 35,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p035__6de7262562fe.json",
+        "review_image_url": "./data/images/2026__p035__6de7262562fe.webp"
+      },
+      {
+        "page_number": 36,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p036__aface19073f7.json",
+        "review_image_url": "./data/images/2026__p036__aface19073f7.webp"
+      },
+      {
+        "page_number": 37,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p037__230828074450.json",
+        "review_image_url": "./data/images/2026__p037__230828074450.webp"
+      },
+      {
+        "page_number": 38,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p038__c701bb940c98.json",
+        "review_image_url": "./data/images/2026__p038__c701bb940c98.webp"
+      },
+      {
+        "page_number": 39,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p039__ebf6a21e6faf.json",
+        "review_image_url": "./data/images/2026__p039__ebf6a21e6faf.webp"
+      },
+      {
+        "page_number": 40,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p040__909a3ec19ba3.json",
+        "review_image_url": "./data/images/2026__p040__909a3ec19ba3.webp"
+      },
+      {
+        "page_number": 41,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p041__7e2bd83a2d0c.json",
+        "review_image_url": "./data/images/2026__p041__7e2bd83a2d0c.webp"
+      },
+      {
+        "page_number": 42,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p042__32c1bf92e757.json",
+        "review_image_url": "./data/images/2026__p042__32c1bf92e757.webp"
+      },
+      {
+        "page_number": 43,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p043__5ae2ca128f56.json",
+        "review_image_url": "./data/images/2026__p043__5ae2ca128f56.webp"
+      },
+      {
+        "page_number": 44,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p044__533b8e13c331.json",
+        "review_image_url": "./data/images/2026__p044__533b8e13c331.webp"
+      },
+      {
+        "page_number": 45,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p045__ed4889042d26.json",
+        "review_image_url": "./data/images/2026__p045__ed4889042d26.webp"
+      },
+      {
+        "page_number": 46,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p046__8eea0b0c7683.json",
+        "review_image_url": "./data/images/2026__p046__8eea0b0c7683.webp"
+      },
+      {
+        "page_number": 48,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p048__32e0d2ea4150.json",
+        "review_image_url": "./data/images/2026__p048__32e0d2ea4150.webp"
+      },
+      {
+        "page_number": 49,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p049__85b07ed7dcf5.json",
+        "review_image_url": "./data/images/2026__p049__85b07ed7dcf5.webp"
+      },
+      {
+        "page_number": 50,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p050__2cdc5cbfd38d.json",
+        "review_image_url": "./data/images/2026__p050__2cdc5cbfd38d.webp"
+      },
+      {
+        "page_number": 51,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p051__9e3f425710dd.json",
+        "review_image_url": "./data/images/2026__p051__9e3f425710dd.webp"
+      },
+      {
+        "page_number": 52,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p052__ed23e335fbe3.json",
+        "review_image_url": "./data/images/2026__p052__ed23e335fbe3.webp"
+      },
+      {
+        "page_number": 53,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p053__d9174102d20e.json",
+        "review_image_url": "./data/images/2026__p053__d9174102d20e.webp"
+      },
+      {
+        "page_number": 54,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p054__6b7d0f1ab4b7.json",
+        "review_image_url": "./data/images/2026__p054__6b7d0f1ab4b7.webp"
+      },
+      {
+        "page_number": 55,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p055__41dac299e841.json",
+        "review_image_url": "./data/images/2026__p055__41dac299e841.webp"
+      },
+      {
+        "page_number": 57,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p057__7b6de9aef512.json",
+        "review_image_url": "./data/images/2026__p057__7b6de9aef512.webp"
+      },
+      {
+        "page_number": 61,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p061__2ec5e2147d99.json",
+        "review_image_url": "./data/images/2026__p061__2ec5e2147d99.webp"
+      },
+      {
+        "page_number": 64,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p064__d1850a256a0b.json",
+        "review_image_url": "./data/images/2026__p064__d1850a256a0b.webp"
+      },
+      {
+        "page_number": 65,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p065__3d99a846a1cd.json",
+        "review_image_url": "./data/images/2026__p065__3d99a846a1cd.webp"
+      },
+      {
+        "page_number": 66,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p066__10befca09dcf.json",
+        "review_image_url": "./data/images/2026__p066__10befca09dcf.webp"
+      },
+      {
+        "page_number": 67,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p067__855f6ee0dd10.json",
+        "review_image_url": "./data/images/2026__p067__855f6ee0dd10.webp"
+      },
+      {
+        "page_number": 68,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p068__3da8f8867363.json",
+        "review_image_url": "./data/images/2026__p068__3da8f8867363.webp"
+      },
+      {
+        "page_number": 69,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p069__8967bc8d60f2.json",
+        "review_image_url": "./data/images/2026__p069__8967bc8d60f2.webp"
+      },
+      {
+        "page_number": 74,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p074__4f3024f7ee4d.json",
+        "review_image_url": "./data/images/2026__p074__4f3024f7ee4d.webp"
+      },
+      {
+        "page_number": 75,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p075__37ea3c53e590.json",
+        "review_image_url": "./data/images/2026__p075__37ea3c53e590.webp"
+      },
+      {
+        "page_number": 77,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p077__a7e8cfcf0636.json",
+        "review_image_url": "./data/images/2026__p077__a7e8cfcf0636.webp"
+      },
+      {
+        "page_number": 78,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p078__68d4d81c001b.json",
+        "review_image_url": "./data/images/2026__p078__68d4d81c001b.webp"
+      },
+      {
+        "page_number": 79,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p079__2bfde406496e.json",
+        "review_image_url": "./data/images/2026__p079__2bfde406496e.webp"
+      },
+      {
+        "page_number": 81,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p081__f7db09a5be05.json",
+        "review_image_url": "./data/images/2026__p081__f7db09a5be05.webp"
+      },
+      {
+        "page_number": 83,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p083__98eab257e8d5.json",
+        "review_image_url": "./data/images/2026__p083__98eab257e8d5.webp"
+      },
+      {
+        "page_number": 87,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p087__cdb9351a4939.json",
+        "review_image_url": "./data/images/2026__p087__cdb9351a4939.webp"
+      },
+      {
+        "page_number": 88,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p088__4fede44f6a4e.json",
+        "review_image_url": "./data/images/2026__p088__4fede44f6a4e.webp"
+      },
+      {
+        "page_number": 90,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p090__d5d305d92606.json",
+        "review_image_url": "./data/images/2026__p090__d5d305d92606.webp"
+      },
+      {
+        "page_number": 91,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p091__042b411a3cb5.json",
+        "review_image_url": "./data/images/2026__p091__042b411a3cb5.webp"
+      },
+      {
+        "page_number": 92,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p092__e2d91681cdf7.json",
+        "review_image_url": "./data/images/2026__p092__e2d91681cdf7.webp"
+      },
+      {
+        "page_number": 93,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p093__43aeb25f08b5.json",
+        "review_image_url": "./data/images/2026__p093__43aeb25f08b5.webp"
+      },
+      {
+        "page_number": 94,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p094__13510ea4bf10.json",
+        "review_image_url": "./data/images/2026__p094__13510ea4bf10.webp"
+      },
+      {
+        "page_number": 95,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p095__cd9815db7950.json",
+        "review_image_url": "./data/images/2026__p095__cd9815db7950.webp"
+      },
+      {
+        "page_number": 96,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p096__1de57c38ecb3.json",
+        "review_image_url": "./data/images/2026__p096__1de57c38ecb3.webp"
+      },
+      {
+        "page_number": 97,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p097__127fde17efa6.json",
+        "review_image_url": "./data/images/2026__p097__127fde17efa6.webp"
+      },
+      {
+        "page_number": 99,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p099__1d16beba84d2.json",
+        "review_image_url": "./data/images/2026__p099__1d16beba84d2.webp"
+      },
+      {
+        "page_number": 100,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p100__0a9384427a69.json",
+        "review_image_url": "./data/images/2026__p100__0a9384427a69.webp"
+      },
+      {
+        "page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p101__7a76ead1c749.json",
+        "review_image_url": "./data/images/2026__p101__7a76ead1c749.webp"
+      },
+      {
+        "page_number": 102,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p102__e822982cd17c.json",
+        "review_image_url": "./data/images/2026__p102__e822982cd17c.webp"
+      },
+      {
+        "page_number": 103,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p103__4627d2eafb59.json",
+        "review_image_url": "./data/images/2026__p103__4627d2eafb59.webp"
+      },
+      {
+        "page_number": 106,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p106__b0731eb71416.json",
+        "review_image_url": "./data/images/2026__p106__b0731eb71416.webp"
+      },
+      {
+        "page_number": 107,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p107__b7a2d68aa454.json",
+        "review_image_url": "./data/images/2026__p107__b7a2d68aa454.webp"
+      },
+      {
+        "page_number": 108,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p108__ccc6b5704941.json",
+        "review_image_url": "./data/images/2026__p108__ccc6b5704941.webp"
+      },
+      {
+        "page_number": 109,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p109__4dfa67e6888d.json",
+        "review_image_url": "./data/images/2026__p109__4dfa67e6888d.webp"
+      },
+      {
+        "page_number": 113,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p113__fd5f42e066fa.json",
+        "review_image_url": "./data/images/2026__p113__fd5f42e066fa.webp"
+      },
+      {
+        "page_number": 115,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p115__283ba446f156.json"
+      },
+      {
+        "page_number": 116,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p116__c55903a3d2e6.json"
+      },
+      {
+        "page_number": 124,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p124__b87007a21ed1.json"
+      },
+      {
+        "page_number": 126,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p126__302956318ac6.json"
+      },
+      {
+        "page_number": 127,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p127__cea39293ebb1.json"
+      },
+      {
+        "page_number": 128,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p128__8481c46b439a.json"
+      }
+    ],
+    "current_index": 79,
+    "previous_page": 109,
+    "next_page": 115
+  },
+  "review_image_url": "./data/images/2026__p113__fd5f42e066fa.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "강의원본",
+      "source_stem": "2026년 골반(여성 남성생식계통)",
+      "page_number": 113
+    }
+  }
+}

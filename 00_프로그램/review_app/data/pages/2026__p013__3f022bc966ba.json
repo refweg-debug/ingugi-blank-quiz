@@ -621,16 +621,1751 @@
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 배세모근(pyramidalis muscle)은 백색선(linea alba)을 당긴다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0007"
+      ],
+      "prompt": "[추정] _____과 internal oblique muscle(속빗근)은 근육층에 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "external oblique muscle(바깥빗근)",
+        "accepted_answers": [
+          "external oblique muscle(바깥빗근)",
+          "external oblique muscle",
+          "바깥빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "external oblique muscle(바깥빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0007"
+      ],
+      "prompt": "[추정] external oblique muscle(바깥빗근)과 _____은 근육층에 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal oblique muscle(속빗근)",
+        "accepted_answers": [
+          "internal oblique muscle(속빗근)",
+          "internal oblique muscle",
+          "속빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal oblique muscle(속빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)은 근육층에 포함된다. / Original: 이 앞쪽에 나중에 muscle(근육)을 보면 [추정] external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근) 이렇게 두 개가 있습니다. / Evidence: 복벽의 근육층에는 external oblique muscle(바깥빗근)과 internal oblique muscle(속빗근)이 포함된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0017"
+      ],
+      "prompt": "_____은 배안 장기를 보호한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 배안 장기를 보호한다. / Original: 그러니까 배안 장기들을 이렇게 보호를 해줍니다. / Evidence: 복벽 근육은 복강 장기 보호에 기여한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "_____, internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근)은 내장 보호에 기여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "external abdominal oblique muscle(배바깥빗근)",
+        "accepted_answers": [
+          "external abdominal oblique muscle(배바깥빗근)",
+          "external abdominal oblique muscle",
+          "배바깥빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "external abdominal oblique muscle(배바깥빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근)은 내장 보호에 기여한다. / Original: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근), 자 배를 누르고 내장을 보호해주고 / Evidence: 이들 근육은 복강 장기를 외부 충격으로부터 보호한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "external abdominal oblique muscle(배바깥빗근), _____, transversus abdominis muscle(배가로근)은 내장 보호에 기여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal abdominal oblique muscle(배속빗근)",
+        "accepted_answers": [
+          "internal abdominal oblique muscle(배속빗근)",
+          "internal abdominal oblique muscle",
+          "배속빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal abdominal oblique muscle(배속빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근)은 내장 보호에 기여한다. / Original: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근), 자 배를 누르고 내장을 보호해주고 / Evidence: 이들 근육은 복강 장기를 외부 충격으로부터 보호한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0020_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), _____은 내장 보호에 기여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversus abdominis muscle(배가로근)",
+        "accepted_answers": [
+          "transversus abdominis muscle(배가로근)",
+          "transversus abdominis muscle",
+          "배가로근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transversus abdominis muscle(배가로근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근)은 내장 보호에 기여한다. / Original: external abdominal oblique muscle(배바깥빗근), internal abdominal oblique muscle(배속빗근), transversus abdominis muscle(배가로근), 자 배를 누르고 내장을 보호해주고 / Evidence: 이들 근육은 복강 장기를 외부 충격으로부터 보호한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0023"
+      ],
+      "prompt": "배 _____은 호기 시 배안 장기를 눌러 복압을 높이는 역할을 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscle(근육)",
+        "accepted_answers": [
+          "muscle(근육)",
+          "muscle",
+          "근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscle(근육)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 배 muscle(근육)은 호기 시 배안 장기를 눌러 복압을 높이는 역할을 한다. / Original: 나중에 이게 호흡을 숨 쉬었다가 내쉴 때는 이 배안 장기를 눌러주는 그런 역할을 또 배에 있는 muscle(근육)들이 해줘야 됩니다. / Evidence: 복벽 muscle(근육)은 강제 호기와 복압 상승에 기여한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0024"
+      ],
+      "prompt": "_____은 강제 호기, 복부 압박, 내장 보호에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal muscle(앞가쪽배근)",
+        "accepted_answers": [
+          "anterolateral abdominal muscle(앞가쪽배근)",
+          "anterolateral abdominal muscle",
+          "앞가쪽배근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal muscle(앞가쪽배근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal muscle(앞가쪽배근)은 강제 호기, 복부 압박, 내장 보호에 관여한다. / Original: 그래서 강하게 숨을 내쉴 때 작용을 하고, 배를 눌러주고 내장을 보호해주고 이런 역할을 하는 것들이 다 배의 anterolateral abdominal muscle(앞가쪽배근)이 하는 그러한 역할이다. / Evidence: 전외측 복벽 근육의 대표적 기능과 일치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "_____는 anterior superior iliac spine(앞위엉덩뼈가시)에서 pubic tubercle(두덩결절)까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal ligament(샅고랑인대)",
+        "accepted_answers": [
+          "inguinal ligament(샅고랑인대)",
+          "inguinal ligament",
+          "샅고랑인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal ligament(샅고랑인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(샅고랑인대)는 anterior superior iliac spine(앞위엉덩뼈가시)에서 pubic tubercle(두덩결절)까지 뻗는다. / Original: inguinal ligament(샅고랑인대)라는 것은 anterior superior iliac spine(앞위엉덩뼈가시)에서부터 그 다음에 pubic tubercle(두덩결절)까지의 섬유띠인데 / Evidence: inguinal ligament(샅고랑인대)의 표준 해부학적 주행은 ASIS에서 치골결절까지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "inguinal ligament(샅고랑인대)는 _____에서 pubic tubercle(두덩결절)까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior superior iliac spine(앞위엉덩뼈가시)",
+        "accepted_answers": [
+          "anterior superior iliac spine(앞위엉덩뼈가시)",
+          "anterior superior iliac spine",
+          "앞위엉덩뼈가시"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior superior iliac spine(앞위엉덩뼈가시)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(샅고랑인대)는 anterior superior iliac spine(앞위엉덩뼈가시)에서 pubic tubercle(두덩결절)까지 뻗는다. / Original: inguinal ligament(샅고랑인대)라는 것은 anterior superior iliac spine(앞위엉덩뼈가시)에서부터 그 다음에 pubic tubercle(두덩결절)까지의 섬유띠인데 / Evidence: inguinal ligament(샅고랑인대)의 표준 해부학적 주행은 ASIS에서 치골결절까지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1100_P0008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "inguinal ligament(샅고랑인대)는 anterior superior iliac spine(앞위엉덩뼈가시)에서 _____까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic tubercle(두덩결절)",
+        "accepted_answers": [
+          "pubic tubercle(두덩결절)",
+          "pubic tubercle",
+          "두덩결절"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic tubercle(두덩결절)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(샅고랑인대)는 anterior superior iliac spine(앞위엉덩뼈가시)에서 pubic tubercle(두덩결절)까지 뻗는다. / Original: inguinal ligament(샅고랑인대)라는 것은 anterior superior iliac spine(앞위엉덩뼈가시)에서부터 그 다음에 pubic tubercle(두덩결절)까지의 섬유띠인데 / Evidence: inguinal ligament(샅고랑인대)의 표준 해부학적 주행은 ASIS에서 치골결절까지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0009"
+      ],
+      "prompt": "_____는 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴) 부위에 부착과 연관된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal ligament(서혜인대)",
+        "accepted_answers": [
+          "inguinal ligament(서혜인대)",
+          "inguinal ligament",
+          "서혜인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal ligament(서혜인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0009",
+        "confidence": "중간",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(서혜인대)는 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴) 부위에 부착과 연관된다. / Original: 아래쪽에서 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴)가 뼈에 닿는다고 생각합니다. / Evidence: 서혜인대의 내측 섬유는 두덩뼈 쪽 구조물과 연속되거나 부착한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0009"
+      ],
+      "prompt": "inguinal ligament(서혜인대)는 _____와 pecten pubis(두덩뼈갈퀴) 부위에 부착과 연관된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic crest(두덩뼈능선)",
+        "accepted_answers": [
+          "pubic crest(두덩뼈능선)",
+          "pubic crest",
+          "두덩뼈능선"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic crest(두덩뼈능선)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0009",
+        "confidence": "중간",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(서혜인대)는 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴) 부위에 부착과 연관된다. / Original: 아래쪽에서 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴)가 뼈에 닿는다고 생각합니다. / Evidence: 서혜인대의 내측 섬유는 두덩뼈 쪽 구조물과 연속되거나 부착한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0009"
+      ],
+      "prompt": "inguinal ligament(서혜인대)는 pubic crest(두덩뼈능선)와 _____ 부위에 부착과 연관된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pecten pubis(두덩뼈갈퀴)",
+        "accepted_answers": [
+          "pecten pubis(두덩뼈갈퀴)",
+          "pecten pubis",
+          "두덩뼈갈퀴"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pecten pubis(두덩뼈갈퀴)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0009",
+        "confidence": "중간",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(서혜인대)는 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴) 부위에 부착과 연관된다. / Original: 아래쪽에서 pubic crest(두덩뼈능선)와 pecten pubis(두덩뼈갈퀴)가 뼈에 닿는다고 생각합니다. / Evidence: 서혜인대의 내측 섬유는 두덩뼈 쪽 구조물과 연속되거나 부착한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "_____는 외복사근 aponeurosis(넙적힘줄)에서 유래한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal ligament(서혜인대)",
+        "accepted_answers": [
+          "inguinal ligament(서혜인대)",
+          "inguinal ligament",
+          "서혜인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal ligament(서혜인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(서혜인대)는 외복사근 aponeurosis(넙적힘줄)에서 유래한다. / Original: 함께 [추정] inguinal ligament(서혜인대)을 형성한 다음에 아래로 내려온다. / Evidence: inguinal ligament(서혜인대)는 외복사근 건막에서 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "inguinal ligament(서혜인대)는 외복사근 _____에서 유래한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "aponeurosis(넙적힘줄)",
+        "accepted_answers": [
+          "aponeurosis(넙적힘줄)",
+          "aponeurosis",
+          "넙적힘줄"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "aponeurosis(넙적힘줄)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inguinal ligament(서혜인대)는 외복사근 aponeurosis(넙적힘줄)에서 유래한다. / Original: 함께 [추정] inguinal ligament(서혜인대)을 형성한 다음에 아래로 내려온다. / Evidence: inguinal ligament(서혜인대)는 외복사근 건막에서 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0002"
+      ],
+      "prompt": "_____은 rectus abdominis muscle(배곧은근)의 아래쪽 앞에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pyramidalis muscle(피라미달리스근)",
+        "accepted_answers": [
+          "pyramidalis muscle(피라미달리스근)",
+          "pyramidalis muscle",
+          "피라미달리스근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pyramidalis muscle(피라미달리스근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyramidalis muscle(피라미달리스근)은 rectus abdominis muscle(배곧은근)의 아래쪽 앞에 위치한다. / Original: rectus abdominis muscle(배곧은근)의 아래쪽 앞에 위치를 하고 / Evidence: 피라미달리스근은 rectus abdominis muscle(배곧은근)의 하부 전면에 놓인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0002"
+      ],
+      "prompt": "pyramidalis muscle(피라미달리스근)은 _____의 아래쪽 앞에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectus abdominis muscle(배곧은근)",
+        "accepted_answers": [
+          "rectus abdominis muscle(배곧은근)",
+          "rectus abdominis muscle",
+          "배곧은근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectus abdominis muscle(배곧은근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyramidalis muscle(피라미달리스근)은 rectus abdominis muscle(배곧은근)의 아래쪽 앞에 위치한다. / Original: rectus abdominis muscle(배곧은근)의 아래쪽 앞에 위치를 하고 / Evidence: 피라미달리스근은 rectus abdominis muscle(배곧은근)의 하부 전면에 놓인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0003"
+      ],
+      "prompt": "사람의 약 20%에서 _____이 결여된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pyramidalis muscle(피라미달리스근)",
+        "accepted_answers": [
+          "pyramidalis muscle(피라미달리스근)",
+          "pyramidalis muscle",
+          "피라미달리스근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pyramidalis muscle(피라미달리스근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0003",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사람의 약 20%에서 pyramidalis muscle(피라미달리스근)이 결여된다. / Original: 한 20% 정도 사람은 pyramidalis muscle(피라미달리스근)이 없습니다. / Evidence: pyramidalis muscle(피라미달리스근)은 정상 변이가 있어 일부 사람에서 없을 수 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0004"
+      ],
+      "prompt": "_____는 골반 내장에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal iliac artery(속엉덩동맥)",
+        "accepted_answers": [
+          "internal iliac artery(속엉덩동맥)",
+          "internal iliac artery",
+          "속엉덩동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal iliac artery(속엉덩동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: internal iliac artery(속엉덩동맥)는 골반 내장에 혈액을 공급한다. / Original: 이렇게 골반 내장에다가 혈액 공급을 합니다. / Evidence: internal iliac artery는 주로 골반 장기와 골반벽에 혈액을 공급한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0028_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0028"
+      ],
+      "prompt": "_____는 internal oblique muscle(속빗근)을 관통한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(엉덩배신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(엉덩배신경)",
+          "iliohypogastric nerve",
+          "엉덩배신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(엉덩배신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0028",
+        "confidence": "중간",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)을 관통한다. / Original: 자, 이게 internal oblique muscle(속빗근)을 뚫고 나옵니다. / Evidence: iliohypogastric nerve는 internal oblique와 transversus abdominis 사이를 주행하거나 일부 분지가 근육층을 통과한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0028_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0028"
+      ],
+      "prompt": "iliohypogastric nerve(엉덩배신경)는 _____을 관통한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal oblique muscle(속빗근)",
+        "accepted_answers": [
+          "internal oblique muscle(속빗근)",
+          "internal oblique muscle",
+          "속빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal oblique muscle(속빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0028",
+        "confidence": "중간",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)을 관통한다. / Original: 자, 이게 internal oblique muscle(속빗근)을 뚫고 나옵니다. / Evidence: iliohypogastric nerve는 internal oblique와 transversus abdominis 사이를 주행하거나 일부 분지가 근육층을 통과한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0029_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0029"
+      ],
+      "prompt": "_____는 internal oblique muscle(속빗근)과 transversus abdominis muscle(배속근)을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(엉덩배신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(엉덩배신경)",
+          "iliohypogastric nerve",
+          "엉덩배신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(엉덩배신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0029",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)과 transversus abdominis muscle(배속근)을 지배한다. / Original: 뚫고 나오면서 그래서 얘네들은 internal oblique muscle(속빗근) 그리고 transversus abdominis muscle(배속근) 뭐 이런 것들을 다 지배를 하게 됩니다. / Evidence: iliohypogastric nerve는 복벽 근육들, 특히 내복사근과 배가로근에 운동 가지를 준다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0029_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0029"
+      ],
+      "prompt": "iliohypogastric nerve(엉덩배신경)는 _____과 transversus abdominis muscle(배속근)을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal oblique muscle(속빗근)",
+        "accepted_answers": [
+          "internal oblique muscle(속빗근)",
+          "internal oblique muscle",
+          "속빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal oblique muscle(속빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0029",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)과 transversus abdominis muscle(배속근)을 지배한다. / Original: 뚫고 나오면서 그래서 얘네들은 internal oblique muscle(속빗근) 그리고 transversus abdominis muscle(배속근) 뭐 이런 것들을 다 지배를 하게 됩니다. / Evidence: iliohypogastric nerve는 복벽 근육들, 특히 내복사근과 배가로근에 운동 가지를 준다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0029_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0029"
+      ],
+      "prompt": "iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)과 _____을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversus abdominis muscle(배속근)",
+        "accepted_answers": [
+          "transversus abdominis muscle(배속근)",
+          "transversus abdominis muscle",
+          "배속근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transversus abdominis muscle(배속근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0029",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(엉덩배신경)는 internal oblique muscle(속빗근)과 transversus abdominis muscle(배속근)을 지배한다. / Original: 뚫고 나오면서 그래서 얘네들은 internal oblique muscle(속빗근) 그리고 transversus abdominis muscle(배속근) 뭐 이런 것들을 다 지배를 하게 됩니다. / Evidence: iliohypogastric nerve는 복벽 근육들, 특히 내복사근과 배가로근에 운동 가지를 준다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0001"
+      ],
+      "prompt": "_____는 internal oblique muscle(배바깥빗근)과 transversus abdominis muscle(배가로근)을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(배속아랫배신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(배속아랫배신경)",
+          "iliohypogastric nerve",
+          "배속아랫배신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(배속아랫배신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(배속아랫배신경)는 internal oblique muscle(배바깥빗근)과 transversus abdominis muscle(배가로근)을 지배한다. / Original: internal oblique muscle(배바깥빗근), transversus abdominis muscle(배가로근)을 지배를 하고 / Evidence: 배속아랫배신경은 복벽의 내복사근과 복횡근에 운동신경을 보낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0001"
+      ],
+      "prompt": "iliohypogastric nerve(배속아랫배신경)는 _____과 transversus abdominis muscle(배가로근)을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal oblique muscle(배바깥빗근)",
+        "accepted_answers": [
+          "internal oblique muscle(배바깥빗근)",
+          "internal oblique muscle",
+          "배바깥빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal oblique muscle(배바깥빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(배속아랫배신경)는 internal oblique muscle(배바깥빗근)과 transversus abdominis muscle(배가로근)을 지배한다. / Original: internal oblique muscle(배바깥빗근), transversus abdominis muscle(배가로근)을 지배를 하고 / Evidence: 배속아랫배신경은 복벽의 내복사근과 복횡근에 운동신경을 보낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0001"
+      ],
+      "prompt": "iliohypogastric nerve(배속아랫배신경)는 internal oblique muscle(배바깥빗근)과 _____을 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversus abdominis muscle(배가로근)",
+        "accepted_answers": [
+          "transversus abdominis muscle(배가로근)",
+          "transversus abdominis muscle",
+          "배가로근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transversus abdominis muscle(배가로근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(배속아랫배신경)는 internal oblique muscle(배바깥빗근)과 transversus abdominis muscle(배가로근)을 지배한다. / Original: internal oblique muscle(배바깥빗근), transversus abdominis muscle(배가로근)을 지배를 하고 / Evidence: 배속아랫배신경은 복벽의 내복사근과 복횡근에 운동신경을 보낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "_____은 subclavian artery(빗장밑동맥), aorta(대동맥), external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal wall(앞가쪽 배벽)",
+        "accepted_answers": [
+          "anterolateral abdominal wall(앞가쪽 배벽)",
+          "anterolateral abdominal wall",
+          "앞가쪽 배벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterolateral abdominal wall(앞가쪽 배벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal wall(앞가쪽 배벽)은 subclavian artery(빗장밑동맥), aorta(대동맥), external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다. / Original: anterolateral abdominal wall(앞가쪽 배벽) 같은 경우에는 ... subclavian artery(빗장밑동맥)의 origin, 그리고 aorta(대동맥)의 origin, 그리고 external iliac artery(바깥장골동맥)의 origin, 그리고 femoral artery(넙다리동맥)의 origin 이런 혈관들이 모두 anterolateral abdominal wall(앞가쪽 배벽)에다가 혈액 공급을 하게 된다. / Evidence: anterolateral abdominal wall(앞가쪽 배벽)은 internal thoracic, intercostal, external iliac, femoral 계통의 분지들로 혈액을 공급받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "anterolateral abdominal wall(앞가쪽 배벽)은 _____, aorta(대동맥), external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subclavian artery(빗장밑동맥)",
+        "accepted_answers": [
+          "subclavian artery(빗장밑동맥)",
+          "subclavian artery",
+          "빗장밑동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subclavian artery(빗장밑동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal wall(앞가쪽 배벽)은 subclavian artery(빗장밑동맥), aorta(대동맥), external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다. / Original: anterolateral abdominal wall(앞가쪽 배벽) 같은 경우에는 ... subclavian artery(빗장밑동맥)의 origin, 그리고 aorta(대동맥)의 origin, 그리고 external iliac artery(바깥장골동맥)의 origin, 그리고 femoral artery(넙다리동맥)의 origin 이런 혈관들이 모두 anterolateral abdominal wall(앞가쪽 배벽)에다가 혈액 공급을 하게 된다. / Evidence: anterolateral abdominal wall(앞가쪽 배벽)은 internal thoracic, intercostal, external iliac, femoral 계통의 분지들로 혈액을 공급받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260402-1200_P0012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1200_P0012"
+      ],
+      "prompt": "anterolateral abdominal wall(앞가쪽 배벽)은 subclavian artery(빗장밑동맥), _____, external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "aorta(대동맥)",
+        "accepted_answers": [
+          "aorta(대동맥)",
+          "aorta",
+          "대동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "aorta(대동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1200.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterolateral abdominal wall(앞가쪽 배벽)은 subclavian artery(빗장밑동맥), aorta(대동맥), external iliac artery(바깥장골동맥), femoral artery(넙다리동맥)에서 기원하는 혈관들로부터 혈액 공급을 받는다. / Original: anterolateral abdominal wall(앞가쪽 배벽) 같은 경우에는 ... subclavian artery(빗장밑동맥)의 origin, 그리고 aorta(대동맥)의 origin, 그리고 external iliac artery(바깥장골동맥)의 origin, 그리고 femoral artery(넙다리동맥)의 origin 이런 혈관들이 모두 anterolateral abdominal wall(앞가쪽 배벽)에다가 혈액 공급을 하게 된다. / Evidence: anterolateral abdominal wall(앞가쪽 배벽)은 internal thoracic, intercostal, external iliac, femoral 계통의 분지들로 혈액을 공급받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260414-1800_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260414-1800_P0002"
+      ],
+      "prompt": "_____은 abdominal wall(배벽)의 구조에 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversus abdominis muscle(배가로근)",
+        "accepted_answers": [
+          "transversus abdominis muscle(배가로근)",
+          "transversus abdominis muscle",
+          "배가로근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transversus abdominis muscle(배가로근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260414-1800.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transversus abdominis muscle(배가로근)은 abdominal wall(배벽)의 구조에 포함된다. / Original: transversus abdominis muscle(배가로근)까지 구조 / Evidence: transversus abdominis muscle(배가로근)은 복벽을 이루는 대표적인 근육층 중 하나이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260414-1800_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260414-1800_P0002"
+      ],
+      "prompt": "transversus abdominis muscle(배가로근)은 _____의 구조에 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "abdominal wall(배벽)",
+        "accepted_answers": [
+          "abdominal wall(배벽)",
+          "abdominal wall",
+          "배벽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "abdominal wall(배벽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260414-1800.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transversus abdominis muscle(배가로근)은 abdominal wall(배벽)의 구조에 포함된다. / Original: transversus abdominis muscle(배가로근)까지 구조 / Evidence: transversus abdominis muscle(배가로근)은 복벽을 이루는 대표적인 근육층 중 하나이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0010"
+      ],
+      "prompt": "_____는 thoracolumbar fascia(가슴허리근막)와 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "psoas fascia(대요근근막)",
+        "accepted_answers": [
+          "psoas fascia(대요근근막)",
+          "psoas fascia",
+          "대요근근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "psoas fascia(대요근근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas fascia(대요근근막)는 thoracolumbar fascia(가슴허리근막)와 연결된다. / Original: 가쪽으로는 뭐하고 연결이 되느냐면 등에서 했던, 이게 뭐냐면 thoracolumbar fascia(가슴허리근막), 체벽 layer(층) 이렇게 연결이 되어집니다. / Evidence: 대요근근막은 thoracolumbar fascia(가슴허리근막)과 연속성을 가진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0010_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0010"
+      ],
+      "prompt": "psoas fascia(대요근근막)는 _____와 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "thoracolumbar fascia(가슴허리근막)",
+        "accepted_answers": [
+          "thoracolumbar fascia(가슴허리근막)",
+          "thoracolumbar fascia",
+          "가슴허리근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "thoracolumbar fascia(가슴허리근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas fascia(대요근근막)는 thoracolumbar fascia(가슴허리근막)와 연결된다. / Original: 가쪽으로는 뭐하고 연결이 되느냐면 등에서 했던, 이게 뭐냐면 thoracolumbar fascia(가슴허리근막), 체벽 layer(층) 이렇게 연결이 되어집니다. / Evidence: 대요근근막은 thoracolumbar fascia(가슴허리근막)과 연속성을 가진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0028_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0028"
+      ],
+      "prompt": "_____은 psoas major(큰허리근) muscle(큰허리근)와 같이 작용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliacus muscle(엉덩근)",
+        "accepted_answers": [
+          "iliacus muscle(엉덩근)",
+          "iliacus muscle",
+          "엉덩근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliacus muscle(엉덩근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0028",
+        "confidence": "높음 ## 20260415-1400_chunk_006",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliacus muscle(엉덩근)은 psoas major(큰허리근) muscle(큰허리근)와 같이 작용한다. / Original: 그러니까 psoas major(큰허리근)하고 [추정] 같이 작용하는 근육입니다. / Evidence: 엉덩근과 psoas major(큰허리근)은 함께 hip flexor로 작용한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0028_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0028"
+      ],
+      "prompt": "iliacus muscle(엉덩근)은 _____ muscle(큰허리근)와 같이 작용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "psoas major(큰허리근)",
+        "accepted_answers": [
+          "psoas major(큰허리근)",
+          "psoas major",
+          "큰허리근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "psoas major(큰허리근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0028",
+        "confidence": "높음 ## 20260415-1400_chunk_006",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliacus muscle(엉덩근)은 psoas major(큰허리근) muscle(큰허리근)와 같이 작용한다. / Original: 그러니까 psoas major(큰허리근)하고 [추정] 같이 작용하는 근육입니다. / Evidence: 엉덩근과 psoas major(큰허리근)은 함께 hip flexor로 작용한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0028_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0028"
+      ],
+      "prompt": "iliacus muscle(엉덩근)은 psoas major(큰허리근) _____와 같이 작용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscle(큰허리근)",
+        "accepted_answers": [
+          "muscle(큰허리근)",
+          "muscle",
+          "큰허리근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscle(큰허리근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0028",
+        "confidence": "높음 ## 20260415-1400_chunk_006",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliacus muscle(엉덩근)은 psoas major(큰허리근) muscle(큰허리근)와 같이 작용한다. / Original: 그러니까 psoas major(큰허리근)하고 [추정] 같이 작용하는 근육입니다. / Evidence: 엉덩근과 psoas major(큰허리근)은 함께 hip flexor로 작용한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "_____, 뒷배부 muscle(근육), pelvis(골반)의 림프는 cisterna chyli(유미저장소)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "kidney(콩팥)",
+        "accepted_answers": [
+          "kidney(콩팥)",
+          "kidney",
+          "콩팥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "kidney(콩팥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: kidney(콩팥), 뒷배부 muscle(근육), pelvis(골반)의 림프는 cisterna chyli(유미저장소)로 모인다. / Original: kidney(콩팥)라든지 아니면은 이 뒷배부에 있는 muscle(근육)이라든지 아니면 pelvis(골반) 이런 거 여기 모여가지고 어디로 가느냐면 바로 thoracic duct(가슴림프관)이 제일 아래에서 만들어진 주머니 모양, 이게 뭐냐면 cisterna chyli(유미저장소) 또는 chyli cistern(유미저장소)이라고 하는데, 여기로부터 이제 그게 thoracic duct(가슴림프관)의 시작이 되는 겁니다. / Evidence: 요추줄기와 장줄기 등은 cisterna chyli(유미저장소)로 합류한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "kidney(콩팥), 뒷배부 _____, pelvis(골반)의 림프는 cisterna chyli(유미저장소)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscle(근육)",
+        "accepted_answers": [
+          "muscle(근육)",
+          "muscle",
+          "근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscle(근육)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: kidney(콩팥), 뒷배부 muscle(근육), pelvis(골반)의 림프는 cisterna chyli(유미저장소)로 모인다. / Original: kidney(콩팥)라든지 아니면은 이 뒷배부에 있는 muscle(근육)이라든지 아니면 pelvis(골반) 이런 거 여기 모여가지고 어디로 가느냐면 바로 thoracic duct(가슴림프관)이 제일 아래에서 만들어진 주머니 모양, 이게 뭐냐면 cisterna chyli(유미저장소) 또는 chyli cistern(유미저장소)이라고 하는데, 여기로부터 이제 그게 thoracic duct(가슴림프관)의 시작이 되는 겁니다. / Evidence: 요추줄기와 장줄기 등은 cisterna chyli(유미저장소)로 합류한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1400_P0011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "kidney(콩팥), 뒷배부 muscle(근육), _____의 림프는 cisterna chyli(유미저장소)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvis(골반)",
+        "accepted_answers": [
+          "pelvis(골반)",
+          "pelvis",
+          "골반"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pelvis(골반)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: kidney(콩팥), 뒷배부 muscle(근육), pelvis(골반)의 림프는 cisterna chyli(유미저장소)로 모인다. / Original: kidney(콩팥)라든지 아니면은 이 뒷배부에 있는 muscle(근육)이라든지 아니면 pelvis(골반) 이런 거 여기 모여가지고 어디로 가느냐면 바로 thoracic duct(가슴림프관)이 제일 아래에서 만들어진 주머니 모양, 이게 뭐냐면 cisterna chyli(유미저장소) 또는 chyli cistern(유미저장소)이라고 하는데, 여기로부터 이제 그게 thoracic duct(가슴림프관)의 시작이 되는 겁니다. / Evidence: 요추줄기와 장줄기 등은 cisterna chyli(유미저장소)로 합류한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0013"
+      ],
+      "prompt": "_____와 ilioinguinal nerve(장골서혜신경)는 lumbar plexus(허리신경얼기)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(장골하복신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(장골하복신경)",
+          "iliohypogastric nerve",
+          "장골하복신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(장골하복신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 lumbar plexus(허리신경얼기)의 가지이다. / Original: iliohypogastric nerve(장골하복신경), ilioinguinal nerve(장골서혜신경) / Evidence: 두 신경은 요신경얼기의 대표적 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0013"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 _____는 lumbar plexus(허리신경얼기)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "ilioinguinal nerve(장골서혜신경)",
+        "accepted_answers": [
+          "ilioinguinal nerve(장골서혜신경)",
+          "ilioinguinal nerve",
+          "장골서혜신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "ilioinguinal nerve(장골서혜신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 lumbar plexus(허리신경얼기)의 가지이다. / Original: iliohypogastric nerve(장골하복신경), ilioinguinal nerve(장골서혜신경) / Evidence: 두 신경은 요신경얼기의 대표적 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0013"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar plexus(허리신경얼기)",
+        "accepted_answers": [
+          "lumbar plexus(허리신경얼기)",
+          "lumbar plexus",
+          "허리신경얼기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lumbar plexus(허리신경얼기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 lumbar plexus(허리신경얼기)의 가지이다. / Original: iliohypogastric nerve(장골하복신경), ilioinguinal nerve(장골서혜신경) / Evidence: 두 신경은 요신경얼기의 대표적 분지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0018"
+      ],
+      "prompt": "_____와 ilioinguinal nerve(장골서혜신경)는 L1의 ventral ramus(배가쪽가지)에서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(장골하복신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(장골하복신경)",
+          "iliohypogastric nerve",
+          "장골하복신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(장골하복신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 L1의 ventral ramus(배가쪽가지)에서 형성된다. / Original: 요거 같은 경우에는 L1의 ventral ramus(배가쪽가지)에서 해서 이루어나고 있습니다. / Evidence: 두 신경은 주로 L1 전가지를 통해 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0018"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 _____는 L1의 ventral ramus(배가쪽가지)에서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "ilioinguinal nerve(장골서혜신경)",
+        "accepted_answers": [
+          "ilioinguinal nerve(장골서혜신경)",
+          "ilioinguinal nerve",
+          "장골서혜신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "ilioinguinal nerve(장골서혜신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 L1의 ventral ramus(배가쪽가지)에서 형성된다. / Original: 요거 같은 경우에는 L1의 ventral ramus(배가쪽가지)에서 해서 이루어나고 있습니다. / Evidence: 두 신경은 주로 L1 전가지를 통해 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0018_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0018"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 L1의 _____에서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "ventral ramus(배가쪽가지)",
+        "accepted_answers": [
+          "ventral ramus(배가쪽가지)",
+          "ventral ramus",
+          "배가쪽가지"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "ventral ramus(배가쪽가지)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 L1의 ventral ramus(배가쪽가지)에서 형성된다. / Original: 요거 같은 경우에는 L1의 ventral ramus(배가쪽가지)에서 해서 이루어나고 있습니다. / Evidence: 두 신경은 주로 L1 전가지를 통해 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0020"
+      ],
+      "prompt": "_____와 ilioinguinal nerve(장골서혜신경)는 internal oblique muscle(배속빗근)과 transversus abdominis muscle(배속가로근)에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliohypogastric nerve(장골하복신경)",
+        "accepted_answers": [
+          "iliohypogastric nerve(장골하복신경)",
+          "iliohypogastric nerve",
+          "장골하복신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliohypogastric nerve(장골하복신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 internal oblique muscle(배속빗근)과 transversus abdominis muscle(배속가로근)에 분포한다. / Original: 자, 이것이 internal oblique muscle(배속빗근), transversus abdominis muscle(배속가로근)에 분포를 하고 / Evidence: 두 신경은 복벽의 근육들에 운동 가지를 낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0020"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 _____는 internal oblique muscle(배속빗근)과 transversus abdominis muscle(배속가로근)에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "ilioinguinal nerve(장골서혜신경)",
+        "accepted_answers": [
+          "ilioinguinal nerve(장골서혜신경)",
+          "ilioinguinal nerve",
+          "장골서혜신경"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "ilioinguinal nerve(장골서혜신경)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 internal oblique muscle(배속빗근)과 transversus abdominis muscle(배속가로근)에 분포한다. / Original: 자, 이것이 internal oblique muscle(배속빗근), transversus abdominis muscle(배속가로근)에 분포를 하고 / Evidence: 두 신경은 복벽의 근육들에 운동 가지를 낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0020_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0020"
+      ],
+      "prompt": "iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 _____과 transversus abdominis muscle(배속가로근)에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "internal oblique muscle(배속빗근)",
+        "accepted_answers": [
+          "internal oblique muscle(배속빗근)",
+          "internal oblique muscle",
+          "배속빗근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "internal oblique muscle(배속빗근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliohypogastric nerve(장골하복신경)와 ilioinguinal nerve(장골서혜신경)는 internal oblique muscle(배속빗근)과 transversus abdominis muscle(배속가로근)에 분포한다. / Original: 자, 이것이 internal oblique muscle(배속빗근), transversus abdominis muscle(배속가로근)에 분포를 하고 / Evidence: 두 신경은 복벽의 근육들에 운동 가지를 낸다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p013_recording_20260415-1500_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0002"
+      ],
+      "prompt": "내장 감각이 들어가는 척수절과 피부 감각은 _____에서 겹칠 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "CNS(중추신경계)",
+        "accepted_answers": [
+          "CNS(중추신경계)",
+          "CNS",
+          "중추신경계"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "CNS(중추신경계)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 내장 감각이 들어가는 척수절과 피부 감각은 CNS(중추신경계)에서 겹칠 수 있다. / Original: 내장 감각이 들어가는 척수절(spinal segment)과 피부에서 오는 그러한 감각이 CNS(중추신경계)에서 겹치는 거죠. / Evidence: referred pain은 내장성 입력과 체성 감각 입력의 중추 내 수렴으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
     }
   ],
   "summary": {
-    "question_count": 21,
+    "question_count": 72,
     "question_type_count": {
-      "fill_blank": 16,
+      "fill_blank": 67,
       "image_grounded_fill_blank": 5
     },
     "question_focus_count": {
-      "course_exam_style_provisional": 21
+      "course_exam_style_provisional": 21,
+      "recording_proposition_review": 51
     }
   },
   "blocked_image_question_reasons": [],
@@ -638,7 +2373,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -646,7 +2381,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -654,7 +2389,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -662,7 +2397,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -670,7 +2405,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -678,7 +2413,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -686,7 +2421,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -694,7 +2429,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -702,7 +2437,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -710,7 +2445,7 @@
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json",
@@ -718,7 +2453,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -726,7 +2461,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -734,7 +2469,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -742,84 +2477,84 @@
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json"
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json"
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json"
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json"
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json"
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json"
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json"
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json"
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json"
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json"
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json"
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json"
@@ -833,14 +2568,14 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json"
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json"
@@ -875,21 +2610,21 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json"
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json"
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json"
@@ -903,14 +2638,14 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json"
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json"
@@ -938,224 +2673,224 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json"
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json"
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json"
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json"
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json"
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json"
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json"
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json"
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json"
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json"
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json"
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json"
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json"
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json"
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json"
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json"
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json"
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -1169,42 +2904,42 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json"
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json"
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json"
@@ -1239,7 +2974,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json"
@@ -1260,77 +2995,77 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json"
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json"
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json"
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json"
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json"
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -1344,7 +3079,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -1358,49 +3093,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -1435,7 +3170,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -1449,28 +3184,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -1484,7 +3219,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -1519,21 +3254,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1554,7 +3289,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1680,7 +3415,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1792,7 +3527,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1841,7 +3576,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1904,7 +3639,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"

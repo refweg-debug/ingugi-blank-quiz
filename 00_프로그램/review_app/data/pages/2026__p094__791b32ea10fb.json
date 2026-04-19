@@ -9,11 +9,390 @@
   "finalization_status": "question_set_provisional_requires_ai_page_read",
   "page_read_status": "blocked_until_ai_page_read",
   "source_verified_status": "verified_but_requires_ai_page_read",
-  "questions": [],
+  "questions": [
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0004"
+      ],
+      "prompt": "_____은 아래쪽으로 anal canal(항문관)과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectum(직장)",
+        "accepted_answers": [
+          "rectum(직장)",
+          "rectum",
+          "직장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectum(직장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장)은 아래쪽으로 anal canal(항문관)과 연결된다. / Original: 후복벽에 고정되어 있고, 그래서 역시 골반 입구 높이에 있는 데서 sigmoid(에스상결장)와 연결이 돼서 이제 나중에 아래쪽으로 anal canal(항문관)로 연결되어집니다. / Evidence: 직장은 anal canal(항문관)으로 이어지는 해부학적 연결 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0004"
+      ],
+      "prompt": "rectum(직장)은 아래쪽으로 _____과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal canal(항문관)",
+        "accepted_answers": [
+          "anal canal(항문관)",
+          "anal canal",
+          "항문관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal canal(항문관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장)은 아래쪽으로 anal canal(항문관)과 연결된다. / Original: 후복벽에 고정되어 있고, 그래서 역시 골반 입구 높이에 있는 데서 sigmoid(에스상결장)와 연결이 돼서 이제 나중에 아래쪽으로 anal canal(항문관)로 연결되어집니다. / Evidence: 직장은 anal canal(항문관)으로 이어지는 해부학적 연결 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0008"
+      ],
+      "prompt": "_____과 anal canal(항문관)은 3개의 동맥계로 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectum(직장)",
+        "accepted_answers": [
+          "rectum(직장)",
+          "rectum",
+          "직장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectum(직장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장)과 anal canal(항문관)은 3개의 동맥계로 혈액 공급을 받는다. / Original: rectum(직장), anal canal(항문관)이 3개의 부분으로 혈액 공급이 들어갑니다. / Evidence: rectum(직장)과 anal canal(항문관)은 superior, middle, inferior rectal arteries의 혈류를 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0008"
+      ],
+      "prompt": "rectum(직장)과 _____은 3개의 동맥계로 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal canal(항문관)",
+        "accepted_answers": [
+          "anal canal(항문관)",
+          "anal canal",
+          "항문관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal canal(항문관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장)과 anal canal(항문관)은 3개의 동맥계로 혈액 공급을 받는다. / Original: rectum(직장), anal canal(항문관)이 3개의 부분으로 혈액 공급이 들어갑니다. / Evidence: rectum(직장)과 anal canal(항문관)은 superior, middle, inferior rectal arteries의 혈류를 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0018"
+      ],
+      "prompt": "_____, anal sphincter(항문조임근), anus(항문) 사이에 anal canal(항문관)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rectum(직장)",
+        "accepted_answers": [
+          "rectum(직장)",
+          "rectum",
+          "직장"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rectum(직장)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장), anal sphincter(항문조임근), anus(항문) 사이에 anal canal(항문관)이 있다. / Original: 이게 rectum(직장) 부분이고 anal sphincter(항문조임근) 부분이고 항문 부분이고, 사이에 이러한 anal canal(항문관) 부분에 대한 [추정] venous drainage(정맥배액)라든지 그다음에 canal(관) 이런 구조가 있는데 / Evidence: anal canal(항문관)은 rectum(직장) 말단부와 항문 사이의 관상 구간이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0018"
+      ],
+      "prompt": "rectum(직장), _____, anus(항문) 사이에 anal canal(항문관)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal sphincter(항문조임근)",
+        "accepted_answers": [
+          "anal sphincter(항문조임근)",
+          "anal sphincter",
+          "항문조임근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal sphincter(항문조임근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장), anal sphincter(항문조임근), anus(항문) 사이에 anal canal(항문관)이 있다. / Original: 이게 rectum(직장) 부분이고 anal sphincter(항문조임근) 부분이고 항문 부분이고, 사이에 이러한 anal canal(항문관) 부분에 대한 [추정] venous drainage(정맥배액)라든지 그다음에 canal(관) 이런 구조가 있는데 / Evidence: anal canal(항문관)은 rectum(직장) 말단부와 항문 사이의 관상 구간이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0018_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0018"
+      ],
+      "prompt": "rectum(직장), anal sphincter(항문조임근), _____ 사이에 anal canal(항문관)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anus(항문)",
+        "accepted_answers": [
+          "anus(항문)",
+          "anus",
+          "항문"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anus(항문)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: rectum(직장), anal sphincter(항문조임근), anus(항문) 사이에 anal canal(항문관)이 있다. / Original: 이게 rectum(직장) 부분이고 anal sphincter(항문조임근) 부분이고 항문 부분이고, 사이에 이러한 anal canal(항문관) 부분에 대한 [추정] venous drainage(정맥배액)라든지 그다음에 canal(관) 이런 구조가 있는데 / Evidence: anal canal(항문관)은 rectum(직장) 말단부와 항문 사이의 관상 구간이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0019"
+      ],
+      "prompt": "_____에는 venous drainage(정맥배액)가 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal canal(항문관)",
+        "accepted_answers": [
+          "anal canal(항문관)",
+          "anal canal",
+          "항문관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal canal(항문관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0019",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anal canal(항문관)에는 venous drainage(정맥배액)가 관련된다. / Original: rectum(직장) 부분이고 anal sphincter(항문조임근) 부분이고 항문 부분이고, 사이에 이러한 anal canal(항문관) 부분에 대한 [추정] venous drainage(정맥배액)라든지 그다음에 canal(관) 이런 구조가 있는데 / Evidence: anal canal(항문관)의 혈류 배출은 임상적으로 중요한 venous drainage(정맥배액) 구조를 가진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0019_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0019"
+      ],
+      "prompt": "anal canal(항문관)에는 _____가 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "venous drainage(정맥배액)",
+        "accepted_answers": [
+          "venous drainage(정맥배액)",
+          "venous drainage",
+          "정맥배액"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "venous drainage(정맥배액)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0019",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anal canal(항문관)에는 venous drainage(정맥배액)가 관련된다. / Original: rectum(직장) 부분이고 anal sphincter(항문조임근) 부분이고 항문 부분이고, 사이에 이러한 anal canal(항문관) 부분에 대한 [추정] venous drainage(정맥배액)라든지 그다음에 canal(관) 이런 구조가 있는데 / Evidence: anal canal(항문관)의 혈류 배출은 임상적으로 중요한 venous drainage(정맥배액) 구조를 가진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0013"
+      ],
+      "prompt": "_____은 직장과 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal canal(항문관)",
+        "accepted_answers": [
+          "anal canal(항문관)",
+          "anal canal",
+          "항문관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal canal(항문관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anal canal(항문관)은 직장과 연속된다. / Original: anal canal(항문관)은 나중에 그 골반 있는데 살 건데, 지금 내장 부분에서 연속이 되어 오기 때문에 / Evidence: anal canal(항문관)은 직장의 말단부와 이어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p094_recording_20260408-1500_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260408-1500_P0006"
+      ],
+      "prompt": "_____이 잘 발달되어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anal sphincter(항문조임근)",
+        "accepted_answers": [
+          "anal sphincter(항문조임근)",
+          "anal sphincter",
+          "항문조임근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anal sphincter(항문조임근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260408-1500.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anal sphincter(항문조임근)이 잘 발달되어 있다. / Original: 특히 anal sphincter(항문조임근)가 잘 발달되어 있습니다. / Evidence: 항문관은 대변 보유를 위해 괄약근 구조가 잘 발달되어 있다. / Page match: approximate keyword match against existing page text."
+      }
+    }
+  ],
   "summary": {
-    "question_count": 0,
-    "question_type_count": {},
-    "question_focus_count": {}
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 11
+    },
+    "question_focus_count": {
+      "recording_proposition_review": 11
+    }
   },
   "blocked_image_question_reasons": [
     "ai_page_read_not_complete"
@@ -22,7 +401,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -30,7 +409,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -38,7 +417,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -46,7 +425,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -54,7 +433,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -62,7 +441,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -70,7 +449,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -78,7 +457,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -86,7 +465,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -94,7 +473,7 @@
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json",
@@ -102,7 +481,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -110,7 +489,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -118,7 +497,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -126,7 +505,7 @@
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json",
@@ -134,7 +513,7 @@
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json",
@@ -142,7 +521,7 @@
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json",
@@ -150,7 +529,7 @@
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json",
@@ -158,7 +537,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -166,7 +545,7 @@
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json",
@@ -174,7 +553,7 @@
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json",
@@ -182,7 +561,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -190,7 +569,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -198,7 +577,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -206,7 +585,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -214,7 +593,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -230,7 +609,7 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json",
@@ -238,7 +617,7 @@
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json",
@@ -278,7 +657,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -286,7 +665,7 @@
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json",
@@ -294,7 +673,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -310,7 +689,7 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json",
@@ -318,7 +697,7 @@
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json",
@@ -350,7 +729,7 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json",
@@ -358,7 +737,7 @@
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json",
@@ -366,7 +745,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -374,7 +753,7 @@
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json",
@@ -382,7 +761,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json",
@@ -390,7 +769,7 @@
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json",
@@ -398,7 +777,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json",
@@ -406,7 +785,7 @@
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json",
@@ -414,7 +793,7 @@
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json",
@@ -422,7 +801,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json",
@@ -430,7 +809,7 @@
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json",
@@ -438,7 +817,7 @@
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -446,7 +825,7 @@
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json",
@@ -454,7 +833,7 @@
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json",
@@ -462,7 +841,7 @@
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json",
@@ -470,7 +849,7 @@
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json",
@@ -478,7 +857,7 @@
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json",
@@ -486,7 +865,7 @@
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json",
@@ -494,7 +873,7 @@
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json",
@@ -502,7 +881,7 @@
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json",
@@ -510,7 +889,7 @@
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json",
@@ -518,7 +897,7 @@
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json",
@@ -526,7 +905,7 @@
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json",
@@ -534,7 +913,7 @@
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json",
@@ -542,7 +921,7 @@
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json",
@@ -550,7 +929,7 @@
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json",
@@ -558,7 +937,7 @@
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json",
@@ -566,7 +945,7 @@
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json",
@@ -574,7 +953,7 @@
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json",
@@ -582,7 +961,7 @@
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json",
@@ -590,7 +969,7 @@
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json",
@@ -598,7 +977,7 @@
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json",
@@ -614,7 +993,7 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json",
@@ -622,7 +1001,7 @@
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json",
@@ -630,7 +1009,7 @@
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json",
@@ -638,7 +1017,7 @@
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json",
@@ -646,7 +1025,7 @@
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json",
@@ -654,7 +1033,7 @@
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json",
@@ -694,7 +1073,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json",
@@ -718,7 +1097,7 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json",
@@ -726,7 +1105,7 @@
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json",
@@ -734,7 +1113,7 @@
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json",
@@ -742,7 +1121,7 @@
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json",
@@ -750,7 +1129,7 @@
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json",
@@ -758,7 +1137,7 @@
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json",
@@ -766,7 +1145,7 @@
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json",
@@ -774,28 +1153,28 @@
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -809,7 +1188,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -823,49 +1202,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -900,7 +1279,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -914,28 +1293,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -949,7 +1328,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -984,21 +1363,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1019,7 +1398,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1145,7 +1524,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1257,7 +1636,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1306,7 +1685,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1369,7 +1748,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"

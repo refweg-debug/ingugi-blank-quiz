@@ -4,15 +4,15 @@
   "workspace": "인구기",
   "output_dir": "data",
   "version": [
-    634,
-    1776418614956486600,
-    14311384
+    720,
+    1776622246833930600,
+    19633544
   ],
-  "unit_count": 3,
-  "page_count": 814,
-  "question_count": 12116,
-  "image_count": 682,
+  "unit_count": 4,
+  "page_count": 900,
+  "question_count": 15249,
+  "image_count": 768,
   "missing_image_count": 132,
-  "image_bytes": 40043390,
+  "image_bytes": 44681192,
   "skip_images": false
 }

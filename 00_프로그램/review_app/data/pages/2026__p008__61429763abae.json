@@ -620,17 +620,2798 @@
         "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
         "full": "subject: 맥버니점(McBurney's point) / predicate: 위치한다 / object: spinoumbilical line의 가쪽 1/3 지점"
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0001"
+      ],
+      "prompt": "_____은 흉강과 복강을 나눈다",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)은 흉강과 복강을 나눈다 / Original: diaphragm(가로막)이 나누고 있습니다 / Evidence: diaphragm(가로막)은 흉강과 복강을 구분하는 근육성 경계이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0003"
+      ],
+      "prompt": "_____, lateral(가쪽), posterior(뒤쪽)은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior(앞쪽)",
+        "accepted_answers": [
+          "anterior(앞쪽)",
+          "anterior",
+          "앞쪽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior(앞쪽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다. / Original: boundary(경계)가 없기 때문에 우리가 임의적으로 편의를 위해서 앞쪽은 anterior(앞쪽), 옆쪽은 lateral(가쪽), 뒤쪽은 posterior(뒤쪽)라고 얘기하고 있습니다. / Evidence: 이는 해부학에서 방향을 나타내는 표준 용어 사용이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0003"
+      ],
+      "prompt": "anterior(앞쪽), _____, posterior(뒤쪽)은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lateral(가쪽)",
+        "accepted_answers": [
+          "lateral(가쪽)",
+          "lateral",
+          "가쪽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lateral(가쪽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다. / Original: boundary(경계)가 없기 때문에 우리가 임의적으로 편의를 위해서 앞쪽은 anterior(앞쪽), 옆쪽은 lateral(가쪽), 뒤쪽은 posterior(뒤쪽)라고 얘기하고 있습니다. / Evidence: 이는 해부학에서 방향을 나타내는 표준 용어 사용이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0003"
+      ],
+      "prompt": "anterior(앞쪽), lateral(가쪽), _____은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "posterior(뒤쪽)",
+        "accepted_answers": [
+          "posterior(뒤쪽)",
+          "posterior",
+          "뒤쪽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "posterior(뒤쪽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)은 편의적으로 anterior(앞쪽), lateral(가쪽), posterior(뒤쪽)로 구분해 부른다. / Original: boundary(경계)가 없기 때문에 우리가 임의적으로 편의를 위해서 앞쪽은 anterior(앞쪽), 옆쪽은 lateral(가쪽), 뒤쪽은 posterior(뒤쪽)라고 얘기하고 있습니다. / Evidence: 이는 해부학에서 방향을 나타내는 표준 용어 사용이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0013"
+      ],
+      "prompt": "_____에는 gallbladder(담낭)가 주로 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "right upper quadrant(오른쪽 윗부분)",
+        "accepted_answers": [
+          "right upper quadrant(오른쪽 윗부분)",
+          "right upper quadrant",
+          "오른쪽 윗부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "right upper quadrant(오른쪽 윗부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: right upper quadrant(오른쪽 윗부분)에는 gallbladder(담낭)가 주로 위치한다. / Original: right upper quadrant(오른쪽 윗부분)인데, 임상이 있으면 여기는 stomach(위)하고 그다음에 gallbladder(담낭)가 주로 위치하기 때문에 / Evidence: gallbladder(담낭)은 일반적으로 우상복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0013"
+      ],
+      "prompt": "right upper quadrant(오른쪽 윗부분)에는 _____가 주로 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gallbladder(담낭)",
+        "accepted_answers": [
+          "gallbladder(담낭)",
+          "gallbladder",
+          "담낭"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gallbladder(담낭)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: right upper quadrant(오른쪽 윗부분)에는 gallbladder(담낭)가 주로 위치한다. / Original: right upper quadrant(오른쪽 윗부분)인데, 임상이 있으면 여기는 stomach(위)하고 그다음에 gallbladder(담낭)가 주로 위치하기 때문에 / Evidence: gallbladder(담낭)은 일반적으로 우상복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0001"
+      ],
+      "prompt": "_____은 9번째 costal cartilage(갈비연골)의 윗쪽 끝을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transpyloric plane(유문경유면)",
+        "accepted_answers": [
+          "transpyloric plane(유문경유면)",
+          "transpyloric plane",
+          "유문경유면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transpyloric plane(유문경유면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transpyloric plane(유문경유면)은 9번째 costal cartilage(갈비연골)의 윗쪽 끝을 지난다. / Original: 아홉 번째 costal cartilage(갈비연골)의 윗쪽 끝, ... transpyloric plane(유문경유면) / Evidence: 표준 해부학에서 transpyloric plane(유문경유면)은 9번째 늑연골의 끝과 L1 수준을 지난다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0001"
+      ],
+      "prompt": "transpyloric plane(유문경유면)은 9번째 _____의 윗쪽 끝을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "costal cartilage(갈비연골)",
+        "accepted_answers": [
+          "costal cartilage(갈비연골)",
+          "costal cartilage",
+          "갈비연골"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "costal cartilage(갈비연골)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transpyloric plane(유문경유면)은 9번째 costal cartilage(갈비연골)의 윗쪽 끝을 지난다. / Original: 아홉 번째 costal cartilage(갈비연골)의 윗쪽 끝, ... transpyloric plane(유문경유면) / Evidence: 표준 해부학에서 transpyloric plane(유문경유면)은 9번째 늑연골의 끝과 L1 수준을 지난다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0002"
+      ],
+      "prompt": "_____은 L1(제1허리뼈) 수준을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transpyloric plane(유문경유면)",
+        "accepted_answers": [
+          "transpyloric plane(유문경유면)",
+          "transpyloric plane",
+          "유문경유면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transpyloric plane(유문경유면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transpyloric plane(유문경유면)은 L1(제1허리뼈) 수준을 지난다. / Original: ... L1(제1허리뼈)의 척추뼈를 지나가는 ... transpyloric plane(유문경유면) / Evidence: transpyloric plane(유문경유면)은 보통 L1(제1허리뼈) 척추체 수준으로 정의된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0002"
+      ],
+      "prompt": "transpyloric plane(유문경유면)은 _____ 수준을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L1(제1허리뼈)",
+        "accepted_answers": [
+          "L1(제1허리뼈)",
+          "L1",
+          "제1허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L1(제1허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transpyloric plane(유문경유면)은 L1(제1허리뼈) 수준을 지난다. / Original: ... L1(제1허리뼈)의 척추뼈를 지나가는 ... transpyloric plane(유문경유면) / Evidence: transpyloric plane(유문경유면)은 보통 L1(제1허리뼈) 척추체 수준으로 정의된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0005"
+      ],
+      "prompt": "_____은 양쪽 iliac tubercle(엉덩뼈결절)을 잇는 평면이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "infratubercular plane(결절아래면)",
+        "accepted_answers": [
+          "infratubercular plane(결절아래면)",
+          "infratubercular plane",
+          "결절아래면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "infratubercular plane(결절아래면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: infratubercular plane(결절아래면)은 양쪽 iliac tubercle(엉덩뼈결절)을 잇는 평면이다. / Original: infratubercular plane(결절아래면) 같은 경우에는 양쪽에 있는 iliac tubercle(엉덩뼈결절)이 있는데, 요거를 이어주는 부분 / Evidence: infratubercular plane(결절아래면)은 양측 장골결절을 연결하는 평면으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0005"
+      ],
+      "prompt": "infratubercular plane(결절아래면)은 양쪽 _____을 잇는 평면이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliac tubercle(엉덩뼈결절)",
+        "accepted_answers": [
+          "iliac tubercle(엉덩뼈결절)",
+          "iliac tubercle",
+          "엉덩뼈결절"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliac tubercle(엉덩뼈결절)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: infratubercular plane(결절아래면)은 양쪽 iliac tubercle(엉덩뼈결절)을 잇는 평면이다. / Original: infratubercular plane(결절아래면) 같은 경우에는 양쪽에 있는 iliac tubercle(엉덩뼈결절)이 있는데, 요거를 이어주는 부분 / Evidence: infratubercular plane(결절아래면)은 양측 장골결절을 연결하는 평면으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0016"
+      ],
+      "prompt": "_____은 신체를 오른쪽과 왼쪽으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "median plane(정중면)",
+        "accepted_answers": [
+          "median plane(정중면)",
+          "median plane",
+          "정중면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "median plane(정중면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: median plane(정중면)은 신체를 오른쪽과 왼쪽으로 나눈다. / Original: median plane(정중면) 부분이 될 거고, 요거는 정중앙을 세로로 지나면서 신체를 오른쪽 왼쪽으로 나눕니다. / Evidence: median plane(정중면)은 신체를 좌우로 나누는 정중 시상면이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0017"
+      ],
+      "prompt": "_____은 배꼽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transumbilical plane(배꼽경유면)",
+        "accepted_answers": [
+          "transumbilical plane(배꼽경유면)",
+          "transumbilical plane",
+          "배꼽경유면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transumbilical plane(배꼽경유면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transumbilical plane(배꼽경유면)은 배꼽을 지난다. / Original: transumbilical plane(배꼽경유면) ... 배꼽 ... L3(제3허리뼈)하고 L4(제4허리뼈) 사이에 intervertebral disc(척추사이원반) / Evidence: transumbilical plane(배꼽경유면)은 배꼽을 지나는 수평면으로 정의된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "_____은 L3(제3허리뼈)-L4(제4허리뼈) 사이의 intervertebral disc(척추사이원반) 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transumbilical plane(배꼽경유면)",
+        "accepted_answers": [
+          "transumbilical plane(배꼽경유면)",
+          "transumbilical plane",
+          "배꼽경유면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transumbilical plane(배꼽경유면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transumbilical plane(배꼽경유면)은 L3(제3허리뼈)-L4(제4허리뼈) 사이의 intervertebral disc(척추사이원반) 수준에 해당한다. / Original: transumbilical plane(배꼽경유면) ... L3(제3허리뼈)하고 L4(제4허리뼈) 사이에 intervertebral disc(척추사이원반) / Evidence: 표준적으로 배꼽은 L3(제3허리뼈)-L4(제4허리뼈) 추간판 수준으로 본다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "transumbilical plane(배꼽경유면)은 _____-L4(제4허리뼈) 사이의 intervertebral disc(척추사이원반) 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L3(제3허리뼈)",
+        "accepted_answers": [
+          "L3(제3허리뼈)",
+          "L3",
+          "제3허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L3(제3허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transumbilical plane(배꼽경유면)은 L3(제3허리뼈)-L4(제4허리뼈) 사이의 intervertebral disc(척추사이원반) 수준에 해당한다. / Original: transumbilical plane(배꼽경유면) ... L3(제3허리뼈)하고 L4(제4허리뼈) 사이에 intervertebral disc(척추사이원반) / Evidence: 표준적으로 배꼽은 L3(제3허리뼈)-L4(제4허리뼈) 추간판 수준으로 본다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0018_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "transumbilical plane(배꼽경유면)은 L3(제3허리뼈)-_____ 사이의 intervertebral disc(척추사이원반) 수준에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L4(제4허리뼈)",
+        "accepted_answers": [
+          "L4(제4허리뼈)",
+          "L4",
+          "제4허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L4(제4허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transumbilical plane(배꼽경유면)은 L3(제3허리뼈)-L4(제4허리뼈) 사이의 intervertebral disc(척추사이원반) 수준에 해당한다. / Original: transumbilical plane(배꼽경유면) ... L3(제3허리뼈)하고 L4(제4허리뼈) 사이에 intervertebral disc(척추사이원반) / Evidence: 표준적으로 배꼽은 L3(제3허리뼈)-L4(제4허리뼈) 추간판 수준으로 본다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "_____와 gallbladder(쓸개)는 Right Upper Quadrant(오른위사분면)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "liver(간)",
+        "accepted_answers": [
+          "liver(간)",
+          "liver",
+          "간"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "liver(간)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: liver(간)와 gallbladder(쓸개)는 Right Upper Quadrant(오른위사분면)에 위치한다. / Original: Right Upper Quadrant(오른위사분면) ... liver(간)라든지 gallbladder(쓸개) / Evidence: 간과 담낭은 전형적으로 우상복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "liver(간)와 _____는 Right Upper Quadrant(오른위사분면)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gallbladder(쓸개)",
+        "accepted_answers": [
+          "gallbladder(쓸개)",
+          "gallbladder",
+          "쓸개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gallbladder(쓸개)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: liver(간)와 gallbladder(쓸개)는 Right Upper Quadrant(오른위사분면)에 위치한다. / Original: Right Upper Quadrant(오른위사분면) ... liver(간)라든지 gallbladder(쓸개) / Evidence: 간과 담낭은 전형적으로 우상복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0020_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0020"
+      ],
+      "prompt": "liver(간)와 gallbladder(쓸개)는 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Right Upper Quadrant(오른위사분면)",
+        "accepted_answers": [
+          "Right Upper Quadrant(오른위사분면)",
+          "Right Upper Quadrant",
+          "오른위사분면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Right Upper Quadrant(오른위사분면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0020",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: liver(간)와 gallbladder(쓸개)는 Right Upper Quadrant(오른위사분면)에 위치한다. / Original: Right Upper Quadrant(오른위사분면) ... liver(간)라든지 gallbladder(쓸개) / Evidence: 간과 담낭은 전형적으로 우상복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0022"
+      ],
+      "prompt": "_____와 Sigmoid colon(구불잘록창자)은 Left Lower Quadrant(왼아래사분면)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Descending colon(내림잘록창자)",
+        "accepted_answers": [
+          "Descending colon(내림잘록창자)",
+          "Descending colon",
+          "내림잘록창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Descending colon(내림잘록창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Descending colon(내림잘록창자)와 Sigmoid colon(구불잘록창자)은 Left Lower Quadrant(왼아래사분면)에 위치한다. / Original: Left Lower Quadrant(왼아래사분면) ... Descending colon(내림잘록창자), Sigmoid colon(구불잘록창자) / Evidence: 하행결장과 S상결장은 주로 좌하복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0022_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0022"
+      ],
+      "prompt": "Descending colon(내림잘록창자)와 _____은 Left Lower Quadrant(왼아래사분면)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Sigmoid colon(구불잘록창자)",
+        "accepted_answers": [
+          "Sigmoid colon(구불잘록창자)",
+          "Sigmoid colon",
+          "구불잘록창자"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Sigmoid colon(구불잘록창자)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Descending colon(내림잘록창자)와 Sigmoid colon(구불잘록창자)은 Left Lower Quadrant(왼아래사분면)에 위치한다. / Original: Left Lower Quadrant(왼아래사분면) ... Descending colon(내림잘록창자), Sigmoid colon(구불잘록창자) / Evidence: 하행결장과 S상결장은 주로 좌하복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0022_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0022"
+      ],
+      "prompt": "Descending colon(내림잘록창자)와 Sigmoid colon(구불잘록창자)은 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Left Lower Quadrant(왼아래사분면)",
+        "accepted_answers": [
+          "Left Lower Quadrant(왼아래사분면)",
+          "Left Lower Quadrant",
+          "왼아래사분면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Left Lower Quadrant(왼아래사분면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0022",
+        "confidence": "높음",
+        "page_match_score": 9.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Descending colon(내림잘록창자)와 Sigmoid colon(구불잘록창자)은 Left Lower Quadrant(왼아래사분면)에 위치한다. / Original: Left Lower Quadrant(왼아래사분면) ... Descending colon(내림잘록창자), Sigmoid colon(구불잘록창자) / Evidence: 하행결장과 S상결장은 주로 좌하복부에 위치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0004"
+      ],
+      "prompt": "_____에 염증이 생기면 충수염이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Appendix(충수돌기)",
+        "accepted_answers": [
+          "Appendix(충수돌기)",
+          "Appendix",
+          "충수돌기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Appendix(충수돌기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Appendix(충수돌기)에 염증이 생기면 충수염이 된다. / Original: 여기 Appendix(충수돌기)라는, 충수돌기에 염증이 생기는 겁니다. / Evidence: 충수염은 Appendix(충수돌기) 염증을 의미한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "_____와 umbilicus(배꼽)를 잇는 선을 spino-umbilical line(가시-배꼽선)이라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Anterior Superior Iliac Spine(앞위엉덩뼈가시)",
+        "accepted_answers": [
+          "Anterior Superior Iliac Spine(앞위엉덩뼈가시)",
+          "Anterior Superior Iliac Spine",
+          "앞위엉덩뼈가시"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Anterior Superior Iliac Spine(앞위엉덩뼈가시)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Anterior Superior Iliac Spine(앞위엉덩뼈가시)와 umbilicus(배꼽)를 잇는 선을 spino-umbilical line(가시-배꼽선)이라고 부른다. / Original: 이 라인을 뭐라고 하느냐 하면 요거는 Anterior Superior Iliac Spine(앞위엉덩뼈가시)에서 스피노가 들어가고 여기에서 umbilicus(배꼽), spino-umbilical line(가시-배꼽선)이라고 얘기합니다. / Evidence: ASIS와 umbilicus(배꼽)을 잇는 선은 맥버니점 설명에 쓰이는 표면 해부학적 선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "Anterior Superior Iliac Spine(앞위엉덩뼈가시)와 _____를 잇는 선을 spino-umbilical line(가시-배꼽선)이라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "umbilicus(배꼽)",
+        "accepted_answers": [
+          "umbilicus(배꼽)",
+          "umbilicus",
+          "배꼽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "umbilicus(배꼽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Anterior Superior Iliac Spine(앞위엉덩뼈가시)와 umbilicus(배꼽)를 잇는 선을 spino-umbilical line(가시-배꼽선)이라고 부른다. / Original: 이 라인을 뭐라고 하느냐 하면 요거는 Anterior Superior Iliac Spine(앞위엉덩뼈가시)에서 스피노가 들어가고 여기에서 umbilicus(배꼽), spino-umbilical line(가시-배꼽선)이라고 얘기합니다. / Evidence: ASIS와 umbilicus(배꼽)을 잇는 선은 맥버니점 설명에 쓰이는 표면 해부학적 선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0008"
+      ],
+      "prompt": "Anterior Superior Iliac Spine(앞위엉덩뼈가시)와 umbilicus(배꼽)를 잇는 선을 _____이라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "spino-umbilical line(가시-배꼽선)",
+        "accepted_answers": [
+          "spino-umbilical line(가시-배꼽선)",
+          "spino-umbilical line",
+          "가시-배꼽선"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "spino-umbilical line(가시-배꼽선)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Anterior Superior Iliac Spine(앞위엉덩뼈가시)와 umbilicus(배꼽)를 잇는 선을 spino-umbilical line(가시-배꼽선)이라고 부른다. / Original: 이 라인을 뭐라고 하느냐 하면 요거는 Anterior Superior Iliac Spine(앞위엉덩뼈가시)에서 스피노가 들어가고 여기에서 umbilicus(배꼽), spino-umbilical line(가시-배꼽선)이라고 얘기합니다. / Evidence: ASIS와 umbilicus(배꼽)을 잇는 선은 맥버니점 설명에 쓰이는 표면 해부학적 선이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0009"
+      ],
+      "prompt": "_____는 ASIS-배꼽선의 아래쪽 3분의 1 지점에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "McBurney point(맥버니점)",
+        "accepted_answers": [
+          "McBurney point(맥버니점)",
+          "McBurney point",
+          "맥버니점"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "McBurney point(맥버니점)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: McBurney point(맥버니점)는 ASIS-배꼽선의 아래쪽 3분의 1 지점에 해당한다. / Original: 그러니까 지금 이 라인에서 아래쪽 3분의 1 지점, 요거를 뭐라고 하느냐 하면 McBurney point(맥버니점)라고 합니다. / Evidence: McBurney point(맥버니점)은 배꼽과 우측 ASIS를 잇는 선의 외측 1/3과 중간 1/3의 경계로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "_____ 부위는 Right Lower Quadrant(우하사분역)에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "McBurney point(맥버니점)",
+        "accepted_answers": [
+          "McBurney point(맥버니점)",
+          "McBurney point",
+          "맥버니점"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "McBurney point(맥버니점)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: McBurney point(맥버니점) 부위는 Right Lower Quadrant(우하사분역)에 있다. / Original: 이 부분은 어디에 있는 거다? Right Lower Quadrant(우하사분역)에 있는 거다. / Evidence: 맥버니점은 우하복부의 표면 표지로 사용된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "McBurney point(맥버니점) 부위는 _____에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Right Lower Quadrant(우하사분역)",
+        "accepted_answers": [
+          "Right Lower Quadrant(우하사분역)",
+          "Right Lower Quadrant",
+          "우하사분역"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Right Lower Quadrant(우하사분역)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: McBurney point(맥버니점) 부위는 Right Lower Quadrant(우하사분역)에 있다. / Original: 이 부분은 어디에 있는 거다? Right Lower Quadrant(우하사분역)에 있는 거다. / Evidence: 맥버니점은 우하복부의 표면 표지로 사용된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "_____는 transumbilical plane(배꼽횡단면)의 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "umbilicus(배꼽)",
+        "accepted_answers": [
+          "umbilicus(배꼽)",
+          "umbilicus",
+          "배꼽"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "umbilicus(배꼽)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: umbilicus(배꼽)는 transumbilical plane(배꼽횡단면)의 기준이 된다. / Original: 아까 umbilicus(배꼽) 같은 경우에는 transumbilical plane(배꼽횡단면)을 기준이 되어지고 / Evidence: transumbilical plane(배꼽횡단면)은 umbilicus(배꼽)을 지나는 가로 평면이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0018"
+      ],
+      "prompt": "umbilicus(배꼽)는 _____의 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transumbilical plane(배꼽횡단면)",
+        "accepted_answers": [
+          "transumbilical plane(배꼽횡단면)",
+          "transumbilical plane",
+          "배꼽횡단면"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transumbilical plane(배꼽횡단면)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: umbilicus(배꼽)는 transumbilical plane(배꼽횡단면)의 기준이 된다. / Original: 아까 umbilicus(배꼽) 같은 경우에는 transumbilical plane(배꼽횡단면)을 기준이 되어지고 / Evidence: transumbilical plane(배꼽횡단면)은 umbilicus(배꼽)을 지나는 가로 평면이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "`_____`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)` 사이에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal ligament(샅고랑인대)",
+        "accepted_answers": [
+          "inguinal ligament(샅고랑인대)",
+          "inguinal ligament",
+          "샅고랑인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal ligament(샅고랑인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)` 사이에 놓인다. / Original: 여기가 이제 약간 겹쳐지는 이 부분이 `inguinal ligament(샅고랑인대)`입니다. / Evidence: 서혜인대는 ASIS에서 두덩결절까지 주행한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "`inguinal ligament(샅고랑인대)`는 `_____`와 `pubic tubercle(두덩결절)` 사이에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior superior iliac spine(위앞엉덩뼈가시)",
+        "accepted_answers": [
+          "anterior superior iliac spine(위앞엉덩뼈가시)",
+          "anterior superior iliac spine",
+          "위앞엉덩뼈가시"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior superior iliac spine(위앞엉덩뼈가시)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)` 사이에 놓인다. / Original: 여기가 이제 약간 겹쳐지는 이 부분이 `inguinal ligament(샅고랑인대)`입니다. / Evidence: 서혜인대는 ASIS에서 두덩결절까지 주행한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0011"
+      ],
+      "prompt": "`inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `_____` 사이에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic tubercle(두덩결절)",
+        "accepted_answers": [
+          "pubic tubercle(두덩결절)",
+          "pubic tubercle",
+          "두덩결절"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic tubercle(두덩결절)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)` 사이에 놓인다. / Original: 여기가 이제 약간 겹쳐지는 이 부분이 `inguinal ligament(샅고랑인대)`입니다. / Evidence: 서혜인대는 ASIS에서 두덩결절까지 주행한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0012"
+      ],
+      "prompt": "`_____`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)`을 잇는 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inguinal ligament(샅고랑인대)",
+        "accepted_answers": [
+          "inguinal ligament(샅고랑인대)",
+          "inguinal ligament",
+          "샅고랑인대"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inguinal ligament(샅고랑인대)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)`을 잇는 구조이다. / Original: `inguinal ligament(샅고랑인대)`라고 하면 뭐냐면 `anterior superior iliac spine(위앞엉덩뼈가시)`하고 여기 `pubic tubercle(두덩결절)`하고 있는 그러한 이 부분 / Evidence: 서혜인대의 표준 해부학적 경로가 바로 ASIS와 pubic tubercle(두덩결절) 사이이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0012"
+      ],
+      "prompt": "`inguinal ligament(샅고랑인대)`는 `_____`와 `pubic tubercle(두덩결절)`을 잇는 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterior superior iliac spine(위앞엉덩뼈가시)",
+        "accepted_answers": [
+          "anterior superior iliac spine(위앞엉덩뼈가시)",
+          "anterior superior iliac spine",
+          "위앞엉덩뼈가시"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "anterior superior iliac spine(위앞엉덩뼈가시)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)`을 잇는 구조이다. / Original: `inguinal ligament(샅고랑인대)`라고 하면 뭐냐면 `anterior superior iliac spine(위앞엉덩뼈가시)`하고 여기 `pubic tubercle(두덩결절)`하고 있는 그러한 이 부분 / Evidence: 서혜인대의 표준 해부학적 경로가 바로 ASIS와 pubic tubercle(두덩결절) 사이이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0012"
+      ],
+      "prompt": "`inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `_____`을 잇는 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic tubercle(두덩결절)",
+        "accepted_answers": [
+          "pubic tubercle(두덩결절)",
+          "pubic tubercle",
+          "두덩결절"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic tubercle(두덩결절)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 8.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `inguinal ligament(샅고랑인대)`는 `anterior superior iliac spine(위앞엉덩뼈가시)`와 `pubic tubercle(두덩결절)`을 잇는 구조이다. / Original: `inguinal ligament(샅고랑인대)`라고 하면 뭐냐면 `anterior superior iliac spine(위앞엉덩뼈가시)`하고 여기 `pubic tubercle(두덩결절)`하고 있는 그러한 이 부분 / Evidence: 서혜인대의 표준 해부학적 경로가 바로 ASIS와 pubic tubercle(두덩결절) 사이이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0016"
+      ],
+      "prompt": "`_____`는 충수와 관련된 표면해부학적 표지점이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "McBurney point(맥버니점)",
+        "accepted_answers": [
+          "McBurney point(맥버니점)",
+          "McBurney point",
+          "맥버니점"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "McBurney point(맥버니점)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0016",
+        "confidence": "높음 ## 20260402-1100_chunk_007",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: `McBurney point(맥버니점)`는 충수와 관련된 표면해부학적 표지점이다. / Original: `McBurney point(맥버니점)` / Evidence: McBurney point(맥버니점)는 충수염의 압통점이자 충수 위치 추정의 표지점으로 쓰인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0005"
+      ],
+      "prompt": "_____은 pubic area(치골부) 위쪽에서 하는 절개이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "suprapubic incision(치골상절개)",
+        "accepted_answers": [
+          "suprapubic incision(치골상절개)",
+          "suprapubic incision",
+          "치골상절개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "suprapubic incision(치골상절개)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: suprapubic incision(치골상절개)은 pubic area(치골부) 위쪽에서 하는 절개이다. / Original: hysterectomy(자궁절제술) 같은 거 할 때는 바로 여기에 pubic area(치골부) 있는데 위쪽에 suprapubic incision(치골상절개) 해가지고 / Evidence: suprapubic은 치골 위를 뜻하는 해부학적 용어이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0005"
+      ],
+      "prompt": "suprapubic incision(치골상절개)은 _____ 위쪽에서 하는 절개이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pubic area(치골부)",
+        "accepted_answers": [
+          "pubic area(치골부)",
+          "pubic area",
+          "치골부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pubic area(치골부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: suprapubic incision(치골상절개)은 pubic area(치골부) 위쪽에서 하는 절개이다. / Original: hysterectomy(자궁절제술) 같은 거 할 때는 바로 여기에 pubic area(치골부) 있는데 위쪽에 suprapubic incision(치골상절개) 해가지고 / Evidence: suprapubic은 치골 위를 뜻하는 해부학적 용어이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0009"
+      ],
+      "prompt": "_____은 costal margin(늑골연) 아래쪽에서 하는 절개이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcostal incision(늑하절개)",
+        "accepted_answers": [
+          "subcostal incision(늑하절개)",
+          "subcostal incision",
+          "늑하절개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "subcostal incision(늑하절개)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal incision(늑하절개)은 costal margin(늑골연) 아래쪽에서 하는 절개이다. / Original: costal margin(늑골연)이 있는데 아래쪽에 한 2cm 아래쪽에 해가지고 gallbladder(담낭)를 접근하기 위해서는 이런 subcostal incision(늑하절개)을 하고 있습니다. / Evidence: subcostal은 costal margin(늑골연) 아래를 뜻하는 해부학적 위치 용어이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0009"
+      ],
+      "prompt": "subcostal incision(늑하절개)은 _____ 아래쪽에서 하는 절개이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "costal margin(늑골연)",
+        "accepted_answers": [
+          "costal margin(늑골연)",
+          "costal margin",
+          "늑골연"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "costal margin(늑골연)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal incision(늑하절개)은 costal margin(늑골연) 아래쪽에서 하는 절개이다. / Original: costal margin(늑골연)이 있는데 아래쪽에 한 2cm 아래쪽에 해가지고 gallbladder(담낭)를 접근하기 위해서는 이런 subcostal incision(늑하절개)을 하고 있습니다. / Evidence: subcostal은 costal margin(늑골연) 아래를 뜻하는 해부학적 위치 용어이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0026_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0026"
+      ],
+      "prompt": "_____는 복벽의 3개 근육층보다 안쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversalis fascia(배가로근막)",
+        "accepted_answers": [
+          "transversalis fascia(배가로근막)",
+          "transversalis fascia",
+          "배가로근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transversalis fascia(배가로근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0026",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transversalis fascia(배가로근막)는 복벽의 3개 근육층보다 안쪽에 있다. / Original: 세 개의 근육보다 더 안쪽에 위치합니다. / Evidence: transversalis fascia는 복벽 근육층의 깊은 면에 놓인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260402-1100_P0026_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260402-1100_P0026"
+      ],
+      "prompt": "transversalis fascia(배가로근막)는 복벽의 _____ 근육층보다 안쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "3개",
+        "accepted_answers": [
+          "3개"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "3개"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260402-1100.txt",
+        "prop_id": "P0026",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: transversalis fascia(배가로근막)는 복벽의 3개 근육층보다 안쪽에 있다. / Original: 세 개의 근육보다 더 안쪽에 위치합니다. / Evidence: transversalis fascia는 복벽 근육층의 깊은 면에 놓인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0025"
+      ],
+      "prompt": "_____에는 thin descending limb(얇은 하행각)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "loop of Henle(헨레고리)",
+        "accepted_answers": [
+          "loop of Henle(헨레고리)",
+          "loop of Henle",
+          "헨레고리"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "loop of Henle(헨레고리)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: loop of Henle(헨레고리)에는 thin descending limb(얇은 하행각)이 있다. / Original: loop of Henle(헨레고리) 같은 경우에는 이렇게 내려가는 thin descending limb(얇은 하행각)이 있고 / Evidence: loop of Henle(헨레고리)의 하행부는 얇은 구간을 포함한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0025_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0025"
+      ],
+      "prompt": "loop of Henle(헨레고리)에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "thin descending limb(얇은 하행각)",
+        "accepted_answers": [
+          "thin descending limb(얇은 하행각)",
+          "thin descending limb",
+          "얇은 하행각"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "thin descending limb(얇은 하행각)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: loop of Henle(헨레고리)에는 thin descending limb(얇은 하행각)이 있다. / Original: loop of Henle(헨레고리) 같은 경우에는 이렇게 내려가는 thin descending limb(얇은 하행각)이 있고 / Evidence: loop of Henle(헨레고리)의 하행부는 얇은 구간을 포함한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "prompt": "_____의 fenestrated capillary(창모세혈관)에는 diaphragm(가로막)이 없다.",
+      "answer": {
+        "format": "single_text",
+        "value": "glomerulus(사구체)",
+        "accepted_answers": [
+          "glomerulus(사구체)",
+          "glomerulus",
+          "사구체"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "glomerulus(사구체)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(사구체)의 fenestrated capillary(창모세혈관)에는 diaphragm(가로막)이 없다. / Original: glomerulus(사구체)에 있는 fenestrated capillary(창모세혈관)는 diaphragm(가로막)은 없습니다. / Evidence: glomerulus(사구체) 모세혈관의 창에는 일반적인 창막이 없다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "prompt": "glomerulus(사구체)의 _____에는 diaphragm(가로막)이 없다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fenestrated capillary(창모세혈관)",
+        "accepted_answers": [
+          "fenestrated capillary(창모세혈관)",
+          "fenestrated capillary",
+          "창모세혈관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fenestrated capillary(창모세혈관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(사구체)의 fenestrated capillary(창모세혈관)에는 diaphragm(가로막)이 없다. / Original: glomerulus(사구체)에 있는 fenestrated capillary(창모세혈관)는 diaphragm(가로막)은 없습니다. / Evidence: glomerulus(사구체) 모세혈관의 창에는 일반적인 창막이 없다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0015_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "prompt": "glomerulus(사구체)의 fenestrated capillary(창모세혈관)에는 _____이 없다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: glomerulus(사구체)의 fenestrated capillary(창모세혈관)에는 diaphragm(가로막)이 없다. / Original: glomerulus(사구체)에 있는 fenestrated capillary(창모세혈관)는 diaphragm(가로막)은 없습니다. / Evidence: glomerulus(사구체) 모세혈관의 창에는 일반적인 창막이 없다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "prompt": "_____에는 diaphragm(가로막) membrane(가로막막)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "filtration slit(여과틈새)",
+        "accepted_answers": [
+          "filtration slit(여과틈새)",
+          "filtration slit",
+          "여과틈새"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "filtration slit(여과틈새)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: filtration slit(여과틈새)에는 diaphragm(가로막) membrane(가로막막)이 있다. / Original: 이 사이에 filtration slit(여과틈새)이라는 게 있는데, 이 slit에 따로 diaphragm(가로막) membrane(가로막막)이 있어요. / Evidence: 족세포 발돌기 사이의 filtration slit(여과틈새)에는 slit diaphragm(가로막)이 존재한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "prompt": "filtration slit(여과틈새)에는 _____ membrane(가로막막)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: filtration slit(여과틈새)에는 diaphragm(가로막) membrane(가로막막)이 있다. / Original: 이 사이에 filtration slit(여과틈새)이라는 게 있는데, 이 slit에 따로 diaphragm(가로막) membrane(가로막막)이 있어요. / Evidence: 족세포 발돌기 사이의 filtration slit(여과틈새)에는 slit diaphragm(가로막)이 존재한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0016_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "prompt": "filtration slit(여과틈새)에는 diaphragm(가로막) _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "membrane(가로막막)",
+        "accepted_answers": [
+          "membrane(가로막막)",
+          "membrane",
+          "가로막막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "membrane(가로막막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: filtration slit(여과틈새)에는 diaphragm(가로막) membrane(가로막막)이 있다. / Original: 이 사이에 filtration slit(여과틈새)이라는 게 있는데, 이 slit에 따로 diaphragm(가로막) membrane(가로막막)이 있어요. / Evidence: 족세포 발돌기 사이의 filtration slit(여과틈새)에는 slit diaphragm(가로막)이 존재한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0008"
+      ],
+      "prompt": "_____에는 slit diaphragm(틈새사이막)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "filtration slit(여과틈새)",
+        "accepted_answers": [
+          "filtration slit(여과틈새)",
+          "filtration slit",
+          "여과틈새"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "filtration slit(여과틈새)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: filtration slit(여과틈새)에는 slit diaphragm(틈새사이막)이 위치한다. / Original: filtration slit(여과틈새)에는 또 뭐가 있냐면, filtration slit(여과틈새)에 있는 slit diaphragm(틈새사이막), 또는 slit membrane(틈새막)이 위치해 있습니다. / Evidence: 족세포의 filtration slit(여과틈새)는 slit diaphragm(틈새사이막)으로 가로막혀 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260413-1200_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0008"
+      ],
+      "prompt": "filtration slit(여과틈새)에는 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "slit diaphragm(틈새사이막)",
+        "accepted_answers": [
+          "slit diaphragm(틈새사이막)",
+          "slit diaphragm",
+          "틈새사이막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "slit diaphragm(틈새사이막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: filtration slit(여과틈새)에는 slit diaphragm(틈새사이막)이 위치한다. / Original: filtration slit(여과틈새)에는 또 뭐가 있냐면, filtration slit(여과틈새)에 있는 slit diaphragm(틈새사이막), 또는 slit membrane(틈새막)이 위치해 있습니다. / Evidence: 족세포의 filtration slit(여과틈새)는 slit diaphragm(틈새사이막)으로 가로막혀 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0017"
+      ],
+      "prompt": "가로막의 늑골에 붙는 부분을 _____라고 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "costal part(갈비부분)",
+        "accepted_answers": [
+          "costal part(갈비부분)",
+          "costal part",
+          "갈비부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "costal part(갈비부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 가로막의 늑골에 붙는 부분을 costal part(갈비부분)라고 한다. / Original: 이 부분을 뭐라고 하느냐 하면 costal part(갈비부분)라고 이야기를 하게 됩니다. / Evidence: 가로막의 늑골부는 표준 해부학 용어다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0002"
+      ],
+      "prompt": "_____에는 주된 구멍들 외에도 작은 추가 구멍들이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)에는 주된 구멍들 외에도 작은 추가 구멍들이 있다. / Original: diaphragm(가로막)의 구멍들을 했고, 여기에 이 구멍들뿐만 아니라 좀 작은 구멍들도 있습니다. / Evidence: diaphragm(가로막)에는 주된 열공 외에 여러 accessory opening이 존재한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "_____와 costal part(갈비부분) 사이에는 sternocostal triangle(복장갈비삼각)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "sternal part(복장부분)",
+        "accepted_answers": [
+          "sternal part(복장부분)",
+          "sternal part",
+          "복장부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "sternal part(복장부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sternal part(복장부분)와 costal part(갈비부분) 사이에는 sternocostal triangle(복장갈비삼각)이 있다. / Original: sternal part(복장부분)하고 costal part(갈비부분), 여기에는 [추정]sternocostal triangle(복장갈비삼각)이라고 합니다. / Evidence: 이 부위는 일반적으로 sternal hiatus 또는 sternocostal triangle(복장갈비삼각)로 알려진 약한 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "sternal part(복장부분)와 _____ 사이에는 sternocostal triangle(복장갈비삼각)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "costal part(갈비부분)",
+        "accepted_answers": [
+          "costal part(갈비부분)",
+          "costal part",
+          "갈비부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "costal part(갈비부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sternal part(복장부분)와 costal part(갈비부분) 사이에는 sternocostal triangle(복장갈비삼각)이 있다. / Original: sternal part(복장부분)하고 costal part(갈비부분), 여기에는 [추정]sternocostal triangle(복장갈비삼각)이라고 합니다. / Evidence: 이 부위는 일반적으로 sternal hiatus 또는 sternocostal triangle(복장갈비삼각)로 알려진 약한 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "sternal part(복장부분)와 costal part(갈비부분) 사이에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "sternocostal triangle(복장갈비삼각)",
+        "accepted_answers": [
+          "sternocostal triangle(복장갈비삼각)",
+          "sternocostal triangle",
+          "복장갈비삼각"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "sternocostal triangle(복장갈비삼각)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: sternal part(복장부분)와 costal part(갈비부분) 사이에는 sternocostal triangle(복장갈비삼각)이 있다. / Original: sternal part(복장부분)하고 costal part(갈비부분), 여기에는 [추정]sternocostal triangle(복장갈비삼각)이라고 합니다. / Evidence: 이 부위는 일반적으로 sternal hiatus 또는 sternocostal triangle(복장갈비삼각)로 알려진 약한 부위이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0008"
+      ],
+      "prompt": "_____에는 주된 구멍 3가지가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)에는 주된 구멍 3가지가 있다. / Original: diaphragm(가로막)에 주된 구멍 3가지, 그것의 주된 구조뿐만 아니라 같이 통과하는 구조물, 그리고 accessory한 그런 구멍들을 살펴봤습니다. / Evidence: diaphragm(가로막)의 주된 열공은 대정맥공, 식도열공, 대동맥열공의 3가지이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0019"
+      ],
+      "prompt": "_____에는 운동신경과 감각신경이 모두 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)에는 운동신경과 감각신경이 모두 있다. / Original: diaphragm(가로막)은 근육 부분이 있으니까 그래서 운동의 기능을 innerve하는 신경이 있고, 감각을 인지하는 그런 신경이 있습니다. / Evidence: diaphragm(가로막)은 운동과 감각을 담당하는 신경 지배를 모두 받는다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "_____는 위쪽으로 diaphragm(가로막) fascia(가로막근막), 아래쪽으로 iliac fascia(가로막근막)와 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "psoas fascia(대요근근막)",
+        "accepted_answers": [
+          "psoas fascia(대요근근막)",
+          "psoas fascia",
+          "대요근근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "psoas fascia(대요근근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas fascia(대요근근막)는 위쪽으로 diaphragm(가로막) fascia(가로막근막), 아래쪽으로 iliac fascia(가로막근막)와 연속된다. / Original: 위쪽으로 가게 되면 diaphragm(가로막) fascia(가로막근막)하고 아래쪽으로는 iliac fascia(엉덩근막) 이렇게 연속이 되는 게 psoas fascia(대요근근막)입니다. / Evidence: psoas fascia(대요근근막)은 위아래로 인접 근막과 연속된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "psoas fascia(대요근근막)는 위쪽으로 _____ fascia(가로막근막), 아래쪽으로 iliac fascia(가로막근막)와 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "diaphragm(가로막)",
+        "accepted_answers": [
+          "diaphragm(가로막)",
+          "diaphragm",
+          "가로막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "diaphragm(가로막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas fascia(대요근근막)는 위쪽으로 diaphragm(가로막) fascia(가로막근막), 아래쪽으로 iliac fascia(가로막근막)와 연속된다. / Original: 위쪽으로 가게 되면 diaphragm(가로막) fascia(가로막근막)하고 아래쪽으로는 iliac fascia(엉덩근막) 이렇게 연속이 되는 게 psoas fascia(대요근근막)입니다. / Evidence: psoas fascia(대요근근막)은 위아래로 인접 근막과 연속된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "psoas fascia(대요근근막)는 위쪽으로 diaphragm(가로막) _____, 아래쪽으로 iliac fascia(가로막근막)와 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fascia(가로막근막)",
+        "accepted_answers": [
+          "fascia(가로막근막)",
+          "fascia",
+          "가로막근막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fascia(가로막근막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: psoas fascia(대요근근막)는 위쪽으로 diaphragm(가로막) fascia(가로막근막), 아래쪽으로 iliac fascia(가로막근막)와 연속된다. / Original: 위쪽으로 가게 되면 diaphragm(가로막) fascia(가로막근막)하고 아래쪽으로는 iliac fascia(엉덩근막) 이렇게 연속이 되는 게 psoas fascia(대요근근막)입니다. / Evidence: psoas fascia(대요근근막)은 위아래로 인접 근막과 연속된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0009"
+      ],
+      "prompt": "_____은 12번째 rib(갈비뼈)과 L1-L4의 transverse process(가로돌기)에 정지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "quadratus lumborum(허리네모근)",
+        "accepted_answers": [
+          "quadratus lumborum(허리네모근)",
+          "quadratus lumborum",
+          "허리네모근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "quadratus lumborum(허리네모근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)과 L1-L4의 transverse process(가로돌기)에 정지한다. / Original: quadratus lumborum(허리네모근) 같은 경우에는 이거는 이제 insertion(정지)을 보면 이게 12번째 rib(갈비뼈)하고 그다음에 L1, L4에 있는 transverse process(가로돌기)가 있는데 insertion(정지)을 하게 되고 / Evidence: quadratus lumborum(허리네모근)의 표준 insertion(정지)는 12번째 rib(갈비뼈)와 상부 요추 횡돌기들이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0009"
+      ],
+      "prompt": "quadratus lumborum(허리네모근)은 12번째 _____과 L1-L4의 transverse process(가로돌기)에 정지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rib(갈비뼈)",
+        "accepted_answers": [
+          "rib(갈비뼈)",
+          "rib",
+          "갈비뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rib(갈비뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)과 L1-L4의 transverse process(가로돌기)에 정지한다. / Original: quadratus lumborum(허리네모근) 같은 경우에는 이거는 이제 insertion(정지)을 보면 이게 12번째 rib(갈비뼈)하고 그다음에 L1, L4에 있는 transverse process(가로돌기)가 있는데 insertion(정지)을 하게 되고 / Evidence: quadratus lumborum(허리네모근)의 표준 insertion(정지)는 12번째 rib(갈비뼈)와 상부 요추 횡돌기들이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0009"
+      ],
+      "prompt": "quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)과 L1-L4의 _____에 정지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transverse process(가로돌기)",
+        "accepted_answers": [
+          "transverse process(가로돌기)",
+          "transverse process",
+          "가로돌기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "transverse process(가로돌기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0009",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)과 L1-L4의 transverse process(가로돌기)에 정지한다. / Original: quadratus lumborum(허리네모근) 같은 경우에는 이거는 이제 insertion(정지)을 보면 이게 12번째 rib(갈비뼈)하고 그다음에 L1, L4에 있는 transverse process(가로돌기)가 있는데 insertion(정지)을 하게 되고 / Evidence: quadratus lumborum(허리네모근)의 표준 insertion(정지)는 12번째 rib(갈비뼈)와 상부 요추 횡돌기들이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "_____은 12번째 rib(갈비뼈)을 하강시키고 고정하는 데 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "quadratus lumborum(허리네모근)",
+        "accepted_answers": [
+          "quadratus lumborum(허리네모근)",
+          "quadratus lumborum",
+          "허리네모근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "quadratus lumborum(허리네모근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)을 하강시키고 고정하는 데 관여한다. / Original: rib(갈비뼈)을, 열두 번째 rib(갈비뼈)을 내려주고 고정을 시켜 주는 역할 / Evidence: quadratus lumborum은 12번째 늑골을 고정하고 하강시키는 작용을 한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "prompt": "quadratus lumborum(허리네모근)은 12번째 _____을 하강시키고 고정하는 데 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "rib(갈비뼈)",
+        "accepted_answers": [
+          "rib(갈비뼈)",
+          "rib",
+          "갈비뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "rib(갈비뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: quadratus lumborum(허리네모근)은 12번째 rib(갈비뼈)을 하강시키고 고정하는 데 관여한다. / Original: rib(갈비뼈)을, 열두 번째 rib(갈비뼈)을 내려주고 고정을 시켜 주는 역할 / Evidence: quadratus lumborum은 12번째 늑골을 고정하고 하강시키는 작용을 한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "_____은 L1(1번 허리뼈)의 윗모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "celiac trunk(복강동맥)",
+        "accepted_answers": [
+          "celiac trunk(복강동맥)",
+          "celiac trunk",
+          "복강동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "celiac trunk(복강동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 L1(1번 허리뼈)의 윗모서리 수준에서 분지하는 경우가 많다. / Original: L1(1번 허리뼈)의 윗모서리인데, L1(1번 허리뼈)의 윗모서리가 있는 데에서 분지하는 경우가 많습니다. / Evidence: 복강동맥의 분지 수준은 L1 상연으로 흔히 기술된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "celiac trunk(복강동맥)은 _____의 윗모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L1(1번 허리뼈)",
+        "accepted_answers": [
+          "L1(1번 허리뼈)",
+          "L1",
+          "1번 허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L1(1번 허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 L1(1번 허리뼈)의 윗모서리 수준에서 분지하는 경우가 많다. / Original: L1(1번 허리뼈)의 윗모서리인데, L1(1번 허리뼈)의 윗모서리가 있는 데에서 분지하는 경우가 많습니다. / Evidence: 복강동맥의 분지 수준은 L1 상연으로 흔히 기술된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0003"
+      ],
+      "prompt": "celiac trunk(복강동맥)은 L1(_____ 허리뼈)의 윗모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "1번",
+        "accepted_answers": [
+          "1번"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "1번"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: celiac trunk(복강동맥)은 L1(1번 허리뼈)의 윗모서리 수준에서 분지하는 경우가 많다. / Original: L1(1번 허리뼈)의 윗모서리인데, L1(1번 허리뼈)의 윗모서리가 있는 데에서 분지하는 경우가 많습니다. / Evidence: 복강동맥의 분지 수준은 L1 상연으로 흔히 기술된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "_____는 L1(1번 허리뼈)의 아래 모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Superior mesenteric artery(위창자간막동맥)",
+        "accepted_answers": [
+          "Superior mesenteric artery(위창자간막동맥)",
+          "Superior mesenteric artery",
+          "위창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Superior mesenteric artery(위창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Superior mesenteric artery(위창자간막동맥)는 L1(1번 허리뼈)의 아래 모서리 수준에서 분지하는 경우가 많다. / Original: Superior mesenteric artery(위창자간막동맥)도 L1(1번 허리뼈)인데, 얘는 L1(1번 허리뼈)의 아래 모서리에서 분지하는 경우가 많습니다. / Evidence: Superior mesenteric artery(위창자간막동맥)은 보통 L1 하연에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "Superior mesenteric artery(위창자간막동맥)는 _____의 아래 모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L1(1번 허리뼈)",
+        "accepted_answers": [
+          "L1(1번 허리뼈)",
+          "L1",
+          "1번 허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L1(1번 허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Superior mesenteric artery(위창자간막동맥)는 L1(1번 허리뼈)의 아래 모서리 수준에서 분지하는 경우가 많다. / Original: Superior mesenteric artery(위창자간막동맥)도 L1(1번 허리뼈)인데, 얘는 L1(1번 허리뼈)의 아래 모서리에서 분지하는 경우가 많습니다. / Evidence: Superior mesenteric artery(위창자간막동맥)은 보통 L1 하연에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0004"
+      ],
+      "prompt": "Superior mesenteric artery(위창자간막동맥)는 L1(_____ 허리뼈)의 아래 모서리 수준에서 분지하는 경우가 많다.",
+      "answer": {
+        "format": "single_text",
+        "value": "1번",
+        "accepted_answers": [
+          "1번"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "1번"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 10.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: Superior mesenteric artery(위창자간막동맥)는 L1(1번 허리뼈)의 아래 모서리 수준에서 분지하는 경우가 많다. / Original: Superior mesenteric artery(위창자간막동맥)도 L1(1번 허리뼈)인데, 얘는 L1(1번 허리뼈)의 아래 모서리에서 분지하는 경우가 많습니다. / Evidence: Superior mesenteric artery(위창자간막동맥)은 보통 L1 하연에서 대동맥에서 분지한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0005"
+      ],
+      "prompt": "_____는 보통 L3(3번 허리뼈) 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "inferior mesenteric artery(아래창자간막동맥)",
+        "accepted_answers": [
+          "inferior mesenteric artery(아래창자간막동맥)",
+          "inferior mesenteric artery",
+          "아래창자간막동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "inferior mesenteric artery(아래창자간막동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior mesenteric artery(아래창자간막동맥)는 보통 L3(3번 허리뼈) 높이에서 분지한다. / Original: inferior mesenteric artery(아래창자간막동맥) 하면 요거는 보통 L3(3번 허리뼈) 높이다 / Evidence: inferior mesenteric artery(아래창자간막동맥)의 일반적 분지 수준은 L3이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0005"
+      ],
+      "prompt": "inferior mesenteric artery(아래창자간막동맥)는 보통 _____ 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L3(3번 허리뼈)",
+        "accepted_answers": [
+          "L3(3번 허리뼈)",
+          "L3",
+          "3번 허리뼈"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L3(3번 허리뼈)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior mesenteric artery(아래창자간막동맥)는 보통 L3(3번 허리뼈) 높이에서 분지한다. / Original: inferior mesenteric artery(아래창자간막동맥) 하면 요거는 보통 L3(3번 허리뼈) 높이다 / Evidence: inferior mesenteric artery(아래창자간막동맥)의 일반적 분지 수준은 L3이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0005"
+      ],
+      "prompt": "inferior mesenteric artery(아래창자간막동맥)는 보통 L3(_____ 허리뼈) 높이에서 분지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "3번",
+        "accepted_answers": [
+          "3번"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "3번"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: inferior mesenteric artery(아래창자간막동맥)는 보통 L3(3번 허리뼈) 높이에서 분지한다. / Original: inferior mesenteric artery(아래창자간막동맥) 하면 요거는 보통 L3(3번 허리뼈) 높이다 / Evidence: inferior mesenteric artery(아래창자간막동맥)의 일반적 분지 수준은 L3이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0016"
+      ],
+      "prompt": "_____는 한 쌍이 아니라 단일 혈관이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "median sacral artery(정중천추동맥)",
+        "accepted_answers": [
+          "median sacral artery(정중천추동맥)",
+          "median sacral artery",
+          "정중천추동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "median sacral artery(정중천추동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: median sacral artery(정중천추동맥)는 한 쌍이 아니라 단일 혈관이다. / Original: 마지막에는 여기는 한 쌍이 아니고 하나로 내려오는 median sacral artery(정중천추동맥) / Evidence: median sacral artery(정중천추동맥)은 복대동맥의 정중선 단일 가지로 본다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0015"
+      ],
+      "prompt": "_____은 common iliac vein(총장골정맥)으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "iliolumbar vein(장요정맥)",
+        "accepted_answers": [
+          "iliolumbar vein(장요정맥)",
+          "iliolumbar vein",
+          "장요정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "iliolumbar vein(장요정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0015",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliolumbar vein(장요정맥)은 common iliac vein(총장골정맥)으로 들어간다. / Original: iliolumbar vein(장요정맥) 자체는 common iliac vein(총장골정맥)을 그려줍니다. / Evidence: iliolumbar vein(장요정맥)은 보통 내장골정맥 또는 총장골정맥계로 배출된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p008_recording_20260415-1400_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0015"
+      ],
+      "prompt": "iliolumbar vein(장요정맥)은 _____으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "common iliac vein(총장골정맥)",
+        "accepted_answers": [
+          "common iliac vein(총장골정맥)",
+          "common iliac vein",
+          "총장골정맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "common iliac vein(총장골정맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0015",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: iliolumbar vein(장요정맥)은 common iliac vein(총장골정맥)으로 들어간다. / Original: iliolumbar vein(장요정맥) 자체는 common iliac vein(총장골정맥)을 그려줍니다. / Evidence: iliolumbar vein(장요정맥)은 보통 내장골정맥 또는 총장골정맥계로 배출된다. / Page match: approximate keyword match against existing page text."
+      }
     }
   ],
   "summary": {
-    "question_count": 22,
+    "question_count": 104,
     "question_type_count": {
-      "fill_blank": 15,
+      "fill_blank": 97,
       "image_grounded_fill_blank": 7
     },
     "question_focus_count": {
       "course_exam_style_provisional": 15,
-      "visual_relation_understanding": 7
+      "visual_relation_understanding": 7,
+      "recording_proposition_review": 82
     }
   },
   "blocked_image_question_reasons": [],
@@ -638,7 +3419,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -646,7 +3427,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -654,7 +3435,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -662,7 +3443,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -670,7 +3451,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -678,7 +3459,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -686,7 +3467,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -694,7 +3475,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -702,119 +3483,119 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json"
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json"
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json"
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json"
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json"
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json"
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json"
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json"
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json"
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json"
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json"
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json"
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json"
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json"
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json"
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json"
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json"
@@ -828,14 +3609,14 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json"
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json"
@@ -870,21 +3651,21 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json"
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json"
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json"
@@ -898,14 +3679,14 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json"
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json"
@@ -933,224 +3714,224 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json"
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json"
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json"
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json"
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json"
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json"
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json"
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json"
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json"
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json"
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json"
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json"
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json"
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json"
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json"
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json"
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json"
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -1164,42 +3945,42 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json"
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json"
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json"
@@ -1234,7 +4015,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json"
@@ -1255,77 +4036,77 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json"
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json"
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json"
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json"
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json"
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -1339,7 +4120,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -1353,49 +4134,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -1430,7 +4211,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -1444,28 +4225,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -1479,7 +4260,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -1514,21 +4295,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1549,7 +4330,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1675,7 +4456,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1787,7 +4568,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1836,7 +4617,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1899,7 +4680,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"

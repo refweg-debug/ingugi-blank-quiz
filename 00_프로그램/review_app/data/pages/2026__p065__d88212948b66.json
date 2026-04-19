@@ -150,17 +150,2500 @@
         "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
         "full": "시각 구성요소 원문: Histology of stomach"
       }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0026_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0026"
+      ],
+      "prompt": "_____ 내부는 fundus part(바닥 부분), body part(몸통 부분), pyloric part(유문 부분)으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "stomach(위)",
+        "accepted_answers": [
+          "stomach(위)",
+          "stomach",
+          "위"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "stomach(위)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260407-1500_chunk_005",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위) 내부는 fundus part(바닥 부분), body part(몸통 부분), pyloric part(유문 부분)으로 나뉜다. / Original: stomach(위)의 histology(조직학)[추정] 앞서 해부학적으로는 이 stomach(위) 내부는 fundus part(바닥 부분) 그리고 fundus part(바닥 부분), body part(몸통 부분) 그리고 pyloric part(유문 부분) / Evidence: 위는 해부학적으로 분문부, 저부, 체부, 유문부 등으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0026_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0026"
+      ],
+      "prompt": "stomach(위) 내부는 _____, body part(몸통 부분), pyloric part(유문 부분)으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus part(바닥 부분)",
+        "accepted_answers": [
+          "fundus part(바닥 부분)",
+          "fundus part",
+          "바닥 부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus part(바닥 부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260407-1500_chunk_005",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위) 내부는 fundus part(바닥 부분), body part(몸통 부분), pyloric part(유문 부분)으로 나뉜다. / Original: stomach(위)의 histology(조직학)[추정] 앞서 해부학적으로는 이 stomach(위) 내부는 fundus part(바닥 부분) 그리고 fundus part(바닥 부분), body part(몸통 부분) 그리고 pyloric part(유문 부분) / Evidence: 위는 해부학적으로 분문부, 저부, 체부, 유문부 등으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0026_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0026"
+      ],
+      "prompt": "stomach(위) 내부는 fundus part(바닥 부분), _____, pyloric part(유문 부분)으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "body part(몸통 부분)",
+        "accepted_answers": [
+          "body part(몸통 부분)",
+          "body part",
+          "몸통 부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "body part(몸통 부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0026",
+        "confidence": "높음 ## 20260407-1500_chunk_005",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: stomach(위) 내부는 fundus part(바닥 부분), body part(몸통 부분), pyloric part(유문 부분)으로 나뉜다. / Original: stomach(위)의 histology(조직학)[추정] 앞서 해부학적으로는 이 stomach(위) 내부는 fundus part(바닥 부분) 그리고 fundus part(바닥 부분), body part(몸통 부분) 그리고 pyloric part(유문 부분) / Evidence: 위는 해부학적으로 분문부, 저부, 체부, 유문부 등으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "_____은 mucosa(점막)과 submucosa(점막하층)이 접혀서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric fold(위주름)",
+        "accepted_answers": [
+          "gastric fold(위주름)",
+          "gastric fold",
+          "위주름"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric fold(위주름)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric fold(위주름)은 mucosa(점막)과 submucosa(점막하층)이 접혀서 형성된다. / Original: 이 gastric fold(위주름)는 mucosa(점막)하고 submucosa(점막하층) 부분에 의해 가지고 안으로 들어가가지고 위의 접힘을 생기는데, / Evidence: 위의 rugae는 mucosa(점막)과 submucosa(점막하층)의 주름이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "gastric fold(위주름)은 _____과 submucosa(점막하층)이 접혀서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mucosa(점막)",
+        "accepted_answers": [
+          "mucosa(점막)",
+          "mucosa",
+          "점막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mucosa(점막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric fold(위주름)은 mucosa(점막)과 submucosa(점막하층)이 접혀서 형성된다. / Original: 이 gastric fold(위주름)는 mucosa(점막)하고 submucosa(점막하층) 부분에 의해 가지고 안으로 들어가가지고 위의 접힘을 생기는데, / Evidence: 위의 rugae는 mucosa(점막)과 submucosa(점막하층)의 주름이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "gastric fold(위주름)은 mucosa(점막)과 _____이 접혀서 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "submucosa(점막하층)",
+        "accepted_answers": [
+          "submucosa(점막하층)",
+          "submucosa",
+          "점막하층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "submucosa(점막하층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 6.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric fold(위주름)은 mucosa(점막)과 submucosa(점막하층)이 접혀서 형성된다. / Original: 이 gastric fold(위주름)는 mucosa(점막)하고 submucosa(점막하층) 부분에 의해 가지고 안으로 들어가가지고 위의 접힘을 생기는데, / Evidence: 위의 rugae는 mucosa(점막)과 submucosa(점막하층)의 주름이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0011"
+      ],
+      "prompt": "_____에는 gastric glands(위샘)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus(바닥부분)",
+        "accepted_answers": [
+          "fundus(바닥부분)",
+          "fundus",
+          "바닥부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus(바닥부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)에는 gastric glands(위샘)가 있다. / Original: 이 fundus(바닥부분)에 존재하고 있고, 바닥쪽에 gastric glands(위샘)가 있습니다. / Evidence: 위저부에는 gastric glands(위샘)이 분포한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0011"
+      ],
+      "prompt": "fundus(바닥부분)에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric glands(위샘)",
+        "accepted_answers": [
+          "gastric glands(위샘)",
+          "gastric glands",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric glands(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0011",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)에는 gastric glands(위샘)가 있다. / Original: 이 fundus(바닥부분)에 존재하고 있고, 바닥쪽에 gastric glands(위샘)가 있습니다. / Evidence: 위저부에는 gastric glands(위샘)이 분포한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0012"
+      ],
+      "prompt": "_____은 주로 lamina propria(고유판)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric glands(위샘)",
+        "accepted_answers": [
+          "gastric glands(위샘)",
+          "gastric glands",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric glands(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric glands(위샘)은 주로 lamina propria(고유판)에 위치한다. / Original: gastric glands(위샘)가 있고, glands(샘)는 대부분이 lamina propria(고유판)에 있다고 하죠. / Evidence: gastric glands(위샘)은 점막의 lamina propria(고유판) 안에 자리한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0012"
+      ],
+      "prompt": "gastric glands(위샘)은 주로 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lamina propria(고유판)",
+        "accepted_answers": [
+          "lamina propria(고유판)",
+          "lamina propria",
+          "고유판"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lamina propria(고유판)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0012",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric glands(위샘)은 주로 lamina propria(고유판)에 위치한다. / Original: gastric glands(위샘)가 있고, glands(샘)는 대부분이 lamina propria(고유판)에 있다고 하죠. / Evidence: gastric glands(위샘)은 점막의 lamina propria(고유판) 안에 자리한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0013"
+      ],
+      "prompt": "_____의 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus(바닥부분)",
+        "accepted_answers": [
+          "fundus(바닥부분)",
+          "fundus",
+          "바닥부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus(바닥부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)의 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Original: fundus(바닥부분)에서 제일 바깥층에 있는 epithelium(상피)은 simple columnar epithelium(단층원주상피)으로 되어 있습니다. / Evidence: 위 점막의 표면 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0013"
+      ],
+      "prompt": "fundus(바닥부분)의 _____는 simple columnar epithelium(단층원주상피)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "epithelium(상피)",
+        "accepted_answers": [
+          "epithelium(상피)",
+          "epithelium",
+          "상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "epithelium(상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)의 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Original: fundus(바닥부분)에서 제일 바깥층에 있는 epithelium(상피)은 simple columnar epithelium(단층원주상피)으로 되어 있습니다. / Evidence: 위 점막의 표면 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0013"
+      ],
+      "prompt": "fundus(바닥부분)의 epithelium(상피)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple columnar epithelium(단층원주상피)",
+        "accepted_answers": [
+          "simple columnar epithelium(단층원주상피)",
+          "simple columnar epithelium",
+          "단층원주상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple columnar epithelium(단층원주상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0013",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)의 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Original: fundus(바닥부분)에서 제일 바깥층에 있는 epithelium(상피)은 simple columnar epithelium(단층원주상피)으로 되어 있습니다. / Evidence: 위 점막의 표면 epithelium(상피)는 simple columnar epithelium(단층원주상피)이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0014"
+      ],
+      "prompt": "위의 _____ 대부분은 surface mucous cells(표면점액세포)로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple columnar epithelium(단층원주상피)",
+        "accepted_answers": [
+          "simple columnar epithelium(단층원주상피)",
+          "simple columnar epithelium",
+          "단층원주상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple columnar epithelium(단층원주상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위의 simple columnar epithelium(단층원주상피) 대부분은 surface mucous cells(표면점액세포)로 이루어진다. / Original: 이때 이 simple columnar epithelium(단층원주상피)을 형성하는 대부분이 surface mucous cells(표면점액세포)라는 게 있어가지고, / Evidence: 위 표면상피는 surface mucous cells(표면점액세포)가 주된 세포이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0014_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0014"
+      ],
+      "prompt": "위의 simple columnar epithelium(단층원주상피) 대부분은 _____로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "surface mucous cells(표면점액세포)",
+        "accepted_answers": [
+          "surface mucous cells(표면점액세포)",
+          "surface mucous cells",
+          "표면점액세포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "surface mucous cells(표면점액세포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0014",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위의 simple columnar epithelium(단층원주상피) 대부분은 surface mucous cells(표면점액세포)로 이루어진다. / Original: 이때 이 simple columnar epithelium(단층원주상피)을 형성하는 대부분이 surface mucous cells(표면점액세포)라는 게 있어가지고, / Evidence: 위 표면상피는 surface mucous cells(표면점액세포)가 주된 세포이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "_____가 simple columnar epithelium(단층원주상피)를 주로 구성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "surface mucous cells(표면점액세포)",
+        "accepted_answers": [
+          "surface mucous cells(표면점액세포)",
+          "surface mucous cells",
+          "표면점액세포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "surface mucous cells(표면점액세포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: surface mucous cells(표면점액세포)가 simple columnar epithelium(단층원주상피)를 주로 구성한다. / Original: 얘네들이 주로 simple columnar epithelium(단층원주상피)을 구성을 하고 있습니다. / Evidence: 위 표면상피의 주된 세포는 점액분비세포이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "surface mucous cells(표면점액세포)가 _____를 주로 구성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple columnar epithelium(단층원주상피)",
+        "accepted_answers": [
+          "simple columnar epithelium(단층원주상피)",
+          "simple columnar epithelium",
+          "단층원주상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple columnar epithelium(단층원주상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: surface mucous cells(표면점액세포)가 simple columnar epithelium(단층원주상피)를 주로 구성한다. / Original: 얘네들이 주로 simple columnar epithelium(단층원주상피)을 구성을 하고 있습니다. / Evidence: 위 표면상피의 주된 세포는 점액분비세포이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0016"
+      ],
+      "prompt": "_____에는 많은 gastric glands(위샘)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lamina propria(고유판)",
+        "accepted_answers": [
+          "lamina propria(고유판)",
+          "lamina propria",
+          "고유판"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lamina propria(고유판)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lamina propria(고유판)에는 많은 gastric glands(위샘)가 있다. / Original: 그 다음에 lamina propria(고유판)에는 이런 아주 많은 gastric glands(위샘)를 가지고 있습니다. / Evidence: gastric glands(위샘)은 점막의 lamina propria(고유판)에 분포한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0016"
+      ],
+      "prompt": "lamina propria(고유판)에는 많은 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric glands(위샘)",
+        "accepted_answers": [
+          "gastric glands(위샘)",
+          "gastric glands",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric glands(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0016",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lamina propria(고유판)에는 많은 gastric glands(위샘)가 있다. / Original: 그 다음에 lamina propria(고유판)에는 이런 아주 많은 gastric glands(위샘)를 가지고 있습니다. / Evidence: gastric glands(위샘)은 점막의 lamina propria(고유판)에 분포한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "_____은 형태와 위치에 따라 cardiac glands(분문샘)와 pyloric glands(날문샘)로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric glands(위샘)",
+        "accepted_answers": [
+          "gastric glands(위샘)",
+          "gastric glands",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric glands(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric glands(위샘)은 형태와 위치에 따라 cardiac glands(분문샘)와 pyloric glands(날문샘)로 구분된다. / Original: gastric glands(위샘) 형태에 따라서 나중에 이것이 cardiac glands(분문샘), 그리고 pyloric glands(날문샘), / Evidence: gastric glands(위샘)은 분문부와 날문부에서 각각 cardiac glands(분문샘)과 pyloric glands(날문샘)으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0017_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "gastric glands(위샘)은 형태와 위치에 따라 _____와 pyloric glands(날문샘)로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cardiac glands(분문샘)",
+        "accepted_answers": [
+          "cardiac glands(분문샘)",
+          "cardiac glands",
+          "분문샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cardiac glands(분문샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric glands(위샘)은 형태와 위치에 따라 cardiac glands(분문샘)와 pyloric glands(날문샘)로 구분된다. / Original: gastric glands(위샘) 형태에 따라서 나중에 이것이 cardiac glands(분문샘), 그리고 pyloric glands(날문샘), / Evidence: gastric glands(위샘)은 분문부와 날문부에서 각각 cardiac glands(분문샘)과 pyloric glands(날문샘)으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0017_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0017"
+      ],
+      "prompt": "gastric glands(위샘)은 형태와 위치에 따라 cardiac glands(분문샘)와 _____로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pyloric glands(날문샘)",
+        "accepted_answers": [
+          "pyloric glands(날문샘)",
+          "pyloric glands",
+          "날문샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pyloric glands(날문샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0017",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastric glands(위샘)은 형태와 위치에 따라 cardiac glands(분문샘)와 pyloric glands(날문샘)로 구분된다. / Original: gastric glands(위샘) 형태에 따라서 나중에 이것이 cardiac glands(분문샘), 그리고 pyloric glands(날문샘), / Evidence: gastric glands(위샘)은 분문부와 날문부에서 각각 cardiac glands(분문샘)과 pyloric glands(날문샘)으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0018_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "_____와 body(몸통부분)의 샘은 gastric glands(위샘)라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus(바닥부분)",
+        "accepted_answers": [
+          "fundus(바닥부분)",
+          "fundus",
+          "바닥부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus(바닥부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)와 body(몸통부분)의 샘은 gastric glands(위샘)라고 부른다. / Original: fundus(바닥부분)하고 body(몸통부분)에 있는 거는 그냥 gastric glands(위샘)라고 이야기를 하게 됩니다. / Evidence: 위저부와 위체부의 샘은 통상 fundic glands 또는 gastric glands(위샘)로 부른다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0018_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "fundus(바닥부분)와 _____의 샘은 gastric glands(위샘)라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "body(몸통부분)",
+        "accepted_answers": [
+          "body(몸통부분)",
+          "body",
+          "몸통부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "body(몸통부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)와 body(몸통부분)의 샘은 gastric glands(위샘)라고 부른다. / Original: fundus(바닥부분)하고 body(몸통부분)에 있는 거는 그냥 gastric glands(위샘)라고 이야기를 하게 됩니다. / Evidence: 위저부와 위체부의 샘은 통상 fundic glands 또는 gastric glands(위샘)로 부른다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0018_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0018"
+      ],
+      "prompt": "fundus(바닥부분)와 body(몸통부분)의 샘은 _____라고 부른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric glands(위샘)",
+        "accepted_answers": [
+          "gastric glands(위샘)",
+          "gastric glands",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric glands(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0018",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(바닥부분)와 body(몸통부분)의 샘은 gastric glands(위샘)라고 부른다. / Original: fundus(바닥부분)하고 body(몸통부분)에 있는 거는 그냥 gastric glands(위샘)라고 이야기를 하게 됩니다. / Evidence: 위저부와 위체부의 샘은 통상 fundic glands 또는 gastric glands(위샘)로 부른다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0023"
+      ],
+      "prompt": "위의 _____는 내측 oblique layer(빗층), 중간 circular layer(환상층), 외측 longitudinal layer(세로층)로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "muscularis externa(근육층)",
+        "accepted_answers": [
+          "muscularis externa(근육층)",
+          "muscularis externa",
+          "근육층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "muscularis externa(근육층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위의 muscularis externa(근육층)는 내측 oblique layer(빗층), 중간 circular layer(환상층), 외측 longitudinal layer(세로층)로 이루어진다. / Original: 제일 안쪽층에 oblique layer(빗층), 중간층에는 circular layer(환상층), 제일 바깥층엔 longitudinal layer(세로층) 요렇게 되어 있습니다. / Evidence: 위 근육층의 표준 배열은 3층 구조이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0023_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0023"
+      ],
+      "prompt": "위의 muscularis externa(근육층)는 내측 _____, 중간 circular layer(환상층), 외측 longitudinal layer(세로층)로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "oblique layer(빗층)",
+        "accepted_answers": [
+          "oblique layer(빗층)",
+          "oblique layer",
+          "빗층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "oblique layer(빗층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위의 muscularis externa(근육층)는 내측 oblique layer(빗층), 중간 circular layer(환상층), 외측 longitudinal layer(세로층)로 이루어진다. / Original: 제일 안쪽층에 oblique layer(빗층), 중간층에는 circular layer(환상층), 제일 바깥층엔 longitudinal layer(세로층) 요렇게 되어 있습니다. / Evidence: 위 근육층의 표준 배열은 3층 구조이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0023_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0023"
+      ],
+      "prompt": "위의 muscularis externa(근육층)는 내측 oblique layer(빗층), 중간 _____, 외측 longitudinal layer(세로층)로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "circular layer(환상층)",
+        "accepted_answers": [
+          "circular layer(환상층)",
+          "circular layer",
+          "환상층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "circular layer(환상층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0023",
+        "confidence": "높음",
+        "page_match_score": 12.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 위의 muscularis externa(근육층)는 내측 oblique layer(빗층), 중간 circular layer(환상층), 외측 longitudinal layer(세로층)로 이루어진다. / Original: 제일 안쪽층에 oblique layer(빗층), 중간층에는 circular layer(환상층), 제일 바깥층엔 longitudinal layer(세로층) 요렇게 되어 있습니다. / Evidence: 위 근육층의 표준 배열은 3층 구조이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "_____는 circular layer(환상층)와 longitudinal layer(세로층) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "myenteric plexus(근육사이신경얼기)",
+        "accepted_answers": [
+          "myenteric plexus(근육사이신경얼기)",
+          "myenteric plexus",
+          "근육사이신경얼기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "myenteric plexus(근육사이신경얼기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 circular layer(환상층)와 longitudinal layer(세로층) 사이에 위치한다. / Original: 그리고 이 muscularis externa(근육층)에 있는 myenteric plexus(근육사이신경얼기)는 circular하고 longitudinal layer(세로층) 사이에 위치를 하고 있습니다. / Evidence: myenteric plexus(근육사이신경얼기)는 muscularis externa(근육층)의 두 층 사이에 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "myenteric plexus(근육사이신경얼기)는 _____와 longitudinal layer(세로층) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "circular layer(환상층)",
+        "accepted_answers": [
+          "circular layer(환상층)",
+          "circular layer",
+          "환상층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "circular layer(환상층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 circular layer(환상층)와 longitudinal layer(세로층) 사이에 위치한다. / Original: 그리고 이 muscularis externa(근육층)에 있는 myenteric plexus(근육사이신경얼기)는 circular하고 longitudinal layer(세로층) 사이에 위치를 하고 있습니다. / Evidence: myenteric plexus(근육사이신경얼기)는 muscularis externa(근육층)의 두 층 사이에 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "myenteric plexus(근육사이신경얼기)는 circular layer(환상층)와 _____ 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "longitudinal layer(세로층)",
+        "accepted_answers": [
+          "longitudinal layer(세로층)",
+          "longitudinal layer",
+          "세로층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "longitudinal layer(세로층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: myenteric plexus(근육사이신경얼기)는 circular layer(환상층)와 longitudinal layer(세로층) 사이에 위치한다. / Original: 그리고 이 muscularis externa(근육층)에 있는 myenteric plexus(근육사이신경얼기)는 circular하고 longitudinal layer(세로층) 사이에 위치를 하고 있습니다. / Evidence: myenteric plexus(근육사이신경얼기)는 muscularis externa(근육층)의 두 층 사이에 있다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0025_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0025"
+      ],
+      "prompt": "_____는 circular layer(환상층)의 비후로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pyloric sphincter(날문괄약근)",
+        "accepted_answers": [
+          "pyloric sphincter(날문괄약근)",
+          "pyloric sphincter",
+          "날문괄약근"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pyloric sphincter(날문괄약근)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyloric sphincter(날문괄약근)는 circular layer(환상층)의 비후로 형성된다. / Original: 이 중에서 circular layer(환상층)가 나중에 pyloric sphincter(날문괄약근)를 형성하게 됩니다. / Evidence: pyloric sphincter(날문괄약근)은 위의 환상근이 두꺼워져 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0025_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0025"
+      ],
+      "prompt": "pyloric sphincter(날문괄약근)는 _____의 비후로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "circular layer(환상층)",
+        "accepted_answers": [
+          "circular layer(환상층)",
+          "circular layer",
+          "환상층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "circular layer(환상층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0025",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyloric sphincter(날문괄약근)는 circular layer(환상층)의 비후로 형성된다. / Original: 이 중에서 circular layer(환상층)가 나중에 pyloric sphincter(날문괄약근)를 형성하게 됩니다. / Evidence: pyloric sphincter(날문괄약근)은 위의 환상근이 두꺼워져 형성된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0029_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0029"
+      ],
+      "prompt": "식도의 상피는 위에서 _____으로 바뀐다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple columnar epithelium(단층원주상피)",
+        "accepted_answers": [
+          "simple columnar epithelium(단층원주상피)",
+          "simple columnar epithelium",
+          "단층원주상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple columnar epithelium(단층원주상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0029",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 식도의 상피는 위에서 simple columnar epithelium(단층원주상피)으로 바뀐다. / Original: 이 식도가 위로 바뀌면서 simple columnar epithelium(단층원주상피)으로 이렇게 바뀌게 됩니다. / Evidence: 위의 표면상피는 simple columnar epithelium(단층원주상피)이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0001"
+      ],
+      "prompt": "_____은 위 점막의 표면에 있는 함몰 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pit(위샘오목)",
+        "accepted_answers": [
+          "pit(위샘오목)",
+          "pit",
+          "위샘오목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pit(위샘오목)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0001",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pit(위샘오목)은 위 점막의 표면에 있는 함몰 구조이다. / Original: pit(위샘오목)이 있는 구멍처럼 / Evidence: pit(위샘오목)(gastric pit)은 위샘으로 이어지는 점막의 표면 함몰이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "_____은 gastric gland(위샘)의 일부이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "isthmus neck(협부목)",
+        "accepted_answers": [
+          "isthmus neck(협부목)",
+          "isthmus neck",
+          "협부목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "isthmus neck(협부목)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: isthmus neck(협부목)은 gastric gland(위샘)의 일부이다. / Original: 여기 뭐 isthmus neck(협부목) 부분을 따로 해놨는데, 이것은 gastric gland(위샘)에 포함을 하시면 됩니다. / Evidence: gastric gland(위샘)은 보통 isthmus, neck, base 등으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "isthmus neck(협부목)은 _____의 일부이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric gland(위샘)",
+        "accepted_answers": [
+          "gastric gland(위샘)",
+          "gastric gland",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric gland(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: isthmus neck(협부목)은 gastric gland(위샘)의 일부이다. / Original: 여기 뭐 isthmus neck(협부목) 부분을 따로 해놨는데, 이것은 gastric gland(위샘)에 포함을 하시면 됩니다. / Evidence: gastric gland(위샘)은 보통 isthmus, neck, base 등으로 구분된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0005"
+      ],
+      "prompt": "_____은 simple columnar epithelium(단층원주상피)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "surface mucous cell(표면점액세포)",
+        "accepted_answers": [
+          "surface mucous cell(표면점액세포)",
+          "surface mucous cell",
+          "표면점액세포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "surface mucous cell(표면점액세포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: surface mucous cell(표면점액세포)은 simple columnar epithelium(단층원주상피)을 이룬다. / Original: 지금 이 simple columnar epithelium(단층원주상피)로 형성하고 있는 surface mucous cell(표면점액세포)이 있고 / Evidence: 위 표면상피는 simple columnar epithelium(단층원주상피)로 이루어지며 surface mucous cell(표면점액세포)가 이를 구성한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0005"
+      ],
+      "prompt": "surface mucous cell(표면점액세포)은 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple columnar epithelium(단층원주상피)",
+        "accepted_answers": [
+          "simple columnar epithelium(단층원주상피)",
+          "simple columnar epithelium",
+          "단층원주상피"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple columnar epithelium(단층원주상피)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0005",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: surface mucous cell(표면점액세포)은 simple columnar epithelium(단층원주상피)을 이룬다. / Original: 지금 이 simple columnar epithelium(단층원주상피)로 형성하고 있는 surface mucous cell(표면점액세포)이 있고 / Evidence: 위 표면상피는 simple columnar epithelium(단층원주상피)로 이루어지며 surface mucous cell(표면점액세포)가 이를 구성한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "_____은 위의 fundus(바닥)와 body(몸통)에 주로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "parietal cell(벽세포)",
+        "accepted_answers": [
+          "parietal cell(벽세포)",
+          "parietal cell",
+          "벽세포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "parietal cell(벽세포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: parietal cell(벽세포)은 위의 fundus(바닥)와 body(몸통)에 주로 분포한다. / Original: parietal cell(벽세포)은 어디에 있는 거냐면 fundus(바닥)와 body(몸통)에 가장 일반적인 상태에는 fundus(바닥) body(몸통) 이런 상태다 / Evidence: parietal cell(벽세포)는 위저부와 체부에 풍부하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "parietal cell(벽세포)은 위의 _____와 body(몸통)에 주로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus(바닥)",
+        "accepted_answers": [
+          "fundus(바닥)",
+          "fundus",
+          "바닥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus(바닥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: parietal cell(벽세포)은 위의 fundus(바닥)와 body(몸통)에 주로 분포한다. / Original: parietal cell(벽세포)은 어디에 있는 거냐면 fundus(바닥)와 body(몸통)에 가장 일반적인 상태에는 fundus(바닥) body(몸통) 이런 상태다 / Evidence: parietal cell(벽세포)는 위저부와 체부에 풍부하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0024_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0024"
+      ],
+      "prompt": "parietal cell(벽세포)은 위의 fundus(바닥)와 _____에 주로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "body(몸통)",
+        "accepted_answers": [
+          "body(몸통)",
+          "body",
+          "몸통"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "body(몸통)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0024",
+        "confidence": "높음",
+        "page_match_score": 5.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: parietal cell(벽세포)은 위의 fundus(바닥)와 body(몸통)에 주로 분포한다. / Original: parietal cell(벽세포)은 어디에 있는 거냐면 fundus(바닥)와 body(몸통)에 가장 일반적인 상태에는 fundus(바닥) body(몸통) 이런 상태다 / Evidence: parietal cell(벽세포)는 위저부와 체부에 풍부하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0003"
+      ],
+      "prompt": "휴식 상태의 벽세포는 _____가 활성 상태만큼 많지 않다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mitochondria(미토콘드리아)",
+        "accepted_answers": [
+          "mitochondria(미토콘드리아)",
+          "mitochondria",
+          "미토콘드리아"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mitochondria(미토콘드리아)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 휴식 상태의 벽세포는 mitochondria(미토콘드리아)가 활성 상태만큼 많지 않다. / Original: 굉장히 공복하는 세포인데, 좀 휴식 상태에 있는 애들, 별로 그렇게 활동적이지 않은 애들을 보면 mitochondria(미토콘드리아)도 이만큼 많지는 않습니다. / Evidence: 벽세포는 활성 시 mitochondria(미토콘드리아)가 매우 풍부하고, 비활성 시 상대적으로 덜 두드러진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0004"
+      ],
+      "prompt": "휴식 상태의 벽세포는 _____가 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "microvilli(미세융모)",
+        "accepted_answers": [
+          "microvilli(미세융모)",
+          "microvilli",
+          "미세융모"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "microvilli(미세융모)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0004",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 휴식 상태의 벽세포는 microvilli(미세융모)가 적다. / Original: 많지 않고 microvilli(미세융모)도 별로 없습니다. / Evidence: 벽세포의 microvilli(미세융모)는 분비 활성 상태에서 더 발달한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0005"
+      ],
+      "prompt": "휴식 상태의 벽세포는 _____와 tubulovesicle(소관소포)와 연관된 microvilli(미세융모)가 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "intracellular canaliculi(세포내세관)",
+        "accepted_answers": [
+          "intracellular canaliculi(세포내세관)",
+          "intracellular canaliculi",
+          "세포내세관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "intracellular canaliculi(세포내세관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0005",
+        "confidence": "중간",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 휴식 상태의 벽세포는 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)와 연관된 microvilli(미세융모)가 적다. / Original: 그리고 여기 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)의 microvilli(미세융모)도 별로 없고 / Evidence: 비활성 벽세포에서는 intracellular canaliculi(세포내세관)의 microvilli(미세융모) 발달이 감소하고 tubulovesicle(소관소포)가 우세하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0005"
+      ],
+      "prompt": "휴식 상태의 벽세포는 intracellular canaliculi(세포내세관)와 _____와 연관된 microvilli(미세융모)가 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "tubulovesicle(소관소포)",
+        "accepted_answers": [
+          "tubulovesicle(소관소포)",
+          "tubulovesicle",
+          "소관소포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "tubulovesicle(소관소포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0005",
+        "confidence": "중간",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 휴식 상태의 벽세포는 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)와 연관된 microvilli(미세융모)가 적다. / Original: 그리고 여기 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)의 microvilli(미세융모)도 별로 없고 / Evidence: 비활성 벽세포에서는 intracellular canaliculi(세포내세관)의 microvilli(미세융모) 발달이 감소하고 tubulovesicle(소관소포)가 우세하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0005"
+      ],
+      "prompt": "휴식 상태의 벽세포는 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)와 연관된 _____가 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "microvilli(미세융모)",
+        "accepted_answers": [
+          "microvilli(미세융모)",
+          "microvilli",
+          "미세융모"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "microvilli(미세융모)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0005",
+        "confidence": "중간",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 휴식 상태의 벽세포는 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)와 연관된 microvilli(미세융모)가 적다. / Original: 그리고 여기 intracellular canaliculi(세포내세관)와 tubulovesicle(소관소포)의 microvilli(미세융모)도 별로 없고 / Evidence: 비활성 벽세포에서는 intracellular canaliculi(세포내세관)의 microvilli(미세융모) 발달이 감소하고 tubulovesicle(소관소포)가 우세하다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0006"
+      ],
+      "prompt": "관속소 형태는 _____를 의미한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "tubulovesicle(소관소포)",
+        "accepted_answers": [
+          "tubulovesicle(소관소포)",
+          "tubulovesicle",
+          "소관소포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "tubulovesicle(소관소포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0006",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 관속소 형태는 tubulovesicle(소관소포)를 의미한다. / Original: 여기에 뭐가 있냐면 지금 TV라고 되어 있는, 여기에 많은 수입 [불명], 관속소 형태라고 되어 있는데 이 관속소 형태라는 것이 tubulovesicle(소관소포)입니다. / Evidence: tubulovesicle(소관소포)는 소관과 소포가 결합된 관상 소포 구조를 가리킨다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0007"
+      ],
+      "prompt": "벽세포에서 _____가 두드러지게 관찰되면 비활성 상태를 시사한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "tubulovesicle(소관소포)",
+        "accepted_answers": [
+          "tubulovesicle(소관소포)",
+          "tubulovesicle",
+          "소관소포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "tubulovesicle(소관소포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0007",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 벽세포에서 tubulovesicle(소관소포)가 두드러지게 관찰되면 비활성 상태를 시사한다. / Original: 이러한 tubulovesicle(소관소포)들이 이렇게 관찰되는 것은 좀 [추정] inactive한 상태이고 / Evidence: 비활성 벽세포에서는 tubulovesicle(소관소포)가 세포질에 풍부하고, 활성화되면 세포내세관 막으로 이동한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0008"
+      ],
+      "prompt": "활성 벽세포는 _____가 많고 microvilli(미세융모)가 발달하며, 이 microvilli(미세융모)의 함입으로 intracellular canaliculi(세포내세관)가 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mitochondria(미토콘드리아)",
+        "accepted_answers": [
+          "mitochondria(미토콘드리아)",
+          "mitochondria",
+          "미토콘드리아"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mitochondria(미토콘드리아)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 활성 벽세포는 mitochondria(미토콘드리아)가 많고 microvilli(미세융모)가 발달하며, 이 microvilli(미세융모)의 함입으로 intracellular canaliculi(세포내세관)가 형성된다. / Original: active한 경우에는 mitochondria(미토콘드리아)가 굉장히 많고 microvilli(미세융모)가 많으면서 그게 안쪽으로 함입되어서 intracellular canaliculi(세포내세관)를 형성하는 / Evidence: 활성 벽세포의 전형적 형태가 mitochondria(미토콘드리아) 증가와 intracellular canaliculi(세포내세관) 발달이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0008"
+      ],
+      "prompt": "활성 벽세포는 mitochondria(미토콘드리아)가 많고 _____가 발달하며, 이 microvilli(미세융모)의 함입으로 intracellular canaliculi(세포내세관)가 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "microvilli(미세융모)",
+        "accepted_answers": [
+          "microvilli(미세융모)",
+          "microvilli",
+          "미세융모"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "microvilli(미세융모)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 활성 벽세포는 mitochondria(미토콘드리아)가 많고 microvilli(미세융모)가 발달하며, 이 microvilli(미세융모)의 함입으로 intracellular canaliculi(세포내세관)가 형성된다. / Original: active한 경우에는 mitochondria(미토콘드리아)가 굉장히 많고 microvilli(미세융모)가 많으면서 그게 안쪽으로 함입되어서 intracellular canaliculi(세포내세관)를 형성하는 / Evidence: 활성 벽세포의 전형적 형태가 mitochondria(미토콘드리아) 증가와 intracellular canaliculi(세포내세관) 발달이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0008"
+      ],
+      "prompt": "활성 벽세포는 mitochondria(미토콘드리아)가 많고 microvilli(미세융모)가 발달하며, 이 microvilli(미세융모)의 함입으로 _____가 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "intracellular canaliculi(세포내세관)",
+        "accepted_answers": [
+          "intracellular canaliculi(세포내세관)",
+          "intracellular canaliculi",
+          "세포내세관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "intracellular canaliculi(세포내세관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0008",
+        "confidence": "높음",
+        "page_match_score": 1.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 활성 벽세포는 mitochondria(미토콘드리아)가 많고 microvilli(미세융모)가 발달하며, 이 microvilli(미세융모)의 함입으로 intracellular canaliculi(세포내세관)가 형성된다. / Original: active한 경우에는 mitochondria(미토콘드리아)가 굉장히 많고 microvilli(미세융모)가 많으면서 그게 안쪽으로 함입되어서 intracellular canaliculi(세포내세관)를 형성하는 / Evidence: 활성 벽세포의 전형적 형태가 mitochondria(미토콘드리아) 증가와 intracellular canaliculi(세포내세관) 발달이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0010"
+      ],
+      "prompt": "_____은 효소를 분비한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "chief cell(주세포)",
+        "accepted_answers": [
+          "chief cell(주세포)",
+          "chief cell",
+          "주세포"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "chief cell(주세포)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0010",
+        "confidence": "높음",
+        "page_match_score": 0.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: chief cell(주세포)은 효소를 분비한다. / Original: chief cell(주세포) 같은 경우에는 이거는 효소를 만드는 겁니다. / Evidence: 위 chief cell(주세포)는 소화효소 전구체와 관련 분비물을 만드는 세포이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0028_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0028"
+      ],
+      "prompt": "_____와 body(몸통)의 샘은 gastric gland(위샘) 또는 proper gastric gland(고유위샘)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "fundus(저부)",
+        "accepted_answers": [
+          "fundus(저부)",
+          "fundus",
+          "저부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "fundus(저부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0028",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(저부)와 body(몸통)의 샘은 gastric gland(위샘) 또는 proper gastric gland(고유위샘)이다. / Original: 나머지 부위, 요거는 fundus(저부), body(몸통)에 있는 거는 gastric gland(위샘) 혹은 proper gastric gland(고유위샘)라고 생각하시면 됩니다. / Evidence: 위저부와 위체부의 샘은 proper gastric gland(고유위샘)으로 분류된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0028_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0028"
+      ],
+      "prompt": "fundus(저부)와 _____의 샘은 gastric gland(위샘) 또는 proper gastric gland(고유위샘)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "body(몸통)",
+        "accepted_answers": [
+          "body(몸통)",
+          "body",
+          "몸통"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "body(몸통)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0028",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(저부)와 body(몸통)의 샘은 gastric gland(위샘) 또는 proper gastric gland(고유위샘)이다. / Original: 나머지 부위, 요거는 fundus(저부), body(몸통)에 있는 거는 gastric gland(위샘) 혹은 proper gastric gland(고유위샘)라고 생각하시면 됩니다. / Evidence: 위저부와 위체부의 샘은 proper gastric gland(고유위샘)으로 분류된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0028_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0028"
+      ],
+      "prompt": "fundus(저부)와 body(몸통)의 샘은 _____ 또는 proper gastric gland(고유위샘)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric gland(위샘)",
+        "accepted_answers": [
+          "gastric gland(위샘)",
+          "gastric gland",
+          "위샘"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric gland(위샘)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0028",
+        "confidence": "높음",
+        "page_match_score": 7.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: fundus(저부)와 body(몸통)의 샘은 gastric gland(위샘) 또는 proper gastric gland(고유위샘)이다. / Original: 나머지 부위, 요거는 fundus(저부), body(몸통)에 있는 거는 gastric gland(위샘) 혹은 proper gastric gland(고유위샘)라고 생각하시면 됩니다. / Evidence: 위저부와 위체부의 샘은 proper gastric gland(고유위샘)으로 분류된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0029_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0029"
+      ],
+      "prompt": "_____에는 gastric pit(위오목)이 넓다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cardia part(분문부)",
+        "accepted_answers": [
+          "cardia part(분문부)",
+          "cardia part",
+          "분문부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cardia part(분문부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0029",
+        "confidence": "중간",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: cardia part(분문부)에는 gastric pit(위오목)이 넓다. / Original: cardia part(분문부)에는 pit이 굉장히 넓어요. / Evidence: cardia part(분문부) 점막은 비교적 넓은 pit와 짧은 샘을 보인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0029_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0029"
+      ],
+      "prompt": "cardia part(분문부)에는 _____이 넓다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric pit(위오목)",
+        "accepted_answers": [
+          "gastric pit(위오목)",
+          "gastric pit",
+          "위오목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric pit(위오목)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0029",
+        "confidence": "중간",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: cardia part(분문부)에는 gastric pit(위오목)이 넓다. / Original: cardia part(분문부)에는 pit이 굉장히 넓어요. / Evidence: cardia part(분문부) 점막은 비교적 넓은 pit와 짧은 샘을 보인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0030_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0030"
+      ],
+      "prompt": "_____에서는 gastric pit(위오목)이 점막 두께의 상당 부분을 차지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pyloric part(날문부)",
+        "accepted_answers": [
+          "pyloric part(날문부)",
+          "pyloric part",
+          "날문부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "pyloric part(날문부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0030",
+        "confidence": "중간",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyloric part(날문부)에서는 gastric pit(위오목)이 점막 두께의 상당 부분을 차지한다. / Original: pyloric part(날문부)에서는 pit이 절반 정도 차지한다 / Evidence: 유문샘은 깊은 위오목을 가지는 것이 특징이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0030_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0030"
+      ],
+      "prompt": "pyloric part(날문부)에서는 _____이 점막 두께의 상당 부분을 차지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric pit(위오목)",
+        "accepted_answers": [
+          "gastric pit(위오목)",
+          "gastric pit",
+          "위오목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric pit(위오목)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0030",
+        "confidence": "중간",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pyloric part(날문부)에서는 gastric pit(위오목)이 점막 두께의 상당 부분을 차지한다. / Original: pyloric part(날문부)에서는 pit이 절반 정도 차지한다 / Evidence: 유문샘은 깊은 위오목을 가지는 것이 특징이다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0031_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0031"
+      ],
+      "prompt": "_____는 gastric pit(위오목)이 비교적 깊지 않고 공간이 넓다.",
+      "answer": {
+        "format": "single_text",
+        "value": "cardia part(분문부)",
+        "accepted_answers": [
+          "cardia part(분문부)",
+          "cardia part",
+          "분문부"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "cardia part(분문부)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0031",
+        "confidence": "중간",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: cardia part(분문부)는 gastric pit(위오목)이 비교적 깊지 않고 공간이 넓다. / Original: cardia part(분문부) 같은 경우에는 gastric pit(위오목)이 이 정도 되고 그리고 공간은 비교적 넓습니다. / Evidence: cardia part(분문부) 샘은 상대적으로 넓은 점막 공간과 짧은 pit를 보인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0031_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0031"
+      ],
+      "prompt": "cardia part(분문부)는 _____이 비교적 깊지 않고 공간이 넓다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric pit(위오목)",
+        "accepted_answers": [
+          "gastric pit(위오목)",
+          "gastric pit",
+          "위오목"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric pit(위오목)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0031",
+        "confidence": "중간",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: cardia part(분문부)는 gastric pit(위오목)이 비교적 깊지 않고 공간이 넓다. / Original: cardia part(분문부) 같은 경우에는 gastric pit(위오목)이 이 정도 되고 그리고 공간은 비교적 넓습니다. / Evidence: cardia part(분문부) 샘은 상대적으로 넓은 점막 공간과 짧은 pit를 보인다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "_____은 gastric mucosa(위점막)와 mucous layer(점액층)에 염증이 생기는 상태이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastritis(위염)",
+        "accepted_answers": [
+          "gastritis(위염)",
+          "gastritis",
+          "위염"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastritis(위염)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastritis(위염)은 gastric mucosa(위점막)와 mucous layer(점액층)에 염증이 생기는 상태이다. / Original: gastric mucosa(위점막), mucous layer(점액층) 있는데 염증이 일어나는 그런 것들. / Evidence: 위염은 gastric mucosa(위점막)의 염증으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0015_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "gastritis(위염)은 _____와 mucous layer(점액층)에 염증이 생기는 상태이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric mucosa(위점막)",
+        "accepted_answers": [
+          "gastric mucosa(위점막)",
+          "gastric mucosa",
+          "위점막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric mucosa(위점막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastritis(위염)은 gastric mucosa(위점막)와 mucous layer(점액층)에 염증이 생기는 상태이다. / Original: gastric mucosa(위점막), mucous layer(점액층) 있는데 염증이 일어나는 그런 것들. / Evidence: 위염은 gastric mucosa(위점막)의 염증으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0015_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0015"
+      ],
+      "prompt": "gastritis(위염)은 gastric mucosa(위점막)와 _____에 염증이 생기는 상태이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mucous layer(점액층)",
+        "accepted_answers": [
+          "mucous layer(점액층)",
+          "mucous layer",
+          "점액층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mucous layer(점액층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0015",
+        "confidence": "높음",
+        "page_match_score": 3.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: gastritis(위염)은 gastric mucosa(위점막)와 mucous layer(점액층)에 염증이 생기는 상태이다. / Original: gastric mucosa(위점막), mucous layer(점액층) 있는데 염증이 일어나는 그런 것들. / Evidence: 위염은 gastric mucosa(위점막)의 염증으로 설명된다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0019"
+      ],
+      "prompt": "과도한 _____ 분비 또는 비정상적인 mucous layer(점액층)는 gastric mucosa(위점막)를 취약하게 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric acid(위산)",
+        "accepted_answers": [
+          "gastric acid(위산)",
+          "gastric acid",
+          "위산"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric acid(위산)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 과도한 gastric acid(위산) 분비 또는 비정상적인 mucous layer(점액층)는 gastric mucosa(위점막)를 취약하게 만든다. / Original: 과도하게 gastric acid(위산)가 분비되거나 아니면 mucous layer(점액층) 자체가 정상적이지 못할 때 gastric mucosa(위점막)의 기능이 취약해져가지고 이렇게 되는 / Evidence: 산-점액 균형이 깨지면 gastric mucosa(위점막) 방어가 약해진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0019_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0019"
+      ],
+      "prompt": "과도한 gastric acid(위산) 분비 또는 비정상적인 _____는 gastric mucosa(위점막)를 취약하게 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "mucous layer(점액층)",
+        "accepted_answers": [
+          "mucous layer(점액층)",
+          "mucous layer",
+          "점액층"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "mucous layer(점액층)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 과도한 gastric acid(위산) 분비 또는 비정상적인 mucous layer(점액층)는 gastric mucosa(위점막)를 취약하게 만든다. / Original: 과도하게 gastric acid(위산)가 분비되거나 아니면 mucous layer(점액층) 자체가 정상적이지 못할 때 gastric mucosa(위점막)의 기능이 취약해져가지고 이렇게 되는 / Evidence: 산-점액 균형이 깨지면 gastric mucosa(위점막) 방어가 약해진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260407-1500_P0019_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260407-1500_P0019"
+      ],
+      "prompt": "과도한 gastric acid(위산) 분비 또는 비정상적인 mucous layer(점액층)는 _____를 취약하게 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "gastric mucosa(위점막)",
+        "accepted_answers": [
+          "gastric mucosa(위점막)",
+          "gastric mucosa",
+          "위점막"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "gastric mucosa(위점막)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260407-1500.txt",
+        "prop_id": "P0019",
+        "confidence": "높음",
+        "page_match_score": 4.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 과도한 gastric acid(위산) 분비 또는 비정상적인 mucous layer(점액층)는 gastric mucosa(위점막)를 취약하게 만든다. / Original: 과도하게 gastric acid(위산)가 분비되거나 아니면 mucous layer(점액층) 자체가 정상적이지 못할 때 gastric mucosa(위점막)의 기능이 취약해져가지고 이렇게 되는 / Evidence: 산-점액 균형이 깨지면 gastric mucosa(위점막) 방어가 약해진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260413-1200_P0002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0002"
+      ],
+      "prompt": "_____는 arteriole(세동맥) -> capillary(모세혈관) -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "simple pathway(단순경로)",
+        "accepted_answers": [
+          "simple pathway(단순경로)",
+          "simple pathway",
+          "단순경로"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "simple pathway(단순경로)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: simple pathway(단순경로)는 arteriole(세동맥) -> capillary(모세혈관) -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다. / Original: 큰 혈관에서 arteriole(세동맥), capillary(모세혈관), venule(세정맥), 그다음에 main으로 빠져나가는 게 simple pathway(단순경로)입니다. / Evidence: 전형적인 혈관 미세순환의 기본 경로와 일치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260413-1200_P0002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0002"
+      ],
+      "prompt": "simple pathway(단순경로)는 _____ -> capillary(모세혈관) -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "arteriole(세동맥)",
+        "accepted_answers": [
+          "arteriole(세동맥)",
+          "arteriole",
+          "세동맥"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "arteriole(세동맥)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: simple pathway(단순경로)는 arteriole(세동맥) -> capillary(모세혈관) -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다. / Original: 큰 혈관에서 arteriole(세동맥), capillary(모세혈관), venule(세정맥), 그다음에 main으로 빠져나가는 게 simple pathway(단순경로)입니다. / Evidence: 전형적인 혈관 미세순환의 기본 경로와 일치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260413-1200_P0002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260413-1200_P0002"
+      ],
+      "prompt": "simple pathway(단순경로)는 arteriole(세동맥) -> _____ -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "capillary(모세혈관)",
+        "accepted_answers": [
+          "capillary(모세혈관)",
+          "capillary",
+          "모세혈관"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "capillary(모세혈관)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "prop_id": "P0002",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: simple pathway(단순경로)는 arteriole(세동맥) -> capillary(모세혈관) -> venule(세정맥) -> 더 큰 정맥으로 이어지는 경로이다. / Original: 큰 혈관에서 arteriole(세동맥), capillary(모세혈관), venule(세정맥), 그다음에 main으로 빠져나가는 게 simple pathway(단순경로)입니다. / Evidence: 전형적인 혈관 미세순환의 기본 경로와 일치한다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260415-1400_P0021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1400_P0021"
+      ],
+      "prompt": "_____는 근육과 힘줄 다발에 의해 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar part(허리부분)",
+        "accepted_answers": [
+          "lumbar part(허리부분)",
+          "lumbar part",
+          "허리부분"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "lumbar part(허리부분)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "prop_id": "P0021",
+        "confidence": "중간",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lumbar part(허리부분)는 근육과 힘줄 다발에 의해 형성된다. / Original: 여기에서 일어난 muscle(근) 힘줄 다발에 의해서 이 lumbar part(허리부분)가 형성이 되고 있습니다. / Evidence: 가로막의 요부는 근건성 구조로 이루어진다. / Page match: approximate keyword match against existing page text."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p065_recording_20260415-1500_P0003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "recording_proposition_review",
+      "proposition_refs": [
+        "배_녹음파일_20260415-1500_P0003"
+      ],
+      "prompt": "_____는 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "superior hypogastric plexus(위하복신경얼기)",
+        "accepted_answers": [
+          "superior hypogastric plexus(위하복신경얼기)",
+          "superior hypogastric plexus",
+          "위하복신경얼기"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "superior hypogastric plexus(위하복신경얼기)"
+      },
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "prop_id": "P0003",
+        "confidence": "높음",
+        "page_match_score": 2.0
+      },
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: superior hypogastric plexus(위하복신경얼기)는 형성된다. / Original: 슈페리어 하이포가스트릭 플렉서스(위하복신경얼기)를 형성하고 / Evidence: superior hypogastric plexus는 실제로 존재하는 신경얼기이다. / Page match: approximate keyword match against existing page text."
+      }
     }
   ],
   "summary": {
-    "question_count": 5,
+    "question_count": 78,
     "question_type_count": {
-      "fill_blank": 4,
+      "fill_blank": 77,
       "image_grounded_fill_blank": 1
     },
     "question_focus_count": {
       "course_exam_style": 4,
-      "visual_component_identification": 1
+      "visual_component_identification": 1,
+      "recording_proposition_review": 73
     }
   },
   "blocked_image_question_reasons": [],
@@ -168,7 +2651,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 3,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -176,7 +2659,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 14,
+        "question_count": 81,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -184,7 +2667,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 25,
+        "question_count": 111,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -192,7 +2675,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 15,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
@@ -200,7 +2683,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 5,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -208,7 +2691,7 @@
       },
       {
         "page_number": 6,
-        "question_count": 13,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p006__0c36c7363849.json",
@@ -216,7 +2699,7 @@
       },
       {
         "page_number": 7,
-        "question_count": 15,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p007__721c33fafafa.json",
@@ -224,7 +2707,7 @@
       },
       {
         "page_number": 8,
-        "question_count": 22,
+        "question_count": 104,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p008__61429763abae.json",
@@ -232,7 +2715,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 20,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -240,7 +2723,7 @@
       },
       {
         "page_number": 10,
-        "question_count": 14,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p010__d49044c06b9e.json",
@@ -248,7 +2731,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 17,
+        "question_count": 84,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -256,7 +2739,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 10,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -264,7 +2747,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 21,
+        "question_count": 72,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -272,7 +2755,7 @@
       },
       {
         "page_number": 14,
-        "question_count": 23,
+        "question_count": 36,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p014__2b21817f363e.json",
@@ -280,7 +2763,7 @@
       },
       {
         "page_number": 15,
-        "question_count": 19,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p015__e0af0f604a62.json",
@@ -288,7 +2771,7 @@
       },
       {
         "page_number": 16,
-        "question_count": 14,
+        "question_count": 24,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p016__fff3da6ce5b1.json",
@@ -296,7 +2779,7 @@
       },
       {
         "page_number": 17,
-        "question_count": 13,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p017__48c25ba41e2b.json",
@@ -304,7 +2787,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 33,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -312,7 +2795,7 @@
       },
       {
         "page_number": 19,
-        "question_count": 17,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p019__ce523d7beebc.json",
@@ -320,7 +2803,7 @@
       },
       {
         "page_number": 20,
-        "question_count": 10,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p020__b29950f4ac3e.json",
@@ -328,7 +2811,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 12,
+        "question_count": 38,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -336,7 +2819,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -344,7 +2827,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 7,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -352,7 +2835,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 8,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -360,7 +2843,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 13,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -376,7 +2859,7 @@
       },
       {
         "page_number": 27,
-        "question_count": 22,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p027__69eb8d8da529.json",
@@ -384,7 +2867,7 @@
       },
       {
         "page_number": 28,
-        "question_count": 16,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p028__57813e51e4e2.json",
@@ -424,7 +2907,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 14,
+        "question_count": 64,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -432,7 +2915,7 @@
       },
       {
         "page_number": 34,
-        "question_count": 15,
+        "question_count": 35,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p034__fbfa6091ffbb.json",
@@ -440,7 +2923,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 29,
+        "question_count": 170,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -456,7 +2939,7 @@
       },
       {
         "page_number": 37,
-        "question_count": 19,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json",
@@ -464,7 +2947,7 @@
       },
       {
         "page_number": 38,
-        "question_count": 22,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json",
@@ -496,7 +2979,7 @@
       },
       {
         "page_number": 42,
-        "question_count": 18,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p042__e4972a401b99.json",
@@ -504,7 +2987,7 @@
       },
       {
         "page_number": 43,
-        "question_count": 19,
+        "question_count": 33,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p043__8545104b7256.json",
@@ -512,7 +2995,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 6,
+        "question_count": 55,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -520,7 +3003,7 @@
       },
       {
         "page_number": 45,
-        "question_count": 12,
+        "question_count": 60,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p045__74c1fca465fc.json",
@@ -528,7 +3011,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 13,
+        "question_count": 86,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json",
@@ -536,7 +3019,7 @@
       },
       {
         "page_number": 47,
-        "question_count": 21,
+        "question_count": 43,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p047__ea8a5956c9a5.json",
@@ -544,7 +3027,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 14,
+        "question_count": 40,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p048__8c28a403c2a2.json",
@@ -552,7 +3035,7 @@
       },
       {
         "page_number": 49,
-        "question_count": 1,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p049__fb0b50b1586b.json",
@@ -560,7 +3043,7 @@
       },
       {
         "page_number": 50,
-        "question_count": 12,
+        "question_count": 31,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p050__69ae1ec63b00.json",
@@ -568,7 +3051,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 11,
+        "question_count": 48,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json",
@@ -576,7 +3059,7 @@
       },
       {
         "page_number": 52,
-        "question_count": 10,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p052__e138b8f71020.json",
@@ -584,7 +3067,7 @@
       },
       {
         "page_number": 53,
-        "question_count": 21,
+        "question_count": 85,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
@@ -592,7 +3075,7 @@
       },
       {
         "page_number": 54,
-        "question_count": 24,
+        "question_count": 54,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p054__72abfbdd0828.json",
@@ -600,7 +3083,7 @@
       },
       {
         "page_number": 55,
-        "question_count": 11,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json",
@@ -608,7 +3091,7 @@
       },
       {
         "page_number": 56,
-        "question_count": 24,
+        "question_count": 58,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json",
@@ -616,7 +3099,7 @@
       },
       {
         "page_number": 57,
-        "question_count": 18,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json",
@@ -624,7 +3107,7 @@
       },
       {
         "page_number": 58,
-        "question_count": 14,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json",
@@ -632,7 +3115,7 @@
       },
       {
         "page_number": 59,
-        "question_count": 9,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p059__6356c8a84284.json",
@@ -640,7 +3123,7 @@
       },
       {
         "page_number": 60,
-        "question_count": 25,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json",
@@ -648,7 +3131,7 @@
       },
       {
         "page_number": 61,
-        "question_count": 21,
+        "question_count": 56,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p061__7cf133180fd5.json",
@@ -656,7 +3139,7 @@
       },
       {
         "page_number": 62,
-        "question_count": 29,
+        "question_count": 42,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json",
@@ -664,7 +3147,7 @@
       },
       {
         "page_number": 63,
-        "question_count": 5,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p063__08e7d5c06892.json",
@@ -672,7 +3155,7 @@
       },
       {
         "page_number": 64,
-        "question_count": 1,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json",
@@ -680,7 +3163,7 @@
       },
       {
         "page_number": 65,
-        "question_count": 5,
+        "question_count": 78,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p065__d88212948b66.json",
@@ -688,56 +3171,56 @@
       },
       {
         "page_number": 66,
-        "question_count": 7,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p066__045abdcbb424.json"
       },
       {
         "page_number": 67,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p067__50d5f54afd62.json"
       },
       {
         "page_number": 68,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
       },
       {
         "page_number": 69,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
       },
       {
         "page_number": 70,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
       },
       {
         "page_number": 71,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
       },
       {
         "page_number": 72,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
       },
       {
         "page_number": 73,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -751,42 +3234,42 @@
       },
       {
         "page_number": 75,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
       },
       {
         "page_number": 76,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p076__4343210caa81.json"
       },
       {
         "page_number": 77,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p077__f7319ae0f933.json"
       },
       {
         "page_number": 78,
-        "question_count": 21,
+        "question_count": 214,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
       },
       {
         "page_number": 79,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
       },
       {
         "page_number": 80,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p080__2691ccc97de2.json"
@@ -821,7 +3304,7 @@
       },
       {
         "page_number": 85,
-        "question_count": 12,
+        "question_count": 70,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p085__14ece79e1544.json"
@@ -842,77 +3325,77 @@
       },
       {
         "page_number": 88,
-        "question_count": 8,
+        "question_count": 100,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p088__d21963281ac4.json"
       },
       {
         "page_number": 89,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p089__a49f44489efa.json"
       },
       {
         "page_number": 90,
-        "question_count": 5,
+        "question_count": 39,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p090__cf2021346e0e.json"
       },
       {
         "page_number": 91,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
       },
       {
         "page_number": 92,
-        "question_count": 9,
+        "question_count": 57,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
       },
       {
         "page_number": 93,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p093__6a91698aabf6.json"
       },
       {
         "page_number": 94,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p094__791b32ea10fb.json"
       },
       {
         "page_number": 95,
-        "question_count": 0,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p095__af9370041236.json"
       },
       {
         "page_number": 96,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p096__235b1ce237e2.json"
       },
       {
         "page_number": 97,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p097__cb0f3b049120.json"
       },
       {
         "page_number": 98,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p098__d6a59486df8c.json"
@@ -926,7 +3409,7 @@
       },
       {
         "page_number": 100,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
@@ -940,49 +3423,49 @@
       },
       {
         "page_number": 102,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
       },
       {
         "page_number": 103,
-        "question_count": 9,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
       },
       {
         "page_number": 104,
-        "question_count": 15,
+        "question_count": 26,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
       },
       {
         "page_number": 105,
-        "question_count": 21,
+        "question_count": 109,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
       },
       {
         "page_number": 106,
-        "question_count": 13,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
       },
       {
         "page_number": 107,
-        "question_count": 18,
+        "question_count": 53,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
       },
       {
         "page_number": 108,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
@@ -1017,7 +3500,7 @@
       },
       {
         "page_number": 113,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p113__f59c474c7012.json"
@@ -1031,28 +3514,28 @@
       },
       {
         "page_number": 115,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
       },
       {
         "page_number": 116,
-        "question_count": 0,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p116__3b76c7022014.json"
       },
       {
         "page_number": 117,
-        "question_count": 0,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p117__ae08d097755c.json"
       },
       {
         "page_number": 118,
-        "question_count": 0,
+        "question_count": 6,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p118__fbc37345dc69.json"
@@ -1066,7 +3549,7 @@
       },
       {
         "page_number": 120,
-        "question_count": 10,
+        "question_count": 34,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
@@ -1101,21 +3584,21 @@
       },
       {
         "page_number": 125,
-        "question_count": 0,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
       },
       {
         "page_number": 126,
-        "question_count": 6,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
       },
       {
         "page_number": 127,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p127__0ed09b06c323.json"
@@ -1136,7 +3619,7 @@
       },
       {
         "page_number": 130,
-        "question_count": 0,
+        "question_count": 1,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
@@ -1262,7 +3745,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 0,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"
@@ -1374,7 +3857,7 @@
       },
       {
         "page_number": 164,
-        "question_count": 0,
+        "question_count": 2,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p164__05ed0775e64e.json"
@@ -1423,7 +3906,7 @@
       },
       {
         "page_number": 171,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p171__13f37812c256.json"
@@ -1486,7 +3969,7 @@
       },
       {
         "page_number": 180,
-        "question_count": 0,
+        "question_count": 4,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
