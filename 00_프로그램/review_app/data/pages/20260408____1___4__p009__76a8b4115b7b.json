@@ -1,0 +1,1055 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 9
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "_____은 중간창자(midgut) 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막동맥(superior mesenteric artery)",
+        "accepted_answers": [
+          "위창자간막동맥(superior mesenteric artery)",
+          "superior mesenteric artery",
+          "SMA"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막동맥(superior mesenteric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 중간창자(midgut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "위창자간막동맥(superior mesenteric artery)은 _____ 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간창자(midgut)",
+        "accepted_answers": [
+          "중간창자(midgut)",
+          "midgut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간창자(midgut)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 중간창자(midgut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "_____은 빈창자동맥(jejunal arteries)과 돌창자동맥(ileal arteries)으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자동맥(intestinal arteries)",
+        "accepted_answers": [
+          "작은창자동맥(intestinal arteries)",
+          "intestinal arteries"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자동맥(intestinal arteries)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자동맥(intestinal arteries)은 빈창자동맥(jejunal arteries)과 돌창자동맥(ileal arteries)으로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "작은창자동맥(intestinal arteries)은 _____과 돌창자동맥(ileal arteries)으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자동맥(jejunal arteries)",
+        "accepted_answers": [
+          "빈창자동맥(jejunal arteries)",
+          "jejunal arteries"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자동맥(jejunal arteries)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자동맥(intestinal arteries)은 빈창자동맥(jejunal arteries)과 돌창자동맥(ileal arteries)으로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "작은창자동맥(intestinal arteries)은 빈창자동맥(jejunal arteries)과 _____으로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자동맥(ileal arteries)",
+        "accepted_answers": [
+          "돌창자동맥(ileal arteries)",
+          "ileal arteries"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자동맥(ileal arteries)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자동맥(intestinal arteries)은 빈창자동맥(jejunal arteries)과 돌창자동맥(ileal arteries)으로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_003"
+      ],
+      "prompt": "_____은 뒤창자(hindgut) 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막동맥(inferior mesenteric artery)",
+        "accepted_answers": [
+          "아래창자간막동맥(inferior mesenteric artery)",
+          "inferior mesenteric artery",
+          "IMA"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막동맥(inferior mesenteric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래창자간막동맥(inferior mesenteric artery)은 뒤창자(hindgut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_003"
+      ],
+      "prompt": "아래창자간막동맥(inferior mesenteric artery)은 _____ 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤창자(hindgut)",
+        "accepted_answers": [
+          "뒤창자(hindgut)",
+          "hindgut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤창자(hindgut)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래창자간막동맥(inferior mesenteric artery)은 뒤창자(hindgut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "_____은 앞창자(foregut) 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk",
+          "celiac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)은 앞창자(foregut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "복강동맥(celiac trunk)은 _____ 유래 기관에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞창자(foregut)",
+        "accepted_answers": [
+          "앞창자(foregut)",
+          "foregut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞창자(foregut)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)은 앞창자(foregut) 유래 기관에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "_____은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 샘창자(duodenum) 아래쪽을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막동맥(superior mesenteric artery)",
+        "accepted_answers": [
+          "위창자간막동맥(superior mesenteric artery)",
+          "superior mesenteric artery",
+          "SMA"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막동맥(superior mesenteric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 샘창자 아래쪽을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "위창자간막동맥(superior mesenteric artery)은 _____을 내며 샘창자(duodenum) 아래쪽을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래이자샘창자동맥(inferior pancreaticoduodenal artery)",
+        "accepted_answers": [
+          "아래이자샘창자동맥(inferior pancreaticoduodenal artery)",
+          "inferior pancreaticoduodenal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래이자샘창자동맥(inferior pancreaticoduodenal artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 샘창자 아래쪽을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "위창자간막동맥(superior mesenteric artery)은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 _____ 아래쪽을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 샘창자 아래쪽을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_009"
+      ],
+      "prompt": "_____은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌잘록창자동맥(ileocolic artery)",
+        "accepted_answers": [
+          "돌잘록창자동맥(ileocolic artery)",
+          "ileocolic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌잘록창자동맥(ileocolic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_009"
+      ],
+      "prompt": "돌잘록창자동맥(ileocolic artery)은 _____ 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_009"
+      ],
+      "prompt": "돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 _____, 오름잘록창자(ascending colon) 일부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_009_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_009"
+      ],
+      "prompt": "돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), _____ 일부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_010"
+      ],
+      "prompt": "_____은 막창자꼬리(appendix)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리동맥(appendicular artery)",
+        "accepted_answers": [
+          "막창자꼬리동맥(appendicular artery)",
+          "appendicular artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리동맥(appendicular artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 막창자꼬리동맥(appendicular artery)은 막창자꼬리(appendix)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_010_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_010"
+      ],
+      "prompt": "막창자꼬리동맥(appendicular artery)은 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(appendix)",
+        "accepted_answers": [
+          "막창자꼬리(appendix)",
+          "appendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(appendix)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 막창자꼬리동맥(appendicular artery)은 막창자꼬리(appendix)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_011"
+      ],
+      "prompt": "_____은 오름잘록창자(ascending colon)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른잘록창자동맥(right colic artery)",
+        "accepted_answers": [
+          "오른잘록창자동맥(right colic artery)",
+          "right colic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른잘록창자동맥(right colic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른잘록창자동맥(right colic artery)은 오름잘록창자(ascending colon)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_011"
+      ],
+      "prompt": "오른잘록창자동맥(right colic artery)은 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른잘록창자동맥(right colic artery)은 오름잘록창자(ascending colon)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_012"
+      ],
+      "prompt": "_____은 가로잘록창자(transverse colon)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가운데잘록창자동맥(middle colic artery)",
+        "accepted_answers": [
+          "가운데잘록창자동맥(middle colic artery)",
+          "middle colic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가운데잘록창자동맥(middle colic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가운데잘록창자동맥(middle colic artery)은 가로잘록창자(transverse colon)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p009_course_배_필기본_009_course_012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_012"
+      ],
+      "prompt": "가운데잘록창자동맥(middle colic artery)은 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가운데잘록창자동맥(middle colic artery)은 가로잘록창자(transverse colon)에 혈액을 공급한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 22,
+    "question_type_count": {
+      "fill_blank": 22
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 22
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json",
+        "review_image_url": "./data/images/20260408____1___4__p004__14b5f2000d36.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json",
+        "review_image_url": "./data/images/20260408____1___4__p005__176e537841fb.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json",
+        "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json",
+        "review_image_url": "./data/images/20260408____1___4__p007__d5fa6a9b8c01.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json",
+        "review_image_url": "./data/images/20260408____1___4__p008__916dbe5cb8d4.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json",
+        "review_image_url": "./data/images/20260408____1___4__p009__76a8b4115b7b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 8,
+    "previous_page": 8,
+    "next_page": 10
+  },
+  "review_image_url": "./data/images/20260408____1___4__p009__76a8b4115b7b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 9
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "위창자간막동맥(superior mesenteric artery)은 중간창자(midgut) 유래 기관에 혈액을 공급한다.",
+        "작은창자동맥(intestinal arteries)은 빈창자동맥(jejunal arteries)과 돌창자동맥(ileal arteries)으로 나뉜다.",
+        "아래창자간막동맥(inferior mesenteric artery)은 뒤창자(hindgut) 유래 기관에 혈액을 공급한다.",
+        "복강동맥(celiac trunk)은 앞창자(foregut) 유래 기관에 혈액을 공급한다.",
+        "위창자간막동맥(superior mesenteric artery)은 아래이자샘창자동맥(inferior pancreaticoduodenal artery)을 내며 샘창자 아래쪽을 공급한다.",
+        "돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다.",
+        "막창자꼬리동맥(appendicular artery)은 막창자꼬리(appendix)에 혈액을 공급한다.",
+        "오른잘록창자동맥(right colic artery)은 오름잘록창자(ascending colon)에 혈액을 공급한다.",
+        "가운데잘록창자동맥(middle colic artery)은 가로잘록창자(transverse colon)에 혈액을 공급한다.",
+        "중간창자의 영어 이름은 midgut이다.",
+        "위창자간막동맥의 영어 이름은 superior mesenteric artery이다.",
+        "간의 영어 이름은 liver이다.",
+        "앞창자의 영어 이름은 foregut이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "오른잘록창자동맥의 영어 이름은 right colic artery이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "뒤창자의 영어 이름은 hindgut이다.",
+        "아래창자간막동맥의 영어 이름은 inferior mesenteric artery이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "위의 영어 이름은 stomach이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "복강동맥의 영어 이름은 celiac trunk이다.",
+        "아래이자샘창자동맥의 영어 이름은 inferior pancreaticoduodenal artery이다.",
+        "빈창자동맥의 영어 이름은 jejunal arteries이다.",
+        "돌창자동맥의 영어 이름은 ileal arteries이다.",
+        "가운데잘록창자동맥의 영어 이름은 middle colic artery이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 9,
+          "text": ": ileum, cecum, ascending colon 일부일부에혈액공급",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": ": ascending colon, transverse colon 일부일부에혈액공급",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "(= midgut - hindgut)나눠지는곳",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 29,
+        "accounted_term_count": 29,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "중간창자(midgut)",
+          "위창자간막동맥(superior mesenteric artery)",
+          "간(liver)",
+          "앞창자(foregut)",
+          "작은창자(small intestine)",
+          "돌창자(ileum)",
+          "막창자(cecum)",
+          "오름잘록창자(ascending colon)",
+          "오른잘록창자동맥(right colic artery)",
+          "가로잘록창자(transverse colon)",
+          "뒤창자(hindgut)",
+          "아래창자간막동맥(inferior mesenteric artery)",
+          "내림잘록창자(descending colon)",
+          "위(stomach)",
+          "곧창자(rectum)",
+          "복강동맥(celiac trunk)",
+          "아래이자샘창자동맥(inferior pancreaticoduodenal artery)",
+          "빈창자동맥(jejunal arteries)",
+          "돌창자동맥(ileal arteries)",
+          "가운데잘록창자동맥(middle colic artery)",
+          "작은창자동맥(intestinal arteries)",
+          "샘창자(duodenum)",
+          "돌잘록창자동맥(ileocolic artery)",
+          "막창자꼬리동맥(appendicular artery)",
+          "막창자꼬리(appendix)",
+          "창자간막(mesentery)",
+          "빈창자(jejunum)",
+          "배안(abdominal cavity)",
+          "이자(pancreas)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Arterial supply of the intestines",
+        "1celiac trunk 기원",
+        "[2] superior mesenteric artery : midgut 기원기원중간창자의동맥공급",
+        "= foregut organ 에서나온에혈액공급",
+        "→ 1 = inferior pancreatico duodenal artery() 분지창자동맥",
+        "→→ 2 = intestinal arteries() jejunal arteries분지작은창자동맥",
+        "→ ileum arteries",
+        "→ 3 = ileocolic artery() 분지돌잘록창자동맥",
+        ": ileum, cecum, ascending colon 일부일부에혈액공급",
+        "→ appendicular artery()막창자꼬리동맥",
+        ": appendix() 막창자꼬리에혈액공급",
+        "Marainal artery 분지4 = right colic artery",
+        "·",
+        "T12높이",
+        ": ascending colon, transverse colon 일부일부에혈액공급",
+        ": ascending colon 에혈액공급",
+        "2 =기원",
+        "→ 5 = middle colic artery분지",
+        "midgut에서나온",
+        "organ 에혈액공급",
+        "(= midgut - hindgut )나눠지는곳",
+        "L1높이",
+        "3 hindgut organ 에서나온에혈액공급",
+        "기원",
+        "L3높이",
+        "[3] inferior mesenteric artery : hindgut 기원기원후창자의동맥공급",
+        "→ 1 = left colic artery()분지왼잘록창자동맥",
+        ": transverse colon, 일부",
+        "descending colon 에혈액공급",
+        "→ 2 = superior sigmoid artery()분지위구불잘록창자동맥",
+        ": sigmoid colon(), descending 구불잘록창자아랫부분에혈액공급",
+        "오른잘록창자동댁 기원 nlerior mosenteric artery",
+        ": rectum 에혈액공급",
+        "( )기원다다름",
+        "cf) rectum superior/middle/inferior rectal artery 3 은개의혈관에의해혈액공급"
+      ],
+      "supplemental_ocr_blocks": [
+        "foreguth서 나온 organ에l 혈액공급 + '분지다 = inferior pancreatico duodenal artery(창자동백)",
+        "아래이자생창자동맥 가로짓숙창자 ileum arteries",
+        "Inferior pancreatlco- Tsverse colol + 분지3 = ileocolic artery(돌잘록창자동댁)",
+        "duodenal artery ileum일부 cecum, ascending colon일부에 혈액공급",
+        "위창자간막동맥 T12높이 ascending colon에l 혈액공급",
+        "귀비요서니올 'mesenlefic' rarterv + 분지5 = middle colic artery",
+        "ascending colon일부, transverse colon일부에 혈액공급",
+        "organ에l 혈액공급 (= midgut hindgut 나뉘지논 곳)",
+        "L3높이 위구분잘록창자동맥 돌창자동백",
+        "Gicocolic artery ariery 끼",
+        "둘잘록창자동맥 Superior sgmoid Ileal arleries",
+        "둘창자 구물잘록창자동맥 오름잘록창자",
+        "막창자 Ileur Sigmoid arteries Ascending cOion",
+        "Cecum",
+        "독창자",
+        "막창자고리동맥 구물잘록창자 Ileum",
+        "Appendicular arlery Sigmoid colori",
+        "막창자꼬리 [기원3] inferior mesenteric artery_기원 : hindgut 후창자의 동의출",
+        "Appendix 위곧창자동맥 분지다 = left colic artery(왼잘록창자동맥)",
+        "Superior recial artery transverse colon일부 반장자",
+        "곧창자 descending colon에l 혈액공급 Jejunum",
+        "sigmoid {@ 적적 # 하; descending 아랫부분에 혈액공급",
+        "Reclumnl + 분지2 = 'superior sigmoid",
+        "분지3 = 'superior rectal",
+        "rectum에 혈액공급 cf) rectum은 superiorlmiddlelinferior rectal artery 3개의 혈관에 {의해월액공물등) '혈액공급"
+      ],
+      "corrected_page_text": "Arterial supply of the intestines\n1celiac trunk 기원\n[2] superior mesenteric artery : midgut 기원기원중간창자의동맥공급\n= foregut organ 에서나온에혈액공급\n→ 1 = inferior pancreatico duodenal artery() 분지창자동맥\n→→ 2 = intestinal arteries() jejunal arteries분지작은창자동맥\n→ ileum arteries\n→ 3 = ileocolic artery() 분지돌잘록창자동맥\n: ileum, cecum, ascending colon 일부일부에혈액공급\n→ appendicular artery()막창자꼬리동맥\n: appendix() 막창자꼬리에혈액공급\nMarainal artery 분지4 = right colic artery\n·\nT12높이\n: ascending colon, transverse colon 일부일부에혈액공급\n: ascending colon 에혈액공급\n2 =기원\n→ 5 = middle colic artery분지\nmidgut에서나온\norgan 에혈액공급\n(= midgut - hindgut )나눠지는곳\nL1높이\n3 hindgut organ 에서나온에혈액공급\n기원\nL3높이\n[3] inferior mesenteric artery : hindgut 기원기원후창자의동맥공급\n→ 1 = left colic artery()분지왼잘록창자동맥\n: transverse colon, 일부\ndescending colon 에혈액공급\n→ 2 = superior sigmoid artery()분지위구불잘록창자동맥\n: sigmoid colon(), descending 구불잘록창자아랫부분에혈액공급\n오른잘록창자동댁 기원 nlerior mosenteric artery\n: rectum 에혈액공급\n( )기원다다름\ncf) rectum superior/middle/inferior rectal artery 3 은개의혈관에의해혈액공급",
+      "quality_audit": {
+        "pdf_char_count": 822,
+        "pdf_span_count": 156,
+        "pdf_word_count": 154,
+        "ocr_fragment_count": 97,
+        "pdf_line_count": 35,
+        "ocr_line_count": 36,
+        "merged_line_count": 60,
+        "pdf_only_count": 24,
+        "ocr_only_count": 25,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 35,
+        "ocr_only_line_count": 25,
+        "pdf_alpha_count": 756,
+        "ocr_alpha_count": 814,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

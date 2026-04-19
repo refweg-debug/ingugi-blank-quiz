@@ -1,0 +1,1048 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 4
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "_____은 바깥배빗근널힘줄(external oblique aponeurosis)로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴앞벽(anterior wall of inguinal canal)",
+        "accepted_answers": [
+          "고샅굴앞벽(anterior wall of inguinal canal)",
+          "anterior wall of inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴앞벽(anterior wall of inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴앞벽(anterior wall of inguinal canal)은 바깥배빗근널힘줄(external oblique aponeurosis)로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "고샅굴앞벽(anterior wall of inguinal canal)은 _____로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥배빗근널힘줄(external oblique aponeurosis)",
+        "accepted_answers": [
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "external oblique aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥배빗근널힘줄(external oblique aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴앞벽(anterior wall of inguinal canal)은 바깥배빗근널힘줄(external oblique aponeurosis)로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_002"
+      ],
+      "prompt": "_____은 배가로근막(transversalis fascia)으로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴뒤벽(posterior wall of inguinal canal)",
+        "accepted_answers": [
+          "고샅굴뒤벽(posterior wall of inguinal canal)",
+          "posterior wall of inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴뒤벽(posterior wall of inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴뒤벽(posterior wall of inguinal canal)은 배가로근막(transversalis fascia)으로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_002"
+      ],
+      "prompt": "고샅굴뒤벽(posterior wall of inguinal canal)은 _____으로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴뒤벽(posterior wall of inguinal canal)은 배가로근막(transversalis fascia)으로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_003"
+      ],
+      "prompt": "_____은 속배빗근(internal abdominal oblique muscle)의 아래모서리로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴천장(roof of inguinal canal)",
+        "accepted_answers": [
+          "고샅굴천장(roof of inguinal canal)",
+          "roof of inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴천장(roof of inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴천장(roof of inguinal canal)은 속배빗근(internal abdominal oblique muscle)의 아래모서리로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_003"
+      ],
+      "prompt": "고샅굴천장(roof of inguinal canal)은 _____의 아래모서리로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속배빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "속배빗근(internal abdominal oblique muscle)",
+          "internal abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속배빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴천장(roof of inguinal canal)은 속배빗근(internal abdominal oblique muscle)의 아래모서리로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_004"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴천장(roof of inguinal canal)",
+        "accepted_answers": [
+          "고샅굴천장(roof of inguinal canal)",
+          "roof of inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴천장(roof of inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴천장(roof of inguinal canal)은 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_004"
+      ],
+      "prompt": "고샅굴천장(roof of inguinal canal)은 _____의 아래모서리로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴천장(roof of inguinal canal)은 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_005"
+      ],
+      "prompt": "_____은 고샅인대(inguinal ligament)로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴바닥(floor of inguinal canal)",
+        "accepted_answers": [
+          "고샅굴바닥(floor of inguinal canal)",
+          "floor of inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴바닥(floor of inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴바닥(floor of inguinal canal)은 고샅인대(inguinal ligament)로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_005"
+      ],
+      "prompt": "고샅굴바닥(floor of inguinal canal)은 _____로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고샅굴바닥(floor of inguinal canal)은 고샅인대(inguinal ligament)로 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_006"
+      ],
+      "prompt": "_____은 샅굴(inguinal canal)을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정삭(spermatic cord)",
+        "accepted_answers": [
+          "정삭(spermatic cord)",
+          "spermatic cord"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정삭(spermatic cord)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 고샅굴(inguinal canal)을 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_006"
+      ],
+      "prompt": "정삭(spermatic cord)은 _____을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정삭(spermatic cord)은 고샅굴(inguinal canal)을 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_007"
+      ],
+      "prompt": "_____은 정삭(spermatic cord) 안을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정관(ductus deferens)",
+        "accepted_answers": [
+          "정관(ductus deferens)",
+          "ductus deferens"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정관(ductus deferens)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정관(ductus deferens)은 정삭(spermatic cord) 안을 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_ai_corrected_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_007"
+      ],
+      "prompt": "정관(ductus deferens)은 _____ 안을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정삭(spermatic cord)",
+        "accepted_answers": [
+          "정삭(spermatic cord)",
+          "spermatic cord"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정삭(spermatic cord)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정관(ductus deferens)은 정삭(spermatic cord) 안을 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_003"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_003"
+      ],
+      "prompt": "배가로근막(transversalis fascia)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_019"
+      ],
+      "prompt": "_____은 속배빗근(internal abdominal oblique muscle)과 관련된 층이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환올림근(cremaster muscle)",
+        "accepted_answers": [
+          "고환올림근(cremaster muscle)",
+          "cremaster muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환올림근(cremaster muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환올림근(cremaster muscle)은 속배빗근(internal abdominal oblique muscle)과 관련된 층이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_019_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_019"
+      ],
+      "prompt": "고환올림근(cremaster muscle)은 _____과 관련된 층이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속배빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "속배빗근(internal abdominal oblique muscle)",
+          "internal abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속배빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환올림근(cremaster muscle)은 속배빗근(internal abdominal oblique muscle)과 관련된 층이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_022"
+      ],
+      "prompt": "속배빗근(internal abdominal oblique muscle)의 이는곳에는 _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_023"
+      ],
+      "prompt": "_____의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_023_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_023"
+      ],
+      "prompt": "배가로근(transversus abdominis muscle)의 이는곳에는 _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_027_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_027"
+      ],
+      "prompt": "_____은 배벽(abdominal wall) 근육(muscles)을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은근막(deep fascia)",
+        "accepted_answers": [
+          "깊은근막(deep fascia)",
+          "deep fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은근막(deep fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_course_배_필기본_004_course_027_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_027"
+      ],
+      "prompt": "깊은근막(deep fascia)은 배벽(abdominal wall) _____을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육(muscles)",
+        "accepted_answers": [
+          "근육(muscles)",
+          "muscles",
+          "muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육(muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p004_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "정삭(spermatic cord)이 통과하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅굴(inguinal canal)",
+        "accepted_answers": [
+          "고샅굴(inguinal canal)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅굴(inguinal canal)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p004_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p004_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 정삭(spermatic cord) / predicate: passes_through / object: 고샅굴(inguinal canal)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 24,
+    "question_type_count": {
+      "fill_blank": 23,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style": 14,
+      "course_exam_style_provisional": 9,
+      "visual_relation_understanding": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 3,
+    "previous_page": 3,
+    "next_page": 5
+  },
+  "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 4
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "고샅굴앞벽(anterior wall of inguinal canal)은 바깥배빗근널힘줄(external oblique aponeurosis)로 형성된다.",
+        "고샅굴뒤벽(posterior wall of inguinal canal)은 배가로근막(transversalis fascia)으로 형성된다.",
+        "고샅굴천장(roof of inguinal canal)은 속배빗근(internal abdominal oblique muscle)의 아래모서리로 형성된다.",
+        "고샅굴천장(roof of inguinal canal)은 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다.",
+        "고샅굴바닥(floor of inguinal canal)은 고샅인대(inguinal ligament)로 형성된다.",
+        "정삭(spermatic cord)은 고샅굴(inguinal canal)을 지난다.",
+        "정관(ductus deferens)은 정삭(spermatic cord) 안을 지난다.",
+        "고샅굴앞벽(anterior wall of inguinal canal)은 바깥배빗근널힘줄(external oblique aponeurosis)으로 형성된다.",
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "고샅굴천장(roof of inguinal canal)은 속배빗근(internal abdominal oblique muscle)과 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다.",
+        "고샅굴바닥(floor of inguinal canal)은 고샅인대(inguinal ligament)으로 형성된다.",
+        "정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다.",
+        "정삭(spermatic cord)에는 정관(ductus deferens)이 포함된다.",
+        "고환올림근(cremaster muscle)은 속배빗근(internal abdominal oblique muscle)과 관련된 층이다.",
+        "배속빗근(internal abdominal oblique muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+        "배가로근(transversus abdominis muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+        "깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "정관의 영어 이름은 ductus deferens이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "안쪽배꼽주름의 영어 이름은 medial umbilical fold이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "정삭의 영어 이름은 spermatic cord이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "샅굴의 영어 이름은 inguinal canal이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "바깥배빗근널힘줄의 영어 이름은 external oblique aponeurosis이다.",
+        "고샅굴앞벽의 영어 이름은 anterior wall of inguinal canal이다.",
+        "고샅굴뒤벽의 영어 이름은 posterior wall of inguinal canal이다.",
+        "고샅굴천장의 영어 이름은 roof of inguinal canal이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "고샅굴바닥의 영어 이름은 floor of inguinal canal이다.",
+        "고환올림근의 영어 이름은 cremaster muscle이다.",
+        "고환의 영어 이름은 testis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 10,
+          "text": "정관 ductus deferens 배가로근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "medial umbilical fold 배속빗근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "그림 6-15. 고살국의 형성과 정삭이 고살울올 지나는 모습올 보여주는 모식도",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "고샅굴천장(roof of inguinal canal)은 속배빗근(internal abdominal oblique muscle)의 아래모서리로 형성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "고샅굴천장(roof of inguinal canal)은 배가로근(transversus abdominis muscle)의 아래모서리로 형성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "고환올림근(cremaster muscle)은 정삭(spermatic cord)을 둘러싼다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "고샅굴(inguinal canal)의 4개 벽과 배가로근막, 정삭 관련 구조를 필기로 보강한 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "고샅굴천장(roof of inguinal canal) formed_by 속배빗근(internal abdominal oblique muscle)의 아래모서리",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "고샅굴천장(roof of inguinal canal) formed_by 배가로근(transversus abdominis muscle)의 아래모서리",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "고환올림근(cremaster muscle) surrounds 정삭(spermatic cord)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 28,
+        "accounted_term_count": 28,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "고샅굴앞벽(anterior wall of inguinal canal)",
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "고샅굴뒤벽(posterior wall of inguinal canal)",
+          "배가로근(transversus abdominis muscle)",
+          "고샅굴천장(roof of inguinal canal)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "고샅굴바닥(floor of inguinal canal)",
+          "고샅인대(inguinal ligament)",
+          "정삭(spermatic cord)",
+          "샅굴(inguinal canal)",
+          "정관(ductus deferens)",
+          "고환올림근(cremaster muscle)",
+          "앞벽(anterior wall)",
+          "바깥빗근(external oblique muscle)",
+          "배가로근막(transversalis fascia)",
+          "배(abdominal region)",
+          "근육(muscles)",
+          "복막(peritoneum)",
+          "속빗근(internal oblique muscle)",
+          "안쪽배꼽주름(medial umbilical fold)",
+          "배곧은근(rectus abdominis)",
+          "배벽(abdominal wall)",
+          "식도(esophagus)",
+          "샅(perineum)",
+          "널힘줄(aponeurosis)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "고환(testis)",
+          "깊은근막(deep fascia)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Inguinal canal올 둘러싸는 4개의 벽",
+        "anterior wall - external oblique aponeurosis가 형성함",
+        "posterior wall transversalis fascia",
+        "roof internal abdominal oblique muscle transversus abdominis muscle (활처럼 희어짐)",
+        "floor - inguinal ligament의 하반부(안쪽의 1/2)",
+        "곤거동a정지 복막 peritoneum",
+        "transversalis fascia",
+        "정관 ductus deferens 배가로근",
+        "transversus abdominis m",
+        "medial umbilical fold 배속빗근",
+        "internal abdominal",
+        "정중S름주-ica rposterior external abdominal",
+        "median fold oblique m",
+        "median umbilical lig.",
+        "rectus abdominis m",
+        "(medial umbilical a. anterior wall",
+        "배공용a집ah 아래배벽동 . 정액",
+        "inferior epigastric a and V.",
+        "spermatic cord",
+        "cremaster m",
+        "그림 6-15. 고살국의 형성과 정삭이 고살울올 지나는 모습올 보여주는 모식도"
+      ],
+      "supplemental_ocr_blocks": [
+        "a and V.",
+        "-배가로근막",
+        "안쪽배체주름",
+        "oblique m.",
+        "배바깥빗근",
+        "정중배꼼인대",
+        "배곧은근 roof",
+        "망화빼롭동때안팎내공인대",
+        "occluded",
+        "정식",
+        "고환올림근"
+      ],
+      "corrected_page_text": "Inguinal canal올 둘러싸는 4개의 벽\nanterior wall - external oblique aponeurosis가 형성함\nposterior wall transversalis fascia\nroof internal abdominal oblique muscle transversus abdominis muscle (활처럼 희어짐)\nfloor - inguinal ligament의 하반부(안쪽의 1/2)\n곤거동a정지 복막 peritoneum\ntransversalis fascia\n정관 ductus deferens 배가로근\ntransversus abdominis m\nmedial umbilical fold 배속빗근\ninternal abdominal\n정중S름주-ica rposterior external abdominal\nmedian fold oblique m\nmedian umbilical lig.\nrectus abdominis m\n(medial umbilical a. anterior wall\n배공용a집ah 아래배벽동 . 정액\ninferior epigastric a and V.\nspermatic cord\ncremaster m\n그림 6-15. 고살국의 형성과 정삭이 고살울올 지나는 모습올 보여주는 모식도",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 45,
+        "pdf_line_count": 0,
+        "ocr_line_count": 32,
+        "merged_line_count": 32,
+        "pdf_only_count": 0,
+        "ocr_only_count": 32,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 32,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 581,
+        "promoted_ocr_only_count": 21
+      }
+    }
+  }
+}

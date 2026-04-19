@@ -1,0 +1,479 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 23
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p023_course_배_필기본_023_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_001"
+      ],
+      "prompt": "_____의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p023_course_배_필기본_023_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 _____는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p023_course_배_필기본_023_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 상피(epithelium)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "단순원주상피(simple columnar epithelium)",
+        "accepted_answers": [
+          "단순원주상피(simple columnar epithelium)",
+          "simple columnar epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "단순원주상피(simple columnar epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 3,
+    "question_type_count": {
+      "fill_blank": 3
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 3
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__de0709e4e21e.json",
+        "review_image_url": "./data/images/20260407____1___3__p001__de0709e4e21e.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__e4a8dd59101a.json",
+        "review_image_url": "./data/images/20260407____1___3__p002__e4a8dd59101a.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__cf41b584bf74.json",
+        "review_image_url": "./data/images/20260407____1___3__p003__cf41b584bf74.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__9f4000acfc67.json",
+        "review_image_url": "./data/images/20260407____1___3__p004__9f4000acfc67.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__232cf053c92d.json",
+        "review_image_url": "./data/images/20260407____1___3__p005__232cf053c92d.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 31,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__54093efa185f.json",
+        "review_image_url": "./data/images/20260407____1___3__p006__54093efa185f.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__a70a40625276.json",
+        "review_image_url": "./data/images/20260407____1___3__p007__a70a40625276.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__d6f8d7e95b67.json",
+        "review_image_url": "./data/images/20260407____1___3__p008__d6f8d7e95b67.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 34,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__23c8755e9e36.json",
+        "review_image_url": "./data/images/20260407____1___3__p009__23c8755e9e36.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__0937ba3eb753.json",
+        "review_image_url": "./data/images/20260407____1___3__p010__0937ba3eb753.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p011__02b6aaed2df9.json",
+        "review_image_url": "./data/images/20260407____1___3__p011__02b6aaed2df9.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__b0e8e790c345.json",
+        "review_image_url": "./data/images/20260407____1___3__p012__b0e8e790c345.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__084a04030f82.json",
+        "review_image_url": "./data/images/20260407____1___3__p013__084a04030f82.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__56b1e637760c.json",
+        "review_image_url": "./data/images/20260407____1___3__p014__56b1e637760c.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__305c7bf2e716.json",
+        "review_image_url": "./data/images/20260407____1___3__p015__305c7bf2e716.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__2caf5b0ef729.json",
+        "review_image_url": "./data/images/20260407____1___3__p016__2caf5b0ef729.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 43,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__48d0502928ee.json",
+        "review_image_url": "./data/images/20260407____1___3__p017__48d0502928ee.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__d42f2c88fe50.json",
+        "review_image_url": "./data/images/20260407____1___3__p018__d42f2c88fe50.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__948068c61e82.json",
+        "review_image_url": "./data/images/20260407____1___3__p019__948068c61e82.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__19681aeccb32.json",
+        "review_image_url": "./data/images/20260407____1___3__p020__19681aeccb32.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__512643396465.json",
+        "review_image_url": "./data/images/20260407____1___3__p021__512643396465.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__c5d8c9b00c71.json",
+        "review_image_url": "./data/images/20260407____1___3__p022__c5d8c9b00c71.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__2fdf7a99f97e.json",
+        "review_image_url": "./data/images/20260407____1___3__p023__2fdf7a99f97e.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__c15c08ca2099.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__636f700e4408.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4fef9b65f4a6.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__d65f63ee10db.json"
+      }
+    ],
+    "current_index": 22,
+    "previous_page": 22,
+    "next_page": 24
+  },
+  "review_image_url": "./data/images/20260407____1___3__p023__2fdf7a99f97e.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 23
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "단순원주상피의 영어 이름은 simple columnar epithelium이다.",
+        "점액의 영어 이름은 mucin이다.",
+        "위의 영어 이름은 stomach이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "식도의 영어 이름은 esophagus이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 6,
+          "text": "NM 알갈리액 분비) 표면올 보호하다, 액은 바닥에",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 30,
+          "text": "위의 바닥(fundus)과 몸통(body)부위에 걸처서 위오목어는 다양한 유형 다: 으뜻세되C논 목부위에서 나타나기 시작하다: 이러한 원통형의 분비 세포의 액은 바닥 쪽에 있다",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "(a) 길제 꼬인 형태의 위심이 점막층 전체름 관통하여 위오gGP)으로부 (c) 점막근육편 MM) 가까이에서_이러한 분비생의 바닥은 더 적은 수의 gastring 분비하는",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "터 점막근육판(MM)까지 이어진다: 벽세포P)틀 함유하고 있으나 더 많은 수의 표소원 형성의 으뚱세되C틀 neuroendocrine cell",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 10,
+        "unresolved_term_count": 4,
+        "missing_term_count": 2,
+        "coverage_ratio": 0.625,
+        "accounted_terms": [
+          "으로부(c)",
+          "상피(epithelium)",
+          "단순원주상피(simple columnar epithelium)",
+          "점액(mucin)",
+          "위(stomach)",
+          "목(cervical region)",
+          "근육(muscles)",
+          "점막(mucosa)",
+          "식도(esophagus)",
+          "작은창자(small intestine)"
+        ],
+        "unresolved_terms": [
+          "위의바닥(fundus)",
+          "몸통(body)",
+          "터점막근육판(MM)",
+          "러한세포는염산을분비(d)"
+        ],
+        "missing_terms": [
+          "위심의목부위에서위오목올덮고있는표면점액세도(SM)",
+          "커다랗게두껑이보이기도하늘데특이한초미세구조틀가진강한호산(Both X200)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "(1) surface mucous cell",
+        "pit과 gland 부분으로 나님 simple columnar epithelium",
+        "GP SM 표면점액세포 '구성, apex에l mucinogenol",
+        "GP '(Surface mucous cell 있어서 유신올 함유하 알갈리성",
+        "유신올 함유하 점액올 분비한다. 위산으로부터",
+        "NM 알갈리액 분비) 표면올 보호하다, 액은 바닥에",
+        "잘t목 ' 산성 점액올 분비한다",
+        "위오목 타원형으로 위치하고 위쪽에",
+        "NM P (Gastric 목점액세포",
+        "유신올 함유한 (2) mucous neck cell",
+        "P NM 산성액 분비) '위가 넓고 바닥이 좁은 형태로",
+        "핵은 바닥에 있다. 유신 함유한",
+        "' 위산 분비) 수집@ 만두둘-둘무로-출산없",
+        "C C (Isthmnusl 벽세포",
+        "neck) (Parietal cell",
+        "(b) 내인자와 '(3) parietal cell",
+        "그냥 gland로 보면 팀",
+        "으뜰세포 fundus와 body에l 주로 분포",
+        "(Chief cell [cardiac과 pyloric에도 있지만",
+        "P 팬시노데과 {적게 분포하다.",
+        "위셈 위리파아제 분비 H+ 이온의 농도 역행이 일어나",
+        "(Gastric {이들 위한 에너지 생산올 위해",
+        "gland) 미도권드리아가 많다",
+        "혈액 속으로 (4) Chief cell",
+        "MM MM 가스트린올 팬시노건 리파아제 등 흙소생성",
+        "P 분비하는 gastric glands에 많으며",
+        "닮u분비세포) cardiaco는 없고 pyloric예는",
+        "'소량 분포 body의 1/3 아래",
+        "지점에 맘고; 피라미드형태이다",
+        "위의 바닥(fundus)과 몸통(body)부위에 걸처서 위오목어는 다양한 유형 다: 으뜻세되C논 목부위에서 나타나기 시작하다: 이러한 원통형의 분비 세포의 액은 바닥 쪽에 있다",
+        "의 위심이 존자한다: 셈 주변에는 결합조직 속의 다양한 세포와 미세혈관구조가 존재한다:",
+        "(a) 길제 꼬인 형태의 위심이 점막층 전체름 관통하여 위오gGP)으로부 (c) 점막근육편 MM) 가까이에서_이러한 분비생의 바닥은 더 적은 수의 gastring 분비하는",
+        "터 점막근육판(MM)까지 이어진다: 벽세포P)틀 함유하고 있으나 더 많은 수의 표소원 형성의 으뚱세되C틀 neuroendocrine cell",
+        "(b) 위심의 목부위에서 위오목올 덮고 있는 표면점액세도(SM) 아래는 작 가지고 있다: 으름시포는 구리지어 발견되논데 바닥핵과 호염기성의 새",
+        "은 목정액세포NM)가 분포하는데 개별적으로 흩어저 있거나 혹은 표면 포질올 가지고 있다: 으름세포의 꼭대기 부분으로부터 팬시노권이 분비",
+        "세포P틀 따라서 무리지어 잇고 또한 위심의 모든 상피세포틀 만드는 줄 되는데 이것은 주요 단백질 분해료소인 필신의 호소원 전구물짙이다: 호",
+        "기세포가 위치하다: 많은 수의 벽세포(P는 종종 관으로부터 부.어 올라 소원과림은 일반적인 분석과정에서 종종 제거되거나 약하게 염색되다:",
+        "커다랗게 두껑이 보이기도 하늘데 특이한 초미세구조틀 가진 강한 호산 (Both X200; H8E)",
+        "성 세포질로 둘러싸인 중심액올 가지고 있다: 이러한 세포는 염산을 분비 (d) 주요 위분비세포의 일반적인 형태과 기능울 보여주는 모식도",
+        "하고 이 과정에 필요한 많은 수의 미토론드리아는 호산구증가증올 유발한"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 15-17 위셈",
+        "미세움모가 있다.",
+        "pit) (Mucous",
+        "neck cell",
+        "G 세포",
+        "'(G cell,",
+        "(a) (c) (d)",
+        "(5) G cell"
+      ],
+      "corrected_page_text": "(1) surface mucous cell\npit과 gland 부분으로 나님 simple columnar epithelium\nGP SM 표면점액세포 '구성, apex에l mucinogenol\nGP '(Surface mucous cell 있어서 유신올 함유하 알갈리성\n유신올 함유하 점액올 분비한다. 위산으로부터\nNM 알갈리액 분비) 표면올 보호하다, 액은 바닥에\n잘t목 ' 산성 점액올 분비한다\n위오목 타원형으로 위치하고 위쪽에\nNM P (Gastric 목점액세포\n유신올 함유한 (2) mucous neck cell\nP NM 산성액 분비) '위가 넓고 바닥이 좁은 형태로\n핵은 바닥에 있다. 유신 함유한\n' 위산 분비) 수집@ 만두둘-둘무로-출산없\nC C (Isthmnusl 벽세포\nneck) (Parietal cell\n(b) 내인자와 '(3) parietal cell\n그냥 gland로 보면 팀\n으뜰세포 fundus와 body에l 주로 분포\n(Chief cell [cardiac과 pyloric에도 있지만\nP 팬시노데과 {적게 분포하다.\n위셈 위리파아제 분비 H+ 이온의 농도 역행이 일어나\n(Gastric {이들 위한 에너지 생산올 위해\ngland) 미도권드리아가 많다\n혈액 속으로 (4) Chief cell\nMM MM 가스트린올 팬시노건 리파아제 등 흙소생성\nP 분비하는 gastric glands에 많으며\n닮u분비세포) cardiaco는 없고 pyloric예는\n'소량 분포 body의 1/3 아래\n지점에 맘고; 피라미드형태이다\n위의 바닥(fundus)과 몸통(body)부위에 걸처서 위오목어는 다양한 유형 다: 으뜻세되C논 목부위에서 나타나기 시작하다: 이러한 원통형의 분비 세포의 액은 바닥 쪽에 있다\n의 위심이 존자한다: 셈 주변에는 결합조직 속의 다양한 세포와 미세혈관구조가 존재한다:\n(a) 길제 꼬인 형태의 위심이 점막층 전체름 관통하여 위오gGP)으로부 (c) 점막근육편 MM) 가까이에서_이러한 분비생의 바닥은 더 적은 수의 gastring 분비하는\n터 점막근육판(MM)까지 이어진다: 벽세포P)틀 함유하고 있으나 더 많은 수의 표소원 형성의 으뚱세되C틀 neuroendocrine cell\n(b) 위심의 목부위에서 위오목올 덮고 있는 표면점액세도(SM) 아래는 작 가지고 있다: 으름시포는 구리지어 발견되논데 바닥핵과 호염기성의 새\n은 목정액세포NM)가 분포하는데 개별적으로 흩어저 있거나 혹은 표면 포질올 가지고 있다: 으름세포의 꼭대기 부분으로부터 팬시노권이 분비\n세포P틀 따라서 무리지어 잇고 또한 위심의 모든 상피세포틀 만드는 줄 되는데 이것은 주요 단백질 분해료소인 필신의 호소원 전구물짙이다: 호\n기세포가 위치하다: 많은 수의 벽세포(P는 종종 관으로부터 부.어 올라 소원과림은 일반적인 분석과정에서 종종 제거되거나 약하게 염색되다:\n커다랗게 두껑이 보이기도 하늘데 특이한 초미세구조틀 가진 강한 호산 (Both X200; H8E)\n성 세포질로 둘러싸인 중심액올 가지고 있다: 이러한 세포는 염산을 분비 (d) 주요 위분비세포의 일반적인 형태과 기능울 보여주는 모식도\n하고 이 과정에 필요한 많은 수의 미토론드리아는 호산구증가증올 유발한",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 101,
+        "pdf_line_count": 0,
+        "ocr_line_count": 48,
+        "merged_line_count": 48,
+        "pdf_only_count": 0,
+        "ocr_only_count": 48,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 48,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 1182,
+        "promoted_ocr_only_count": 40
+      }
+    }
+  }
+}

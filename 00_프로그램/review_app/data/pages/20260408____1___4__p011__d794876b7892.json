@@ -1,0 +1,1118 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 11
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "_____의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 _____는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 상피(epithelium)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "단순원주상피(simple columnar epithelium)",
+        "accepted_answers": [
+          "단순원주상피(simple columnar epithelium)",
+          "simple columnar epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "단순원주상피(simple columnar epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "_____의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "작은창자(small intestine)의 _____에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "작은창자(small intestine)의 상피(epithelium)에는 _____와 술잔세포(goblet cell)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "흡수세포(enterocyte)",
+        "accepted_answers": [
+          "흡수세포(enterocyte)",
+          "enterocyte"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "흡수세포(enterocyte)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "술잔세포(goblet cell)",
+        "accepted_answers": [
+          "술잔세포(goblet cell)",
+          "goblet cell",
+          "goblet cells"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "술잔세포(goblet cell)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_003"
+      ],
+      "prompt": "_____은 점막(mucosa)이 형성한 주름이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌림주름(circular folds)",
+        "accepted_answers": [
+          "돌림주름(circular folds)",
+          "Circular folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌림주름(circular folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌림주름(circular folds)은 점막(mucosa)이 형성한 주름이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_003"
+      ],
+      "prompt": "돌림주름(circular folds)은 _____이 형성한 주름이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)",
+          "mucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌림주름(circular folds)은 점막(mucosa)이 형성한 주름이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_004"
+      ],
+      "prompt": "_____의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장융모(intestinal villi)",
+        "accepted_answers": [
+          "장융모(intestinal villi)",
+          "intestinal villi",
+          "intestinal villus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장융모(intestinal villi)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_004"
+      ],
+      "prompt": "장융모(intestinal villi)의 _____ 중심에는 암죽관(lacteal)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막고유층(lamina propria)",
+        "accepted_answers": [
+          "점막고유층(lamina propria)",
+          "lamina propria"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막고유층(lamina propria)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_004"
+      ],
+      "prompt": "장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "암죽관(lacteal)",
+        "accepted_answers": [
+          "암죽관(lacteal)",
+          "lacteal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "암죽관(lacteal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_006"
+      ],
+      "prompt": "_____은 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌림주름(circular folds)",
+        "accepted_answers": [
+          "돌림주름(circular folds)",
+          "Circular folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌림주름(circular folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌림주름(circular folds)은 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_006"
+      ],
+      "prompt": "돌림주름(circular folds)은 _____의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌림주름(circular folds)은 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_007"
+      ],
+      "prompt": "_____는 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장융모(intestinal villi)",
+        "accepted_answers": [
+          "장융모(intestinal villi)",
+          "intestinal villi",
+          "intestinal villus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장융모(intestinal villi)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)는 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_007"
+      ],
+      "prompt": "장융모(intestinal villi)는 _____의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)는 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_009"
+      ],
+      "prompt": "_____는 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "미세융모(microvilli)",
+        "accepted_answers": [
+          "미세융모(microvilli)",
+          "microvilli",
+          "microvillus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "미세융모(microvilli)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 미세융모(microvilli)는 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_009"
+      ],
+      "prompt": "미세융모(microvilli)는 _____의 흡수 표면적을 넓힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 미세융모(microvilli)는 작은창자(small intestine)의 흡수 표면적을 넓힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_012"
+      ],
+      "prompt": "_____는 점액(mucin)을 분비하는 단세포샘(unicellular gland)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "술잔세포(goblet cell)",
+        "accepted_answers": [
+          "술잔세포(goblet cell)",
+          "goblet cell",
+          "goblet cells"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "술잔세포(goblet cell)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 술잔세포(goblet cell)는 점액(mucin)을 분비하는 단세포샘(unicellular gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_012"
+      ],
+      "prompt": "술잔세포(goblet cell)는 _____을 분비하는 단세포샘(unicellular gland)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점액(mucin)",
+        "accepted_answers": [
+          "점액(mucin)",
+          "mucin"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점액(mucin)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 술잔세포(goblet cell)는 점액(mucin)을 분비하는 단세포샘(unicellular gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_012"
+      ],
+      "prompt": "술잔세포(goblet cell)는 점액(mucin)을 분비하는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "단세포샘(unicellular gland)",
+        "accepted_answers": [
+          "단세포샘(unicellular gland)",
+          "unicellular gland"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "단세포샘(unicellular gland)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 술잔세포(goblet cell)는 점액(mucin)을 분비하는 단세포샘(unicellular gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_013"
+      ],
+      "prompt": "_____은 장융모(intestinal villi) 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자샘(intestinal glands)",
+        "accepted_answers": [
+          "창자샘(intestinal glands)",
+          "intestinal glands",
+          "intestinal gland",
+          "crypts of Lieberkuhn"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자샘(intestinal glands)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자샘(intestinal glands)은 장융모(intestinal villi) 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_013"
+      ],
+      "prompt": "창자샘(intestinal glands)은 _____ 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장융모(intestinal villi)",
+        "accepted_answers": [
+          "장융모(intestinal villi)",
+          "intestinal villi",
+          "intestinal villus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장융모(intestinal villi)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자샘(intestinal glands)은 장융모(intestinal villi) 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p011_course_배_필기본_011_course_013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_013"
+      ],
+      "prompt": "창자샘(intestinal glands)은 장융모(intestinal villi) 사이에서 시작하여 _____까지 뻗는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막근육층(muscularis mucosae)",
+        "accepted_answers": [
+          "점막근육층(muscularis mucosae)",
+          "muscularis mucosae"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막근육층(muscularis mucosae)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자샘(intestinal glands)은 장융모(intestinal villi) 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 24,
+    "question_type_count": {
+      "fill_blank": 24
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 24
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json",
+        "review_image_url": "./data/images/20260408____1___4__p004__14b5f2000d36.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json",
+        "review_image_url": "./data/images/20260408____1___4__p005__176e537841fb.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json",
+        "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json",
+        "review_image_url": "./data/images/20260408____1___4__p007__d5fa6a9b8c01.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json",
+        "review_image_url": "./data/images/20260408____1___4__p008__916dbe5cb8d4.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json",
+        "review_image_url": "./data/images/20260408____1___4__p009__76a8b4115b7b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json",
+        "review_image_url": "./data/images/20260408____1___4__p010__3ed52812c2a2.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json",
+        "review_image_url": "./data/images/20260408____1___4__p011__d794876b7892.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 10,
+    "previous_page": 10,
+    "next_page": 12
+  },
+  "review_image_url": "./data/images/20260408____1___4__p011__d794876b7892.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 11
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+        "작은창자(small intestine)의 상피(epithelium)에는 흡수세포(enterocyte)와 술잔세포(goblet cell)가 있다.",
+        "돌림주름(circular folds)은 점막(mucosa)이 형성한 주름이다.",
+        "장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다.",
+        "술잔세포(goblet cell)는 PAS 염색에서 잘 관찰된다.",
+        "돌림주름(circular folds)은 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+        "장융모(intestinal villi)는 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+        "미세융모(microvilli)는 작은창자(small intestine)의 흡수 표면적을 넓힌다.",
+        "술잔세포(goblet cell)는 점액(mucin)을 분비하는 단세포샘(unicellular gland)이다.",
+        "창자샘(intestinal glands)은 장융모(intestinal villi) 사이에서 시작하여 점막근육층(muscularis mucosae)까지 뻗는다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "위의 영어 이름은 stomach이다.",
+        "돌림주름의 영어 이름은 circular folds이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "단순원주상피의 영어 이름은 simple columnar epithelium이다.",
+        "흡수세포의 영어 이름은 enterocyte이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "미세융모의 영어 이름은 microvilli이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "창자샘의 영어 이름은 intestinal glands이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "점막근육층의 영어 이름은 muscularis mucosae이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "라이소자임의 영어 이름은 lysozyme이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "암죽관의 영어 이름은 lacteal이다.",
+        "장융모의 영어 이름은 intestinal villi이다.",
+        "술잔세포의 영어 이름은 goblet cell이다.",
+        "점액의 영어 이름은 mucin이다.",
+        "단세포샘의 영어 이름은 unicellular gland이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": ": circular folds intestinal villi과그곳에형성",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "Lamina propria () : intestinal gland()점막고유층창자샘",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "Lamina propria Muscularis mucosae @@물고콤학출 상자세포",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 21,
+        "accounted_term_count": 21,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "돌림주름(circular folds)",
+          "작은창자(small intestine)",
+          "점막(mucosa)",
+          "위(stomach)",
+          "상피(epithelium)",
+          "단순원주상피(simple columnar epithelium)",
+          "흡수세포(enterocyte)",
+          "배(abdominal region)",
+          "미세융모(microvilli)",
+          "점막고유층(lamina propria)",
+          "창자샘(intestinal glands)",
+          "근육(muscles)",
+          "점막근육층(muscularis mucosae)",
+          "근육층(muscularis externa)",
+          "라이소자임(lysozyme)",
+          "샘창자(duodenum)",
+          "암죽관(lacteal)",
+          "장융모(intestinal villi)",
+          "술잔세포(goblet cell)",
+          "점액(mucin)",
+          "단세포샘(unicellular gland)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Histology of small intestine",
+        "= 흡수의역할을하므로점막표면적을넓히기위한",
+        "특수구조를가진다",
+        ": circular folds intestinal villi과그곳에형성",
+        "Epithelium() : simple columnar epithelium / : enterocyte, goblet cell상피구성세포",
+        "microvilli 이를배열하는세포들도갖고있음",
+        "Lamina propria () : intestinal gland()점막고유층창자샘",
+        "Muscularis mucosae ()점막근육층",
+        "microvilli 꼭데기에잘발달해영양분흡수역할",
+        "= (simple columnar)긴원주형구조",
+        "Lamina propria Muscularis mucosae @@물고콤학출 상자세포",
+        "(enterocyte 영양분 춤수)",
+        "·",
+        "- 호산성의분비과립을가짐",
+        "-피라미드모양",
+        "- 바닥쪽에존재하며세균침투시세포벽과결합하여",
+        "lysozyme() , 향균효소로파괴하는선천면역창자미세환경조절역할",
+        "돌림수름 고세컨관 그분",
+        "·",
+        "점막콩 (Circular folds) (Capillary network)",
+        "일반적인샘구조없음",
+        ")duodenum, esophagus예외",
+        "lamina propria : lacteal () 의구조가운데림프관존재",
+        "→= [ 15-28]융모에서흡수된지방질의물질을운반그림",
+        "多",
+        "gland자기의가짐",
+        "- 분비세포중유일하게",
+        "unicellular 한세포",
+        "- H&E 염색되지않고",
+        ".빈부분이생김",
+        "goblet cell . PAS .구멍뚫린듯빈부분은이라보면됨염색등으로당질염색하면진하게보임"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 15-22 작은 창자의 음수면 circular folds과 그곳에 intestinal",
+        "intestinal gandl창자생",
+        "근육층(Muscularis) 시모",
+        "안포돌림하(Inner circulat layer) 돌림수름 유미관 때\" cells;",
+        "바깥 세고청Outer longitudinal layer) (Circular folds) (Lacteal) 선천 면역)",
+        "장막촌Serosa) ~gland의l 바닥부분에 존재",
+        "(a) 충(Layers) 상자생 ~호산성의 분비과립올 가짐",
+        "입따설 ~캐라지중로안",
+        "(Intestinal",
+        "Uymofalier 바조z애i 해한편 세름q되하샌포번적활x히 세한경조절 역할",
+        "세군침투시",
+        "(IIntestinal tm용용 (Muscularis mucosae)",
+        "슬내oCenole vessel) ~움모사이에 구멍이 난 것 같은모양",
+        "(Subrat하 \"콤륭렉epbiee -muscularis mnucosae까지 뻗어있는 gland",
+        "읽화점안 t7z없움ophagus , Iarnina 구조: 가운데 lacteal 존재",
+        "\"miBa[ppt모일 국중출으운국]a로린( (@플필주씬2이",
+        "[+",
+        "'(n림:cular ayu) (a) 점막증과 점막믿종은 작은창자의 네 가지 동심원층 중에 안쪽 2개 총",
+        "근유종(Muscularis)",
+        "장막종(Serosa) 바깥세로층 이다:",
+        "(Outer longitudinal layer)",
+        "(b) 이들은 원형주름올 형성하는데 이로씨 흙수면적이 증가하게 된다:",
+        "(b) 작은창자의 단면(Section of small intestine)",
+        "(c) 이들은 손가락 모양의 움모로 뒤덮여 있다: 안쪽으로 각각의 움모들은",
+        "창자속공간HIntestinal lumen) 미세움모 유미관이라 불리논 모세림프관과 모세혈관올 가진 고유판결합조직올 함",
+        "홍보 Villi) (Microvilli)",
+        "단종원주상피",
+        "(Simple colurnnar",
+        "epithelium)",
+        "고유판",
+        "자기의 gland가짐 오'",
+        "(Larnina propria)",
+        "순잔서포 '창자속공간",
+        "(Goblet cell) (Intestinal lumen)",
+        "분비세포 중 유일하게",
+        "unicellular한 세포",
+        "\"뽑물물어 s집다고 이 디Ng되wcovm\"",
+        "(d) 창지움모(Intestinal villus) 구멍뚱권 듯 반 부분은 goblet cell이라 보면 팀. PAS염색 등으로 당질 염색하면 진하게 보임."
+      ],
+      "corrected_page_text": "Histology of small intestine\n= 흡수의역할을하므로점막표면적을넓히기위한\n특수구조를가진다\n: circular folds intestinal villi과그곳에형성\nEpithelium() : simple columnar epithelium / : enterocyte, goblet cell상피구성세포\nmicrovilli 이를배열하는세포들도갖고있음\nLamina propria () : intestinal gland()점막고유층창자샘\nMuscularis mucosae ()점막근육층\nmicrovilli 꼭데기에잘발달해영양분흡수역할\n= (simple columnar)긴원주형구조\nLamina propria Muscularis mucosae @@물고콤학출 상자세포\n(enterocyte 영양분 춤수)\n·\n- 호산성의분비과립을가짐\n-피라미드모양\n- 바닥쪽에존재하며세균침투시세포벽과결합하여\nlysozyme() , 향균효소로파괴하는선천면역창자미세환경조절역할\n돌림수름 고세컨관 그분\n·\n점막콩 (Circular folds) (Capillary network)\n일반적인샘구조없음\n)duodenum, esophagus예외\nlamina propria : lacteal () 의구조가운데림프관존재\n→= [ 15-28]융모에서흡수된지방질의물질을운반그림\n多\ngland자기의가짐\n- 분비세포중유일하게\nunicellular 한세포\n- H&E 염색되지않고\n.빈부분이생김\ngoblet cell . PAS .구멍뚫린듯빈부분은이라보면됨염색등으로당질염색하면진하게보임",
+      "quality_audit": {
+        "pdf_char_count": 643,
+        "pdf_span_count": 145,
+        "pdf_word_count": 134,
+        "ocr_fragment_count": 100,
+        "pdf_line_count": 31,
+        "ocr_line_count": 52,
+        "merged_line_count": 69,
+        "pdf_only_count": 17,
+        "ocr_only_count": 38,
+        "replaced_with_ocr_count": 4,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 31,
+        "ocr_only_line_count": 38,
+        "pdf_alpha_count": 607,
+        "ocr_alpha_count": 875,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

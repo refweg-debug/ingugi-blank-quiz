@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "source": "review_app",
+  "workspace": "인구기",
+  "output_dir": "data",
+  "version": [
+    634,
+    1776418614956486600,
+    14311384
+  ],
+  "unit_count": 3,
+  "page_count": 814,
+  "question_count": 12116,
+  "image_count": 682,
+  "missing_image_count": 132,
+  "image_bytes": 40043390,
+  "skip_images": false
+}

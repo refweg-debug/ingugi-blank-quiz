@@ -1,0 +1,1008 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 22,
+    "note_page_number": 22,
+    "source_page_number": 22,
+    "original_page_number": 22,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_001"
+      ],
+      "prompt": "_____은 아래대정맥(inferior vena cava)으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간정맥(hepatic veins)",
+        "accepted_answers": [
+          "간정맥(hepatic veins)",
+          "hepatic veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간정맥(hepatic veins)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간정맥(hepatic veins)은 아래대정맥(inferior vena cava)으로 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_001"
+      ],
+      "prompt": "간정맥(hepatic veins)은 _____으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)",
+          "inferior vena cava"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간정맥(hepatic veins)은 아래대정맥(inferior vena cava)으로 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "_____은 문맥(portal vein) 계통을 따라 간으로 간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽곁정맥(paraumbilical vein)",
+        "accepted_answers": [
+          "배꼽곁정맥(paraumbilical vein)",
+          "paraumbilical vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽곁정맥(paraumbilical vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical vein)은 문맥(portal vein) 계통을 따라 간으로 간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_005"
+      ],
+      "prompt": "_____은 가쪽가슴정맥(lateral thoracic vein)과 얕은배벽정맥(superficial epigastric vein)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴배벽정맥(thoracoepigastric vein)",
+        "accepted_answers": [
+          "가슴배벽정맥(thoracoepigastric vein)",
+          "thoracoepigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴배벽정맥(thoracoepigastric vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배벽정맥(thoracoepigastric vein)은 가쪽가슴정맥(lateral thoracic vein)과 얕은배벽정맥(superficial epigastric vein)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_005"
+      ],
+      "prompt": "가슴배벽정맥(thoracoepigastric vein)은 _____과 얕은배벽정맥(superficial epigastric vein)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽가슴정맥(lateral thoracic vein)",
+        "accepted_answers": [
+          "가쪽가슴정맥(lateral thoracic vein)",
+          "lateral thoracic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽가슴정맥(lateral thoracic vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배벽정맥(thoracoepigastric vein)은 가쪽가슴정맥(lateral thoracic vein)과 얕은배벽정맥(superficial epigastric vein)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_005_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_005"
+      ],
+      "prompt": "가슴배벽정맥(thoracoepigastric vein)은 가쪽가슴정맥(lateral thoracic vein)과 _____을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배벽정맥(thoracoepigastric vein)은 가쪽가슴정맥(lateral thoracic vein)과 얕은배벽정맥(superficial epigastric vein)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_006"
+      ],
+      "prompt": "_____은 문맥(portal vein) 압력이 상승한 상태이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥고혈압(portal hypertension)",
+        "accepted_answers": [
+          "간문맥고혈압(portal hypertension)",
+          "portal hypertension"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥고혈압(portal hypertension)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥고혈압(portal hypertension)은 문맥(portal vein) 압력이 상승한 상태이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_009"
+      ],
+      "prompt": "_____과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽곁정맥(paraumbilical vein)",
+        "accepted_answers": [
+          "배꼽곁정맥(paraumbilical vein)",
+          "paraumbilical vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽곁정맥(paraumbilical vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical vein)과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_009"
+      ],
+      "prompt": "배꼽곁정맥(paraumbilical vein)과 _____은 문맥-온몸정맥 곁순환 경로를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical vein)과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 _____을 거쳐 아래대정맥(inferior vena cava)로 간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간정맥(hepatic veins)",
+        "accepted_answers": [
+          "간정맥(hepatic veins)",
+          "hepatic veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간정맥(hepatic veins)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 아래대정맥(inferior vena cava)로 간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 _____로 간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)",
+          "inferior vena cava"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 아래대정맥(inferior vena cava)로 간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "_____ 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 아래대정맥(inferior vena cava)로 간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥(portal vein)",
+        "accepted_answers": [
+          "문맥(portal vein)",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥(portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 아래대정맥(inferior vena cava)로 간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_003"
+      ],
+      "prompt": "_____은 넙다리정맥(femoral vein)으로 빠져나간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은배벽정맥(superficial epigastric vein)은 넙다리정맥(femoral vein)으로 빠져나간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_003"
+      ],
+      "prompt": "얕은배벽정맥(superficial epigastric vein)은 _____으로 빠져나간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리정맥(femoral vein)",
+        "accepted_answers": [
+          "넙다리정맥(femoral vein)",
+          "femoral vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리정맥(femoral vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은배벽정맥(superficial epigastric vein)은 넙다리정맥(femoral vein)으로 빠져나간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_005"
+      ],
+      "prompt": "_____과 앞가쪽배벽의 얕은정맥들은 문맥-대정맥 문합(portocaval anastomosis)과 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽곁정맥(paraumbilical vein)",
+        "accepted_answers": [
+          "배꼽곁정맥(paraumbilical vein)",
+          "paraumbilical vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽곁정맥(paraumbilical vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical vein)과 앞가쪽배벽의 얕은정맥들은 문맥-대정맥 문합(portocaval anastomosis)과 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "_____은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위배벽정맥(superior epigastric vein)",
+        "accepted_answers": [
+          "위배벽정맥(superior epigastric vein)",
+          "superior epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위배벽정맥(superior epigastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "위배벽정맥(superior epigastric vein)은 위쪽에서, _____과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽정맥(inferior epigastric vein)",
+        "accepted_answers": [
+          "아래배벽정맥(inferior epigastric vein)",
+          "inferior epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽정맥(inferior epigastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_course_배_필기본_022_ai_corrected_006_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 _____은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽곁정맥(paraumbilical vein)의 배출 경로는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥(portal vein)",
+        "accepted_answers": [
+          "문맥(portal vein)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥(portal vein)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 배꼽곁정맥(paraumbilical vein) / predicate: drains_to / object: 문맥(portal vein)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_visual_visual_relation_001_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽곁정맥(paraumbilical vein)의 배출 경로는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥(portal vein) 계통",
+        "accepted_answers": [
+          "문맥(portal vein) 계통"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥(portal vein) 계통",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 배꼽곁정맥(paraumbilical vein) / predicate: drains_to / object: 문맥(portal vein) 계통"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "간정맥(hepatic veins)의 배출 경로는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 간정맥(hepatic veins) / predicate: drains_to / object: 아래대정맥(inferior vena cava)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p022_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "얕은배벽정맥(superficial epigastric vein)의 배출 경로는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리정맥(femoral vein)",
+        "accepted_answers": [
+          "넙다리정맥(femoral vein)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리정맥(femoral vein)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p022_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 얕은배벽정맥(superficial epigastric vein) / predicate: drains_to / object: 넙다리정맥(femoral vein)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 22,
+    "question_type_count": {
+      "fill_blank": 18,
+      "image_grounded_fill_blank": 4
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9,
+      "course_exam_style": 9,
+      "visual_relation_understanding": 4
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__21a24649b85f.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__6a5c4c49c1f2.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__f477c3aac9cd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__955eb52e460f.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__afcf110a0b5b.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__2203f8357a8a.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__77493632634b.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__a6dc0a7c10f6.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__a2239bcf6f6d.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__6d362694e762.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__d7f6008f517d.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__00c1cb058ea0.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__14f73874f0f6.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__fdd189632937.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__4107fde4f74b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__e3a9f01e2a33.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__089341e8fcfb.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__be505a5a6844.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__4a29d2f09b2a.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__7a7e617b7487.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__825d41c1d282.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__7fa11831b2d9.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__f34e22a92fdb.json"
+      }
+    ],
+    "current_index": 21,
+    "previous_page": 21,
+    "next_page": 23
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 22
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "간정맥(hepatic veins)은 아래대정맥(inferior vena cava)으로 들어간다.",
+        "배꼽곁정맥(paraumbilical vein)은 문맥(portal vein) 계통을 따라 간으로 간다.",
+        "얕은배벽정맥(superficial epigastric vein)은 넙다리정맥(femoral vein)으로 들어간다.",
+        "가슴배벽정맥(thoracoepigastric vein)은 가쪽가슴정맥(lateral thoracic vein)과 얕은배벽정맥(superficial epigastric vein)을 연결한다.",
+        "간문맥고혈압(portal hypertension)은 문맥(portal vein) 압력이 상승한 상태이다.",
+        "배꼽 주위 정맥이 확장되어 보이는 소견을 caput medusae라고 한다.",
+        "배꼽곁정맥(paraumbilical vein)과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다.",
+        "문맥(portal vein) 계통을 통해 간으로 들어간 혈액은 간정맥(hepatic veins)을 거쳐 아래대정맥(inferior vena cava)로 간다.",
+        "얕은배벽정맥(superficial epigastric vein)은 넙다리정맥(femoral vein)으로 빠져나간다.",
+        "배꼽곁정맥(paraumbilical vein)과 앞가쪽배벽의 얕은정맥들은 문맥-대정맥 문합(portocaval anastomosis)과 관련된다.",
+        "위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다.",
+        "간문맥의 영어 이름은 hepatic portal vein이다.",
+        "간의 영어 이름은 liver이다.",
+        "간문맥계의 영어 이름은 portal venous system이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "배꼽곁정맥의 영어 이름은 paraumbilical vein이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "간정맥의 영어 이름은 hepatic veins이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "얕은배벽정맥의 영어 이름은 superficial epigastric vein이다.",
+        "넙다리정맥의 영어 이름은 femoral vein이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "가쪽가슴정맥의 영어 이름은 lateral thoracic vein이다.",
+        "가슴배벽정맥의 영어 이름은 thoracoepigastric vein이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "간문맥고혈압의 영어 이름은 portal hypertension이다.",
+        "위배벽정맥의 영어 이름은 superior epigastric vein이다.",
+        "아래배벽정맥의 영어 이름은 inferior epigastric vein이다.",
+        "위의 영어 이름은 stomach이다.",
+        "속가슴정맥의 영어 이름은 internal thoracic vein이다.",
+        "얕은엉덩휘돌이정맥의 영어 이름은 superficial circumflex iliac vein이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 7,
+          "text": "문맥 고혈압 생기면 배꼽 주변에 혈관이 보임 ->",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "배꼽곁정맥(paraumbilical vein)과 앞가쪽배벽의 얕은정맥들은 문맥-대정맥 문합(portocaval anastomosis)과 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 관여한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "배꼽곁정맥(paraumbilical vein) participates_in 문맥-대정맥 문합(portocaval anastomosis)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "가슴배벽정맥(thoracoepigastric vein)은 가슴쪽과 배벽의 표재정맥을 잇는 연결정맥으로 표시된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 12,
+          "text": "위배벽정맥(superior epigastric vein)은 위쪽에서, 아래배벽정맥(inferior epigastric vein)과 얕은배벽정맥(superficial epigastric vein)은 아래쪽에서 앞가쪽배벽 정맥 배출에 참여한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vein 가슴배벽정맥(thoracoepigastric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vein 배꼽곁정맥(paraumbilical vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vein 위배벽정맥(superior epigastric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vein 아래배벽정맥(inferior epigastric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "가슴배벽정맥(thoracoepigastric vein) is_connection_between 가슴쪽 표재정맥과 배벽 표재정맥",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 24,
+        "accounted_term_count": 24,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배꼽곁정맥(paraumbilical vein)",
+          "간문맥(hepatic portal vein)",
+          "아래대정맥(inferior vena cava)",
+          "얕은배벽정맥(superficial epigastric vein)",
+          "넙다리정맥(femoral vein)",
+          "가슴배벽정맥(thoracoepigastric vein)",
+          "간문맥고혈압(portal hypertension)",
+          "위배벽정맥(superior epigastric vein)",
+          "아래배벽정맥(inferior epigastric vein)",
+          "간정맥(hepatic veins)",
+          "가쪽가슴정맥(lateral thoracic vein)",
+          "문맥-대정맥문합(portocaval anastomosis)",
+          "간(liver)",
+          "간문맥계(portal venous system)",
+          "배(abdominal region)",
+          "caput medusae",
+          "대정맥(vena cava)",
+          "배벽(abdominal wall)",
+          "가슴(thorax)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "간문(porta hepatis)",
+          "위(stomach)",
+          "속가슴정맥(internal thoracic vein)",
+          "얕은엉덩휘돌이정맥(superficial circumflex iliac vein)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "internal thoracic V.",
+        "lateral thoracic V",
+        "thoracoepigatric V.",
+        "superior epigastric V.",
+        "paraumbilical V.",
+        "inferior epigastric V.",
+        "알은배벽정맥 알은엉덩뤄돌이정맥",
+        "superficial epigastric V. superficial circumflex",
+        "그림 6-11. 앞가족배벽의 정매분포"
+      ],
+      "supplemental_ocr_blocks": [
+        "속가슴정댁",
+        "가족가슴정맥",
+        "가슴배벽정맥",
+        "위배벽정맥",
+        "배꼼옆정맥",
+        "아래배벽정맥",
+        "iliac V."
+      ],
+      "corrected_page_text": "internal thoracic V.\nlateral thoracic V\nthoracoepigatric V.\nsuperior epigastric V.\nparaumbilical V.\ninferior epigastric V.\n알은배벽정맥 알은엉덩뤄돌이정맥\nsuperficial epigastric V. superficial circumflex\n그림 6-11. 앞가족배벽의 정매분포",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 18,
+        "pdf_line_count": 0,
+        "ocr_line_count": 16,
+        "merged_line_count": 16,
+        "pdf_only_count": 0,
+        "ocr_only_count": 16,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 16,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 211,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

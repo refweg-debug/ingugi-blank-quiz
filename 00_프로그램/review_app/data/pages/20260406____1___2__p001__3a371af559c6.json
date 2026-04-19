@@ -1,0 +1,2113 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 1
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalisfascia",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_001_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalisfascia",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "배가로근막(transversalis fascia)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversusabdominismuscle",
+          "transversus abdominis muscle",
+          "transversusabdominis",
+          "transversus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽배꼽주름(lateral umbilical fold)은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽배꼽주름(lateral umbilical fold)은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "가쪽배꼽주름(lateral umbilical fold)은 _____을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽배꼽주름(lateral umbilical fold)은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_002_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "가쪽배꼽주름(lateral umbilical fold)은 _____을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽배꼽주름(lateral umbilical fold)은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "_____은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "방광위오목(supravesical fossa)",
+        "accepted_answers": [
+          "방광위오목(supravesical fossa)",
+          "supravesicalfossa",
+          "supravesical fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "방광위오목(supravesical fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "_____은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "방광위오목(supravesical fossa)",
+        "accepted_answers": [
+          "방광위오목(supravesical fossa)",
+          "supravesicalfossa",
+          "supravesical fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "방광위오목(supravesical fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "방광위오목(supravesical fossa)은 _____과 안쪽배꼽주름(medial umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중배꼽주름(median umbilical fold)",
+        "accepted_answers": [
+          "정중배꼽주름(median umbilical fold)",
+          "medianumbilicalfold",
+          "median umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중배꼽주름(median umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "방광위오목(supravesical fossa)은 _____과 안쪽배꼽주름(medial umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중배꼽주름(median umbilical fold)",
+        "accepted_answers": [
+          "정중배꼽주름(median umbilical fold)",
+          "medianumbilicalfold",
+          "median umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중배꼽주름(median umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 _____ 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_003_006",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 _____ 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "_____은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽고샅오목(medial inguinal fossa)",
+        "accepted_answers": [
+          "안쪽고샅오목(medial inguinal fossa)",
+          "medialinguinalfossa",
+          "medial inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽고샅오목(medial inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "_____은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽고샅오목(medial inguinal fossa)",
+        "accepted_answers": [
+          "안쪽고샅오목(medial inguinal fossa)",
+          "medialinguinalfossa",
+          "medial inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽고샅오목(medial inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "안쪽고샅오목(medial inguinal fossa)은 _____과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "안쪽고샅오목(medial inguinal fossa)은 _____과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 _____ 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_004_006",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 _____ 사이에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "_____은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽고샅오목(lateral inguinal fossa)",
+        "accepted_answers": [
+          "가쪽고샅오목(lateral inguinal fossa)",
+          "lateralinguinalfossa",
+          "lateral inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽고샅오목(lateral inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽고샅오목(lateral inguinal fossa)은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_005_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "_____은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽고샅오목(lateral inguinal fossa)",
+        "accepted_answers": [
+          "가쪽고샅오목(lateral inguinal fossa)",
+          "lateralinguinalfossa",
+          "lateral inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽고샅오목(lateral inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽고샅오목(lateral inguinal fossa)은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "가쪽고샅오목(lateral inguinal fossa)은 _____의 가쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽고샅오목(lateral inguinal fossa)은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_005_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "가쪽고샅오목(lateral inguinal fossa)은 _____의 가쪽에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배꼽주름(lateral umbilical fold)",
+        "accepted_answers": [
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "lateralumbilicalfolds",
+          "lateral umbilical folds",
+          "lateralumbilicalfold",
+          "lateral umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배꼽주름(lateral umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가쪽고샅오목(lateral inguinal fossa)은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_006"
+      ],
+      "prompt": "_____은 안쪽고샅오목(medial inguinal fossa)에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "직접고샅탈장(direct inguinal hernia)",
+        "accepted_answers": [
+          "직접고샅탈장(direct inguinal hernia)",
+          "directinguinalhernia",
+          "direct inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "직접고샅탈장(direct inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 안쪽고샅오목(medial inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_006_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_006"
+      ],
+      "prompt": "_____은 안쪽고샅오목(medial inguinal fossa)에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "직접고샅탈장(direct inguinal hernia)",
+        "accepted_answers": [
+          "직접고샅탈장(direct inguinal hernia)",
+          "directinguinalhernia",
+          "direct inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "직접고샅탈장(direct inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 안쪽고샅오목(medial inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_006"
+      ],
+      "prompt": "직접고샅탈장(direct inguinal hernia)은 _____에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽고샅오목(medial inguinal fossa)",
+        "accepted_answers": [
+          "안쪽고샅오목(medial inguinal fossa)",
+          "medialinguinalfossa",
+          "medial inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽고샅오목(medial inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 안쪽고샅오목(medial inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_006_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_006"
+      ],
+      "prompt": "직접고샅탈장(direct inguinal hernia)은 _____에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽고샅오목(medial inguinal fossa)",
+        "accepted_answers": [
+          "안쪽고샅오목(medial inguinal fossa)",
+          "medialinguinalfossa",
+          "medial inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽고샅오목(medial inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 안쪽고샅오목(medial inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "_____은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_008_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "_____은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽고샅오목(lateral inguinal fossa)",
+        "accepted_answers": [
+          "가쪽고샅오목(lateral inguinal fossa)",
+          "lateralinguinalfossa",
+          "lateral inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽고샅오목(lateral inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_008_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____에서 발생한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽고샅오목(lateral inguinal fossa)",
+        "accepted_answers": [
+          "가쪽고샅오목(lateral inguinal fossa)",
+          "lateralinguinalfossa",
+          "lateral inguinal fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽고샅오목(lateral inguinal fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_009"
+      ],
+      "prompt": "_____은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_009_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_009"
+      ],
+      "prompt": "_____은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_009"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____을 통해 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은고샅구멍(deep inguinal ring)",
+        "accepted_answers": [
+          "깊은고샅구멍(deep inguinal ring)",
+          "deepinguinalring",
+          "deep inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은고샅구멍(deep inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_009_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_009"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____을 통해 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은고샅구멍(deep inguinal ring)",
+        "accepted_answers": [
+          "깊은고샅구멍(deep inguinal ring)",
+          "deepinguinalring",
+          "deep inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은고샅구멍(deep inguinal ring)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_012"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "직접고샅탈장(direct inguinal hernia)",
+        "accepted_answers": [
+          "직접고샅탈장(direct inguinal hernia)",
+          "directinguinalhernia",
+          "direct inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "직접고샅탈장(direct inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_012_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_012"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "직접고샅탈장(direct inguinal hernia)",
+        "accepted_answers": [
+          "직접고샅탈장(direct inguinal hernia)",
+          "directinguinalhernia",
+          "direct inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "직접고샅탈장(direct inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_012"
+      ],
+      "prompt": "직접고샅탈장(direct inguinal hernia)은 _____의 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_012_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_012"
+      ],
+      "prompt": "직접고샅탈장(direct inguinal hernia)은 _____의 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 직접고샅탈장(direct inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_015"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_015_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_015"
+      ],
+      "prompt": "_____은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간접고샅탈장(indirect inguinal hernia)",
+        "accepted_answers": [
+          "간접고샅탈장(indirect inguinal hernia)",
+          "indirectinguinalhernia",
+          "indirect inguinal hernia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간접고샅탈장(indirect inguinal hernia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_015_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_015"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_015_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_015"
+      ],
+      "prompt": "간접고샅탈장(indirect inguinal hernia)은 _____의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽혈관(inferior epigastric vessels)",
+        "accepted_answers": [
+          "아래배벽혈관(inferior epigastric vessels)",
+          "inferiorepigastricvessels",
+          "inferior epigastric vessels"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽혈관(inferior epigastric vessels)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간접고샅탈장(indirect inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_031_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_031"
+      ],
+      "prompt": "_____의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateralabdominalwall",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_031_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_031"
+      ],
+      "prompt": "_____의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateralabdominalwall",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::main_text_001",
+        "component_type": "main_text"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_031_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_031"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 _____이 모두 다섯 개 보인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽주름(umbilical folds)",
+        "accepted_answers": [
+          "배꼽주름(umbilical folds)",
+          "umbilicalfolds",
+          "umbilical folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽주름(umbilical folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_031_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_031"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 _____이 모두 다섯 개 보인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽주름(umbilical folds)",
+        "accepted_answers": [
+          "배꼽주름(umbilical folds)",
+          "umbilicalfolds",
+          "umbilical folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽주름(umbilical folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::figure_001",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_032_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_032"
+      ],
+      "prompt": "_____은 요막(urachus)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중배꼽주름(median umbilical fold)",
+        "accepted_answers": [
+          "정중배꼽주름(median umbilical fold)",
+          "medianumbilicalfold",
+          "median umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중배꼽주름(median umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정중배꼽주름(median umbilical fold)은 요막(urachus)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_032_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_032"
+      ],
+      "prompt": "_____은 요막(urachus)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중배꼽주름(median umbilical fold)",
+        "accepted_answers": [
+          "정중배꼽주름(median umbilical fold)",
+          "medianumbilicalfold",
+          "median umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중배꼽주름(median umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정중배꼽주름(median umbilical fold)은 요막(urachus)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_032_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_032"
+      ],
+      "prompt": "정중배꼽주름(median umbilical fold)은 _____을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "요막(urachus)",
+        "accepted_answers": [
+          "요막(urachus)",
+          "urachus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "요막(urachus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정중배꼽주름(median umbilical fold)은 요막(urachus)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_033_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_033"
+      ],
+      "prompt": "_____은 배꼽동맥막힌부분(occluded part of umbilical artery)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽배꼽주름(medial umbilical fold)은 배꼽동맥 막힌부분(occluded part of umbilical artery)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_033_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_033"
+      ],
+      "prompt": "_____은 배꼽동맥막힌부분(occluded part of umbilical artery)을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽배꼽주름(medial umbilical fold)",
+        "accepted_answers": [
+          "안쪽배꼽주름(medial umbilical fold)",
+          "medialumbilicalfolds",
+          "medial umbilical folds",
+          "medialumbilicalfold",
+          "medial umbilical fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽배꼽주름(medial umbilical fold)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽배꼽주름(medial umbilical fold)은 배꼽동맥 막힌부분(occluded part of umbilical artery)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_course_배_필기본_001_course_033_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_033"
+      ],
+      "prompt": "안쪽배꼽주름(medial umbilical fold)은 _____을 덮고 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽동맥막힌부분(occluded part of umbilical artery)",
+        "accepted_answers": [
+          "배꼽동맥막힌부분(occluded part of umbilical artery)",
+          "배꼽동맥 막힌부분(occluded part of umbilical artery)",
+          "occludedpartofumbilicalartery",
+          "occluded part of umbilical artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽동맥막힌부분(occluded part of umbilical artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 안쪽배꼽주름(medial umbilical fold)은 배꼽동맥 막힌부분(occluded part of umbilical artery)을 덮고 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p001_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지에서 표시된 핵심 용어는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Internal surface of anterolateral abdominal wall",
+        "accepted_answers": [
+          "Internal surface of anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "Internal surface of anterolateral abdominal wall",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::main_text_001"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p001_ai_page_read::main_text_001",
+        "component_type": "main_text"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: Internal surface of anterolateral abdominal wall"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 54,
+    "question_type_count": {
+      "fill_blank": 28,
+      "image_grounded_fill_blank": 26
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 53,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 0,
+    "next_page": 2
+  },
+  "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 1
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "가쪽배꼽주름(lateral umbilical fold)은 아래배벽혈관(inferior epigastric vessels)을 덮고 있다.",
+        "방광위오목(supravesical fossa)은 정중배꼽주름(median umbilical fold)과 안쪽배꼽주름(medial umbilical fold) 사이에 있다.",
+        "안쪽고샅오목(medial inguinal fossa)은 안쪽배꼽주름(medial umbilical fold)과 가쪽배꼽주름(lateral umbilical fold) 사이에 있다.",
+        "가쪽고샅오목(lateral inguinal fossa)은 가쪽배꼽주름(lateral umbilical fold)의 가쪽에 있다.",
+        "직접고샅탈장(direct inguinal hernia)은 안쪽고샅오목(medial inguinal fossa)에서 발생한다.",
+        "간접고샅탈장(indirect inguinal hernia)은 가쪽고샅오목(lateral inguinal fossa)에서 발생한다.",
+        "간접고샅탈장(indirect inguinal hernia)은 깊은고샅구멍(deep inguinal ring)을 통해 들어간다.",
+        "직접고샅탈장(direct inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 안쪽에 위치한다.",
+        "간접고샅탈장(indirect inguinal hernia)은 아래배벽혈관(inferior epigastric vessels)의 가쪽에 위치한다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 속면에서는 배꼽주름(umbilical folds)이 모두 다섯 개 보인다.",
+        "정중배꼽주름(median umbilical fold)은 요막(urachus)을 덮고 있다.",
+        "안쪽배꼽주름(medial umbilical fold)은 배꼽동맥 막힌부분(occluded part of umbilical artery)을 덮고 있다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "깊은고샅구멍의 영어 이름은 deep inguinal ring이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "간접고샅탈장의 영어 이름은 indirect inguinal hernia이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "활꼴선의 영어 이름은 arcuate line이다.",
+        "아래배벽혈관의 영어 이름은 inferior epigastric vessels이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "허파의 영어 이름은 lung이다.",
+        "요막의 영어 이름은 urachus이다.",
+        "안쪽배꼽주름의 영어 이름은 medial umbilical fold이다.",
+        "위의 영어 이름은 stomach이다.",
+        "가쪽배꼽주름의 영어 이름은 lateral umbilical fold이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "바깥엉덩동맥의 영어 이름은 external iliac artery이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "간의 영어 이름은 liver이다.",
+        "정중배꼽주름의 영어 이름은 median umbilical fold이다.",
+        "정관의 영어 이름은 ductus deferens이다.",
+        "고환의 영어 이름은 testis이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "방광위오목의 영어 이름은 supravesical fossa이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "안쪽고샅오목의 영어 이름은 medial inguinal fossa이다.",
+        "가쪽고샅오목의 영어 이름은 lateral inguinal fossa이다.",
+        "샅굴의 영어 이름은 inguinal canal이다.",
+        "직접고샅탈장의 영어 이름은 direct inguinal hernia이다.",
+        "배꼽동맥 막힌부분의 영어 이름은 occluded part of umbilical artery이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "복막 배장이 알어다r deep inguinal ring 제섯 그 canal올다다 내7이 늘어 _",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "peritoneum 여기어서다 -기 일어나면 : indirect inguinal hernia 배바깥빗근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "metlialllatealumbilicalfold 사이 말리반번 drdctinguinal hernia internal abdominal oblique m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "arcuate line Aupra Veslcaliossa: transversus abdominis m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "lateral umbilical folds",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "그림 6-13. 앞배벽 속면 , 복막주름, 활플선, 아래배벽혈관 inferior epigastric VeSSelS들 싸고 있음",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "Internal surface of anterolateral abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "round lig. of liver rectus abdominis m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "external abdominal oblique m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "아래배벽혈관 median umbilical fold",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "깊은고살구멍 medial, lateral umbilical folds",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "정중배꼽주름(median umbilical fold)은 정중배꼽인대(median umbilical ligament)를 덮는다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "안쪽배꼽주름(medial umbilical folds)은 양쪽 정중쪽에 각각 하나씩 있으며 안쪽배꼽인대(medial umbilical ligaments)를 덮는다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "앞가쪽배벽의 속면을 보여 주는 그림 위에 배꼽주름과 세 개의 오목, 직접/간접 샅굴탈장, 주름을 이루는 구조에 대한 필기가 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 45,
+          "text": "정중배꼽주름(median umbilical fold) 덮는다 정중배꼽인대(median umbilical ligament)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 46,
+          "text": "안쪽배꼽주름(medial umbilical folds) 덮는다 안쪽배꼽인대(medial umbilical ligaments)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 41,
+        "accounted_term_count": 37,
+        "unresolved_term_count": 2,
+        "missing_term_count": 2,
+        "coverage_ratio": 0.902,
+        "accounted_terms": [
+          "정중배꼽주름(median umbilical fold)",
+          "안쪽배꼽주름(medial umbilical fold)",
+          "가쪽배꼽주름(lateral umbilical fold)",
+          "방광위오목(supravesical fossa)",
+          "안쪽고샅오목(medial inguinal fossa)",
+          "가쪽고샅오목(lateral inguinal fossa)",
+          "직접고샅탈장(direct inguinal hernia)",
+          "간접고샅탈장(indirect inguinal hernia)",
+          "깊은고샅구멍(deep inguinal ring)",
+          "아래배벽혈관(inferior epigastric vessels)",
+          "배(abdominal region)",
+          "복막(peritoneum)",
+          "바깥빗근(external oblique muscle)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "속빗근(internal oblique muscle)",
+          "배가로근막(transversalis fascia)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "배가로근(transversus abdominis muscle)",
+          "활꼴선(arcuate line)",
+          "신경(nerves)",
+          "허파(lung)",
+          "요막(urachus)",
+          "위(stomach)",
+          "배벽(abdominal wall)",
+          "앞벽(anterior wall)",
+          "바깥엉덩동맥(external iliac artery)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "배곧은근(rectus abdominis)",
+          "간(liver)",
+          "정관(ductus deferens)",
+          "고환(testis)",
+          "목(cervical region)",
+          "샅(perineum)",
+          "샅굴(inguinal canal)",
+          "배꼽동맥 막힌부분(occluded part of umbilical artery)",
+          "배꼽주름(umbilical folds)",
+          "근육(muscles)"
+        ],
+        "unresolved_terms": [
+          "정중배꼽인대(median umbilical ligament)",
+          "안쪽배꼽인대(medial umbilical ligaments)"
+        ],
+        "missing_terms": [
+          "태아기잔유물(cord of umbilical artery)",
+          "있으며샅삼각(inguinal triangle)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Internal surface of anterolateral abdominal wall",
+        "round lig. of liver rectus abdominis m",
+        "laterallniguntrossa:",
+        "복막 배장이 알어다r deep inguinal ring 제섯 그 canal올다다 내7이 늘어 _",
+        "peritoneum 여기어서다 -기 일어나면 : indirect inguinal hernia 배바깥빗근",
+        "external abdominal oblique m",
+        "transversalis fascia mrlal ingtnal fossa= inguinal triangle 배속빗근",
+        "metlialllatealumbilicalfold 사이 말리반번 drdctinguinal hernia internal abdominal oblique m",
+        "활플선 나사이 이어니느기 배가로근",
+        "arcuate line Aupra Veslcaliossa: transversus abdominis m",
+        "medlalired_Dumbilical {의d사이",
+        "드가이 바기 ` 정중배 주름",
+        "아래배벽혈관 median umbilical fold",
+        "inferior epigastric vessels 안쪽 . 가족배체주름",
+        "깊은고살구멍 medial, lateral umbilical folds",
+        "deep inguinal ring",
+        "엉덩두덩때 \"엉'하요금",
+        "iliopubic tract 정관",
+        "고환혈관 ductus deferens",
+        "testicular vessels",
+        "바깥엉덩혈관 occluded part of umnbilical a",
+        "external iliac vessels",
+        "folds: 5개 ~>가운데 1개 양쪽 각각 2개",
+        "umbilical a seminal vesicle ~median umbilical folds",
+        "폐쇄신경과 폐색혈관 '방광) urinary bladder '방광 꼭대기 ~ 배꿈 median umnbilical",
+        "obturator n and vessels [체 ligament(urachus; 발생과정 잔유물) 올 싸고 있음",
+        "폐패관 전립 prostate medial umbilical folds",
+        "obturator canal 위방광동맥 cord of umbilical artery(태아기 잔유물) 틀 싸고 있음",
+        "superior vesicala ~태아예서만 보이는 구조",
+        "lateral umbilical folds",
+        "그림 6-13. 앞배벽 속면 , 복막주름, 활플선, 아래배벽혈관 inferior epigastric VeSSelS들 싸고 있음",
+        "잘컷올 때 꿀험 발생",
+        "왼쪽 벽복막은 제거된 상태이다. external iliac artery 의기원"
+      ],
+      "supplemental_ocr_blocks": [
+        "간원인대 배곧은근",
+        "배가로근막",
+        "m",
+        "배깥동백 막히부분",
+        "요관 ureter",
+        "배깥동맥 정당"
+      ],
+      "corrected_page_text": "Internal surface of anterolateral abdominal wall\nround lig. of liver rectus abdominis m\nlaterallniguntrossa:\n복막 배장이 알어다r deep inguinal ring 제섯 그 canal올다다 내7이 늘어 _\nperitoneum 여기어서다 -기 일어나면 : indirect inguinal hernia 배바깥빗근\nexternal abdominal oblique m\ntransversalis fascia mrlal ingtnal fossa= inguinal triangle 배속빗근\nmetlialllatealumbilicalfold 사이 말리반번 drdctinguinal hernia internal abdominal oblique m\n활플선 나사이 이어니느기 배가로근\narcuate line Aupra Veslcaliossa: transversus abdominis m\nmedlalired_Dumbilical {의d사이\n드가이 바기 ` 정중배 주름\n아래배벽혈관 median umbilical fold\ninferior epigastric vessels 안쪽 . 가족배체주름\n깊은고살구멍 medial, lateral umbilical folds\ndeep inguinal ring\n엉덩두덩때 \"엉'하요금\niliopubic tract 정관\n고환혈관 ductus deferens\ntesticular vessels\n바깥엉덩혈관 occluded part of umnbilical a\nexternal iliac vessels\nfolds: 5개 ~>가운데 1개 양쪽 각각 2개\numbilical a seminal vesicle ~median umbilical folds\n폐쇄신경과 폐색혈관 '방광) urinary bladder '방광 꼭대기 ~ 배꿈 median umnbilical\nobturator n and vessels [체 ligament(urachus; 발생과정 잔유물) 올 싸고 있음\n폐패관 전립 prostate medial umbilical folds\nobturator canal 위방광동맥 cord of umbilical artery(태아기 잔유물) 틀 싸고 있음\nsuperior vesicala ~태아예서만 보이는 구조\nlateral umbilical folds\n그림 6-13. 앞배벽 속면 , 복막주름, 활플선, 아래배벽혈관 inferior epigastric VeSSelS들 싸고 있음\n잘컷올 때 꿀험 발생\n왼쪽 벽복막은 제거된 상태이다. external iliac artery 의기원",
+      "quality_audit": {
+        "pdf_char_count": 43,
+        "pdf_span_count": 1,
+        "pdf_word_count": 6,
+        "ocr_fragment_count": 75,
+        "pdf_line_count": 1,
+        "ocr_line_count": 39,
+        "merged_line_count": 39,
+        "pdf_only_count": 0,
+        "ocr_only_count": 38,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 38,
+        "pdf_alpha_count": 43,
+        "ocr_alpha_count": 1026,
+        "promoted_ocr_only_count": 32
+      }
+    }
+  }
+}

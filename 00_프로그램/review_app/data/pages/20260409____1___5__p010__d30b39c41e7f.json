@@ -1,0 +1,592 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 10
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_001"
+      ],
+      "prompt": "_____은 이자(pancreas)의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "랑게르한스섬(islets of Langerhans)",
+        "accepted_answers": [
+          "랑게르한스섬(islets of Langerhans)",
+          "islets of Langerhans",
+          "islet of Langerhans",
+          "pancreatic islet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "랑게르한스섬(islets of Langerhans)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_001"
+      ],
+      "prompt": "랑게르한스섬(islets of Langerhans)은 _____의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "_____는 삽입관(intercalated duct)의 시작 부위에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심선방세포(centroacinar cells)",
+        "accepted_answers": [
+          "중심선방세포(centroacinar cells)",
+          "centroacinar cells",
+          "centroacinar cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심선방세포(centroacinar cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 중심선방세포(centroacinar cells)는 삽입관(intercalated duct)의 시작 부위에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "중심선방세포(centroacinar cells)는 _____의 시작 부위에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "삽입관(intercalated duct)",
+        "accepted_answers": [
+          "삽입관(intercalated duct)",
+          "intercalated duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "삽입관(intercalated duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 중심선방세포(centroacinar cells)는 삽입관(intercalated duct)의 시작 부위에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "_____은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "삽입관(intercalated duct)",
+        "accepted_answers": [
+          "삽입관(intercalated duct)",
+          "intercalated duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "삽입관(intercalated duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "삽입관(intercalated duct)은 _____, 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "소엽내관(intralobular duct)",
+        "accepted_answers": [
+          "소엽내관(intralobular duct)",
+          "intralobular duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "소엽내관(intralobular duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "삽입관(intercalated duct)은 소엽내관(intralobular duct), _____을 거쳐 주이자관(major pancreatic duct)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "소엽간관(interlobular duct)",
+        "accepted_answers": [
+          "소엽간관(interlobular duct)",
+          "interlobular duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "소엽간관(interlobular duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p010_course_배_필기본_010_course_004_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주이자관(major pancreatic duct)",
+        "accepted_answers": [
+          "주이자관(major pancreatic duct)",
+          "major pancreatic duct",
+          "main pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주이자관(major pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 8,
+    "question_type_count": {
+      "fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 9,
+    "previous_page": 9,
+    "next_page": 11
+  },
+  "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 10
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다.",
+        "중심선방세포(centroacinar cells)는 삽입관(intercalated duct)의 시작 부위에 위치한다.",
+        "삽입관(intercalated duct)은 소엽내관(intralobular duct), 소엽간관(interlobular duct)을 거쳐 주이자관(major pancreatic duct)으로 이어진다.",
+        "이자선방세포(acinar cells)는 피라미드형이며 세포의 꼭대기가 내강을 향해 배열된다.",
+        "이자선방세포의 영어 이름은 acinar cells이다.",
+        "랑게르한스섬의 영어 이름은 islets of Langerhans이다.",
+        "삽입관의 영어 이름은 intercalated duct이다.",
+        "중심선방세포의 영어 이름은 centroacinar cells이다.",
+        "소엽내관의 영어 이름은 intralobular duct이다.",
+        "소엽간관의 영어 이름은 interlobular duct이다.",
+        "이자관의 영어 이름은 pancreatic duct이다.",
+        "주이자관의 영어 이름은 major pancreatic duct이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "이자의 영어 이름은 pancreas이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 8,
+          "text": "-> main pancreatic duct 형성",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "이자선방세포(acinar cells)",
+          "랑게르한스섬(islets of Langerhans)",
+          "삽입관(intercalated duct)",
+          "중심선방세포(centroacinar cells)",
+          "소엽내관(intralobular duct)",
+          "소엽간관(interlobular duct)",
+          "이자관(pancreatic duct)",
+          "주이자관(major pancreatic duct)",
+          "배(abdominal region)",
+          "이자(pancreas)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "acinar cell(A) 대부분이",
+        "islet of Langerhans(I) 군데군데",
+        "intercalated duct 입구에",
+        "centroacinar cell",
+        "- duct 제일작은",
+        "- intralobular duct 모여서",
+        "-> interlobular duct",
+        "-> main pancreatic duct 형성",
+        "# acinar cell",
+        "- 피라미드형태",
+        "- 세포꼭대기가내강쪽으로열리게배열",
+        "대부분이 acinar cellA)",
+        "이자의 현미경 사진에는 다수의 장악파리(A)에",
+        "'의해 눈러싸인 여러 가의 이자설늘이 보인다",
+        "D; 과 분비 성과리의 소염올 나누는 앞은 사이막올",
+        "큰소업속관미은 단순원주상피로 배열되어 잎",
+        "하고 결합조직은 생전제들 둘러싸는 양은 피막",
+        "과리중심세도 intercalated duct 입구에",
+        "(Centroacinar cell) centroacinar cell",
+        "바닥판Basal lamnina)",
+        "Anotit alated durt) 제일 작은 duct",
+        "F흑 모여서 intralobular duct",
+        "->interlobular duct",
+        "'# acinar cell",
+        "A 세포 꼭대기가 내강 쪽으로 열리게 배열",
+        "표소원과림 되리세모Acinar cell)",
+        "(Zymogen granules)",
+        "(a) 외분비 이자의 현미경 사진어는 매우 작은 속공간이 있는 작은 파리 (b) 그림은 세포의 명확하 배열상태률 보인다: Secretin 영항으로 파리중",
+        "(A) 속어 버열된 장액성 호소률 생산하는 세도들이 관찰되다: 파리는 섬유 심세포centroacinat cell)와 사이관세포(intercalated duct cell)들이 과",
+        "모세포F인 적은 양의 결합조직으로만 둘러싸여 있다 각 파리는 사이관 '리의 효소분비률 수화; 분출; 알갈리화시키늄 풍부한 HCOs -가 함유하 수",
+        "에 의해 배초되다: 과리속공간 속으로 들어가 있는 과리중심세포화실표) 분올 분비한다",
+        "가 사이관이 시작되는 초기 세포이다: (X200; H8E)"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 16-8 이자",
+        "D",
+        "D",
+        "D",
+        "그림 16-9 이자파리",
+        "피라미드 형태"
+      ],
+      "corrected_page_text": "acinar cell(A) 대부분이\nislet of Langerhans(I) 군데군데\nintercalated duct 입구에\ncentroacinar cell\n- duct 제일작은\n- intralobular duct 모여서\n-> interlobular duct\n-> main pancreatic duct 형성\n# acinar cell\n- 피라미드형태\n- 세포꼭대기가내강쪽으로열리게배열\n대부분이 acinar cellA)\n이자의 현미경 사진에는 다수의 장악파리(A)에\n'의해 눈러싸인 여러 가의 이자설늘이 보인다\nD; 과 분비 성과리의 소염올 나누는 앞은 사이막올\n큰소업속관미은 단순원주상피로 배열되어 잎\n하고 결합조직은 생전제들 둘러싸는 양은 피막\n과리중심세도 intercalated duct 입구에\n(Centroacinar cell) centroacinar cell\n바닥판Basal lamnina)\nAnotit alated durt) 제일 작은 duct\nF흑 모여서 intralobular duct\n->interlobular duct\n'# acinar cell\nA 세포 꼭대기가 내강 쪽으로 열리게 배열\n표소원과림 되리세모Acinar cell)\n(Zymogen granules)\n(a) 외분비 이자의 현미경 사진어는 매우 작은 속공간이 있는 작은 파리 (b) 그림은 세포의 명확하 배열상태률 보인다: Secretin 영항으로 파리중\n(A) 속어 버열된 장액성 호소률 생산하는 세도들이 관찰되다: 파리는 섬유 심세포centroacinat cell)와 사이관세포(intercalated duct cell)들이 과\n모세포F인 적은 양의 결합조직으로만 둘러싸여 있다 각 파리는 사이관 '리의 효소분비률 수화; 분출; 알갈리화시키늄 풍부한 HCOs -가 함유하 수\n에 의해 배초되다: 과리속공간 속으로 들어가 있는 과리중심세포화실표) 분올 분비한다\n가 사이관이 시작되는 초기 세포이다: (X200; H8E)",
+      "quality_audit": {
+        "pdf_char_count": 180,
+        "pdf_span_count": 28,
+        "pdf_word_count": 41,
+        "ocr_fragment_count": 42,
+        "pdf_line_count": 11,
+        "ocr_line_count": 31,
+        "merged_line_count": 38,
+        "pdf_only_count": 7,
+        "ocr_only_count": 27,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 11,
+        "ocr_only_line_count": 27,
+        "pdf_alpha_count": 167,
+        "ocr_alpha_count": 573,
+        "promoted_ocr_only_count": 21
+      }
+    }
+  }
+}

@@ -1,0 +1,1837 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 17,
+    "note_page_number": 17,
+    "source_page_number": 61,
+    "original_page_number": 61,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_001"
+      ],
+      "prompt": "_____의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_001"
+      ],
+      "prompt": "샘창자(duodenum)의 위쪽 절반은 _____에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞창자(foregut)",
+        "accepted_answers": [
+          "앞창자(foregut)",
+          "foregut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞창자(foregut)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_001"
+      ],
+      "prompt": "샘창자(duodenum)의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 _____에서 유래한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간창자(midgut)",
+        "accepted_answers": [
+          "중간창자(midgut)",
+          "midgut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간창자(midgut)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_004"
+      ],
+      "prompt": "_____은 복강동맥(celiac trunk)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 복강동맥(celiac trunk)의 가지이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_004"
+      ],
+      "prompt": "지라동맥(splenic artery)은 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 복강동맥(celiac trunk)의 가지이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_005"
+      ],
+      "prompt": "_____은 위샘창자동맥(gastroduodenal artery)을 낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)을 낸다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_005"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____을 낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위샘창자동맥(gastroduodenal artery)",
+        "accepted_answers": [
+          "위샘창자동맥(gastroduodenal artery)",
+          "gastroduodenal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위샘창자동맥(gastroduodenal artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)을 낸다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_006"
+      ],
+      "prompt": "_____의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_006"
+      ],
+      "prompt": "샘창자(duodenum)의 위쪽 혈액공급은 _____ 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_012"
+      ],
+      "prompt": "_____은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_course_012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_017_course_012"
+      ],
+      "prompt": "지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 _____의 위쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_001"
+      ],
+      "prompt": "_____은 앞창자(foregut) 유래 구조물의 동맥 공급 축이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)은 앞창자(foregut) 유래 구조물의 동맥 공급 축이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_001"
+      ],
+      "prompt": "복강동맥(celiac trunk)은 _____ 유래 구조물의 동맥 공급 축이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞창자(foregut)",
+        "accepted_answers": [
+          "앞창자(foregut)",
+          "foregut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞창자(foregut)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)은 앞창자(foregut) 유래 구조물의 동맥 공급 축이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_002"
+      ],
+      "prompt": "_____은 식도가지(esophageal branches)를 내어배부분식도(abdominal esophagus)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위동맥(left gastric artery)",
+        "accepted_answers": [
+          "왼위동맥(left gastric artery)",
+          "left gastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위동맥(left gastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내어 배부분 식도(abdominal esophagus)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_002"
+      ],
+      "prompt": "왼위동맥(left gastric artery)은 _____를 내어배부분식도(abdominal esophagus)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도가지(esophageal branches)",
+        "accepted_answers": [
+          "식도가지(esophageal branches)",
+          "esophageal branches"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도가지(esophageal branches)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내어 배부분 식도(abdominal esophagus)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_002"
+      ],
+      "prompt": "왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내어배부분식도(abdominal esophagus)",
+        "accepted_answers": [
+          "내어배부분식도(abdominal esophagus)",
+          "abdominal esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내어배부분식도(abdominal esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내어 배부분 식도(abdominal esophagus)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_003"
+      ],
+      "prompt": "_____은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 오른위동맥(right gastric artery)과 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위동맥(left gastric artery)",
+        "accepted_answers": [
+          "왼위동맥(left gastric artery)",
+          "left gastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위동맥(left gastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 오른위동맥(right gastric artery)과 문합한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_003"
+      ],
+      "prompt": "왼위동맥(left gastric artery)은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 _____과 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위동맥(right gastric artery)",
+        "accepted_answers": [
+          "오른위동맥(right gastric artery)",
+          "right gastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위동맥(right gastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 오른위동맥(right gastric artery)과 문합한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_004"
+      ],
+      "prompt": "_____은 세 가지 가지 중 가장 크고 이자(pancreas)의 위쪽 경계를 따라 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 세 가지 가지 중 가장 크고 이자의 위쪽 경계를 따라 주행한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_004"
+      ],
+      "prompt": "지라동맥(splenic artery)은 세 가지 가지 중 가장 크고 _____의 위쪽 경계를 따라 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 세 가지 가지 중 가장 크고 이자의 위쪽 경계를 따라 주행한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_005"
+      ],
+      "prompt": "_____은 짧은위동맥(short gastric arteries)을 내어위바닥(fundus of stomach)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 내어 위바닥(fundus of stomach)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_005"
+      ],
+      "prompt": "지라동맥(splenic artery)은 _____을 내어위바닥(fundus of stomach)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "짧은위동맥(short gastric arteries)",
+        "accepted_answers": [
+          "짧은위동맥(short gastric arteries)",
+          "short gastric arteries"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "짧은위동맥(short gastric arteries)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 내어 위바닥(fundus of stomach)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_005_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_005"
+      ],
+      "prompt": "지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내어위바닥(fundus of stomach)",
+        "accepted_answers": [
+          "내어위바닥(fundus of stomach)",
+          "fundus of stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내어위바닥(fundus of stomach)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 내어 위바닥(fundus of stomach)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_006"
+      ],
+      "prompt": "_____은 왼위그물막동맥(left gastroomental artery)을 내어위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 내어 위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_006"
+      ],
+      "prompt": "지라동맥(splenic artery)은 _____을 내어위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위그물막동맥(left gastroomental artery)",
+        "accepted_answers": [
+          "왼위그물막동맥(left gastroomental artery)",
+          "left gastroomental artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위그물막동맥(left gastroomental artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 내어 위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_006_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_006"
+      ],
+      "prompt": "지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 _____의 왼쪽 부분을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내어위큰굽이(greater curvature of stomach)",
+        "accepted_answers": [
+          "내어위큰굽이(greater curvature of stomach)",
+          "greater curvature of stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내어위큰굽이(greater curvature of stomach)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 내어 위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_007"
+      ],
+      "prompt": "_____은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 쓸개주머니(gallbladder)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 담낭(gallbladder)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_007"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____으로 이어져 간(liver)과 쓸개주머니(gallbladder)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간고유동맥(hepatic artery proper)",
+        "accepted_answers": [
+          "간고유동맥(hepatic artery proper)",
+          "hepatic artery proper"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간고유동맥(hepatic artery proper)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 담낭(gallbladder)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_007_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_007"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니(gallbladder)",
+        "accepted_answers": [
+          "쓸개주머니(gallbladder)",
+          "gallbladder"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니(gallbladder)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 담낭(gallbladder)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_008"
+      ],
+      "prompt": "_____은 오른위동맥(right gastric artery)을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 오른위동맥(right gastric artery)을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_008"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위동맥(right gastric artery)",
+        "accepted_answers": [
+          "오른위동맥(right gastric artery)",
+          "right gastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위동맥(right gastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 오른위동맥(right gastric artery)을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_009"
+      ],
+      "prompt": "_____은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_009"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위샘창자동맥(gastroduodenal artery)",
+        "accepted_answers": [
+          "위샘창자동맥(gastroduodenal artery)",
+          "gastroduodenal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위샘창자동맥(gastroduodenal artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_009_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_009"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 _____의 근위부와 이자(pancreas)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_009_006",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_009"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 _____에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_010"
+      ],
+      "prompt": "_____의 근위부는 앞창자(foregut) 유래이므로 복강동맥(celiac trunk) 계통의 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum)의 근위부는 앞창자(foregut) 유래이므로 복강동맥(celiac trunk) 계통의 혈액 공급을 받는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_필기본_017_ai_corrected_010_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_010"
+      ],
+      "prompt": "샘창자(duodenum)의 근위부는 앞창자(foregut) 유래이므로 _____ 계통의 혈액 공급을 받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum)의 근위부는 앞창자(foregut) 유래이므로 복강동맥(celiac trunk) 계통의 혈액 공급을 받는다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_002"
+      ],
+      "prompt": "_____ 유래 구조물에는 식도(esophagus), 위(stomach), 간(liver), 담낭(gallbladder), 지라(spleen)가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞창자(foregut)",
+        "accepted_answers": [
+          "앞창자(foregut)",
+          "foregut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞창자(foregut)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞창자(foregut) 유래 구조물에는 식도(esophagus), 위(stomach), 간(liver), 담낭(gallbladder), 지라(spleen)가 포함된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_002"
+      ],
+      "prompt": "앞창자(foregut) 유래 구조물에는 식도(esophagus), 위(stomach), 간(liver), 담낭(gallbladder), _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞창자(foregut) 유래 구조물에는 식도(esophagus), 위(stomach), 간(liver), 담낭(gallbladder), 지라(spleen)가 포함된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_003"
+      ],
+      "prompt": "_____은 식도가지(esophageal branches)를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위동맥(left gastric artery)",
+        "accepted_answers": [
+          "왼위동맥(left gastric artery)",
+          "left gastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위동맥(left gastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_003"
+      ],
+      "prompt": "왼위동맥(left gastric artery)은 _____를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도가지(esophageal branches)",
+        "accepted_answers": [
+          "식도가지(esophageal branches)",
+          "esophageal branches"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도가지(esophageal branches)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_004"
+      ],
+      "prompt": "_____은 간가지(hepatic branch)를 통해 간(liver) 쪽으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 간가지(hepatic branch)를 통해 간(liver) 쪽으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_004"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____를 통해 간(liver) 쪽으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간가지(hepatic branch)",
+        "accepted_answers": [
+          "간가지(hepatic branch)",
+          "hepatic branch"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간가지(hepatic branch)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 온간동맥(common hepatic artery)은 간가지(hepatic branch)를 통해 간(liver) 쪽으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_005"
+      ],
+      "prompt": "_____은 그림에 함께 보이지만, 이 페이지의 초점은 앞창자(foregut) 동맥공급인 복강동맥(celiac trunk) 계통이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막동맥(superior mesenteric artery)",
+        "accepted_answers": [
+          "위창자간막동맥(superior mesenteric artery)",
+          "superior mesenteric artery",
+          "SMA"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막동맥(superior mesenteric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 그림에 함께 보이지만, 이 페이지의 초점은 앞창자(foregut) 동맥공급인 복강동맥(celiac trunk) 계통이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p017_course_배_강의원본_061_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_061_ai_corrected_005"
+      ],
+      "prompt": "위창자간막동맥(superior mesenteric artery)은 그림에 함께 보이지만, 이 페이지의 초점은 앞창자(foregut) 동맥공급인 _____ 계통이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위창자간막동맥(superior mesenteric artery)은 그림에 함께 보이지만, 이 페이지의 초점은 앞창자(foregut) 동맥공급인 복강동맥(celiac trunk) 계통이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 48,
+    "question_type_count": {
+      "fill_blank": 48
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 14,
+      "course_exam_style": 34
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 16,
+    "previous_page": 16,
+    "next_page": 18
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 17
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "샘창자(duodenum)의 위쪽 절반은 앞창자(foregut)에서 유래하고, 아래쪽 절반은 중간창자(midgut)에서 유래한다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "복강동맥(celiac trunk)은 앞창자(foregut) 유래 기관에 혈액을 공급한다.",
+        "지라동맥(splenic artery)은 복강동맥(celiac trunk)의 가지이다.",
+        "온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)을 낸다.",
+        "샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+        "지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다.",
+        "복강동맥(celiac trunk)은 앞창자(foregut) 유래 구조물의 동맥 공급 축이다.",
+        "왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내어 배부분 식도(abdominal esophagus)에 혈액을 공급한다.",
+        "왼위동맥(left gastric artery)은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 오른위동맥(right gastric artery)과 문합한다.",
+        "지라동맥(splenic artery)은 세 가지 가지 중 가장 크고 이자의 위쪽 경계를 따라 주행한다.",
+        "지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 내어 위바닥(fundus of stomach)에 혈액을 공급한다.",
+        "지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 내어 위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다.",
+        "온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 담낭(gallbladder)에 혈액을 공급한다.",
+        "온간동맥(common hepatic artery)은 오른위동맥(right gastric artery)을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다.",
+        "온간동맥(common hepatic artery)은 위샘창자동맥(gastroduodenal artery)으로 이어지고, 이 동맥은 위창자간막동맥고리(superior pancreaticoduodenal arteries)를 통해 샘창자(duodenum)의 근위부와 이자(pancreas)에 혈액을 공급한다.",
+        "샘창자(duodenum)의 근위부는 앞창자(foregut) 유래이므로 복강동맥(celiac trunk) 계통의 혈액 공급을 받는다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "간의 영어 이름은 liver이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "복강동맥의 영어 이름은 celiac trunk이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "위창자간막동맥의 영어 이름은 superior mesenteric artery이다.",
+        "앞창자의 영어 이름은 foregut이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "온간동맥의 영어 이름은 common hepatic artery이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "왼위동맥의 영어 이름은 left gastric artery이다.",
+        "지라동맥의 영어 이름은 splenic artery이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "위샘창자동맥의 영어 이름은 gastroduodenal artery이다.",
+        "고리의 영어 이름은 annulus이다.",
+        "앞창자(foregut) 유래 구조물에는 식도(esophagus), 위(stomach), 간(liver), 담낭(gallbladder), 지라(spleen)가 포함된다.",
+        "왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다.",
+        "온간동맥(common hepatic artery)은 간가지(hepatic branch)를 통해 간(liver) 쪽으로 이어진다.",
+        "위창자간막동맥(superior mesenteric artery)은 그림에 함께 보이지만, 이 페이지의 초점은 앞창자(foregut) 동맥공급인 복강동맥(celiac trunk) 계통이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "2) splenic a. 간가지 esophageal branches 2개로 나뉘어 위로 가면 esophageal",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "아래가로막동맥 포함함)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 20,
+          "text": "(anteriorlposterior로 나뉘) duodenum의 위에 혈액공급 superior mesenteric a '위쪽으로 가서 short gastric aa.가 팀",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "esophagus; liver, gallbladder, and spleen",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "'위로 가서 hepatic artery proper맛 되어 짧은위동맥",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "더 내려와서 superior pancreaticcoduodenal a 위창자간막동맥 3개 중 가장 금 위의 뒤, pancreas 위릎 주행.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "그림 6-35. 식도와 위의 동맥분포 왼쪽 부분에 혈액 공급",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "Arterial supply to abdominal foregut derivatives:",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "abdominal aorta",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내어 배부분 식도(abdominal esophagus)에 혈액을 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "왼위동맥(left gastric artery)은 위작은굽이(lesser curvature of stomach)의 왼쪽 부분을 따라 주행하며 오른위동맥(right gastric artery)과 문합한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "지라동맥(splenic artery)은 세 가지 가지 중 가장 크고 이자의 위쪽 경계를 따라 주행한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "지라동맥(splenic artery)은 짧은위동맥(short gastric arteries)을 내어 위바닥(fundus of stomach)에 혈액을 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 42,
+          "text": "지라동맥(splenic artery)은 왼위그물막동맥(left gastroomental artery)을 내어 위큰굽이(greater curvature of stomach)의 왼쪽 부분을 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "온간동맥(common hepatic artery)은 간고유동맥(hepatic artery proper)으로 이어져 간(liver)과 담낭(gallbladder)에 혈액을 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "온간동맥(common hepatic artery)은 오른위동맥(right gastric artery)을 내어 위작은굽이(lesser curvature of stomach)의 오른쪽 부분을 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 50,
+          "text": "왼위동맥(left gastric artery) supplies 배부분 식도(abdominal esophagus) and 위작은굽이(lesser curvature of stomach)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 51,
+          "text": "지라동맥(splenic artery) supplies 지라(spleen), 위바닥(fundus of stomach), 위큰굽이(greater curvature of stomach)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 52,
+          "text": "온간동맥(common hepatic artery) supplies 간(liver), 담낭(gallbladder), 위작은굽이(lesser curvature of stomach), 샘창자 근위부(proximal duodenum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "간가지 esophageal branches",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "그림 6-35. 식도와 위의 동맥분포",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "왼위동맥(left gastric artery)은 식도가지(esophageal branches)를 내고 위작은굽이(lesser curvature of stomach) 쪽으로 주행한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "지라동맥(splenic artery)은 지라(spleen)로 가며, 짧은위동맥(short gastric arteries)과 왼위그물막동맥(left gastroomental artery)을 낸다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "온간동맥(common hepatic artery)은 간가지(hepatic branch)를 통해 간(liver) 쪽으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "왼위동맥(left gastric artery) gives_branch 식도가지(esophageal branches)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "지라동맥(splenic artery) gives_branch 짧은위동맥(short gastric arteries) and 왼위그물막동맥(left gastroomental artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 33,
+        "accounted_term_count": 32,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.97,
+        "accounted_terms": [
+          "복강동맥(celiac trunk)",
+          "앞창자(foregut)",
+          "지라동맥(splenic artery)",
+          "온간동맥(common hepatic artery)",
+          "왼위동맥(left gastric artery)",
+          "식도가지(esophageal branches)",
+          "내어배부분식도(abdominal esophagus)",
+          "짧은위동맥(short gastric arteries)",
+          "내어위바닥(fundus of stomach)",
+          "왼위그물막동맥(left gastroomental artery)",
+          "내어위큰굽이(greater curvature of stomach)",
+          "간고유동맥(hepatic artery proper)",
+          "간(liver)",
+          "쓸개주머니(gallbladder)",
+          "오른위동맥(right gastric artery)",
+          "위샘창자동맥(gastroduodenal artery)",
+          "샘창자(duodenum)",
+          "지라(spleen)",
+          "식도(esophagus)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "가로막(diaphragm)",
+          "이자(pancreas)",
+          "창자간막(mesentery)",
+          "위창자간막동맥(superior mesenteric artery)",
+          "배대동맥(abdominal aorta)",
+          "배안(abdominal cavity)",
+          "고리(annulus)",
+          "중간창자(midgut)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "간가지(hepatic branch)"
+        ],
+        "unresolved_terms": [
+          "샘창자근위부(proximal duodenum)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Arterial supply to abdominal foregut derivatives:",
+        "esophagus, stomach, liver, gallbladder, and spleen",
+        "간가지 esophageal branches",
+        "hepatic branch",
+        "inferior phrenic a",
+        "배대동백 short gastric aa.",
+        "abdominal aorta",
+        "온간동맥 left gastric a",
+        "common hepatic a 지라 spleen",
+        "right gastric a splenic a",
+        "gastroduodenala",
+        "left gastroomental a",
+        "superior pancreaticoduodenala",
+        "right gastroomental a.",
+        "superior mesenteric a",
+        "superior mesenteric V.",
+        "그림 6-35. 식도와 위의 동맥분포"
+      ],
+      "supplemental_ocr_blocks": [
+        "식도가지",
+        "아래가로막동백",
+        "짧은위동맥",
+        "원위동맥",
+        "오른위동백 지라동백",
+        "위심창자동맥",
+        "원위그불막동맥",
+        "위이자생창자동맥",
+        "오른위그불막동맥",
+        "위창자간막동맥",
+        "위창자간막정맥"
+      ],
+      "corrected_page_text": "Arterial supply to abdominal foregut derivatives:\nesophagus, stomach, liver, gallbladder, and spleen\n간가지 esophageal branches\nhepatic branch\ninferior phrenic a\n배대동백 short gastric aa.\nabdominal aorta\n온간동맥 left gastric a\ncommon hepatic a 지라 spleen\nright gastric a splenic a\ngastroduodenala\nleft gastroomental a\nsuperior pancreaticoduodenala\nright gastroomental a.\nsuperior mesenteric a\nsuperior mesenteric V.\n그림 6-35. 식도와 위의 동맥분포",
+      "quality_audit": {
+        "pdf_char_count": 89,
+        "pdf_span_count": 2,
+        "pdf_word_count": 12,
+        "ocr_fragment_count": 34,
+        "pdf_line_count": 2,
+        "ocr_line_count": 28,
+        "merged_line_count": 28,
+        "pdf_only_count": 0,
+        "ocr_only_count": 26,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 2,
+        "ocr_only_line_count": 26,
+        "pdf_alpha_count": 84,
+        "ocr_alpha_count": 342,
+        "promoted_ocr_only_count": 15
+      }
+    }
+  }
+}

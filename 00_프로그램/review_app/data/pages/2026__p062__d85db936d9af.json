@@ -1,0 +1,2430 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "강의원본",
+    "source_stem": "2026년 배(소화계통 비뇨계통)",
+    "page_number": 62
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_001"
+      ],
+      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "leftgastricvein",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_001"
+      ],
+      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "leftgastricvein",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_001"
+      ],
+      "prompt": "왼위정맥(left gastric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_001"
+      ],
+      "prompt": "왼위정맥(left gastric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
+        "component_type": "gross_anatomy_diagram"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_002"
+      ],
+      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위정맥(right gastric vein)",
+        "accepted_answers": [
+          "오른위정맥(right gastric vein)",
+          "rightgastricvein",
+          "right gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위정맥(right gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_002"
+      ],
+      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위정맥(right gastric vein)",
+        "accepted_answers": [
+          "오른위정맥(right gastric vein)",
+          "rightgastricvein",
+          "right gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위정맥(right gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_002"
+      ],
+      "prompt": "오른위정맥(right gastric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_002"
+      ],
+      "prompt": "오른위정맥(right gastric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
+        "component_type": "gross_anatomy_diagram"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_003"
+      ],
+      "prompt": "짧은위정맥(short gastric vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_003_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_003"
+      ],
+      "prompt": "짧은위정맥(short gastric vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_004"
+      ],
+      "prompt": "_____은 지라정맥(splenic vein)으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위그물막정맥(left gastroomental vein)",
+        "accepted_answers": [
+          "왼위그물막정맥(left gastroomental vein)",
+          "leftgastroomentalvein",
+          "left gastroomental vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위그물막정맥(left gastroomental vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_004"
+      ],
+      "prompt": "_____은 지라정맥(splenic vein)으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위그물막정맥(left gastroomental vein)",
+        "accepted_answers": [
+          "왼위그물막정맥(left gastroomental vein)",
+          "leftgastroomentalvein",
+          "left gastroomental vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위그물막정맥(left gastroomental vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_004"
+      ],
+      "prompt": "왼위그물막정맥(left gastroomental vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_004"
+      ],
+      "prompt": "왼위그물막정맥(left gastroomental vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_005"
+      ],
+      "prompt": "_____은 위창자간막정맥(superior mesenteric vein)으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위그물막정맥(right gastroomental vein)",
+        "accepted_answers": [
+          "오른위그물막정맥(right gastroomental vein)",
+          "rightgastroomentalvein",
+          "right gastroomental vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위그물막정맥(right gastroomental vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_005"
+      ],
+      "prompt": "_____은 위창자간막정맥(superior mesenteric vein)으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위그물막정맥(right gastroomental vein)",
+        "accepted_answers": [
+          "오른위그물막정맥(right gastroomental vein)",
+          "rightgastroomentalvein",
+          "right gastroomental vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위그물막정맥(right gastroomental vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_005"
+      ],
+      "prompt": "오른위그물막정맥(right gastroomental vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막정맥(superior mesenteric vein)",
+        "accepted_answers": [
+          "위창자간막정맥(superior mesenteric vein)",
+          "superiormesentericvein",
+          "superior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막정맥(superior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_005"
+      ],
+      "prompt": "오른위그물막정맥(right gastroomental vein)은 _____으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막정맥(superior mesenteric vein)",
+        "accepted_answers": [
+          "위창자간막정맥(superior mesenteric vein)",
+          "superiormesentericvein",
+          "superior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막정맥(superior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_006"
+      ],
+      "prompt": "_____은 지라정맥(splenic vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferiormesentericvein",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_006"
+      ],
+      "prompt": "_____은 지라정맥(splenic vein)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferiormesentericvein",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_006"
+      ],
+      "prompt": "아래창자간막정맥(inferior mesenteric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_006"
+      ],
+      "prompt": "아래창자간막정맥(inferior mesenteric vein)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_007"
+      ],
+      "prompt": "_____과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_007"
+      ],
+      "prompt": "_____과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenicvein",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_007"
+      ],
+      "prompt": "지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_007"
+      ],
+      "prompt": "지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepaticportalvein",
+          "hepatic portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
+        "component_type": "gross_anatomy_diagram"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_008"
+      ],
+      "prompt": "식도가지(esophageal branch)는 _____과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "leftgastricvein",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_008_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_062_ai_corrected_008"
+      ],
+      "prompt": "식도가지(esophageal branch)는 _____과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "leftgastricvein",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지에서 표시된 핵심 용어는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Venous drainage to the stomach",
+        "accepted_answers": [
+          "Venous drainage to the stomach"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "Venous drainage to the stomach",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::title_001"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::title_001",
+        "component_type": "main_text"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: Venous drainage to the stomach"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 29,
+    "question_type_count": {
+      "fill_blank": 14,
+      "image_grounded_fill_blank": 15
+    },
+    "question_focus_count": {
+      "course_exam_style": 28,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
+        "review_image_url": "./data/images/2026__p001__d618bad7f2d9.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p002__9428e9ae6522.json",
+        "review_image_url": "./data/images/2026__p002__9428e9ae6522.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p003__630b63f969a5.json",
+        "review_image_url": "./data/images/2026__p003__630b63f969a5.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p004__dd4785e2cbd7.json",
+        "review_image_url": "./data/images/2026__p004__dd4785e2cbd7.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p005__f80a8587c53a.json",
+        "review_image_url": "./data/images/2026__p005__f80a8587c53a.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p006__0c36c7363849.json",
+        "review_image_url": "./data/images/2026__p006__0c36c7363849.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p007__721c33fafafa.json",
+        "review_image_url": "./data/images/2026__p007__721c33fafafa.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p008__61429763abae.json",
+        "review_image_url": "./data/images/2026__p008__61429763abae.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
+        "review_image_url": "./data/images/2026__p009__b5aecc8d7d88.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p010__d49044c06b9e.json",
+        "review_image_url": "./data/images/2026__p010__d49044c06b9e.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p011__534d3b415cf6.json",
+        "review_image_url": "./data/images/2026__p011__534d3b415cf6.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p012__203c212c38bf.json",
+        "review_image_url": "./data/images/2026__p012__203c212c38bf.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p013__3f022bc966ba.json",
+        "review_image_url": "./data/images/2026__p013__3f022bc966ba.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p014__2b21817f363e.json",
+        "review_image_url": "./data/images/2026__p014__2b21817f363e.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p015__e0af0f604a62.json",
+        "review_image_url": "./data/images/2026__p015__e0af0f604a62.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p016__fff3da6ce5b1.json",
+        "review_image_url": "./data/images/2026__p016__fff3da6ce5b1.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p017__48c25ba41e2b.json",
+        "review_image_url": "./data/images/2026__p017__48c25ba41e2b.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 33,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p018__f34c84987853.json",
+        "review_image_url": "./data/images/2026__p018__f34c84987853.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p019__ce523d7beebc.json",
+        "review_image_url": "./data/images/2026__p019__ce523d7beebc.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p020__b29950f4ac3e.json",
+        "review_image_url": "./data/images/2026__p020__b29950f4ac3e.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
+        "review_image_url": "./data/images/2026__p021__0d353d0efbc9.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
+        "review_image_url": "./data/images/2026__p022__1c5dee3cd7b2.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p023__7c9c259960f5.json",
+        "review_image_url": "./data/images/2026__p023__7c9c259960f5.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p024__f0793a9374a0.json",
+        "review_image_url": "./data/images/2026__p024__f0793a9374a0.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p025__5d6aedccf680.json",
+        "review_image_url": "./data/images/2026__p025__5d6aedccf680.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p026__877bb8db7d47.json",
+        "review_image_url": "./data/images/2026__p026__877bb8db7d47.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p027__69eb8d8da529.json",
+        "review_image_url": "./data/images/2026__p027__69eb8d8da529.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p028__57813e51e4e2.json",
+        "review_image_url": "./data/images/2026__p028__57813e51e4e2.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p029__f32174620f86.json",
+        "review_image_url": "./data/images/2026__p029__f32174620f86.webp"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p030__93a208dd88f3.json",
+        "review_image_url": "./data/images/2026__p030__93a208dd88f3.webp"
+      },
+      {
+        "page_number": 31,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p031__59680f7bcd4d.json",
+        "review_image_url": "./data/images/2026__p031__59680f7bcd4d.webp"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p032__daeb346a7c04.json",
+        "review_image_url": "./data/images/2026__p032__daeb346a7c04.webp"
+      },
+      {
+        "page_number": 33,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
+        "review_image_url": "./data/images/2026__p033__42d8ce3d541e.webp"
+      },
+      {
+        "page_number": 34,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p034__fbfa6091ffbb.json",
+        "review_image_url": "./data/images/2026__p034__fbfa6091ffbb.webp"
+      },
+      {
+        "page_number": 35,
+        "question_count": 29,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p035__ed8b07087961.json",
+        "review_image_url": "./data/images/2026__p035__ed8b07087961.webp"
+      },
+      {
+        "page_number": 36,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p036__450acddba779.json",
+        "review_image_url": "./data/images/2026__p036__450acddba779.webp"
+      },
+      {
+        "page_number": 37,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p037__a31a7d47388b.json",
+        "review_image_url": "./data/images/2026__p037__a31a7d47388b.webp"
+      },
+      {
+        "page_number": 38,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p038__5396488237ec.json",
+        "review_image_url": "./data/images/2026__p038__5396488237ec.webp"
+      },
+      {
+        "page_number": 39,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p039__5c84217a7895.json",
+        "review_image_url": "./data/images/2026__p039__5c84217a7895.webp"
+      },
+      {
+        "page_number": 40,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p040__760ec58a5dd4.json",
+        "review_image_url": "./data/images/2026__p040__760ec58a5dd4.webp"
+      },
+      {
+        "page_number": 41,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p041__0224320ee642.json",
+        "review_image_url": "./data/images/2026__p041__0224320ee642.webp"
+      },
+      {
+        "page_number": 42,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p042__e4972a401b99.json",
+        "review_image_url": "./data/images/2026__p042__e4972a401b99.webp"
+      },
+      {
+        "page_number": 43,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p043__8545104b7256.json",
+        "review_image_url": "./data/images/2026__p043__8545104b7256.webp"
+      },
+      {
+        "page_number": 44,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p044__98b317a57e69.json",
+        "review_image_url": "./data/images/2026__p044__98b317a57e69.webp"
+      },
+      {
+        "page_number": 45,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p045__74c1fca465fc.json",
+        "review_image_url": "./data/images/2026__p045__74c1fca465fc.webp"
+      },
+      {
+        "page_number": 46,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p046__9e421b3739ed.json",
+        "review_image_url": "./data/images/2026__p046__9e421b3739ed.webp"
+      },
+      {
+        "page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p047__ea8a5956c9a5.json",
+        "review_image_url": "./data/images/2026__p047__ea8a5956c9a5.webp"
+      },
+      {
+        "page_number": 48,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p048__8c28a403c2a2.json",
+        "review_image_url": "./data/images/2026__p048__8c28a403c2a2.webp"
+      },
+      {
+        "page_number": 49,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p049__fb0b50b1586b.json",
+        "review_image_url": "./data/images/2026__p049__fb0b50b1586b.webp"
+      },
+      {
+        "page_number": 50,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p050__69ae1ec63b00.json",
+        "review_image_url": "./data/images/2026__p050__69ae1ec63b00.webp"
+      },
+      {
+        "page_number": 51,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p051__b96f8982b511.json",
+        "review_image_url": "./data/images/2026__p051__b96f8982b511.webp"
+      },
+      {
+        "page_number": 52,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p052__e138b8f71020.json",
+        "review_image_url": "./data/images/2026__p052__e138b8f71020.webp"
+      },
+      {
+        "page_number": 53,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p053__9aa32bd7620a.json",
+        "review_image_url": "./data/images/2026__p053__9aa32bd7620a.webp"
+      },
+      {
+        "page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p054__72abfbdd0828.json",
+        "review_image_url": "./data/images/2026__p054__72abfbdd0828.webp"
+      },
+      {
+        "page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/2026__p055__059aa40bc2ec.json",
+        "review_image_url": "./data/images/2026__p055__059aa40bc2ec.webp"
+      },
+      {
+        "page_number": 56,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p056__06a330b4a95c.json",
+        "review_image_url": "./data/images/2026__p056__06a330b4a95c.webp"
+      },
+      {
+        "page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json",
+        "review_image_url": "./data/images/2026__p057__0fbbe7ecf3d7.webp"
+      },
+      {
+        "page_number": 58,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p058__37f2f78de9a0.json",
+        "review_image_url": "./data/images/2026__p058__37f2f78de9a0.webp"
+      },
+      {
+        "page_number": 59,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p059__6356c8a84284.json",
+        "review_image_url": "./data/images/2026__p059__6356c8a84284.webp"
+      },
+      {
+        "page_number": 60,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json",
+        "review_image_url": "./data/images/2026__p060__a1e2cf2a7c93.webp"
+      },
+      {
+        "page_number": 61,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p061__7cf133180fd5.json",
+        "review_image_url": "./data/images/2026__p061__7cf133180fd5.webp"
+      },
+      {
+        "page_number": 62,
+        "question_count": 29,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p062__d85db936d9af.json",
+        "review_image_url": "./data/images/2026__p062__d85db936d9af.webp"
+      },
+      {
+        "page_number": 63,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p063__08e7d5c06892.json"
+      },
+      {
+        "page_number": 64,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p064__3344aa9a316c.json"
+      },
+      {
+        "page_number": 65,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p065__d88212948b66.json"
+      },
+      {
+        "page_number": 66,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p066__045abdcbb424.json"
+      },
+      {
+        "page_number": 67,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p067__50d5f54afd62.json"
+      },
+      {
+        "page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p068__2eb570fadbfa.json"
+      },
+      {
+        "page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p069__88c4c6effbcc.json"
+      },
+      {
+        "page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p070__8b6dbe240b0f.json"
+      },
+      {
+        "page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p071__f2cfda56cfae.json"
+      },
+      {
+        "page_number": 72,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p072__c4cb314bf9c8.json"
+      },
+      {
+        "page_number": 73,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
+      },
+      {
+        "page_number": 74,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p074__4f28f19a409f.json"
+      },
+      {
+        "page_number": 75,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p075__74f01cc31e2b.json"
+      },
+      {
+        "page_number": 76,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p076__4343210caa81.json"
+      },
+      {
+        "page_number": 77,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p077__f7319ae0f933.json"
+      },
+      {
+        "page_number": 78,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p078__8d5415577a26.json"
+      },
+      {
+        "page_number": 79,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p079__bf5d2f51eb2b.json"
+      },
+      {
+        "page_number": 80,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p080__2691ccc97de2.json"
+      },
+      {
+        "page_number": 81,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p081__6ac9a891afa3.json"
+      },
+      {
+        "page_number": 82,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p082__2702e4761405.json"
+      },
+      {
+        "page_number": 83,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p083__06c87fc0fb5e.json"
+      },
+      {
+        "page_number": 84,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p084__a7bfbf8eb49a.json"
+      },
+      {
+        "page_number": 85,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p085__14ece79e1544.json"
+      },
+      {
+        "page_number": 86,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p086__6e2ed4988d4e.json"
+      },
+      {
+        "page_number": 87,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p087__93695ec41ed5.json"
+      },
+      {
+        "page_number": 88,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p088__d21963281ac4.json"
+      },
+      {
+        "page_number": 89,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p089__a49f44489efa.json"
+      },
+      {
+        "page_number": 90,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p090__cf2021346e0e.json"
+      },
+      {
+        "page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p091__9b7cee0a29ce.json"
+      },
+      {
+        "page_number": 92,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p092__a5333f94ad5b.json"
+      },
+      {
+        "page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p093__6a91698aabf6.json"
+      },
+      {
+        "page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p094__791b32ea10fb.json"
+      },
+      {
+        "page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p095__af9370041236.json"
+      },
+      {
+        "page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p096__235b1ce237e2.json"
+      },
+      {
+        "page_number": 97,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p097__cb0f3b049120.json"
+      },
+      {
+        "page_number": 98,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p098__d6a59486df8c.json"
+      },
+      {
+        "page_number": 99,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p099__bc30cfb9c36e.json"
+      },
+      {
+        "page_number": 100,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p100__b4b3947ce1b9.json"
+      },
+      {
+        "page_number": 101,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p101__2db3388c57de.json"
+      },
+      {
+        "page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p102__9ac8c07438b3.json"
+      },
+      {
+        "page_number": 103,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p103__7ecadeae30a9.json"
+      },
+      {
+        "page_number": 104,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p104__bbf7c68bcbc7.json"
+      },
+      {
+        "page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p105__940eb46dbd36.json"
+      },
+      {
+        "page_number": 106,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p106__6edb8e72a6b7.json"
+      },
+      {
+        "page_number": 107,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p107__76c87ccb13fb.json"
+      },
+      {
+        "page_number": 108,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p108__3a1b44cffb1e.json"
+      },
+      {
+        "page_number": 109,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p109__109a542bafef.json"
+      },
+      {
+        "page_number": 110,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p110__d9de41c5d3f2.json"
+      },
+      {
+        "page_number": 111,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p111__2ddcb22a7464.json"
+      },
+      {
+        "page_number": 112,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p112__67599175d256.json"
+      },
+      {
+        "page_number": 113,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p113__f59c474c7012.json"
+      },
+      {
+        "page_number": 114,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p114__08cfcdbfa82d.json"
+      },
+      {
+        "page_number": 115,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p115__bed8b3432ffe.json"
+      },
+      {
+        "page_number": 116,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p116__3b76c7022014.json"
+      },
+      {
+        "page_number": 117,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p117__ae08d097755c.json"
+      },
+      {
+        "page_number": 118,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p118__fbc37345dc69.json"
+      },
+      {
+        "page_number": 119,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p119__93b7d0dd3446.json"
+      },
+      {
+        "page_number": 120,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p120__9f8056f6fe0c.json"
+      },
+      {
+        "page_number": 121,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p121__44280e0e8536.json"
+      },
+      {
+        "page_number": 122,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p122__2855b1d8379c.json"
+      },
+      {
+        "page_number": 123,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p123__d73d1263743b.json"
+      },
+      {
+        "page_number": 124,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p124__a39fac699e72.json"
+      },
+      {
+        "page_number": 125,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p125__0d6ae41ec4d1.json"
+      },
+      {
+        "page_number": 126,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p126__1024d511a660.json"
+      },
+      {
+        "page_number": 127,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p127__0ed09b06c323.json"
+      },
+      {
+        "page_number": 128,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p128__0e5e2e7a7a83.json"
+      },
+      {
+        "page_number": 129,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p129__70cd7c689d80.json"
+      },
+      {
+        "page_number": 130,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p130__a9002ac94fdd.json"
+      },
+      {
+        "page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p131__a06bba1a82ed.json"
+      },
+      {
+        "page_number": 132,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p132__b649f7abef1a.json"
+      },
+      {
+        "page_number": 133,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p133__6ac2dc6152ed.json"
+      },
+      {
+        "page_number": 134,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p134__41ad4bffabc1.json"
+      },
+      {
+        "page_number": 135,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p135__ad6e083cea89.json"
+      },
+      {
+        "page_number": 136,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p136__01304c738a88.json"
+      },
+      {
+        "page_number": 137,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p137__88be1df15a5f.json"
+      },
+      {
+        "page_number": 138,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p138__ba67d3fd1245.json"
+      },
+      {
+        "page_number": 139,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p139__48fe4cb88ca0.json"
+      },
+      {
+        "page_number": 140,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p140__ac81cbf1cc1b.json"
+      },
+      {
+        "page_number": 141,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p141__8f05a451a56e.json"
+      },
+      {
+        "page_number": 142,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p142__57943700d9c3.json"
+      },
+      {
+        "page_number": 143,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p143__d83f4af106d2.json"
+      },
+      {
+        "page_number": 144,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p144__7d65ce9b1cd0.json"
+      },
+      {
+        "page_number": 145,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p145__c89ab968b604.json"
+      },
+      {
+        "page_number": 146,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p146__4218733a83d8.json"
+      },
+      {
+        "page_number": 147,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p147__65d7c898615e.json"
+      },
+      {
+        "page_number": 148,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p148__67d18648f006.json"
+      },
+      {
+        "page_number": 149,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p149__35c2e445ad2c.json"
+      },
+      {
+        "page_number": 150,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p150__e34ad48ddc41.json"
+      },
+      {
+        "page_number": 151,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p151__7dcc8077e968.json"
+      },
+      {
+        "page_number": 152,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p152__a2ee41b2970d.json"
+      },
+      {
+        "page_number": 153,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p153__dc1a54123c04.json"
+      },
+      {
+        "page_number": 154,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p154__e7e32edfe4fd.json"
+      },
+      {
+        "page_number": 155,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p155__9f8f81854ff2.json"
+      },
+      {
+        "page_number": 156,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p156__bb780c8cc845.json"
+      },
+      {
+        "page_number": 157,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p157__82dfc0f24dcc.json"
+      },
+      {
+        "page_number": 158,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p158__aad68362f95a.json"
+      },
+      {
+        "page_number": 159,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p159__92b999952d4c.json"
+      },
+      {
+        "page_number": 160,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p160__a38730081338.json"
+      },
+      {
+        "page_number": 161,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p161__35f1f392119e.json"
+      },
+      {
+        "page_number": 162,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p162__4e00602da20e.json"
+      },
+      {
+        "page_number": 163,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p163__068434941c44.json"
+      },
+      {
+        "page_number": 164,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p164__05ed0775e64e.json"
+      },
+      {
+        "page_number": 165,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p165__316bd65362eb.json"
+      },
+      {
+        "page_number": 166,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p166__9e9b1da895c7.json"
+      },
+      {
+        "page_number": 167,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p167__05a2ff94b425.json"
+      },
+      {
+        "page_number": 168,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p168__07911a905071.json"
+      },
+      {
+        "page_number": 169,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p169__5b63a9e03148.json"
+      },
+      {
+        "page_number": 170,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p170__fb1c6eeb8a32.json"
+      },
+      {
+        "page_number": 171,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p171__13f37812c256.json"
+      },
+      {
+        "page_number": 172,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p172__3a2a907c0ee6.json"
+      },
+      {
+        "page_number": 173,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p173__edcec1c6c302.json"
+      },
+      {
+        "page_number": 174,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p174__cd51395c9c07.json"
+      },
+      {
+        "page_number": 175,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p175__8f7fa2b052af.json"
+      },
+      {
+        "page_number": 176,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p176__925f6280d436.json"
+      },
+      {
+        "page_number": 177,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p177__aede79782b1c.json"
+      },
+      {
+        "page_number": 178,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p178__fc5255d81b22.json"
+      },
+      {
+        "page_number": 179,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p179__c24ab8a84fe0.json"
+      },
+      {
+        "page_number": 180,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p180__0691bc4d0da1.json"
+      }
+    ],
+    "current_index": 61,
+    "previous_page": 61,
+    "next_page": 63
+  },
+  "review_image_url": "./data/images/2026__p062__d85db936d9af.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "강의원본",
+      "source_stem": "2026년 배(소화계통 비뇨계통)",
+      "page_number": 62
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다.",
+        "오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다.",
+        "짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다.",
+        "왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다.",
+        "오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다.",
+        "아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다.",
+        "지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다.",
+        "식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다.",
+        "위의 영어 이름은 stomach이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "간문맥의 영어 이름은 hepatic portal vein이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "간의 영어 이름은 liver이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "왼위정맥의 영어 이름은 left gastric vein이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "창자간막의 영어 이름은 mesentery이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 18,
+          "text": "식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 19,
+          "text": "왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. 짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다. 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. 식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 20,
+          "text": "위의 정맥 배액(venous drainage to the stomach)을 보여주는 강의원본 그림이다. 위왼정맥, 오른위정맥, 짧은위정맥, 지라정맥, 아래창자간막정맥, 위그물막정맥, 위창자간막정맥, 간문맥이 연결되어 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "Venous drainage to the stomach",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "그림 6-36. 식도와 위의 정매분포",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "짧은위정맥(short gastric vein) drains_to 지라정맥(splenic vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "오른위그물막정맥(right gastroomental vein) drains_to 위창자간막정맥(superior mesenteric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "지라정맥(splenic vein) joins_with 위창자간막정맥(superior mesenteric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 18,
+        "accounted_term_count": 17,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.944,
+        "accounted_terms": [
+          "왼위정맥(left gastric vein)",
+          "간문맥(hepatic portal vein)",
+          "오른위정맥(right gastric vein)",
+          "짧은위정맥(short gastric vein)",
+          "지라정맥(splenic vein)",
+          "왼위그물막정맥(left gastroomental vein)",
+          "오른위그물막정맥(right gastroomental vein)",
+          "위창자간막정맥(superior mesenteric vein)",
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "식도가지(esophageal branch)",
+          "위(stomach)",
+          "식도(esophagus)",
+          "간(liver)",
+          "간문(porta hepatis)",
+          "배(abdominal region)",
+          "지라(spleen)",
+          "창자간막(mesentery)"
+        ],
+        "unresolved_terms": [
+          "위의정맥배액(venous drainage to the stomach)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Venous drainage to the stomach",
+        "esophageal branch",
+        "short gastric V.",
+        "left gastric V.",
+        "hepatic portal V.",
+        "inferior mesenteric V.",
+        "양자생창자정채denal= V. 원위국움망점지a v",
+        "위장자금분정teric v %류워국품화점벌a",
+        "superior mesenteric a",
+        "그림 6-36. 식도와 위의 정매분포"
+      ],
+      "supplemental_ocr_blocks": [
+        "식도가지",
+        "짧은위정맥 .",
+        "원위정맥",
+        "k",
+        "간문팩",
+        "올유원장 V.",
+        "지료정말",
+        "V",
+        "아래창자간막정맥",
+        "V.",
+        "위창자간막동맥"
+      ],
+      "corrected_page_text": "Venous drainage to the stomach\nesophageal branch\nshort gastric V.\nleft gastric V.\nhepatic portal V.\ninferior mesenteric V.\n양자생창자정채denal= V. 원위국움망점지a v\n위장자금분정teric v %류워국품화점벌a\nsuperior mesenteric a\n그림 6-36. 식도와 위의 정매분포",
+      "quality_audit": {
+        "pdf_char_count": 26,
+        "pdf_span_count": 1,
+        "pdf_word_count": 5,
+        "ocr_fragment_count": 25,
+        "pdf_line_count": 1,
+        "ocr_line_count": 21,
+        "merged_line_count": 21,
+        "pdf_only_count": 0,
+        "ocr_only_count": 20,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 20,
+        "pdf_alpha_count": 26,
+        "ocr_alpha_count": 189,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 23,
+    "note_page_number": 23,
+    "source_page_number": 125,
+    "original_page_number": 125,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p023_course_배_필기본_023_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_001"
+      ],
+      "prompt": "_____의 중심에는 중심정맥(central vein)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간소엽(hepatic lobule)",
+        "accepted_answers": [
+          "간소엽(hepatic lobule)",
+          "hepatic lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간소엽(hepatic lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간소엽(hepatic lobule)의 중심에는 중심정맥(central vein)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p023_course_배_필기본_023_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_001"
+      ],
+      "prompt": "간소엽(hepatic lobule)의 중심에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간소엽(hepatic lobule)의 중심에는 중심정맥(central vein)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p023_course_배_필기본_023_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_002"
+      ],
+      "prompt": "_____은 간소엽(hepatic lobule)의 주변부에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portal triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥삼합(portal triad)은 간소엽(hepatic lobule)의 주변부에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p023_course_배_필기본_023_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_002"
+      ],
+      "prompt": "간문맥삼합(portal triad)은 _____의 주변부에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간소엽(hepatic lobule)",
+        "accepted_answers": [
+          "간소엽(hepatic lobule)",
+          "hepatic lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간소엽(hepatic lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥삼합(portal triad)은 간소엽(hepatic lobule)의 주변부에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 4,
+    "question_type_count": {
+      "fill_blank": 4
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 4
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__9126be99b5b1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__17daf6e80ed8.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__279c43c8043d.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__bc46d0e27838.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__abb326ded3ee.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__ecb927d12b2e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__053502c97f13.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__592581899e50.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__6b12d5412bf0.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__dce1b2398712.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__a424516c1787.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__11ddd62e5972.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__24c9abb08bb5.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__1ca43cc90e74.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__d3b19755bba7.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__c881c891008e.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__a9bc16787078.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__1198bdb3ca05.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__9d0083005507.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__a032fc1af389.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__28d9af8140d2.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__5ad5f96806a1.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__da8ef99375e3.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__3c2c47ba65a0.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__0225160fd950.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__a6e053f6ab17.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__fd92449dc9f1.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__82cdcef25e9b.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__f615453699ac.json"
+      }
+    ],
+    "current_index": 22,
+    "previous_page": 22,
+    "next_page": 24
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 23
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "간소엽(hepatic lobule)의 중심에는 중심정맥(central vein)이 있다.",
+        "간문맥삼합(portal triad)은 간소엽(hepatic lobule)의 주변부에 위치한다.",
+        "간문맥삼합(portal triad)은 작은 쓸개관(bile duct), 문맥의 세정맥가지(branch of portal vein), 간동맥의 세동맥가지(branch of hepatic artery)를 포함한다.",
+        "간의 영어 이름은 liver이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "간문맥의 영어 이름은 hepatic portal vein이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "위의 영어 이름은 stomach이다.",
+        "간소엽의 영어 이름은 hepatic lobule이다.",
+        "중심정맥의 영어 이름은 central vein이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "간문맥삼합(portal triad)은 작은 쓸개관(D), 문맥의 세정맥가지(V), 간동맥의 세동맥가지(A)를 포함한다.",
+        "배의 영어 이름은 abdominal region이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "가로절단면에서 관찰되는 간소업hepatic lobule)은 중심정률(C예서 방 (b) 사람에서의 간소업은 결합조직이 적게 있어 간소염의 경계틀 구분하",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 5,
+          "text": "(a) 돼지와 같은 포유동물의 간소염은 결합조직에 의해 모든 면의 경계들 동이들 포함하다: 작은 쓸개세관D; 간문맥정맥의 세정맥가지V), 간동맥",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "사람의 간소엽은 결합조직이 적어 경계를 구분하기 어렵다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "간문맥삼합(portal triad)은 작은 쓸개관(bile duct), 문맥의 세정맥가지(branch of portal vein), 간동맥의 세동맥가지(branch of hepatic artery)를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 12,
+          "text": "간소엽(hepatic lobule)은 중심정맥(central vein)이 중심에 있는 다각형 단위이다. 돼지와 같은 포유동물의 간소엽은 결합조직이 뚜렷하여 경계가 비교적 명확하다. 사람의 간소엽은 결합조직이 적어 경계를 구분하기 어렵다. 간문맥삼합(portal triad)은 작은 쓸개관(bile duct), 문맥의 세정맥가지(branch of portal vein), 간동맥의 세동맥가지(branch of hepatic artery)를 포함한다. 필기에서는 중심정맥(C)을 간소엽의 중심으로, triad를 간소엽의 주변부 구조로 표시했다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 7,
+          "text": "간소엽(hepatic lobule)은 중심정맥(central vein)이 중심에 있는 다각형 단위이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "필기에서는 중심정맥(C)을 간소엽의 중심으로, triad를 간소엽의 주변부 구조로 표시했다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "간소엽 그림에 중심정맥(C)과 간문맥삼합(triad)을 필기로 강조한 페이지다. 동물과 사람의 간소엽 경계 차이와 triad 구성요소를 읽어낼 수 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "중심정맥(central vein) 위치한다 간소엽(hepatic lobule)의 중심",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "간문맥삼합(portal triad) 위치한다 간소엽(hepatic lobule)의 주변부",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 1,
+          "text": "가로절단면에서 관찰되는 간소염hepatic lobule)은 중심정맵(C에서 방 (b) 사람에서의 간소염은 결합조직이 적게 있어 간소염의 경계름 구분하",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 3,
+          "text": "(a) 돼지와 같은 포유동물의 간소염은 결합조직에 의해 모든 면의 경계틀 동이틀 포함하다: 작은 쓸개세관D); 간문맥정맥의 세정맥가지V) 간동맥",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 7,
+          "text": "사람의 간소엽은 결합조직이 적어 간소엽의 경계를 구분하기 어렵다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "간문맥삼합(portal triad)은 작은 쓸개관(D), 문맥의 세정맥가지(V), 간동맥의 세동맥가지(A)를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "간소엽(hepatic lobule)은 중심정맥(C)에서 방사형으로 배열된 간세포판으로 이루어진 다각형 단위이다. 돼지와 같은 포유동물의 간소엽은 결합조직에 의해 모든 면의 경계가 비교적 명확하다. 사람의 간소엽은 결합조직이 적어 간소엽의 경계를 구분하기 어렵다. 간문맥삼합(portal triad)은 작은 쓸개관(D), 문맥의 세정맥가지(V), 간동맥의 세동맥가지(A)를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 11,
+          "text": "간문맥삼합(portal triad) 포함한다 작은 쓸개관(bile duct), 문맥의 세정맥가지(branch of portal vein), 간동맥의 세동맥가지(branch of hepatic artery)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 5,
+          "text": "간소엽(hepatic lobule)은 중심정맥(C)에서 방사형으로 배열된 간세포판으로 이루어진 다각형 단위이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "간소엽 조직 그림과 캡션으로 중심정맥, 간문맥삼합, 동물과 사람에서의 경계 차이를 설명하는 강의원본 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 17,
+        "accounted_term_count": 17,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "예서방(b)",
+          "간소엽(hepatic lobule)",
+          "중심정맥(central vein)",
+          "간문맥삼합(portal triad)",
+          "담관(bile duct)",
+          "간문맥삼합(triad)",
+          "간(liver)",
+          "간문맥(hepatic portal vein)",
+          "상피(epithelium)",
+          "간세포(hepatocyte)",
+          "간문(porta hepatis)",
+          "위(stomach)",
+          "담즙(bile)",
+          "에서방(b)",
+          "중심정맥(C)",
+          "작은쓸개관(D)",
+          "배(abdominal region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "가로절단면에서 관찰되는 간소염hepatic lobule)은 중심정맵(C에서 방 (b) 사람에서의 간소염은 결합조직이 적게 있어 간소염의 경계름 구분하",
+        "사형으로 뻗어 있는 간세포의 상피세포판으로 이루어진 다각형단워이다: 기 어렵다: 돼지와 사랑인 경우 모두 문맥영역의 변드리 결합조직은 간세",
+        "(a) 돼지와 같은 포유동물의 간소염은 결합조직에 의해 모든 면의 경계틀 동이틀 포함하다: 작은 쓸개세관D); 간문맥정맥의 세정맥가지V) 간동맥",
+        "결정하다: 의 세동맥가지A): (모두 X150; H8E)"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 16-12 간소염",
+        "C",
+        "D:",
+        "A D",
+        "A",
+        "D V",
+        "V"
+      ],
+      "corrected_page_text": "가로절단면에서 관찰되는 간소염hepatic lobule)은 중심정맵(C에서 방 (b) 사람에서의 간소염은 결합조직이 적게 있어 간소염의 경계름 구분하\n사형으로 뻗어 있는 간세포의 상피세포판으로 이루어진 다각형단워이다: 기 어렵다: 돼지와 사랑인 경우 모두 문맥영역의 변드리 결합조직은 간세\n(a) 돼지와 같은 포유동물의 간소염은 결합조직에 의해 모든 면의 경계틀 동이틀 포함하다: 작은 쓸개세관D); 간문맥정맥의 세정맥가지V) 간동맥\n결정하다: 의 세동맥가지A): (모두 X150; H8E)",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 16,
+        "pdf_line_count": 0,
+        "ocr_line_count": 11,
+        "merged_line_count": 11,
+        "pdf_only_count": 0,
+        "ocr_only_count": 11,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 11,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 211,
+        "promoted_ocr_only_count": 4
+      }
+    }
+  }
+}

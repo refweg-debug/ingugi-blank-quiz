@@ -1,0 +1,1345 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 5
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_004"
+      ],
+      "prompt": "간십이지장인대(hepatoduodenal ligament)에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portaltriad",
+          "portal triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간십이지장인대(hepatoduodenal ligament)에는 간문맥삼합(portal triad)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_005"
+      ],
+      "prompt": "_____은 간십이지장인대(hepatoduodenal ligament) 안을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portaltriad",
+          "portal triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥삼합(portal triad)은 간십이지장인대(hepatoduodenal ligament) 안을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_007"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_007"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_007"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceralperitoneum",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_008"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_008_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_008"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_008"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceralperitoneum",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_010"
+      ],
+      "prompt": "_____은 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)은 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_010_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_010"
+      ],
+      "prompt": "_____은 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)은 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_010_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_010"
+      ],
+      "prompt": "비장위인대(gastrosplenic ligament)은 위(stomach)와 _____를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)은 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_012"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_013"
+      ],
+      "prompt": "_____는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_013_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_013"
+      ],
+      "prompt": "_____는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_013"
+      ],
+      "prompt": "비장위인대(gastrosplenic ligament)는 큰그물막(greater omentum)의 일부이며 위(stomach)와 _____를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_015"
+      ],
+      "prompt": "_____는 위(stomach)의 작은굽이와 간(liver)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 위(stomach)의 작은굽이와 간(liver)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_015_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_015"
+      ],
+      "prompt": "_____는 위(stomach)의 작은굽이와 간(liver)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 위(stomach)의 작은굽이와 간(liver)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_020"
+      ],
+      "prompt": "_____은 작은그물막(lesser omentum)의 일부이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)은 작은그물막(lesser omentum)의 일부이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_course_020_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_020"
+      ],
+      "prompt": "_____은 작은그물막(lesser omentum)의 일부이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)은 작은그물막(lesser omentum)의 일부이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_002"
+      ],
+      "prompt": "_____는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_002"
+      ],
+      "prompt": "_____는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastricligament",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_002"
+      ],
+      "prompt": "간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 _____이 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "leftgastricvein",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_005"
+      ],
+      "prompt": "_____의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰그물막(greater omentum)",
+        "accepted_answers": [
+          "큰그물막(greater omentum)",
+          "greateromentum",
+          "greater omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰그물막(greater omentum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 큰그물막(greater omentum)의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_005_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_005"
+      ],
+      "prompt": "_____의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰그물막(greater omentum)",
+        "accepted_answers": [
+          "큰그물막(greater omentum)",
+          "greateromentum",
+          "greater omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰그물막(greater omentum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::figure_001",
+        "component_type": "gross_anatomy_diagram"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 큰그물막(greater omentum)의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_005"
+      ],
+      "prompt": "큰그물막(greater omentum)의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 _____의 유착을 줄이는 것이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceralperitoneum",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 큰그물막(greater omentum)의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_007"
+      ],
+      "prompt": "_____는 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_007"
+      ],
+      "prompt": "_____는 위(stomach)와 지라(spleen)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "비장위인대(gastrosplenic ligament)",
+        "accepted_answers": [
+          "비장위인대(gastrosplenic ligament)",
+          "gastrosplenicligament",
+          "gastrosplenic ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "비장위인대(gastrosplenic ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p005_ai_page_read::hand_note_001",
+        "component_type": "handwritten_annotations"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p005_course_배_필기본_005_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_007"
+      ],
+      "prompt": "비장위인대(gastrosplenic ligament)는 위(stomach)와 _____를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 비장위인대(gastrosplenic ligament)는 위(stomach)와 지라(spleen)를 연결한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 28,
+    "question_type_count": {
+      "fill_blank": 19,
+      "image_grounded_fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 19,
+      "course_exam_style": 9
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__de0709e4e21e.json",
+        "review_image_url": "./data/images/20260407____1___3__p001__de0709e4e21e.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__e4a8dd59101a.json",
+        "review_image_url": "./data/images/20260407____1___3__p002__e4a8dd59101a.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__cf41b584bf74.json",
+        "review_image_url": "./data/images/20260407____1___3__p003__cf41b584bf74.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__9f4000acfc67.json",
+        "review_image_url": "./data/images/20260407____1___3__p004__9f4000acfc67.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__232cf053c92d.json",
+        "review_image_url": "./data/images/20260407____1___3__p005__232cf053c92d.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 31,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__54093efa185f.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__a70a40625276.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__d6f8d7e95b67.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 34,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__23c8755e9e36.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__0937ba3eb753.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p011__02b6aaed2df9.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__b0e8e790c345.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__084a04030f82.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__56b1e637760c.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__305c7bf2e716.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__2caf5b0ef729.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 43,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__48d0502928ee.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__d42f2c88fe50.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__948068c61e82.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__19681aeccb32.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__512643396465.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__c5d8c9b00c71.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__2fdf7a99f97e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__c15c08ca2099.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__636f700e4408.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4fef9b65f4a6.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__d65f63ee10db.json"
+      }
+    ],
+    "current_index": 4,
+    "previous_page": 4,
+    "next_page": 6
+  },
+  "review_image_url": "./data/images/20260407____1___3__p005__232cf053c92d.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 5
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "작은그물막(lesser omentum)은 위(stomach)의 작은굽이와 샘창자(duodenum) 입구를 간(liver)에 연결한다.",
+        "작은그물막(lesser omentum)은 간(liver)과 위(stomach)를 연결한다.",
+        "작은그물막(lesser omentum)은 간(liver)과 샘창자(duodenum)을 연결한다.",
+        "간십이지장인대(hepatoduodenal ligament)에는 간문맥삼합(portal triad)이 들어 있다.",
+        "간문맥삼합(portal triad)은 간십이지장인대(hepatoduodenal ligament) 안을 지난다.",
+        "큰그물막(greater omentum)은 위큰굽이에서 시작한다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+        "위가로막인대(gastrophrenic ligament)은 위(stomach)와 가로막(diaphragm)을 연결한다.",
+        "비장위인대(gastrosplenic ligament)은 위(stomach)와 지라(spleen)를 연결한다.",
+        "위가로잘록창자인대(gastrocolic ligament)은 위(stomach)와 가로잘록창자(transverse colon)를 연결한다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "비장위인대(gastrosplenic ligament)는 큰그물막(greater omentum)의 일부이며 위(stomach)와 지라(spleen)를 연결한다.",
+        "간위인대(hepatogastric ligament)는 위(stomach)의 작은굽이와 간(liver)을 연결한다.",
+        "간위인대(hepatogastric ligament)은 작은그물막(lesser omentum)의 일부이다.",
+        "간십이지장인대(hepatoduodenal ligament)은 작은그물막(lesser omentum)의 일부이다.",
+        "작은그물막(lesser omentum)은 위(stomach)의 작은굽이(lesser curvature)와 샘창자(duodenum) 윗부분을 간(liver)과 연결한다.",
+        "간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다.",
+        "간십이지장인대(hepatoduodenal ligament)는 간(liver)과 샘창자(duodenum)를 연결하며 자유연의 두꺼운 가장자리에 문맥삼합(portal triad)이 지난다.",
+        "큰그물막(greater omentum)은 정상 상태에서 배속 장기 앞을 덮으며 장기와 장기 사이를 연결한다.",
+        "큰그물막(greater omentum)의 중요한 역할 중 하나는 염증 시 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)의 유착을 줄이는 것이다.",
+        "위가로막인대(gastrophrenic ligament)는 위(stomach)와 가로막(diaphragm)을 연결한다.",
+        "비장위인대(gastrosplenic ligament)는 위(stomach)와 지라(spleen)를 연결한다.",
+        "위가로잘록창자인대(gastrocolic ligament)는 위(stomach)와 가로잘록창자(transverse colon)를 연결한다.",
+        "위의 영어 이름은 stomach이다.",
+        "간의 영어 이름은 liver이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "심장의 영어 이름은 heart이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "장막의 영어 이름은 serosa이다.",
+        "원간인대의 영어 이름은 round ligament of liver이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "작은그물막의 영어 이름은 lesser omentum이다.",
+        "왼위동맥의 영어 이름은 left gastric artery이다.",
+        "간위인대의 영어 이름은 hepatogastric ligament이다.",
+        "왼위정맥의 영어 이름은 left gastric vein이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "간십이지장인대의 영어 이름은 hepatoduodenal ligament이다.",
+        "큰그물막의 영어 이름은 greater omentum이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "장쪽 가슴막의 영어 이름은 visceral pleura이다.",
+        "벽쪽 가슴막의 영어 이름은 parietal pleura이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "장쪽복막의 영어 이름은 visceral peritoneum이다.",
+        "위가로막인대의 영어 이름은 gastrophrenic ligament이다.",
+        "비장위인대의 영어 이름은 gastrosplenic ligament이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "위가로잘록창자인대의 영어 이름은 gastrocolic ligament이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "lesser omentum으로 다른장기왜 연결(주로 간)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 5,
+          "text": "greater omentum으로 다른 장기와 연결",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "정상 상태에서논 뱃속 장기름 덮고 있으며 greater curvature틀 부착 시김 '위의 lesser curvature와 duodenum의 윗부분올 간과 연결 시림",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "가장 중요한 역할은 염종 발생 시 parietal peritoneum과 'hepatogastric lig : lesser curvature과 liver 연결 leftlright gastric a , V.가 지나감.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 38,
+          "text": "간위인대(hepatogastric ligament)는 작은굽이(lesser curvature)와 간(liver)을 연결하며 왼위동맥(left gastric artery)과 왼위정맥(left gastric vein)이 지난다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 41,
+          "text": "큰그물막(greater omentum)은 정상 상태에서 배속 장기 앞을 덮으며 장기와 장기 사이를 연결한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 48,
+          "text": "큰그물막과 작은그물막의 유래, 연결 대상, 인대 구성 요소를 필기로 상세 보강한 페이지다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "stomach(J shpae)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "falciform lig. 위 stomach 간원인대 위ajntn",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "inferior vena cava pericardial sac pericardial",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "diaphragm 간 liver",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "간 liver round lig. of liver'",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "gallbladder 위 stomach",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "of liver oblique m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "intestine ascending colon 배곧은근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "그림 6-23. 근그불막과 작은그물막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "오른쪽 그림에서 간을 위로 젖혀 작은그물막이 잘 보이도록 하여다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 46,
+          "text": "위그물막동맥(gastro-omental artery)은 큰그물막(greater omentum) 안을 지난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 49,
+          "text": "간위인대(hepatogastric ligament) connects 작은굽이(lesser curvature), 간(liver)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 41,
+        "accounted_term_count": 40,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.976,
+        "accounted_terms": [
+          "작은그물막(lesser omentum)",
+          "위(stomach)",
+          "작은굽이(lesser curvature)",
+          "샘창자(duodenum)",
+          "간(liver)",
+          "간위인대(hepatogastric ligament)",
+          "왼위동맥(left gastric artery)",
+          "왼위정맥(left gastric vein)",
+          "큰그물막(greater omentum)",
+          "큰굽이(greater curvature)",
+          "장쪽복막(visceral peritoneum)",
+          "가로막(diaphragm)",
+          "비장위인대(gastrosplenic ligament)",
+          "지라(spleen)",
+          "가로잘록창자(transverse colon)",
+          "간문맥삼합(portal triad)",
+          "대정맥(vena cava)",
+          "심장(heart)",
+          "아래대정맥(inferior vena cava)",
+          "장막(serosa)",
+          "원간인대(round ligament of liver)",
+          "가슴(thorax)",
+          "목(cervical region)",
+          "쓸개주머니(gallbladder)",
+          "배(abdominal region)",
+          "오름잘록창자(ascending colon)",
+          "배가로근(transversus abdominis muscle)",
+          "작은창자(small intestine)",
+          "배곧은근(rectus abdominis)",
+          "문맥(portal vein)",
+          "간십이지장인대(hepatoduodenal ligament)",
+          "복막(peritoneum)",
+          "장쪽 가슴막(visceral pleura)",
+          "벽쪽 가슴막(parietal pleura)",
+          "벽쪽복막(parietal peritoneum)",
+          "위가로막인대(gastrophrenic ligament)",
+          "위가로잘록창자인대(gastrocolic ligament)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "간문(porta hepatis)"
+        ],
+        "unresolved_terms": [
+          "위그물막동맥(gastro-omental artery)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Greater and lesser omenta",
+        "stomach(J shpae)",
+        "lesser curvature",
+        "lesser omentum으로 다른장기왜 연결(주로 간)",
+        "greater curvature",
+        "greater omentum으로 다른 장기와 연결",
+        "아래대정맥 심장막주머니 아래대정맥a cava 심장막주머니",
+        "inferior vena cava pericardial sac pericardial",
+        "falciform lig. recess",
+        "낫인대 가로막 ~위로력",
+        "diaphragm 간 liver",
+        "falciform lig. 위 stomach 간원인대 위ajntn",
+        "간 liver round lig. of liver'",
+        "-가슴막오목 lesser",
+        "쓸개 pleural recess 쓸개 omentum",
+        "gallbladder 위 stomach",
+        "강원임다 external abdominal",
+        "of liver oblique m",
+        "internal abdominall -근그물막",
+        "oblique m greater",
+        "오름잘록창자 근그물막 omentum",
+        "ascending greater 배가로근",
+        "colon omentum transversus 작은창자",
+        "abdominis m small intestine",
+        "small 오름잘록창자",
+        "intestine ascending colon 배곧은근",
+        "rectus abdomiinis m",
+        "그림 6-23. 근그불막과 작은그물막",
+        "오른쪽 그림에서 간을 위로 젖혀 작은그물막이 잘 보이도록 하여다.",
+        "정상 상태에서논 뱃속 장기름 덮고 있으며 greater curvature틀 부착 시김 '위의 lesser curvature와 duodenum의 윗부분올 간과 연결 시림",
+        "가장 중요한 역할은 염종 발생 시 parietal peritoneum과 'hepatogastric lig : lesser curvature과 liver 연결 leftlright gastric a , V.가 지나감.",
+        "visceral peritoneurn의 유칙 방지. hepatoduodenal lig : duodenum lig: 두꺼운 lateral로 portal triad가 지나감.",
+        "'gastro-omental a가 greater ornenturn올 지나감.",
+        "gastrophrenic lig; : diaphragm과 결합 / gastrosplenic lig : spleen과 결합",
+        "gastrocolic lig; : 장과 결합 가장 크고 descending 2겁 ascending 2겁 총 4경 ,",
+        "개복 시 바로 나오는 부분"
+      ],
+      "supplemental_ocr_blocks": [
+        "변형된 구조)",
+        "낫인대 '똑품막오목",
+        "gallbladder",
+        "배바깥빗근",
+        "'lig.",
+        "배속빗근",
+        "작은창자"
+      ],
+      "corrected_page_text": "Greater and lesser omenta\nstomach(J shpae)\nlesser curvature\nlesser omentum으로 다른장기왜 연결(주로 간)\ngreater curvature\ngreater omentum으로 다른 장기와 연결\n아래대정맥 심장막주머니 아래대정맥a cava 심장막주머니\ninferior vena cava pericardial sac pericardial\nfalciform lig. recess\n낫인대 가로막 ~위로력\ndiaphragm 간 liver\nfalciform lig. 위 stomach 간원인대 위ajntn\n간 liver round lig. of liver'\n-가슴막오목 lesser\n쓸개 pleural recess 쓸개 omentum\ngallbladder 위 stomach\n강원임다 external abdominal\nof liver oblique m\ninternal abdominall -근그물막\noblique m greater\n오름잘록창자 근그물막 omentum\nascending greater 배가로근\ncolon omentum transversus 작은창자\nabdominis m small intestine\nsmall 오름잘록창자\nintestine ascending colon 배곧은근\nrectus abdomiinis m\n그림 6-23. 근그불막과 작은그물막\n오른쪽 그림에서 간을 위로 젖혀 작은그물막이 잘 보이도록 하여다.\n정상 상태에서논 뱃속 장기름 덮고 있으며 greater curvature틀 부착 시김 '위의 lesser curvature와 duodenum의 윗부분올 간과 연결 시림\n가장 중요한 역할은 염종 발생 시 parietal peritoneum과 'hepatogastric lig : lesser curvature과 liver 연결 leftlright gastric a , V.가 지나감.\nvisceral peritoneurn의 유칙 방지. hepatoduodenal lig : duodenum lig: 두꺼운 lateral로 portal triad가 지나감.\n'gastro-omental a가 greater ornenturn올 지나감.\ngastrophrenic lig; : diaphragm과 결합 / gastrosplenic lig : spleen과 결합\ngastrocolic lig; : 장과 결합 가장 크고 descending 2겁 ascending 2겁 총 4경 ,\n개복 시 바로 나오는 부분",
+      "quality_audit": {
+        "pdf_char_count": 22,
+        "pdf_span_count": 1,
+        "pdf_word_count": 4,
+        "ocr_fragment_count": 80,
+        "pdf_line_count": 1,
+        "ocr_line_count": 43,
+        "merged_line_count": 43,
+        "pdf_only_count": 0,
+        "ocr_only_count": 42,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 42,
+        "pdf_alpha_count": 22,
+        "ocr_alpha_count": 992,
+        "promoted_ocr_only_count": 35
+      }
+    }
+  }
+}

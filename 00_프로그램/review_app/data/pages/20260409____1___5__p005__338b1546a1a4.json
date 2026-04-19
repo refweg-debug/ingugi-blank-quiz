@@ -1,0 +1,818 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 5
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_001"
+      ],
+      "prompt": "T5부터 T9에서 나온 교감신경섬유는 _____을 따라 복강신경절(celiac ganglion)에서 시냅스를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰내장신경(greater splanchnic nerve)",
+        "accepted_answers": [
+          "큰내장신경(greater splanchnic nerve)",
+          "greater splanchnic nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰내장신경(greater splanchnic nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: T5부터 T9에서 나온 교감신경섬유는 큰내장신경(greater splanchnic nerve)을 따라 복강신경절(celiac ganglion)에서 시냅스를 이룬다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_001"
+      ],
+      "prompt": "T5부터 T9에서 나온 교감신경섬유는 큰내장신경(greater splanchnic nerve)을 따라 _____에서 시냅스를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강신경절(celiac ganglion)",
+        "accepted_answers": [
+          "복강신경절(celiac ganglion)",
+          "celiac ganglion"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강신경절(celiac ganglion)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: T5부터 T9에서 나온 교감신경섬유는 큰내장신경(greater splanchnic nerve)을 따라 복강신경절(celiac ganglion)에서 시냅스를 이룬다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_005_ai_corrected_002"
+      ],
+      "prompt": "_____과 복강신경얼기(celiac plexus)에서는 이자(pancreas), 지라(spleen), 간(liver), 쓸개(gallbladder)로 가는 자율신경 분포가 갈라진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강신경절(celiac ganglion)",
+        "accepted_answers": [
+          "복강신경절(celiac ganglion)",
+          "celiac ganglion"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강신경절(celiac ganglion)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 복강신경절(celiac ganglion)과 복강신경얼기(celiac plexus)에서는 이자(pancreas), 지라(spleen), 간(liver), 쓸개(gallbladder)로 가는 자율신경 분포가 갈라진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_004"
+      ],
+      "prompt": "_____은 척주앞신경절(prevertebral ganglion)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강신경절(celiac ganglion)",
+        "accepted_answers": [
+          "복강신경절(celiac ganglion)",
+          "celiac ganglion"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강신경절(celiac ganglion)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강신경절(celiac ganglion)은 척주앞신경절(prevertebral ganglion)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_004"
+      ],
+      "prompt": "복강신경절(celiac ganglion)은 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "척주앞신경절(prevertebral ganglion)",
+        "accepted_answers": [
+          "척주앞신경절(prevertebral ganglion)",
+          "prevertebral ganglion"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "척주앞신경절(prevertebral ganglion)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강신경절(celiac ganglion)은 척주앞신경절(prevertebral ganglion)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_005"
+      ],
+      "prompt": "_____의 왼쪽에는 지라(spleen)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_course_배_필기본_005_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_005"
+      ],
+      "prompt": "이자(pancreas)의 왼쪽에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "autonomic innervation diagram of upper abdominal organs with note annotations",
+        "accepted_answers": [
+          "autonomic innervation diagram of upper abdominal organs with note annotations"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "autonomic innervation diagram of upper abdominal organs with note annotations",
+        "component_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::figure_001"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::figure_001",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: autonomic innervation diagram of upper abdominal organs with note annotations"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼미주신경(left vagus nerve)이 통과하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도구멍(esophageal hiatus)",
+        "accepted_answers": [
+          "식도구멍(esophageal hiatus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도구멍(esophageal hiatus)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 왼미주신경(left vagus nerve) / predicate: passes_through / object: 식도구멍(esophageal hiatus)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "오른미주신경(right vagus nerve)이 통과하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도구멍(esophageal hiatus)",
+        "accepted_answers": [
+          "식도구멍(esophageal hiatus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도구멍(esophageal hiatus)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 오른미주신경(right vagus nerve) / predicate: passes_through / object: 식도구멍(esophageal hiatus)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "식도구멍(esophageal hiatus)을 지난 미주신경섬유이(가) 모이는 곳은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞미주신경줄기(anterior vagal trunk)",
+        "accepted_answers": [
+          "앞미주신경줄기(anterior vagal trunk)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞미주신경줄기(anterior vagal trunk)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 식도구멍(esophageal hiatus)을 지난 미주신경섬유 / predicate: converge_to / object: 앞미주신경줄기(anterior vagal trunk)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "식도구멍(esophageal hiatus)을 지난 미주신경섬유이(가) 모이는 곳은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤미주신경줄기(posterior vagal trunk)",
+        "accepted_answers": [
+          "뒤미주신경줄기(posterior vagal trunk)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤미주신경줄기(posterior vagal trunk)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 식도구멍(esophageal hiatus)을 지난 미주신경섬유 / predicate: converge_to / object: 뒤미주신경줄기(posterior vagal trunk)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "큰내장신경(greater splanchnic nerve)이 도달하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강신경절(celiac ganglion)",
+        "accepted_answers": [
+          "복강신경절(celiac ganglion)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강신경절(celiac ganglion)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 큰내장신경(greater splanchnic nerve) / predicate: reaches / object: 복강신경절(celiac ganglion)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p005_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "큰내장신경(greater splanchnic nerve)를 받는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강신경절(celiac ganglion)",
+        "accepted_answers": [
+          "복강신경절(celiac ganglion)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강신경절(celiac ganglion)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p005_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 복강신경절(celiac ganglion) / predicate: receives_from / object: 큰내장신경(greater splanchnic nerve)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 14,
+    "question_type_count": {
+      "fill_blank": 7,
+      "image_grounded_fill_blank": 7
+    },
+    "question_focus_count": {
+      "course_exam_style": 3,
+      "course_exam_style_provisional": 4,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 4,
+    "previous_page": 4,
+    "next_page": 6
+  },
+  "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 5
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "T5부터 T9에서 나온 교감신경섬유는 큰내장신경(greater splanchnic nerve)을 따라 복강신경절(celiac ganglion)에서 시냅스를 이룬다.",
+        "복강신경절(celiac ganglion)과 복강신경얼기(celiac plexus)에서는 이자(pancreas), 지라(spleen), 간(liver), 쓸개(gallbladder)로 가는 자율신경 분포가 갈라진다.",
+        "T5부터 T9에서 나온 교감신경섬유는 큰내장신경(greater splanchnic nerve)을 따라 복강신경절(celiac ganglion)에서 시냅스를 형성한다.",
+        "배의 부교감신경은 대부분 미주신경(vagus nerve)에서 온다.",
+        "복강신경절(celiac ganglion)은 척주앞신경절(prevertebral ganglion)에 속한다.",
+        "이자(pancreas)의 왼쪽에는 지라(spleen)가 있다.",
+        "왼미주신경(left vagus nerve)과 오른미주신경(right vagus nerve)은 식도구멍(esophageal hiatus)을 지나면서 앞미주신경줄기(anterior vagal trunk)와 뒤미주신경줄기(posterior vagal trunk)를 이룬다.",
+        "신경의 영어 이름은 nerves이다.",
+        "복강동맥의 영어 이름은 celiac trunk이다.",
+        "복강신경절의 영어 이름은 celiac ganglion이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "미주신경의 영어 이름은 vagus nerve이다.",
+        "오른미주신경의 영어 이름은 right vagus nerve이다.",
+        "앞미주신경줄기의 영어 이름은 anterior vagal trunk이다.",
+        "식도구멍의 영어 이름은 esophageal hiatus이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "뒤미주신경줄기의 영어 이름은 posterior vagal trunk이다.",
+        "척주앞신경절의 영어 이름은 prevertebral ganglion이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "왼미주신경의 영어 이름은 left vagus nerve이다.",
+        "큰내장신경의 영어 이름은 greater splanchnic nerve이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "간의 영어 이름은 liver이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "left; right vagus n.가 esophageal hiatus 통과하면서 앞미주신경줄기",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "왼미주신경(left vagus nerve)과 오른미주신경(right vagus nerve)은 식도구멍(esophageal hiatus)을 통과한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "식도구멍(esophageal hiatus)을 지난 미주신경섬유는 앞미주신경줄기(anterior vagal trunk)와 뒤미주신경줄기(posterior vagal trunk)로 모인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "복강신경절(celiac ganglion)과 복강신경얼기(celiac plexus)에서는 이자(pancreas), 지라(spleen), 간(liver), 쓸개(gallbladder)로 가는 자율신경 분포가 갈라진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "배 자율신경 분포 그림에 필기 보강이 더해진 페이지로, 미주신경 줄기와 큰내장신경, 복강신경절, 이자-지라 관계가 강조되어 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "왼미주신경(left vagus nerve) passes_through 식도구멍(esophageal hiatus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "오른미주신경(right vagus nerve) passes_through 식도구멍(esophageal hiatus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "식도구멍(esophageal hiatus)을 지난 미주신경섬유 converge_to 앞미주신경줄기(anterior vagal trunk)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "식도구멍(esophageal hiatus)을 지난 미주신경섬유 converge_to 뒤미주신경줄기(posterior vagal trunk)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "큰내장신경(greater splanchnic nerve) reaches 복강신경절(celiac ganglion)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "복강신경절(celiac ganglion) receives_from 큰내장신경(greater splanchnic nerve)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "most abdominal parasympathetic fibers come from the vagus nerve",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "left and right vagus nerves pass through the esophageal hiatus and form the anterior and posterior vagal trunks",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 20,
+        "accounted_term_count": 20,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "왼미주신경(left vagus nerve)",
+          "오른미주신경(right vagus nerve)",
+          "식도구멍(esophageal hiatus)",
+          "뒤미주신경줄기(posterior vagal trunk)",
+          "복강신경절(celiac ganglion)",
+          "척주앞신경절(prevertebral ganglion)",
+          "이자(pancreas)",
+          "복강신경얼기(celiac plexus)",
+          "지라(spleen)",
+          "쓸개주머니(gallbladder)",
+          "앞미주신경줄기(anterior vagal trunk)",
+          "큰내장신경(greater splanchnic nerve)",
+          "신경(nerves)",
+          "복강동맥(celiac trunk)",
+          "배(abdominal region)",
+          "미주신경(vagus nerve)",
+          "배안(abdominal cavity)",
+          "식도(esophagus)",
+          "척주(vertebral column)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "# 교감신경",
+        "- T5~T9 greater splanchnic n. celiac ganglion 에서나온것은따라에서시냅스형성",
+        "# 부교감신경",
+        "배의 부교감은 대부분 from vagus n.",
+        "left; right vagus n.가 esophageal hiatus 통과하면서 앞미주신경줄기",
+        "anterior, posterior vagal trunk 로모인후배안에부교감신호전달",
+        "prevertebral ganglion"
+      ],
+      "supplemental_ocr_blocks": [
+        "# 부교감신경",
+        "anterior; posterior vagal trunk로 모인 후 배 안에 부교장 신호 전달 anterior vagal trunk",
+        "복강신경절과 신경얼기",
+        "celiac ganglion and plexus",
+        "prevertebral ganglion",
+        "그림 6-61. 이자; 지라, 간; 쓸개의 신경분포"
+      ],
+      "corrected_page_text": "# 교감신경\n- T5~T9 greater splanchnic n. celiac ganglion 에서나온것은따라에서시냅스형성\n# 부교감신경\n배의 부교감은 대부분 from vagus n.\nleft; right vagus n.가 esophageal hiatus 통과하면서 앞미주신경줄기\nanterior, posterior vagal trunk 로모인후배안에부교감신호전달\nprevertebral ganglion",
+      "quality_audit": {
+        "pdf_char_count": 188,
+        "pdf_span_count": 33,
+        "pdf_word_count": 44,
+        "ocr_fragment_count": 16,
+        "pdf_line_count": 7,
+        "ocr_line_count": 12,
+        "merged_line_count": 13,
+        "pdf_only_count": 1,
+        "ocr_only_count": 6,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 7,
+        "ocr_only_line_count": 6,
+        "pdf_alpha_count": 182,
+        "ocr_alpha_count": 131,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

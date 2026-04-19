@@ -1,0 +1,970 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 9
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_001"
+      ],
+      "prompt": "_____은 배의 정중선(midline)으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 백색선(linea alba)은 배의 정중선(midline)으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_001"
+      ],
+      "prompt": "백색선(linea alba)은 배의 _____으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중선(midline)",
+        "accepted_answers": [
+          "정중선(midline)",
+          "midline"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중선(midline)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 백색선(linea alba)은 배의 정중선(midline)으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_001"
+      ],
+      "prompt": "백색선(linea alba)은 배의 정중선(midline)으로, _____에서 두덩결합(pubic symphysis)까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "검상돌기(xiphoid process)",
+        "accepted_answers": [
+          "검상돌기(xiphoid process)",
+          "xiphoid process"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "검상돌기(xiphoid process)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 백색선(linea alba)은 배의 정중선(midline)으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_002"
+      ],
+      "prompt": "_____은 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "반달선(linea semilunaris)",
+        "accepted_answers": [
+          "반달선(linea semilunaris)",
+          "linea semilunaris"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "반달선(linea semilunaris)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반달선(linea semilunaris)은 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_002"
+      ],
+      "prompt": "반달선(linea semilunaris)은 _____의 가쪽 경계(lateral border)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반달선(linea semilunaris)은 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_009_ai_corrected_003"
+      ],
+      "prompt": "_____은 아홉째갈비연골(costal cartilage of rib 9) 부근에서 두덩결합(pubic symphysis)까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "반달선(linea semilunaris)",
+        "accepted_answers": [
+          "반달선(linea semilunaris)",
+          "linea semilunaris"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "반달선(linea semilunaris)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반달선(linea semilunaris)은 아홉째갈비연골(costal cartilage of rib 9) 부근에서 두덩결합(pubic symphysis)까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "_____은 섬유연골결합(fibrocartilaginous joint)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩결합(pubic symphysis)",
+        "accepted_answers": [
+          "두덩결합(pubic symphysis)",
+          "pubic symphysis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩결합(pubic symphysis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 두덩결합(pubic symphysis)은 섬유연골결합(fibrocartilaginous joint)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_006"
+      ],
+      "prompt": "_____은 명치부위(epigastric region)와 관련된 표면 지표이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "명치오목(epigastric fossa)",
+        "accepted_answers": [
+          "명치오목(epigastric fossa)",
+          "epigastric fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "명치오목(epigastric fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 명치오목(epigastric fossa)은 명치부위(epigastric region)와 관련된 표면 지표이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_006"
+      ],
+      "prompt": "명치오목(epigastric fossa)은 _____와 관련된 표면 지표이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "명치부위(epigastric region)",
+        "accepted_answers": [
+          "명치부위(epigastric region)",
+          "epigastric region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "명치부위(epigastric region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 명치오목(epigastric fossa)은 명치부위(epigastric region)와 관련된 표면 지표이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_011"
+      ],
+      "prompt": "_____과 배곧은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)",
+          "external oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_013"
+      ],
+      "prompt": "_____과 고샅인대부위(site of inguinal ligament)는 배 표면에서 확인하는 표면 지표이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩뼈능선(iliac crest)",
+        "accepted_answers": [
+          "엉덩뼈능선(iliac crest)",
+          "iliac crest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩뼈능선(iliac crest)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩뼈능선(iliac crest)과 고샅인대 부위(site of inguinal ligament)는 배 표면에서 확인하는 표면 지표이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_course_배_필기본_009_course_013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_013"
+      ],
+      "prompt": "엉덩뼈능선(iliac crest)과 _____는 배 표면에서 확인하는 표면 지표이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대부위(site of inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대부위(site of inguinal ligament)",
+          "고샅인대 부위(site of inguinal ligament)",
+          "site of inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대부위(site of inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩뼈능선(iliac crest)과 고샅인대 부위(site of inguinal ligament)는 배 표면에서 확인하는 표면 지표이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "surface anatomy landmarks of abdomen",
+        "accepted_answers": [
+          "surface anatomy landmarks of abdomen"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "surface anatomy landmarks of abdomen",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::surface_landmarks"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::surface_landmarks",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: surface anatomy landmarks of abdomen"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "백색선(linea alba)와 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "검상돌기(xiphoid process)",
+        "accepted_answers": [
+          "검상돌기(xiphoid process)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "검상돌기(xiphoid process)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 백색선(linea alba) / predicate: connects / object: 검상돌기(xiphoid process)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "백색선(linea alba)와 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩결합(pubic symphysis)",
+        "accepted_answers": [
+          "두덩결합(pubic symphysis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩결합(pubic symphysis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 백색선(linea alba) / predicate: connects / object: 두덩결합(pubic symphysis)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배곧은근(rectus abdominis)의 가쪽 경계(lateral border)를 형성하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "반달선(linea semilunaris)",
+        "accepted_answers": [
+          "반달선(linea semilunaris)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "반달선(linea semilunaris)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 반달선(linea semilunaris) / predicate: forms / object: 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "반달선(linea semilunaris)와 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아홉째갈비연골(costal cartilage of rib 9)",
+        "accepted_answers": [
+          "아홉째갈비연골(costal cartilage of rib 9)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아홉째갈비연골(costal cartilage of rib 9)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 반달선(linea semilunaris) / predicate: connects / object: 아홉째갈비연골(costal cartilage of rib 9)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "반달선(linea semilunaris)와 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩결합(pubic symphysis)",
+        "accepted_answers": [
+          "두덩결합(pubic symphysis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩결합(pubic symphysis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 반달선(linea semilunaris) / predicate: connects / object: 두덩결합(pubic symphysis)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽(umbilicus)과 관련된 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "L3-L4 level",
+        "accepted_answers": [
+          "L3-L4 level"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "L3-L4 level",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 배꼽(umbilicus) / predicate: associated_with / object: L3-L4 level"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p009_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "명치오목(epigastric fossa)과 관련된 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "명치부위(epigastric region)",
+        "accepted_answers": [
+          "명치부위(epigastric region)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "명치부위(epigastric region)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p009_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 명치오목(epigastric fossa) / predicate: associated_with / object: 명치부위(epigastric region)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 20,
+    "question_type_count": {
+      "fill_blank": 12,
+      "image_grounded_fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style": 6,
+      "course_exam_style_provisional": 6,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 7
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 8,
+    "previous_page": 8,
+    "next_page": 10
+  },
+  "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 9
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "백색선(linea alba)은 배의 정중선(midline)으로, 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어진다.",
+        "반달선(linea semilunaris)은 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)이다.",
+        "반달선(linea semilunaris)은 아홉째갈비연골(costal cartilage of rib 9) 부근에서 두덩결합(pubic symphysis)까지 이어진다.",
+        "배꼽(umbilicus)은 대략 L3-L4 높이에 해당하는 표면 지표이다.",
+        "두덩결합(pubic symphysis)은 섬유연골결합(fibrocartilaginous joint)이다.",
+        "백색선(linea alba)은 검상돌기(xiphoid process)에서 두덩결합(pubic symphysis)까지 이어지는 정중선이다.",
+        "명치오목(epigastric fossa)은 명치부위(epigastric region)와 관련된 표면 지표이다.",
+        "반달선(linea semilunaris)은 배곶은근(rectus abdominis)의 가쪽 경계이며 아홉째갈비연골(costal cartilage of rib 9) 부근에서 두덩결합(pubic symphysis)까지 이어진다.",
+        "바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+        "엉덩뼈능선(iliac crest)과 고샅인대 부위(site of inguinal ligament)는 배 표면에서 확인하는 표면 지표이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "명치오목의 영어 이름은 epigastric fossa이다.",
+        "위의 영어 이름은 stomach이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "엉덩뼈능선의 영어 이름은 iliac crest이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "정중선의 영어 이름은 midline이다.",
+        "갈비연골의 영어 이름은 costal cartilage이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "명치부위의 영어 이름은 epigastric region이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "고샅인대 부위의 영어 이름은 site of inguinal ligament이다.",
+        "척주의 영어 이름은 vertebral column이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 9,
+          "text": "pubic symphysis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "배의 표면해부(surface anatomy of the abdomen)에서는 시진과 촉진으로 표면 지표(surface landmarks)를 확인한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "반달선(linea semilunaris)은 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "반달선(linea semilunaris)은 아홉째갈비연골(costal cartilage of rib 9) 부근에서 두덩결합(pubic symphysis)까지 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "바깥빗근(external oblique muscle)은 배 표면에서 확인할 수 있는 근육이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "배곧은근(rectus abdominis)은 배 표면에서 확인할 수 있는 근육이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "엉덩뼈능선(iliac crest)은 배 표면에서 확인하는 표면 지표(surface landmark)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "고샅인대부위(site of inguinal ligament)는 배 표면에서 확인하는 표면 지표(surface landmark)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "배의 표면해부(surface anatomy)를 설명하는 그림 위에 배꼽의 척추높이, 백색선, 반달선, 두덩결합, 엉덩뼈능선, 고샅인대 부위를 필기로 보강한 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "백색선(linea alba) connects 검상돌기(xiphoid process)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "백색선(linea alba) connects 두덩결합(pubic symphysis)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "반달선(linea semilunaris) forms 배곧은근(rectus abdominis)의 가쪽 경계(lateral border)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "반달선(linea semilunaris) connects 아홉째갈비연골(costal cartilage of rib 9)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "반달선(linea semilunaris) connects 두덩결합(pubic symphysis)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 26,
+        "accounted_term_count": 23,
+        "unresolved_term_count": 3,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.885,
+        "accounted_terms": [
+          "배꼽(umbilicus)",
+          "두덩결합(pubic symphysis)",
+          "섬유연골결합(fibrocartilaginous joint)",
+          "백색선(linea alba)",
+          "정중선(midline)",
+          "검상돌기(xiphoid process)",
+          "반달선(linea semilunaris)",
+          "배곧은근(rectus abdominis)",
+          "아홉째갈비연골(costal cartilage of rib 9)",
+          "바깥빗근(external oblique muscle)",
+          "명치오목(epigastric fossa)",
+          "명치부위(epigastric region)",
+          "엉덩뼈능선(iliac crest)",
+          "고샅인대 부위(site of inguinal ligament)",
+          "근육(muscles)",
+          "위(stomach)",
+          "갈비뼈(rib)",
+          "배(abdominal region)",
+          "갈비연골(costal cartilage)",
+          "목(cervical region)",
+          "샅(perineum)",
+          "고샅인대(inguinal ligament)",
+          "척주(vertebral column)"
+        ],
+        "unresolved_terms": [
+          "배의표면해부(surface anatomy of the abdomen)",
+          "관련된표면지표(surface landmark)",
+          "배의표면해부(surface anatomy)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "추가근육",
+        "Surface anatomy",
+        "external oblique",
+        "rectus abdominis",
+        "epigastric fossa",
+        "위장질환과 관련",
+        "뒤에 L3 L4",
+        "섬유연골결합",
+        "xiphoid process >",
+        "pubic symphysis",
+        "rib 9 costal cartilage에서 pubic symphysis까지",
+        "rectus abdominis의 가쪽 모서리가 된다",
+        "iliac crest"
+      ],
+      "supplemental_ocr_blocks": [
+        "rectus abdominis",
+        "위장질환과 관련",
+        "epigastric region",
+        "반달선 linea alba",
+        "배표icus linea semilunaris",
+        "뒤에 L3-L4",
+        "고살용대부위 site",
+        "lig. 필/",
+        "inguinal",
+        "xiphoid process->",
+        "그림 6-4. 배 표면에 나타나는 여러 표지 구조물 pubic symphysis",
+        "iliac crest"
+      ],
+      "corrected_page_text": "추가근육\nSurface anatomy\nexternal oblique\nrectus abdominis\nepigastric fossa\n위장질환과 관련\n뒤에 L3 L4\n섬유연골결합\nxiphoid process >\npubic symphysis\nrib 9 costal cartilage에서 pubic symphysis까지\nrectus abdominis의 가쪽 모서리가 된다\niliac crest",
+      "quality_audit": {
+        "pdf_char_count": 185,
+        "pdf_span_count": 44,
+        "pdf_word_count": 31,
+        "ocr_fragment_count": 27,
+        "pdf_line_count": 13,
+        "ocr_line_count": 18,
+        "merged_line_count": 25,
+        "pdf_only_count": 7,
+        "ocr_only_count": 12,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 13,
+        "ocr_only_line_count": 12,
+        "pdf_alpha_count": 178,
+        "ocr_alpha_count": 153,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,829 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 9
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "_____에서 뻗어 나온 고환사이막(septa testis)은 고환소엽(lobules of testis)을 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환집백막(tunica albuginea)",
+        "accepted_answers": [
+          "고환집백막(tunica albuginea)",
+          "tunica albuginea"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환집백막(tunica albuginea)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환집백막(tunica albuginea)에서 뻗어 나온 고환사이막(septa testis)은 고환소엽(lobules of testis)을 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "고환집백막(tunica albuginea)에서 뻗어 나온 _____은 고환소엽(lobules of testis)을 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환사이막(septa testis)",
+        "accepted_answers": [
+          "고환사이막(septa testis)",
+          "septa testis",
+          "septa of testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환사이막(septa testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환집백막(tunica albuginea)에서 뻗어 나온 고환사이막(septa testis)은 고환소엽(lobules of testis)을 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "고환집백막(tunica albuginea)에서 뻗어 나온 고환사이막(septa testis)은 _____을 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환소엽(lobules of testis)",
+        "accepted_answers": [
+          "고환소엽(lobules of testis)",
+          "lobules of testis",
+          "testicular lobules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환소엽(lobules of testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환집백막(tunica albuginea)에서 뻗어 나온 고환사이막(septa testis)은 고환소엽(lobules of testis)을 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "_____은 곧은세관(straight tubules)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "꼬불정세관(convoluted seminiferous tubules)",
+        "accepted_answers": [
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "convoluted seminiferous tubules",
+          "seminiferous tubules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "꼬불정세관(convoluted seminiferous tubules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 꼬불정세관(convoluted seminiferous tubules)은 곧은세관(straight tubules)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_002"
+      ],
+      "prompt": "꼬불정세관(convoluted seminiferous tubules)은 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곧은세관(straight tubules)",
+        "accepted_answers": [
+          "곧은세관(straight tubules)",
+          "straight tubules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곧은세관(straight tubules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 꼬불정세관(convoluted seminiferous tubules)은 곧은세관(straight tubules)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_003"
+      ],
+      "prompt": "_____은 고환그물(rete testis)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곧은세관(straight tubules)",
+        "accepted_answers": [
+          "곧은세관(straight tubules)",
+          "straight tubules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곧은세관(straight tubules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 곧은세관(straight tubules)은 고환그물(rete testis)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_003"
+      ],
+      "prompt": "곧은세관(straight tubules)은 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환그물(rete testis)",
+        "accepted_answers": [
+          "고환그물(rete testis)",
+          "rete testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환그물(rete testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 곧은세관(straight tubules)은 고환그물(rete testis)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "_____은 고환날세관(efferent ductules)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환그물(rete testis)",
+        "accepted_answers": [
+          "고환그물(rete testis)",
+          "rete testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환그물(rete testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환그물(rete testis)은 고환날세관(efferent ductules)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "고환그물(rete testis)은 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환날세관(efferent ductules)",
+        "accepted_answers": [
+          "고환날세관(efferent ductules)",
+          "efferent ductules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환날세관(efferent ductules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환그물(rete testis)은 고환날세관(efferent ductules)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_005"
+      ],
+      "prompt": "_____은 부고환머리(head of epididymis)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환날세관(efferent ductules)",
+        "accepted_answers": [
+          "고환날세관(efferent ductules)",
+          "efferent ductules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환날세관(efferent ductules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환날세관(efferent ductules)은 부고환머리(head of epididymis)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_005"
+      ],
+      "prompt": "고환날세관(efferent ductules)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환머리(head of epididymis)",
+        "accepted_answers": [
+          "부고환머리(head of epididymis)",
+          "head of epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환머리(head of epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환날세관(efferent ductules)은 부고환머리(head of epididymis)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_006"
+      ],
+      "prompt": "_____은 부고환꼬리(tail of epididymis)에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정관(ductus deferens)",
+        "accepted_answers": [
+          "정관(ductus deferens)",
+          "ductus deferens",
+          "vas deferens"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정관(ductus deferens)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정관(ductus deferens)은 부고환꼬리(tail of epididymis)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_006"
+      ],
+      "prompt": "정관(ductus deferens)은 _____에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환꼬리(tail of epididymis)",
+        "accepted_answers": [
+          "부고환꼬리(tail of epididymis)",
+          "tail of epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환꼬리(tail of epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정관(ductus deferens)은 부고환꼬리(tail of epididymis)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "_____과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "고환(testis)과 _____은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환(epididymis)",
+        "accepted_answers": [
+          "부고환(epididymis)",
+          "epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환(epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p009_course_배_필기본_009_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_007"
+      ],
+      "prompt": "고환(testis)과 부고환(epididymis)은 _____ 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음낭(scrotum)",
+        "accepted_answers": [
+          "음낭(scrotum)",
+          "scrotum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음낭(scrotum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 16,
+    "question_type_count": {
+      "fill_blank": 16
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 16
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 8,
+    "previous_page": 8,
+    "next_page": 10
+  },
+  "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 9
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "고환집백막(tunica albuginea)에서 뻗어 나온 고환사이막(septa testis)은 고환소엽(lobules of testis)을 나눈다.",
+        "꼬불정세관(convoluted seminiferous tubules)은 곧은세관(straight tubules)로 이어진다.",
+        "곧은세관(straight tubules)은 고환그물(rete testis)로 이어진다.",
+        "고환그물(rete testis)은 고환날세관(efferent ductules)로 이어진다.",
+        "고환날세관(efferent ductules)은 부고환머리(head of epididymis)으로 이어진다.",
+        "정관(ductus deferens)은 부고환꼬리(tail of epididymis)에서 이어진다.",
+        "고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+        "고환의 영어 이름은 testis이다.",
+        "부고환의 영어 이름은 epididymis이다.",
+        "음낭의 영어 이름은 scrotum이다.",
+        "위의 영어 이름은 stomach이다.",
+        "고환날세관의 영어 이름은 efferent ductules이다.",
+        "부고환머리의 영어 이름은 head of epididymis이다.",
+        "꼬불정세관의 영어 이름은 convoluted seminiferous tubules이다.",
+        "고환소엽의 영어 이름은 lobules of testis이다.",
+        "고환그물의 영어 이름은 rete testis이다.",
+        "가슴세로칸의 영어 이름은 mediastinum이다.",
+        "고환세로칸의 영어 이름은 mediastinum testis이다.",
+        "고환집백막의 영어 이름은 tunica albuginea이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "정관의 영어 이름은 ductus deferens이다.",
+        "부고환꼬리의 영어 이름은 tail of epididymis이다.",
+        "곧은세관의 영어 이름은 straight tubules이다.",
+        "부고환몸통의 영어 이름은 body of epididymis이다.",
+        "고환사이막의 영어 이름은 septa testis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "당균정맥얼기 안에 epididymis까지 포함",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "'여기서부터 septum이 나와서 아주 맘은 lobuie로 나뉘게 팀 3) mediastinum testis 안의 rete testis(고환 그물)로 이동",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 20,
+          "text": "부고환꼬리 5) 마지막에 ejaculatory duct (사정관) 동해 urethra(오도)로 연결(배설)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "Testis and epididymis testosterone 생성",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "부고환머리 \" efferent ductules",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "head of epididymis '급습정세관",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "정자 생성 후의 이동경로 lobules of testis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "testicular vein들이 열기름 이론 것 2) 만들어진 정자는 straight tubule로 이동 rete testis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "부고환몸통 straight tubules",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "body of epididymis 고환사이막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "정관 septa testis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "tail of epididymis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "그림 6-17. 고환, 부고환, 정관",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 21,
+        "accounted_term_count": 18,
+        "unresolved_term_count": 2,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.857,
+        "accounted_terms": [
+          "음낭(scrotum)",
+          "고환그물(rete testis)",
+          "고환(testis)",
+          "부고환(epididymis)",
+          "위(stomach)",
+          "고환날세관(efferent ductules)",
+          "부고환머리(head of epididymis)",
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "고환소엽(lobules of testis)",
+          "가슴세로칸(mediastinum)",
+          "고환세로칸(mediastinum testis)",
+          "고환집백막(tunica albuginea)",
+          "배(abdominal region)",
+          "정관(ductus deferens)",
+          "부고환꼬리(tail of epididymis)",
+          "곧은세관(straight tubules)",
+          "부고환몸통(body of epididymis)",
+          "고환사이막(septa testis)"
+        ],
+        "unresolved_terms": [
+          "사정관(ejaculatory duct)",
+          "오도(urethra)"
+        ],
+        "missing_terms": [
+          "피막(testicular capsule)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Testis and epididymis testosterone 생성",
+        "정자루 만들어주는 역할 (중요)",
+        "계란 모양 (난원형)",
+        "spermatic cord에 매달려 있고 scrotum (음낭) 안에 위치함",
+        "당균정맥얼기 안에 epididymis까지 포함",
+        "전체적으로 testicular capsule(피막)에 둘러쌓여 있음",
+        "'papapiniformm Plexus-이론것",
+        "testicular a 고환날세관",
+        "부고환머리 \" efferent ductules",
+        "testis예l 공급",
+        "head of epididymis '급습정세관",
+        "convoluted seminiferous",
+        "부고환몸통 straight tubules",
+        "body of epididymis 고환사이막",
+        "정관 septa testis",
+        "ductus deferens",
+        "정자 생성 후의 이동경로 lobules of testis",
+        "[mediastinumn of testis] 1)각각의 lobule 안에는 convoluted senWferous tubules 존재(꼬불고불한 구조)",
+        "'tunica albuginea가 testis의 뒤쪽에서 두껍워저서 형성 > '이곳에서 정자가 생성 고환그물",
+        "testicular vein들이 열기름 이론 것 2) 만들어진 정자는 straight tubule로 이동 rete testis",
+        "'여기서부터 septum이 나와서 아주 맘은 lobuie로 나뉘게 팀 3) mediastinum testis 안의 rete testis(고환 그물)로 이동",
+        "4) efferent ductules로 이동",
+        "5) epididymis의 head 'bod +a로 어동 백색막",
+        "6)ail에서 ductus deferens로 감 tunica albuginea",
+        "7 I ctus deferens는 spermatic cord에 싸여서 북부 쪽으로 올라감",
+        "부고환꼬리 5) 마지막에 ejaculatory duct (사정관) 동해 urethra(오도)로 연결(배설)",
+        "tail of epididymis",
+        "그림 6-17. 고환, 부고환, 정관"
+      ],
+      "supplemental_ocr_blocks": [
+        "testis]",
+        "고환동맥",
+        "tubules",
+        "두움 )곧은세관",
+        "고환소염"
+      ],
+      "corrected_page_text": "Testis and epididymis testosterone 생성\n정자루 만들어주는 역할 (중요)\n계란 모양 (난원형)\nspermatic cord에 매달려 있고 scrotum (음낭) 안에 위치함\n당균정맥얼기 안에 epididymis까지 포함\n전체적으로 testicular capsule(피막)에 둘러쌓여 있음\n'papapiniformm Plexus-이론것\ntesticular a 고환날세관\n부고환머리 \" efferent ductules\ntestis예l 공급\nhead of epididymis '급습정세관\nconvoluted seminiferous\n부고환몸통 straight tubules\nbody of epididymis 고환사이막\n정관 septa testis\nductus deferens\n정자 생성 후의 이동경로 lobules of testis\n[mediastinumn of testis] 1)각각의 lobule 안에는 convoluted senWferous tubules 존재(꼬불고불한 구조)\n'tunica albuginea가 testis의 뒤쪽에서 두껍워저서 형성 > '이곳에서 정자가 생성 고환그물\ntesticular vein들이 열기름 이론 것 2) 만들어진 정자는 straight tubule로 이동 rete testis\n'여기서부터 septum이 나와서 아주 맘은 lobuie로 나뉘게 팀 3) mediastinum testis 안의 rete testis(고환 그물)로 이동\n4) efferent ductules로 이동\n5) epididymis의 head 'bod +a로 어동 백색막\n6)ail에서 ductus deferens로 감 tunica albuginea\n7 I ctus deferens는 spermatic cord에 싸여서 북부 쪽으로 올라감\n부고환꼬리 5) 마지막에 ejaculatory duct (사정관) 동해 urethra(오도)로 연결(배설)\ntail of epididymis\n그림 6-17. 고환, 부고환, 정관",
+      "quality_audit": {
+        "pdf_char_count": 19,
+        "pdf_span_count": 1,
+        "pdf_word_count": 3,
+        "ocr_fragment_count": 59,
+        "pdf_line_count": 1,
+        "ocr_line_count": 33,
+        "merged_line_count": 33,
+        "pdf_only_count": 0,
+        "ocr_only_count": 32,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 32,
+        "pdf_alpha_count": 33,
+        "ocr_alpha_count": 761,
+        "promoted_ocr_only_count": 27
+      }
+    }
+  }
+}

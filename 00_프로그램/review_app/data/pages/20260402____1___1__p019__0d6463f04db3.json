@@ -1,0 +1,1202 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 19
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_001"
+      ],
+      "prompt": "_____은 속가슴동맥(internal thoracic artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위배벽동맥(superior epigastric artery)",
+        "accepted_answers": [
+          "위배벽동맥(superior epigastric artery)",
+          "superior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위배벽동맥(superior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_001"
+      ],
+      "prompt": "위배벽동맥(superior epigastric artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속가슴동맥(internal thoracic artery)",
+        "accepted_answers": [
+          "속가슴동맥(internal thoracic artery)",
+          "internal thoracic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속가슴동맥(internal thoracic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_002"
+      ],
+      "prompt": "_____은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽동맥(inferior epigastric artery)",
+        "accepted_answers": [
+          "아래배벽동맥(inferior epigastric artery)",
+          "inferior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽동맥(inferior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_002"
+      ],
+      "prompt": "아래배벽동맥(inferior epigastric artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥엉덩동맥(external iliac artery)",
+        "accepted_answers": [
+          "바깥엉덩동맥(external iliac artery)",
+          "external iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥엉덩동맥(external iliac artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_006"
+      ],
+      "prompt": "_____과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위배벽동맥(superior epigastric artery)",
+        "accepted_answers": [
+          "위배벽동맥(superior epigastric artery)",
+          "superior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위배벽동맥(superior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_006"
+      ],
+      "prompt": "위배벽동맥(superior epigastric artery)과 _____은 서로 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽동맥(inferior epigastric artery)",
+        "accepted_answers": [
+          "아래배벽동맥(inferior epigastric artery)",
+          "inferior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽동맥(inferior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_007"
+      ],
+      "prompt": "_____과 배곧은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)",
+          "external oblique muscle",
+          "external oblique"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_008"
+      ],
+      "prompt": "_____의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_008"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) _____은 배곧은집(rectus sheath)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_008"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_009"
+      ],
+      "prompt": "_____ 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_009"
+      ],
+      "prompt": "배곧은집(rectus sheath) 안에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_010"
+      ],
+      "prompt": "_____ 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "활꼴선(arcuate line)",
+        "accepted_answers": [
+          "활꼴선(arcuate line)",
+          "arcuate line"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "활꼴선(arcuate line)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_010_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_010"
+      ],
+      "prompt": "활꼴선(arcuate line) 위에서는 _____의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)",
+          "external oblique muscle",
+          "external oblique"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_010_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_010"
+      ],
+      "prompt": "활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 _____이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_010_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_010"
+      ],
+      "prompt": "활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 _____ 앞쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_013"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_013_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_013"
+      ],
+      "prompt": "배가로근막(transversalis fascia)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle",
+          "transversus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_016"
+      ],
+      "prompt": "_____의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_016"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) _____은 백색선(linea alba)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_course_016_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_019_course_016"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽의 _____은 T7부터 T12까지의 앞가지(anterior rami)와 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴배신경(thoracoabdominal nerves)",
+        "accepted_answers": [
+          "가슴배신경(thoracoabdominal nerves)",
+          "thoracoabdominal nerves",
+          "thoracoabdominal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴배신경(thoracoabdominal nerves)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽의 가슴배신경(thoracoabdominal nerves)은 T7부터 T12까지의 앞가지(anterior rami)와 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_002"
+      ],
+      "prompt": "_____ 아래에서는 세 널힘줄(aponeuroses) 모두가 배곧은근(rectus abdominis) 앞쪽으로 지나간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "활꼴선(arcuate line)",
+        "accepted_answers": [
+          "활꼴선(arcuate line)",
+          "arcuate line"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "활꼴선(arcuate line)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 아래에서는 세 널힘줄(aponeuroses) 모두가 배곧은근(rectus abdominis) 앞쪽으로 지나간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_002"
+      ],
+      "prompt": "활꼴선(arcuate line) 아래에서는 세 널힘줄(aponeuroses) 모두가 _____ 앞쪽으로 지나간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 아래에서는 세 널힘줄(aponeuroses) 모두가 배곧은근(rectus abdominis) 앞쪽으로 지나간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_course_배_필기본_019_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_003"
+      ],
+      "prompt": "_____은 배의 정중선(midline)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 백색선(linea alba)은 배의 정중선(midline)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p019_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "formation of rectus sheath above and below arcuate line",
+        "accepted_answers": [
+          "formation of rectus sheath above and below arcuate line"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "formation of rectus sheath above and below arcuate line",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p019_ai_page_read::rectus_sheath_layers"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p019_ai_page_read::rectus_sheath_layers",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: formation of rectus sheath above and below arcuate line"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 26,
+    "question_type_count": {
+      "fill_blank": 25,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 21,
+      "course_exam_style": 4,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json",
+        "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json",
+        "review_image_url": "./data/images/20260402____1___1__p018__db7b5344243b.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json",
+        "review_image_url": "./data/images/20260402____1___1__p019__0d6463f04db3.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 18,
+    "previous_page": 18,
+    "next_page": 20
+  },
+  "review_image_url": "./data/images/20260402____1___1__p019__0d6463f04db3.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 19
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다.",
+        "아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+        "Scarpa's fascia는 얕은근막(superficial fascia)의 깊은 막성층이다.",
+        "위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다.",
+        "바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다.",
+        "배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+        "활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "앞가쪽배벽(anterolateral abdominal wall)은 바깥빗근(external oblique muscle), 속빗근(internal oblique muscle), 배가로근(transversus abdominis muscle)의 세 층으로 이루어진다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다.",
+        "앞가쪽배벽의 가슴배신경(thoracoabdominal nerves)은 T7부터 T12까지의 앞가지(anterior rami)와 관련된다.",
+        "활꼴선(arcuate line) 아래에서는 세 널힘줄(aponeuroses) 모두가 배곧은근(rectus abdominis) 앞쪽으로 지나간다.",
+        "백색선(linea alba)은 배의 정중선(midline)이다.",
+        "간의 영어 이름은 liver이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "활꼴선의 영어 이름은 arcuate line이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "위배벽동맥의 영어 이름은 superior epigastric artery이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "배곧은집의 영어 이름은 rectus sheath이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "아래배벽동맥의 영어 이름은 inferior epigastric artery이다.",
+        "음낭의 영어 이름은 scrotum이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "바깥배빗근널힘줄의 영어 이름은 external oblique aponeurosis이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "엉덩고샅신경의 영어 이름은 ilioinguinal nerve이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "속가슴동맥의 영어 이름은 internal thoracic artery이다.",
+        "바깥엉덩동맥의 영어 이름은 external iliac artery이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "가슴배신경의 영어 이름은 thoracoabdominal nerves이다.",
+        "벽쪽 가슴막의 영어 이름은 parietal pleura이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "정중선의 영어 이름은 midline이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 15,
+          "text": "백색선 Posterior wall of rectus sheath thoracic artery",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "Internal oblique '바결빗일 o : 널힘줄 Transversalis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "nerve Inferior epigastric artery membranous",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "Saphenous A: Anterior wall of rectus sheath 두딩뼈몸통",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "nerves Superior epigastric artery Termination o",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "External oblique Peritoneum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "배속빗근 Anterior wall Of rectus sheath 배가로근막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "워위앞엉당뼈가시 External oblique aponeurosis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "Anterior superior 배속빗근 널힘줄 앞종",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 42,
+          "text": "Ilioinguinal nerve 활플선 아래배곧은근집의 뒤벽 tissue subcutaneous",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 54,
+          "text": "앞가쪽배벽의 가슴배신경(thoracoabdominal nerves)은 T7부터 T12까지의 앞가지(anterior rami)와 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 57,
+          "text": "활꼴선(arcuate line) 아래에서는 세 널힘줄(aponeuroses) 모두가 배곧은근(rectus abdominis) 앞쪽으로 지나간다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 59,
+          "text": "백색선(linea alba)은 배의 정중선(midline)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 61,
+          "text": "배곧은집 형성과 배벽 혈관·신경 구조를 보여주는 페이지로, 활꼴선 위아래의 배곧은집 층 변화와 위·아래배벽동맥의 기시 및 문합 관계를 필기로 보강한 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 64,
+          "text": "위배벽동맥(superior epigastric artery) anastomoses_with 아래배벽동맥(inferior epigastric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 65,
+          "text": "활꼴선(arcuate line) 아래의 세 널힘줄(aponeuroses) pass_anterior_to 배곧은근(rectus abdominis)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 36,
+        "accounted_term_count": 35,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.972,
+        "accounted_terms": [
+          "위배벽동맥(superior epigastric artery)",
+          "속가슴동맥(internal thoracic artery)",
+          "아래배벽동맥(inferior epigastric artery)",
+          "바깥엉덩동맥(external iliac artery)",
+          "활꼴선(arcuate line)",
+          "배곧은근(rectus abdominis)",
+          "벽쪽복막(parietal peritoneum)",
+          "백색선(linea alba)",
+          "간(liver)",
+          "신경(nerves)",
+          "널힘줄(aponeurosis)",
+          "가슴(thorax)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "위(stomach)",
+          "배곧은집(rectus sheath)",
+          "앞벽(anterior wall)",
+          "속빗근(internal oblique muscle)",
+          "음낭(scrotum)",
+          "근육(muscles)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "복막(peritoneum)",
+          "바깥빗근(external oblique muscle)",
+          "배가로근(transversus abdominis muscle)",
+          "배가로근막(transversalis fascia)",
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "척주(vertebral column)",
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "Scarpa's fascia",
+          "식도(esophagus)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "가슴배신경(thoracoabdominal nerves)",
+          "벽쪽 가슴막(parietal pleura)",
+          "얕은근막(superficial fascia)",
+          "편평근(flat muscles)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "앞면(B)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Formation of rectus sheath and neurovascular structure",
+        "superior, inferior epigastric a. origin이다름",
+        "superior: internal thoracic a.(얘네는subclavian a.에서sternum 옆쪽으로내려온거임)",
+        "inferior: external iliac a.",
+        "posterior",
+        "anterior",
+        "상호 간 anastomosis",
+        "신경은 T7T12",
+        "arcuate line 아래는",
+        "aponeurosis 3개가 모두 앞쪽으로",
+        "Pectoralis major muscle",
+        "anterior posterigs",
+        "상호간 anastgifiGgintea @율교 (이",
+        "앞톱니근 '태공음근 이논곳",
+        "Thoraca가슴버신경 위배벽동맥",
+        "nerves Superior epigastric artery Termination o",
+        "신경은 T7-T12 배곧은근집 뒤벽의 구성 internal",
+        "백색선 Posterior wall of rectus sheath thoracic artery",
+        "Linea alba consisting of:",
+        "배깥 배속빗근 널힘출의 뒤층",
+        "Umbilicus Posterior lamina Of inter-",
+        "External oblique Peritoneum",
+        "musclelcut edges) 배공요공집 앞벽의 구성",
+        "배속빗근 Anterior wall Of rectus sheath 배가로근막",
+        "Internal oblique '바결빗일 o : 널힘줄 Transversalis",
+        "muscle fascia",
+        "워위앞엉당뼈가시 External oblique aponeurosis",
+        "Anterior superior 배속빗근 널힘줄 앞종",
+        "iliac spine Anterior lamina Of internal",
+        "oblique aponeurosis",
+        "엉덩아렉버신경 아래배벽동앉evel of umbilicus l분철증의",
+        "nerve Inferior epigastric artery membranous",
+        "엉당신국신경 활플선 Arcuate line layer of",
+        "Ilioinguinal nerve 활플선 아래배곧은근집의 뒤벽 tissue subcutaneous",
+        "열려진 살물 결손 배가로근막만 존재 (Scarpa tascia)",
+        "Opened inguinal",
+        "canal 바깥엉당동맥",
+        "세 널힘출증으로 구성된 External iliac",
+        "두렇구멍 국서 배곧은근집의 앞벽 artery",
+        "Saphenous A: Anterior wall of rectus sheath 두딩뼈몸통",
+        "'opening consisting 이 al three 피부 Body of pubis",
+        "두덤뼈능선 수준 aponeurotic layers",
+        "Level of pubic '피불일조직의",
+        "crest arcuate line 아래는 음낭근막",
+        "굳두령정맥 aponeurosis 3개가 모두 앞쪽으포aras na",
+        "fascia Memnbranous",
+        "Great saphenous vein Gyeruoaneous",
+        "Scrotum tissue",
+        "(Colles fascia)",
+        "(A) 앞면 (B) 시상단면 모식도"
+      ],
+      "supplemental_ocr_blocks": [
+        "없음)",
+        "강로미히적막)",
+        "속가슴동맥 끝",
+        "(#반_ 복막",
+        "배곰 수준",
+        "Deep",
+        "Skin"
+      ],
+      "corrected_page_text": "Formation of rectus sheath and neurovascular structure\nsuperior, inferior epigastric a. origin이다름\nsuperior: internal thoracic a.(얘네는subclavian a.에서sternum 옆쪽으로내려온거임)\ninferior: external iliac a.\nposterior\nanterior\n상호 간 anastomosis\n신경은 T7T12\narcuate line 아래는\naponeurosis 3개가 모두 앞쪽으로\nPectoralis major muscle\nanterior posterigs\n상호간 anastgifiGgintea @율교 (이\n앞톱니근 '태공음근 이논곳\nThoraca가슴버신경 위배벽동맥\nnerves Superior epigastric artery Termination o\n신경은 T7-T12 배곧은근집 뒤벽의 구성 internal\n백색선 Posterior wall of rectus sheath thoracic artery\nLinea alba consisting of:\n배깥 배속빗근 널힘출의 뒤층\nUmbilicus Posterior lamina Of inter-\nExternal oblique Peritoneum\nmusclelcut edges) 배공요공집 앞벽의 구성\n배속빗근 Anterior wall Of rectus sheath 배가로근막\nInternal oblique '바결빗일 o : 널힘줄 Transversalis\nmuscle fascia\n워위앞엉당뼈가시 External oblique aponeurosis\nAnterior superior 배속빗근 널힘줄 앞종\niliac spine Anterior lamina Of internal\noblique aponeurosis\n엉덩아렉버신경 아래배벽동앉evel of umbilicus l분철증의\nnerve Inferior epigastric artery membranous\n엉당신국신경 활플선 Arcuate line layer of\nIlioinguinal nerve 활플선 아래배곧은근집의 뒤벽 tissue subcutaneous\n열려진 살물 결손 배가로근막만 존재 (Scarpa tascia)\nOpened inguinal\ncanal 바깥엉당동맥\n세 널힘출증으로 구성된 External iliac\n두렇구멍 국서 배곧은근집의 앞벽 artery\nSaphenous A: Anterior wall of rectus sheath 두딩뼈몸통\n'opening consisting 이 al three 피부 Body of pubis\n두덤뼈능선 수준 aponeurotic layers\nLevel of pubic '피불일조직의\ncrest arcuate line 아래는 음낭근막\n굳두령정맥 aponeurosis 3개가 모두 앞쪽으포aras na\nfascia Memnbranous\nGreat saphenous vein Gyeruoaneous\nScrotum tissue\n(Colles fascia)\n(A) 앞면 (B) 시상단면 모식도",
+      "quality_audit": {
+        "pdf_char_count": 246,
+        "pdf_span_count": 39,
+        "pdf_word_count": 36,
+        "ocr_fragment_count": 116,
+        "pdf_line_count": 10,
+        "ocr_line_count": 54,
+        "merged_line_count": 57,
+        "pdf_only_count": 3,
+        "ocr_only_count": 47,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 10,
+        "ocr_only_line_count": 47,
+        "pdf_alpha_count": 232,
+        "ocr_alpha_count": 1033,
+        "promoted_ocr_only_count": 40
+      }
+    }
+  }
+}

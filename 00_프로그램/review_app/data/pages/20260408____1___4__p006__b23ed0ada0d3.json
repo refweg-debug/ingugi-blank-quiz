@@ -1,0 +1,831 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 6
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "_____와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "빈창자(jejunum)와 _____는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "빈창자(jejunum)와 돌창자(ileum)는 _____으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 _____에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배벽(posterior abdominal wall)",
+        "accepted_answers": [
+          "뒤배벽(posterior abdominal wall)",
+          "posterior abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배벽(posterior abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "_____와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "가로잘록창자(transverse colon)와 _____도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "구불잘록창자(sigmoid colon)",
+        "accepted_answers": [
+          "구불잘록창자(sigmoid colon)",
+          "sigmoid colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "구불잘록창자(sigmoid colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 _____으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 _____에 연결되어 유동성이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배벽(posterior abdominal wall)",
+        "accepted_answers": [
+          "뒤배벽(posterior abdominal wall)",
+          "posterior abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배벽(posterior abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_005"
+      ],
+      "prompt": "_____에는 창자간막(mesentery)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)에는 장간막이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_006"
+      ],
+      "prompt": "_____에는 창자간막(mesentery)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "구불잘록창자(sigmoid colon)",
+        "accepted_answers": [
+          "구불잘록창자(sigmoid colon)",
+          "sigmoid colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "구불잘록창자(sigmoid colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 구불잘록창자(sigmoid colon)에는 장간막이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_009"
+      ],
+      "prompt": "_____와 내림잘록창자(descending colon)는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)와 내림잘록창자(descending colon)는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_009"
+      ],
+      "prompt": "오름잘록창자(ascending colon)와 _____는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내림잘록창자(descending colon)",
+        "accepted_answers": [
+          "내림잘록창자(descending colon)",
+          "descending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내림잘록창자(descending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)와 내림잘록창자(descending colon)는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_009"
+      ],
+      "prompt": "오름잘록창자(ascending colon)와 내림잘록창자(descending colon)는 _____으로서 벽에 고정되어 유동성이 적다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organs)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organs)",
+          "retroperitoneal organs",
+          "retroperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)와 내림잘록창자(descending colon)는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p006_course_배_필기본_006_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_010"
+      ],
+      "prompt": "_____의 길이는 약 15 cm이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막뿌리(root of mesentery)",
+        "accepted_answers": [
+          "창자간막뿌리(root of mesentery)",
+          "root of mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막뿌리(root of mesentery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자간막뿌리(root of mesentery)의 길이는 약 15 cm이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 14,
+    "question_type_count": {
+      "fill_blank": 14
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 14
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json",
+        "review_image_url": "./data/images/20260408____1___4__p004__14b5f2000d36.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json",
+        "review_image_url": "./data/images/20260408____1___4__p005__176e537841fb.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json",
+        "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 5,
+    "previous_page": 5,
+    "next_page": 7
+  },
+  "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 6
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+        "가로잘록창자(transverse colon)와 구불잘록창자(sigmoid colon)도 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결되어 유동성이 있다.",
+        "가로잘록창자(transverse colon)는 유동성이 있다.",
+        "가로잘록창자(transverse colon)에는 장간막이 있다.",
+        "구불잘록창자(sigmoid colon)에는 장간막이 있다.",
+        "오름잘록창자(ascending colon)와 내림잘록창자(descending colon)는 뒤복막기관(retroperitoneal organs)으로서 벽에 고정되어 유동성이 적다.",
+        "창자간막뿌리(root of mesentery)의 길이는 약 15 cm이다.",
+        "창자간막뿌리(root of mesentery)는 배대동맥(abdominal aorta), 대정맥(inferior vena cava), 오른요관(right ureter), 오른큰허리근(right psoas major muscle) 앞을 지난다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "빈창자의 영어 이름은 jejunum이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "뒤복막기관의 영어 이름은 retroperitoneal organs이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "창자간막뿌리의 영어 이름은 root of mesentery이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "샘창자 셋째부분의 영어 이름은 inferior part of duodenum이다.",
+        "샘창자 넷째부분의 영어 이름은 ascending part of duodenum이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "오른요관의 영어 이름은 right ureter이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "샘빈창자연결의 영어 이름은 duodenojejunal junction이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "이부착하는자리",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": ": L2 (duodenum, jejunum)시작높이이연결되는높이",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 11,
+          "text": "ight sacroiliac joint () : r오른쪽엉치엉덩관절있는곳까지연결끝",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 3,
+          "text": "etroperitoneal organs ())(cf. ascending colon, descending colon r복막뒤기관이다은벽에고정되어유동성없는",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "root of mesentery=",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "duodenum; jejunum junction에서 시작하여",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": ": duodenum ascending part, inferior part, abdominal aorta part, inferior vena cava, right ureter (), right psoas major muscle () 지나가는구조오른쪽요관오른쪽대요근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "root of mesentery begins at the duodenojejunal junction around L2",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "root of mesentery ends near the right sacroiliac joint",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 26,
+        "accounted_term_count": 26,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "빈창자(jejunum)",
+          "돌창자(ileum)",
+          "창자간막(mesentery)",
+          "가로잘록창자(transverse colon)",
+          "복막(peritoneum)",
+          "뒤복막기관(retroperitoneal organs)",
+          "기관(trachea)",
+          "오름잘록창자(ascending colon)",
+          "내림잘록창자(descending colon)",
+          "창자간막뿌리(root of mesentery)",
+          "샘창자(duodenum)",
+          "근육(muscles)",
+          "샘창자 셋째부분(inferior part of duodenum)",
+          "샘창자 넷째부분(ascending part of duodenum)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "오른요관(right ureter)",
+          "배대동맥(abdominal aorta)",
+          "샘빈창자연결(duodenojejunal junction)",
+          "뒤배벽(posterior abdominal wall)",
+          "구불잘록창자(sigmoid colon)",
+          "오른큰허리근(right psoas major muscle)",
+          "간(liver)",
+          "뒤배부분(posterior abdominal part)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "- jejunum ileum mesentery 과은유동성이있어로뒷배벽과연결된다",
+        "mesentery jejunum, ileum = transverse colon, sigmoid colon ( )뒷배벽에서로과연결되는것유동성있음",
+        "etroperitoneal organs ())(cf. ascending colon, descending colon r복막뒤기관이다은벽에고정되어유동성없는",
+        "이부착하는자리",
+        "root of mesentery=",
+        "= 15cm정도",
+        "transverse colon",
+        ": L2 (duodenum, jejunum )시작높이이연결되는높이",
+        "/",
+        "duodenum; jejunum junction에서 시작하여",
+        "ight sacroiliac joint ( ) : r오른쪽엉치엉덩관절있는곳까지연결끝",
+        ": duodenum ascending part, inferior part, abdominal aorta part, inferior vena cava, right ureter ( ), right psoas major muscle ( ) 지나가는구조오른쪽요관오른쪽대요근",
+        "mesentery"
+      ],
+      "supplemental_ocr_blocks": [
+        "관상인대 원세모인대",
+        "coronary lig. left triangular lig.",
+        "간 liver 지라 spleen",
+        "용류세n입대ar lig",
+        "내림잘록창자",
+        "descending colon",
+        "오름잘록창자",
+        "ascending colon",
+        "구물잘록창자",
+        "sigmoid colon",
+        "작은창자",
+        "small intestine 이 부착하는 자리",
+        "root of mesentery",
+        "15cm정도",
+        "오른쪽 아래방향으로 기울어짐",
+        "시작: L2높이 (duodenum; jejunumol 연결되논 높이)",
+        "mesentery",
+        "그림 6-45. 창자간막이 뒤배벽에 부착하는 자리 창자간막올 모두 떼어번 상태이다."
+      ],
+      "corrected_page_text": "- jejunum ileum mesentery 과은유동성이있어로뒷배벽과연결된다\nmesentery jejunum, ileum = transverse colon, sigmoid colon ( )뒷배벽에서로과연결되는것유동성있음\netroperitoneal organs ())(cf. ascending colon, descending colon r복막뒤기관이다은벽에고정되어유동성없는\n이부착하는자리\nroot of mesentery=\n= 15cm정도\ntransverse colon\n: L2 (duodenum, jejunum )시작높이이연결되는높이\n/\nduodenum; jejunum junction에서 시작하여\night sacroiliac joint ( ) : r오른쪽엉치엉덩관절있는곳까지연결끝\n: duodenum ascending part, inferior part, abdominal aorta part, inferior vena cava, right ureter ( ), right psoas major muscle ( ) 지나가는구조오른쪽요관오른쪽대요근\nmesentery",
+      "quality_audit": {
+        "pdf_char_count": 467,
+        "pdf_span_count": 72,
+        "pdf_word_count": 88,
+        "ocr_fragment_count": 32,
+        "pdf_line_count": 13,
+        "ocr_line_count": 24,
+        "merged_line_count": 31,
+        "pdf_only_count": 7,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 13,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 433,
+        "ocr_alpha_count": 246,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

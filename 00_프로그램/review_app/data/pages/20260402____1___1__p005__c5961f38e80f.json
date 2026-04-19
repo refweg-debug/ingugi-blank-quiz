@@ -1,0 +1,535 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 5
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_001"
+      ],
+      "prompt": "_____과 가쪽벽(lateral wall)의 경계는 명확하지 않다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞벽(anterior wall)",
+        "accepted_answers": [
+          "앞벽(anterior wall)",
+          "anteriorwall",
+          "anterior wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞벽(anterior wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞벽(anterior wall)과 가쪽벽(lateral wall)의 경계는 명확하지 않다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_001"
+      ],
+      "prompt": "앞벽(anterior wall)과 _____의 경계는 명확하지 않다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽벽(lateral wall)",
+        "accepted_answers": [
+          "가쪽벽(lateral wall)",
+          "lateralwall",
+          "lateral wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽벽(lateral wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞벽(anterior wall)과 가쪽벽(lateral wall)의 경계는 명확하지 않다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_002"
+      ],
+      "prompt": "_____과 가쪽벽(lateral wall)의 근육(muscles)과 신경(nerves)은 서로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞벽(anterior wall)",
+        "accepted_answers": [
+          "앞벽(anterior wall)",
+          "anteriorwall",
+          "anterior wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞벽(anterior wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞벽(anterior wall)과 가쪽벽(lateral wall)의 근육(muscles)과 신경(nerves)은 서로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_002"
+      ],
+      "prompt": "앞벽(anterior wall)과 가쪽벽(lateral wall)의 근육(muscles)과 _____은 서로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "신경(nerves)",
+        "accepted_answers": [
+          "신경(nerves)",
+          "nerves"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "신경(nerves)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞벽(anterior wall)과 가쪽벽(lateral wall)의 근육(muscles)과 신경(nerves)은 서로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_003"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)은 앞벽(anterior wall)과 _____을 함께 이르는 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽벽(lateral wall)",
+        "accepted_answers": [
+          "가쪽벽(lateral wall)",
+          "lateralwall",
+          "lateral wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽벽(lateral wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)은 앞벽(anterior wall)과 가쪽벽(lateral wall)을 함께 이르는 말이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p005_course_배_필기본_005_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_005_course_004"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 _____은 세 층으로 배열된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "편평근(flat muscles)",
+        "accepted_answers": [
+          "편평근(flat muscles)",
+          "flatmuscles",
+          "flat muscles",
+          "flatmuscle",
+          "flat muscle",
+          "flat한근육",
+          "flat 한 근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "편평근(flat muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 6,
+    "question_type_count": {
+      "fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 4,
+    "previous_page": 4,
+    "next_page": 6
+  },
+  "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 5
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "앞벽(anterior wall)과 가쪽벽(lateral wall)의 경계는 명확하지 않다.",
+        "앞벽(anterior wall)과 가쪽벽(lateral wall)의 근육(muscles)과 신경(nerves)은 서로 이어진다.",
+        "앞가쪽배벽(anterolateral abdominal wall)은 앞벽(anterior wall)과 가쪽벽(lateral wall)을 함께 이르는 말이다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다.",
+        "근육의 영어 이름은 muscles이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "가쪽벽의 영어 이름은 lateral wall이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "편평근의 영어 이름은 flat muscles이다.",
+        "근육층의 영어 이름은 muscularis externa이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "명확한 경계는 X 따라서 우리가 임의적 구분",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 2,
+          "text": "백색선 근육과 신경이 앞과 가족이 연결되어 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "배벽(abdominal wall)은 앞배벽(anterior abdominal wall), 앞가쪽배벽(anterolateral abdominal wall), 뒤배벽(posterior abdominal wall)으로 구분해 설명한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "앞배벽, 앞가쪽배벽, 뒤배벽의 구분과 앞가쪽배벽의 경계 불명확성, 근육층 구성을 설명하는 필기본 페이지다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 7,
+          "text": "뒷배벽의 근육 복습",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "Subdivisions of abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "앞배벽(anterior abdominal wall)과 가쪽배벽(lateral abdominal wall)의 경계는 명확하지 않아서 함께 앞가쪽배벽(anterolateral abdominal wall)이라고 부른다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "뒤배벽(posterior abdominal wall)의 근육 배열은 앞가쪽배벽보다 복잡하다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "앞배벽(anterior abdominal wall) overlaps_with 가쪽배벽(lateral abdominal wall)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) formed_by_continuity_of 근육(muscles) and 신경(nerves)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 15,
+        "accounted_term_count": 13,
+        "unresolved_term_count": 1,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.867,
+        "accounted_terms": [
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "뒤배벽(posterior abdominal wall)",
+          "가쪽배벽(lateral abdominal wall)",
+          "근육(muscles)",
+          "신경(nerves)",
+          "백색선(linea alba)",
+          "가쪽벽(lateral wall)",
+          "배(abdominal region)",
+          "뒤배부분(posterior abdominal part)",
+          "앞벽(anterior wall)",
+          "편평근(flat muscles)",
+          "근육층(muscularis externa)"
+        ],
+        "unresolved_terms": [
+          "앞배벽(anterior abdominal wall)"
+        ],
+        "missing_terms": [
+          "납작한앞가쪽배근육(flat anterolateral abdominal muscles)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Subdivisions of abdominal wall",
+        "명확한 경계는 X 따라서 우리가 임의적 구분",
+        "백색선 근육과 신경이 앞과 가족이 연결되어 있다.",
+        "앞&가쪽벽은 경계도 불명확 신경도 연속",
+        ">anterolateral wall",
+        "vertical muscles",
+        "ﬂat 한 3개의 층으로 muscle",
+        "뒷배벽의 근육 복습"
+      ],
+      "supplemental_ocr_blocks": [
+        "Vertical anterior ~>anterolateral wall",
+        "abdominal muscles",
+        "남작한",
+        "앞가쪽배근육",
+        "abdominal",
+        "muscles",
+        "틀",
+        "흙",
+        "경계가 불분명하고 경침",
+        "vertical muscles flat 한 3개의 총으로 muscle",
+        "(월표'",
+        "허리뼈",
+        "Lumbar 뒤배근육",
+        "vertebra",
+        "뒷배벽의 근육 복습 뒤 'Bodierimal",
+        "뒤수직등근육 muscles",
+        "아래면 Vertical posterior",
+        "back muscles"
+      ],
+      "corrected_page_text": "Subdivisions of abdominal wall\n명확한 경계는 X 따라서 우리가 임의적 구분\n백색선 근육과 신경이 앞과 가족이 연결되어 있다.\n앞&가쪽벽은 경계도 불명확 신경도 연속\n>anterolateral wall\nvertical muscles\nﬂat 한 3개의 층으로 muscle\n뒷배벽의 근육 복습",
+      "quality_audit": {
+        "pdf_char_count": 140,
+        "pdf_span_count": 69,
+        "pdf_word_count": 34,
+        "ocr_fragment_count": 35,
+        "pdf_line_count": 8,
+        "ocr_line_count": 24,
+        "merged_line_count": 26,
+        "pdf_only_count": 2,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 8,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 136,
+        "ocr_alpha_count": 203,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

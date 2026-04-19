@@ -1,0 +1,568 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 26
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_001"
+      ],
+      "prompt": "_____은 헤링샛관(bile canals of Hering)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담세관(bile canaliculus)",
+        "accepted_answers": [
+          "담세관(bile canaliculus)",
+          "bile canaliculus",
+          "bile canaliculi"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담세관(bile canaliculus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담세관(bile canaliculus)은 헤링샛관(bile canals of Hering)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_001"
+      ],
+      "prompt": "담세관(bile canaliculus)은 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "헤링샛관(bile canals of Hering)",
+        "accepted_answers": [
+          "헤링샛관(bile canals of Hering)",
+          "bile canals of Hering",
+          "Hering canal",
+          "Hering canals"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "헤링샛관(bile canals of Hering)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담세관(bile canaliculus)은 헤링샛관(bile canals of Hering)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_002"
+      ],
+      "prompt": "_____은 간세포(hepatocyte)와 담관세포(cholangiocyte)가 함께 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "헤링샛관(bile canals of Hering)",
+        "accepted_answers": [
+          "헤링샛관(bile canals of Hering)",
+          "bile canals of Hering",
+          "Hering canal",
+          "Hering canals"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "헤링샛관(bile canals of Hering)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 헤링샛관(bile canals of Hering)은 간세포(hepatocyte)와 담관세포(cholangiocyte)가 함께 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_002"
+      ],
+      "prompt": "헤링샛관(bile canals of Hering)은 _____와 담관세포(cholangiocyte)가 함께 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간세포(hepatocyte)",
+        "accepted_answers": [
+          "간세포(hepatocyte)",
+          "hepatocyte",
+          "hepatocytes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간세포(hepatocyte)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 헤링샛관(bile canals of Hering)은 간세포(hepatocyte)와 담관세포(cholangiocyte)가 함께 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_002"
+      ],
+      "prompt": "헤링샛관(bile canals of Hering)은 간세포(hepatocyte)와 _____가 함께 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관세포(cholangiocyte)",
+        "accepted_answers": [
+          "담관세포(cholangiocyte)",
+          "cholangiocyte",
+          "cholangiocytes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관세포(cholangiocyte)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 헤링샛관(bile canals of Hering)은 간세포(hepatocyte)와 담관세포(cholangiocyte)가 함께 둘러싼다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_003"
+      ],
+      "prompt": "_____은 헤링샛관(bile canals of Hering)을 거쳐 담관(bile duct)로 배출된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 헤링샛관(bile canals of Hering)을 거쳐 담관(bile duct)로 배출된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_003"
+      ],
+      "prompt": "담즙(bile)은 _____을 거쳐 담관(bile duct)로 배출된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "헤링샛관(bile canals of Hering)",
+        "accepted_answers": [
+          "헤링샛관(bile canals of Hering)",
+          "bile canals of Hering",
+          "Hering canal",
+          "Hering canals"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "헤링샛관(bile canals of Hering)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 헤링샛관(bile canals of Hering)을 거쳐 담관(bile duct)로 배출된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p026_course_배_필기본_026_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_026_course_003"
+      ],
+      "prompt": "담즙(bile)은 헤링샛관(bile canals of Hering)을 거쳐 _____로 배출된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관(bile duct)",
+        "accepted_answers": [
+          "담관(bile duct)",
+          "bile duct",
+          "bile ducts"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관(bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 헤링샛관(bile canals of Hering)을 거쳐 담관(bile duct)로 배출된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 8,
+    "question_type_count": {
+      "fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json",
+        "review_image_url": "./data/images/20260409____1___5__p022__d2a89e91bc3e.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json",
+        "review_image_url": "./data/images/20260409____1___5__p023__f0f568a9765e.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json",
+        "review_image_url": "./data/images/20260409____1___5__p024__9a922fb440a2.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json",
+        "review_image_url": "./data/images/20260409____1___5__p025__7a88342dc4a5.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json",
+        "review_image_url": "./data/images/20260409____1___5__p026__14a9f4fad021.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 25,
+    "previous_page": 25,
+    "next_page": 27
+  },
+  "review_image_url": "./data/images/20260409____1___5__p026__14a9f4fad021.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 26
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "metadata_text_blocks",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "담세관(bile canaliculus)은 헤링샛관(bile canals of Hering)으로 이어진다.",
+        "헤링샛관(bile canals of Hering)은 간세포(hepatocyte)와 담관세포(cholangiocyte)가 함께 둘러싼다.",
+        "담즙(bile)은 헤링샛관(bile canals of Hering)을 거쳐 담관(bile duct)로 배출된다.",
+        "담즙의 영어 이름은 bile이다.",
+        "담세관의 영어 이름은 bile canaliculus이다.",
+        "헤링샛관의 영어 이름은 bile canals of Hering이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "담관세포의 영어 이름은 cholangiocyte이다.",
+        "담관의 영어 이름은 bile duct이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 6,
+        "accounted_term_count": 6,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "담즙(bile)",
+          "담세관(bile canaliculus)",
+          "헤링샛관(bile canals of Hering)",
+          "간세포(hepatocyte)",
+          "담관세포(cholangiocyte)",
+          "담관(bile duct)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "쓸개모세관(Bile canaliculi)",
+        "각 간소염 변두리 근처에는 많은 쓸개모세관이 좀 더 큰",
+        "쓸개관세포(cholangiocyte)인 입방상피세포로 구성된",
+        "(Bile ettag Hering 쓸개관과 합처진다: 이 쓸개관은 문맥영역에서 쓸",
+        "개관으로 곧 합처저 쓸개가지로 배출되다:",
+        "간세포 Hering 쓸개관 쓸개관세포",
+        "(Hepatocytes) (Bile canals of Hering) (Cholangiocytes)"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 16-17 쓸개세관"
+      ],
+      "corrected_page_text": "쓸개모세관(Bile canaliculi)\n각 간소염 변두리 근처에는 많은 쓸개모세관이 좀 더 큰\n쓸개관세포(cholangiocyte)인 입방상피세포로 구성된\n(Bile ettag Hering 쓸개관과 합처진다: 이 쓸개관은 문맥영역에서 쓸\n개관으로 곧 합처저 쓸개가지로 배출되다:\n간세포 Hering 쓸개관 쓸개관세포\n(Hepatocytes) (Bile canals of Hering) (Cholangiocytes)",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 14,
+        "pdf_line_count": 0,
+        "ocr_line_count": 8,
+        "merged_line_count": 8,
+        "pdf_only_count": 0,
+        "ocr_only_count": 8,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 8,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 188,
+        "promoted_ocr_only_count": 7
+      }
+    }
+  }
+}

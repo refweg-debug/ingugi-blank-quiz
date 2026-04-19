@@ -1,0 +1,364 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 24,
+    "note_page_number": 24,
+    "source_page_number": 68,
+    "original_page_number": 68,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 23,
+    "previous_page": 23,
+    "next_page": 25
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 24
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "위의 영어 이름은 stomach이다.",
+        "간의 영어 이름은 liver이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "허파의 영어 이름은 lung이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 7,
+          "text": "튀어나온 담은 수의 미세움되(MV)가 보이는 활동 중인 벽세모의 전자현 때l오른쪽 원통형의 소포가 세포막과 움합하여 커다란 세포속분비모",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "미세움모가 거의 없으여 단지 미토권드리이씨와 골지소되(G) 사이의 팔",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "형성하다. 활동기(b 사진의 오른쪽 위)논 위산율 많이 분비하고 잇고",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "속공간Lumen) MV",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "미경사진 세포질 속에느 맘은 수의 미토론드리이M)들 합유하고 있다; 세관C과 미세움모(MV)J 형성하다; 따라서 확산과 이온하프들 위한 세",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 7,
+        "accounted_term_count": 4,
+        "unresolved_term_count": 2,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.571,
+        "accounted_terms": [
+          "위(stomach)",
+          "간(liver)",
+          "식도(esophagus)",
+          "허파(lung)"
+        ],
+        "unresolved_terms": [
+          "튀어나온담은수의미세움되(MV)",
+          "미세움모가거의없으여단지미토권드리이씨와골지소되(G)"
+        ],
+        "missing_terms": [
+          "관소포형태(TV)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "그림 15-18 벽세포의 초미세구조",
+        "속공간Lumen) MV",
+        "그림 15-20 벽세포 으즘세포 위장자내문비세포의 미세구조",
+        "(Intracellular canaliculus)",
+        "MOm= 세 가지 주요 세도유형의 미세구조금 보여주는 위심의 수명절단면의 전자 포티는 분비성과림이 밀집되어 있으며 폐쇠형의 나분비세도이다; 다시",
+        "현미경 사진 벽세포P논 풍부한 미토권드리야와 세포속분비모세관C) 말해; 위심의 숙공간과는 접촉면이 없으다 나분비 주변문비의 방식으로",
+        "{D) 올 합유하고 있다; 으놈세되C 또한 관찰되는데; 과림세도질그로이 집중 분비한다; (X1200)",
+        "'되어 있으D 속공간다 근처에 분비성 과림이 존자하다: 위창차나분비세",
+        "(a) 속공간과 세포의 깊은부위 근처어서 세포내 세포속분비모세관으로 은 세모속분 비모세관디만올 가지고 있다 위신올 분비하는 자극이 있올",
+        "튀어나온 많은 수의 미세움되(MV)가 보이는 활동 중인 벽세포의 전자현 때l오른쪽 원통형의 소포가 세포막과 움합하여 커다란 세포속분비모",
+        "미경사진 세포질 속에느 맘은 수의 미토론드리이M)들 합유하고 있다; 세관C과 미세움모(MV)J 형성하다; 따라서 확산과 이온하프들 위한 세",
+        "(X1O,20O) 포막 표면의 점진적인 증가들 유발하다 잠기 적인 칠성은 더 많은 미토론",
+        "(b) 휴식 중의 세포(원쪽와 활동 중인 세포오른쪽) 사이의 미세구조적 드리아들 생성하기도 한대 M)",
+        "치이점올 보여주는 벽세포의 혼성 모식도 휴식 중인 세포어는 많은 수의 (그림15-18a; Dr Susurnu Ito; Department of Cell Biology; Harvard",
+        "관소포형태(TV)의 구조물이 세포막 아래어 있을 수 있으내원쪽}; 세포는 Medical School Bostorl MA 제공)",
+        "미세움모가 거의 없으여 단지 미토곤드리이씨)와 골지소되(G) 사이의 짧"
+      ],
+      "supplemental_ocr_blocks": [
+        "IC",
+        "서모나 소관",
+        "MV",
+        "언",
+        "(실 ICe",
+        "M?",
+        "IC"
+      ],
+      "corrected_page_text": "그림 15-18 벽세포의 초미세구조\n속공간Lumen) MV\n그림 15-20 벽세포 으즘세포 위장자내문비세포의 미세구조\n(Intracellular canaliculus)\nMOm= 세 가지 주요 세도유형의 미세구조금 보여주는 위심의 수명절단면의 전자 포티는 분비성과림이 밀집되어 있으며 폐쇠형의 나분비세도이다; 다시\n현미경 사진 벽세포P논 풍부한 미토권드리야와 세포속분비모세관C) 말해; 위심의 숙공간과는 접촉면이 없으다 나분비 주변문비의 방식으로\n{D) 올 합유하고 있다; 으놈세되C 또한 관찰되는데; 과림세도질그로이 집중 분비한다; (X1200)\n'되어 있으D 속공간다 근처에 분비성 과림이 존자하다: 위창차나분비세\n(a) 속공간과 세포의 깊은부위 근처어서 세포내 세포속분비모세관으로 은 세모속분 비모세관디만올 가지고 있다 위신올 분비하는 자극이 있올\n튀어나온 많은 수의 미세움되(MV)가 보이는 활동 중인 벽세포의 전자현 때l오른쪽 원통형의 소포가 세포막과 움합하여 커다란 세포속분비모\n미경사진 세포질 속에느 맘은 수의 미토론드리이M)들 합유하고 있다; 세관C과 미세움모(MV)J 형성하다; 따라서 확산과 이온하프들 위한 세\n(X1O,20O) 포막 표면의 점진적인 증가들 유발하다 잠기 적인 칠성은 더 많은 미토론\n(b) 휴식 중의 세포(원쪽와 활동 중인 세포오른쪽) 사이의 미세구조적 드리아들 생성하기도 한대 M)\n치이점올 보여주는 벽세포의 혼성 모식도 휴식 중인 세포어는 많은 수의 (그림15-18a; Dr Susurnu Ito; Department of Cell Biology; Harvard\n관소포형태(TV)의 구조물이 세포막 아래어 있을 수 있으내원쪽}; 세포는 Medical School Bostorl MA 제공)\n미세움모가 거의 없으여 단지 미토곤드리이씨)와 골지소되(G) 사이의 짧",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 37,
+        "pdf_line_count": 0,
+        "ocr_line_count": 23,
+        "merged_line_count": 23,
+        "pdf_only_count": 0,
+        "ocr_only_count": 23,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 23,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 668,
+        "promoted_ocr_only_count": 16
+      }
+    }
+  }
+}

@@ -1,0 +1,1312 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 18,
+    "note_page_number": 18,
+    "source_page_number": 88,
+    "original_page_number": 88,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_001"
+      ],
+      "prompt": "_____는 간(liver)과 인접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간굽이(hepatic flexure)",
+        "accepted_answers": [
+          "간굽이(hepatic flexure)",
+          "hepatic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간굽이(hepatic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간굽이(hepatic flexure)는 간(liver)과 인접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_002"
+      ],
+      "prompt": "_____는 큰창자(large intestine)의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "잘록창자팽대(haustra)",
+        "accepted_answers": [
+          "잘록창자팽대(haustra)",
+          "haustra"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "잘록창자팽대(haustra)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 잘록창자팽대(haustra)는 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_002"
+      ],
+      "prompt": "잘록창자팽대(haustra)는 _____의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰창자(large intestine)",
+        "accepted_answers": [
+          "큰창자(large intestine)",
+          "large intestine",
+          "large bowel"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰창자(large intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 잘록창자팽대(haustra)는 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_003"
+      ],
+      "prompt": "_____은 큰창자(large intestine)의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막주렁(omental appendices)",
+        "accepted_answers": [
+          "복막주렁(omental appendices)",
+          "omental appendices",
+          "epiploic appendages"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막주렁(omental appendices)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막주렁(omental appendices)은 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_003"
+      ],
+      "prompt": "복막주렁(omental appendices)은 _____의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰창자(large intestine)",
+        "accepted_answers": [
+          "큰창자(large intestine)",
+          "large intestine",
+          "large bowel"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰창자(large intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막주렁(omental appendices)은 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_004"
+      ],
+      "prompt": "_____는 오른쪽옆구리(right flank)를 따라 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)는 오른쪽옆구리(right flank)를 따라 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_004"
+      ],
+      "prompt": "오름잘록창자(ascending colon)는 _____를 따라 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른쪽옆구리(right flank)",
+        "accepted_answers": [
+          "오른쪽옆구리(right flank)",
+          "right flank"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른쪽옆구리(right flank)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)는 오른쪽옆구리(right flank)를 따라 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_009"
+      ],
+      "prompt": "_____의 다른 이름은 왼잘록창자굽이(left colic flexure)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라굽이(splenic flexure)",
+        "accepted_answers": [
+          "지라굽이(splenic flexure)",
+          "splenic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라굽이(splenic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라굽이(splenic flexure)의 다른 이름은 왼잘록창자굽이(left colic flexure)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_010"
+      ],
+      "prompt": "_____는 간굽이(hepatic flexure)보다 더 예각으로 꺾인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라굽이(splenic flexure)",
+        "accepted_answers": [
+          "지라굽이(splenic flexure)",
+          "splenic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라굽이(splenic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라굽이(splenic flexure)는 간굽이(hepatic flexure)보다 더 예각으로 꺾인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_011"
+      ],
+      "prompt": "_____는 지라(spleen)와 인접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라굽이(splenic flexure)",
+        "accepted_answers": [
+          "지라굽이(splenic flexure)",
+          "splenic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라굽이(splenic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라굽이(splenic flexure)는 지라(spleen)와 인접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_011"
+      ],
+      "prompt": "지라굽이(splenic flexure)는 _____와 인접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라굽이(splenic flexure)는 지라(spleen)와 인접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_012"
+      ],
+      "prompt": "_____는 큰창자(large intestine)의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "잘록창자띠(teniae coli)",
+        "accepted_answers": [
+          "잘록창자띠(teniae coli)",
+          "teniae coli",
+          "tenia coli"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "잘록창자띠(teniae coli)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 잘록창자띠(teniae coli)는 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_012"
+      ],
+      "prompt": "잘록창자띠(teniae coli)는 _____의 특징 구조이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰창자(large intestine)",
+        "accepted_answers": [
+          "큰창자(large intestine)",
+          "large intestine",
+          "large bowel"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰창자(large intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 잘록창자띠(teniae coli)는 큰창자(large intestine)의 특징 구조이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_016"
+      ],
+      "prompt": "_____는 위쪽에서 간굽이(hepatic flexure) 또는 오른잘록창자굽이(right colic flexure)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)는 위쪽에서 간굽이(hepatic flexure) 또는 오른잘록창자굽이(right colic flexure)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_016_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_016"
+      ],
+      "prompt": "오름잘록창자(ascending colon)는 위쪽에서 간굽이(hepatic flexure) 또는 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른잘록창자굽이(right colic flexure)",
+        "accepted_answers": [
+          "오른잘록창자굽이(right colic flexure)",
+          "right colic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른잘록창자굽이(right colic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오름잘록창자(ascending colon)는 위쪽에서 간굽이(hepatic flexure) 또는 오른잘록창자굽이(right colic flexure)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_038_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_038"
+      ],
+      "prompt": "_____는 큰창자(large intestine)에서 가장 큰 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 큰창자(large intestine)에서 가장 큰 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_038_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_038"
+      ],
+      "prompt": "가로잘록창자(transverse colon)는 _____에서 가장 큰 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰창자(large intestine)",
+        "accepted_answers": [
+          "큰창자(large intestine)",
+          "large intestine",
+          "large bowel"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰창자(large intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 큰창자(large intestine)에서 가장 큰 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_course_045_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_045"
+      ],
+      "prompt": "_____의 지름은 작은창자(small intestine)보다 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰창자(large intestine)",
+        "accepted_answers": [
+          "큰창자(large intestine)",
+          "large intestine",
+          "large bowel"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰창자(large intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 큰창자(large intestine)의 지름은 작은창자(small intestine)보다 크다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "_____는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 뒤배부분(posterior abdominal part)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 뒤배벽에 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "가로잘록창자(transverse colon)는 유동성이 있고 _____으로 뒤배부분(posterior abdominal part)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자간막(transverse mesocolon)",
+        "accepted_answers": [
+          "가로잘록창자간막(transverse mesocolon)",
+          "transverse mesocolon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자간막(transverse mesocolon)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 뒤배벽에 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_필기본_018_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "가로잘록창자(transverse colon)는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 _____에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배부분(posterior abdominal part)",
+        "accepted_answers": [
+          "뒤배부분(posterior abdominal part)",
+          "posterior abdominal part",
+          "posterior abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배부분(posterior abdominal part)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 뒤배벽에 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_001"
+      ],
+      "prompt": "_____는 오른잘록창자굽이(right colic (hepatic) flexure)에서 시작해 왼쪽으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자(transverse colon)",
+        "accepted_answers": [
+          "가로잘록창자(transverse colon)",
+          "transverse colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자(transverse colon)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로잘록창자(transverse colon)는 오른잘록창자굽이(right colic (hepatic) flexure)에서 시작해 왼쪽으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_002"
+      ],
+      "prompt": "_____는 왼쪽 배벽(abdominal wall)을 따라 아래로 내려간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내림잘록창자(descending colon)",
+        "accepted_answers": [
+          "내림잘록창자(descending colon)",
+          "descending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내림잘록창자(descending colon)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 내림잘록창자(descending colon)는 왼쪽 배벽을 따라 아래로 내려간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_002"
+      ],
+      "prompt": "내림잘록창자(descending colon)는 왼쪽 _____을 따라 아래로 내려간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배벽(abdominal wall)",
+        "accepted_answers": [
+          "배벽(abdominal wall)",
+          "abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배벽(abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 내림잘록창자(descending colon)는 왼쪽 배벽을 따라 아래로 내려간다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_003"
+      ],
+      "prompt": "_____와 막창자꼬리(vermiform appendix)는 오른아래사분구역(right lower quadrant)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_003"
+      ],
+      "prompt": "막창자(cecum)와 _____는 오른아래사분구역(right lower quadrant)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(vermiform appendix)",
+        "accepted_answers": [
+          "막창자꼬리(vermiform appendix)",
+          "vermiform appendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(vermiform appendix)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p018_course_배_강의원본_088_ai_corrected_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_088_ai_corrected_003"
+      ],
+      "prompt": "막창자(cecum)와 막창자꼬리(vermiform appendix)는 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른아래사분구역(right lower quadrant)",
+        "accepted_answers": [
+          "오른아래사분구역(right lower quadrant)",
+          "right lower quadrant",
+          "RLQ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른아래사분구역(right lower quadrant)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 27,
+    "question_type_count": {
+      "fill_blank": 27
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 18,
+      "course_exam_style": 9
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__4dc434a3e59d.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__5edeab61f8f7.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__f4158e5297cf.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__a7b5eae69295.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__502c297bb727.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__3451ed70af73.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__90f87a5ee280.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__1575caa2932f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__af8cf76e3174.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__7ffb96a1af24.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__ec5f5d70c5af.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__b2fa3565ffa1.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__1d1d8cea5cd8.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__d3d14b1f527b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__3acaeed6337b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__d195ca83326d.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__f29baac7e42d.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__0bb2b9abc052.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__ee6f5492aea9.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__44db7b2c1695.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__7b969a75e30e.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__2e94c7100c4b.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__3b60d8389744.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a757750919ce.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__f11240973ddf.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e76fcb3aa838.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__90ad0554ff58.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__6ad75ef23808.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__7e5f0d9d201a.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__6ab655ae4965.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__89721a7d934d.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__fb461517236c.json"
+      }
+    ],
+    "current_index": 17,
+    "previous_page": 17,
+    "next_page": 19
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 18
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "간굽이(hepatic flexure)는 간(liver)과 인접한다.",
+        "잘록창자팽대(haustra)는 큰창자(large intestine)의 특징 구조이다.",
+        "복막주렁(omental appendices)은 큰창자(large intestine)의 특징 구조이다.",
+        "오름잘록창자(ascending colon)는 오른쪽옆구리(right flank)를 따라 위치한다.",
+        "가로잘록창자(transverse colon)는 유동성이 있다.",
+        "가로잘록창자(transverse colon)는 가로잘록창자간막(transverse mesocolon)으로 뒤배벽에 연결된다.",
+        "가로잘록창자간막(transverse mesocolon)은 가로잘록창자(transverse colon)와 연결된다.",
+        "지라굽이(splenic flexure)의 다른 이름은 왼잘록창자굽이(left colic flexure)이다.",
+        "지라굽이(splenic flexure)는 간굽이(hepatic flexure)보다 더 예각으로 꺾인다.",
+        "지라굽이(splenic flexure)는 지라(spleen)와 인접한다.",
+        "잘록창자띠(teniae coli)는 큰창자(large intestine)의 특징 구조이다.",
+        "오름잘록창자(ascending colon)는 위쪽에서 간굽이(hepatic flexure) 또는 오른잘록창자굽이(right colic flexure)로 이어진다.",
+        "간(liver)은 인체에서 가장 큰 분비샘이다.",
+        "가로잘록창자(transverse colon)는 큰창자(large intestine)에서 가장 큰 부분이다.",
+        "큰창자(large intestine)의 지름은 작은창자(small intestine)보다 크다.",
+        "가로잘록창자(transverse colon)는 유동성이 있고 가로잘록창자간막(transverse mesocolon)으로 뒤배벽에 연결된다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "위의 영어 이름은 stomach이다.",
+        "간굽이의 영어 이름은 hepatic flexure이다.",
+        "간의 영어 이름은 liver이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "잘록창자팽대의 영어 이름은 haustra이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "복막주렁의 영어 이름은 omental appendices이다.",
+        "오른쪽옆구리의 영어 이름은 right flank이다.",
+        "오른잘록창자굽이의 영어 이름은 right colic flexure이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다.",
+        "가로잘록창자간막의 영어 이름은 transverse mesocolon이다.",
+        "왼잘록창자굽이의 영어 이름은 left colic flexure이다.",
+        "지라굽이의 영어 이름은 splenic flexure이다.",
+        "잘록창자띠의 영어 이름은 teniae coli이다.",
+        "가로잘록창자(transverse colon)는 오른잘록창자굽이(right colic (hepatic) flexure)에서 시작해 왼쪽으로 이어진다.",
+        "내림잘록창자(descending colon)는 왼쪽 배벽을 따라 아래로 내려간다.",
+        "막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다.",
+        "큰그물막의 영어 이름은 greater omentum이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "심장의 영어 이름은 heart이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "오른아래사분구역의 영어 이름은 right lower quadrant이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 9,
+          "text": "- transverse mesolcolon 으로연결됨",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 2,
+          "text": "colon transverse COlon(가로잘록창자)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "liver",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "(spleen) 훨씬예각으로꺾임과인접함",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "large intestine vs small intestine",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "가로잘록창자(transverse colon)는 큰창자(large intestine)에서 가장 큰 부분이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "큰창자(large intestine)는 작은창자(small intestine)보다 지름이 크다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "큰창자 페이지 위에 오름잘록창자, 가로잘록창자, 굽이, 장간막과 큰창자 표면 특징에 대한 필기가 추가된 note 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 1,
+          "text": "Large intestine",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "transverse colon",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "그림 6-44. 창자와 작은창자의 차이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "큰그물막(greater omentum)은 위로 젖혀져 있어서 큰창자(large intestine)를 드러낸 상태이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "오른잘록창자굽이(right colic (hepatic) flexure)는 간굽이(hepatic flexure)라고도 한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "가로잘록창자(transverse colon)는 오른잘록창자굽이(right colic (hepatic) flexure)에서 시작해 왼쪽으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "위샘창자오목(superior duodenal fossa), 샘창자옆오목(paraduodenal recess), 아래샘창자오목(inferior duodenal fossa)은 샘창자 주변 복막 함요이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "내림잘록창자(descending colon)는 왼쪽 배벽을 따라 아래로 내려간다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "구불잘록창자(sigmoid colon)는 내림잘록창자(descending colon) 다음의 S자 모양 큰창자 구간이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "큰그물막(greater omentum)은 위로 젖혀져 있어서 큰창자(large intestine)를 드러낸 상태이다. 오른잘록창자굽이(right colic (hepatic) flexure)는 간굽이(hepatic flexure)라고도 한다. 가로잘록창자(transverse colon)는 오른잘록창자굽이(right colic (hepatic) flexure)에서 시작해 왼쪽으로 이어진다. 위샘창자오목(superior duodenal fossa), 샘창자옆오목(paraduodenal recess), 아래샘창자오목(inferior duodenal fossa)은 샘창자 주변 복막 함요이다. 내림잘록창자(descending colon)는 왼쪽 배벽을 따라 아래로 내려간다. 구불잘록창자(sigmoid colon)는 내림잘록창자(descending colon) 다음의 S자 모양 큰창자 구간이다. 막창자(cecum)와 막창자꼬리(vermiform appendix)는 오른아래배(right lower quadrant)에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "큰창자의 각 구간과 샘창자 주변 오목, 그리고 큰창자 표면 특징을 보여 주는 강의원본 그림 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "가로잘록창자(transverse colon) 이어진다 오른잘록창자굽이(right colic (hepatic) flexure)에서 왼쪽 방향",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "위샘창자오목(superior duodenal fossa), 샘창자옆오목(paraduodenal recess), 아래샘창자오목(inferior duodenal fossa) 속한다 샘창자 주변 복막 함요",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "내림잘록창자(descending colon) 내려간다 왼쪽 배벽",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "막창자(cecum), 막창자꼬리(vermiform appendix) 위치한다 오른아래배(right lower quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 35,
+        "accounted_term_count": 31,
+        "unresolved_term_count": 4,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.886,
+        "accounted_terms": [
+          "잘록창자(colon transverse COlon)",
+          "오름잘록창자(ascending colon)",
+          "오른쪽옆구리(right flank)",
+          "간굽이(hepatic flexure)",
+          "오른잘록창자굽이(right colic flexure)",
+          "간(liver)",
+          "가로잘록창자(transverse colon)",
+          "큰창자(large intestine)",
+          "지라굽이(splenic flexure)",
+          "왼잘록창자굽이(left colic flexure)",
+          "지라(spleen)",
+          "작은창자(small intestine)",
+          "잘록창자띠(teniae coli)",
+          "잘록창자팽대(haustra)",
+          "복막주렁(omental appendices)",
+          "위(stomach)",
+          "창자간막(mesentery)",
+          "복막(peritoneum)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "뒤배부분(posterior abdominal part)",
+          "뒤배벽(posterior abdominal wall)",
+          "가로잘록창자간막(transverse mesocolon)",
+          "큰그물막(greater omentum)",
+          "내림잘록창자(descending colon)",
+          "막창자(cecum)",
+          "막창자꼬리(vermiform appendix)",
+          "오른아래사분구역(right lower quadrant)",
+          "목(cervical region)",
+          "심장(heart)",
+          "샘창자(duodenum)"
+        ],
+        "unresolved_terms": [
+          "위샘창자오목(superior duodenal fossa)",
+          "샘창자옆오목(paraduodenal recess)",
+          "아래샘창자오목(inferior duodenal fossa)",
+          "구불잘록창자(sigmoid colon)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Large intestine",
+        "근그물막(위로 젖혀짐)",
+        "greater omentum",
+        "transverse colon",
+        "올곧장록창지국o강줌ore",
+        "right colic '위심장자오목",
+        "잘록창자다 superior duodenal fossa",
+        "teniae coli",
+        "paraduodenal recess",
+        "inferior duodenal fold 아래심창자오목",
+        "inferior duodenal fossa",
+        "descending colon",
+        "sigmoid colon",
+        "vermiform appendix",
+        "그림 6-44. 창자와 작은창자의 차이",
+        "작은창자는 매곤한 데 반해 근창자 표면에서는 잘록창자다. 잘록창자평대 . 복막주렁올 확인할 수 있다."
+      ],
+      "supplemental_ocr_blocks": [
+        "가로잘록창자",
+        "셈장자옆오목",
+        "아래심장자주름",
+        "내림잘록창자",
+        "구물잘록창자",
+        "막창자 cecum",
+        "막창자꼬리"
+      ],
+      "corrected_page_text": "Large intestine\n근그물막(위로 젖혀짐)\ngreater omentum\ntransverse colon\n올곧장록창지국o강줌ore\nright colic '위심장자오목\n잘록창자다 superior duodenal fossa\nteniae coli\nparaduodenal recess\ninferior duodenal fold 아래심창자오목\ninferior duodenal fossa\ndescending colon\nsigmoid colon\nvermiform appendix\n그림 6-44. 창자와 작은창자의 차이\n작은창자는 매곤한 데 반해 근창자 표면에서는 잘록창자다. 잘록창자평대 . 복막주렁올 확인할 수 있다.",
+      "quality_audit": {
+        "pdf_char_count": 14,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 26,
+        "pdf_line_count": 1,
+        "ocr_line_count": 23,
+        "merged_line_count": 23,
+        "pdf_only_count": 0,
+        "ocr_only_count": 22,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 22,
+        "pdf_alpha_count": 14,
+        "ocr_alpha_count": 310,
+        "promoted_ocr_only_count": 15
+      }
+    }
+  }
+}

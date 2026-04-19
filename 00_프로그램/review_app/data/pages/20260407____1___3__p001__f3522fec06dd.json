@@ -1,0 +1,1227 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 1,
+    "note_page_number": 1,
+    "source_page_number": 45,
+    "original_page_number": 45,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "_____은 복강내기관(intraperitoneal organs)의 표면을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 장쪽복막(visceral peritoneum)은 복강내기관(intraperitoneal organs)의 표면을 덮는다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "장쪽복막(visceral peritoneum)은 _____의 표면을 덮는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organs)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organs)",
+          "intraperitoneal organs",
+          "intraperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 장쪽복막(visceral peritoneum)은 복강내기관(intraperitoneal organs)의 표면을 덮는다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "_____는 복강내기관(intraperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_004"
+      ],
+      "prompt": "지라(spleen)는 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organs)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organs)",
+          "intraperitoneal organs",
+          "intraperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "위(stomach)는 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organs)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organs)",
+          "intraperitoneal organs",
+          "intraperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 위(stomach)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_005"
+      ],
+      "prompt": "_____는 복강내기관(intraperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 위(stomach)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_007"
+      ],
+      "prompt": "_____은 복강외기관(extraperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "콩팥(kidney)",
+        "accepted_answers": [
+          "콩팥(kidney)",
+          "kidney"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "콩팥(kidney)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 콩팥(kidney)은 복강외기관(extraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_007"
+      ],
+      "prompt": "콩팥(kidney)은 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강외기관(extraperitoneal organs)",
+        "accepted_answers": [
+          "복강외기관(extraperitoneal organs)",
+          "extraperitoneal organs",
+          "extraperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강외기관(extraperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 콩팥(kidney)은 복강외기관(extraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "_____은 뒤복막기관(retroperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "콩팥(kidney)",
+        "accepted_answers": [
+          "콩팥(kidney)",
+          "kidney"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "콩팥(kidney)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 콩팥(kidney)은 뒤복막기관(retroperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_008"
+      ],
+      "prompt": "콩팥(kidney)은 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organs)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organs)",
+          "retroperitoneal organ",
+          "retroperitoneal organs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 콩팥(kidney)은 뒤복막기관(retroperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "복막(peritoneum)은 _____과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)",
+          "parietal peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_필기본_001_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분되고 두 부분은 서로 연속된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_강의원본_045_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_045_ai_corrected_001"
+      ],
+      "prompt": "_____은 복강내기관(intraperitoneal organs)을 뒤배부분(posterior abdominal part)에 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 창자간막(mesentery)은 복강내기관(intraperitoneal organ)을 뒤배벽에 연결한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_강의원본_045_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_045_ai_corrected_001"
+      ],
+      "prompt": "창자간막(mesentery)은 _____을 뒤배부분(posterior abdominal part)에 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organs)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organs)",
+          "intraperitoneal organs",
+          "intraperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organs)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 창자간막(mesentery)은 복강내기관(intraperitoneal organ)을 뒤배벽에 연결한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_course_배_강의원본_045_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_045_ai_corrected_001"
+      ],
+      "prompt": "창자간막(mesentery)은 복강내기관(intraperitoneal organs)을 _____에 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배부분(posterior abdominal part)",
+        "accepted_answers": [
+          "뒤배부분(posterior abdominal part)",
+          "posterior abdominal part",
+          "posterior abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배부분(posterior abdominal part)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 창자간막(mesentery)은 복강내기관(intraperitoneal organ)을 뒤배벽에 연결한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "복막(peritoneum)은(는) _____로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 복막(peritoneum) / predicate: is_divided_into / object: 벽쪽복막(parietal peritoneum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_001_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "복막(peritoneum)은(는) _____로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 복막(peritoneum) / predicate: is_divided_into / object: 장쪽복막(visceral peritoneum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "복강내기관(intraperitoneal organs)을 덮는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 복강내기관(intraperitoneal organs) / predicate: is_covered_by / object: 장쪽복막(visceral peritoneum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "콩팥(kidney)이 속하는 분류는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강외기관(extraperitoneal organ)",
+        "accepted_answers": [
+          "복강외기관(extraperitoneal organ)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강외기관(extraperitoneal organ)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 콩팥(kidney) / predicate: is_classified_as / object: 복강외기관(extraperitoneal organ)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_003_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "콩팥(kidney)이 속하는 분류는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organ)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organ)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organ)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 콩팥(kidney) / predicate: is_classified_as / object: 뒤복막기관(retroperitoneal organ)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_003_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "콩팥(kidney)이 속하는 분류는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강외기관(extraperitoneal organs)",
+        "accepted_answers": [
+          "복강외기관(extraperitoneal organs)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강외기관(extraperitoneal organs)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 콩팥(kidney) / predicate: is_classified_as / object: 복강외기관(extraperitoneal organs)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_003_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "콩팥(kidney)이 속하는 분류는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organs)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organs)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organs)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p001_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 콩팥(kidney) / predicate: is_classified_as / object: 뒤복막기관(retroperitoneal organs)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "장쪽복막(visceral peritoneum)이 덮는 표면의 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내장기관(viscus)",
+        "accepted_answers": [
+          "내장기관(viscus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내장기관(viscus)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 장쪽복막(visceral peritoneum) / predicate: covers_surface_of / object: 내장기관(viscus)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "벽쪽복막(parietal peritoneum)이 안쪽을 덮는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반벽(abdominopelvic wall)",
+        "accepted_answers": [
+          "골반벽(abdominopelvic wall)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반벽(abdominopelvic wall)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 벽쪽복막(parietal peritoneum) / predicate: lines_inside_of / object: 골반벽(abdominopelvic wall)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_006_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "벽쪽복막(parietal peritoneum)이 안쪽을 덮는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배벽(abdominal wall)",
+        "accepted_answers": [
+          "배벽(abdominal wall)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배벽(abdominal wall)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 벽쪽복막(parietal peritoneum) / predicate: lines_inside_of / object: 배벽(abdominal wall)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "창자간막(mesentery)과 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organ)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organ)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organ)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 창자간막(mesentery) / predicate: connects / object: 복강내기관(intraperitoneal organ)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p001_visual_visual_relation_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "창자간막(mesentery)과 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배벽(posterior abdominal wall)",
+        "accepted_answers": [
+          "뒤배벽(posterior abdominal wall)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배벽(posterior abdominal wall)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p045_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 창자간막(mesentery) / predicate: connects / object: 뒤배벽(posterior abdominal wall)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 28,
+    "question_type_count": {
+      "fill_blank": 16,
+      "image_grounded_fill_blank": 12
+    },
+    "question_focus_count": {
+      "course_exam_style": 8,
+      "course_exam_style_provisional": 8,
+      "visual_relation_understanding": 12
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 0,
+    "next_page": 2
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 1
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+        "장쪽복막(visceral peritoneum)은 복강내기관(intraperitoneal organs)의 표면을 덮는다.",
+        "지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다.",
+        "위(stomach)는 복강내기관(intraperitoneal organs)에 속한다.",
+        "콩팥(kidney)은 복강외기관(extraperitoneal organs)에 속한다.",
+        "콩팥(kidney)은 뒤복막기관(retroperitoneal organs)에 속한다.",
+        "벽쪽복막(parietal peritoneum)은 배골반벽의 안쪽을 덮는다.",
+        "창자간막(mesentery)은 장기를 뒤배벽에 연결한다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분되고 두 부분은 서로 연속된다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "복강외기관의 영어 이름은 extraperitoneal organs이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "간의 영어 이름은 liver이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "위의 영어 이름은 stomach이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "장쪽 가슴막의 영어 이름은 visceral pleura이다.",
+        "장쪽복막의 영어 이름은 visceral peritoneum이다.",
+        "벽쪽 가슴막의 영어 이름은 parietal pleura이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "복강내기관의 영어 이름은 intraperitoneal organs이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다.",
+        "뒤복막기관의 영어 이름은 retroperitoneal organs이다.",
+        "배속내장의 영어 이름은 abdominal viscera이다.",
+        "창자간막(mesentery)은 복강내기관(intraperitoneal organ)을 뒤배벽에 연결한다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "2 extraperitoneal organ 구분되고 두 부분은 서로 연속되어있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "전체 표면이 visceral peritoneurn으로 되어있음 Peritoneum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "예시) kidney - 뒷배벽에서 앞면만 복막으로 감싸저 있음 |",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "'복막이 복부 전체름 덮고 있기 때문에 감염이 전 범위로 일어날 수 있음.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "배 골반 벽의 속울 덮고 있음.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "Peritoneum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "벽쪽록막(parietal peritoneum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "복강외기관(extraperitoneal organs)은 일부만 복막으로 덮여 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "복막염(peritonitis)은 복막의 염증이며 복막이 복부 전체를 덮기 때문에 감염이 전반으로 퍼질 수 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "복막염(peritonitis) is_inflammation_of 복막(peritoneum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "창자간막(mesentery)은 복강내기관(intraperitoneal organ)을 뒤배벽에 연결한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "장쪽복막(visceral peritoneum)은 내장기관의 표면을 덮는다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "벽쪽복막(parietal peritoneum)은 배벽과 골반벽의 안쪽을 덮는다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 24,
+        "accounted_term_count": 22,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.917,
+        "accounted_terms": [
+          "창자간막(mesentery)",
+          "벽쪽복막(parietal peritoneum)",
+          "복막(peritoneum)",
+          "장쪽복막(visceral peritoneum)",
+          "복강내기관(intraperitoneal organs)",
+          "지라(spleen)",
+          "위(stomach)",
+          "복강외기관(extraperitoneal organs)",
+          "콩팥(kidney)",
+          "뒤복막기관(retroperitoneal organs)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "신경(nerves)",
+          "기관(trachea)",
+          "간(liver)",
+          "골반(pelvis)",
+          "장쪽 가슴막(visceral pleura)",
+          "벽쪽 가슴막(parietal pleura)",
+          "배안(abdominal cavity)",
+          "뒤배부분(posterior abdominal part)",
+          "뒤배벽(posterior abdominal wall)",
+          "배속내장(abdominal viscera)"
+        ],
+        "unresolved_terms": [
+          "복막염(peritonitis)",
+          "내장기관(viscus)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Peritoneum",
+        "내장쪽록막(visceral",
+        "창자간막(mesentery)",
+        "벽쪽록막(parietal peritoneum)",
+        "내장쪽복막(visceral",
+        "벽쪽록막(parietal peritoneum)"
+      ],
+      "supplemental_ocr_blocks": [
+        "peritoneum)",
+        "A",
+        "peritoneum)",
+        "B"
+      ],
+      "corrected_page_text": "Peritoneum\n내장쪽록막(visceral\n창자간막(mesentery)\n벽쪽록막(parietal peritoneum)\n내장쪽복막(visceral\n벽쪽록막(parietal peritoneum)",
+      "quality_audit": {
+        "pdf_char_count": 10,
+        "pdf_span_count": 1,
+        "pdf_word_count": 1,
+        "ocr_fragment_count": 10,
+        "pdf_line_count": 1,
+        "ocr_line_count": 10,
+        "merged_line_count": 10,
+        "pdf_only_count": 0,
+        "ocr_only_count": 9,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 9,
+        "pdf_alpha_count": 10,
+        "ocr_alpha_count": 105,
+        "promoted_ocr_only_count": 5
+      }
+    }
+  }
+}

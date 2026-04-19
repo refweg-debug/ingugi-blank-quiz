@@ -1,0 +1,641 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 15,
+    "note_page_number": 15,
+    "source_page_number": 117,
+    "original_page_number": 117,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_001"
+      ],
+      "prompt": "_____은 위(stomach)의 작은굽이와 샘창자(duodenum) 입구를 간(liver)에 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 위(stomach)의 작은굽이와 샘창자(duodenum) 입구를 간(liver)에 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_002"
+      ],
+      "prompt": "_____은 간(liver)과 위(stomach)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 간(liver)과 위(stomach)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_003"
+      ],
+      "prompt": "_____은 간(liver)과 샘창자(duodenum)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 간(liver)과 샘창자(duodenum)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_004"
+      ],
+      "prompt": "_____은 그물막구멍(omental foramen)의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_004"
+      ],
+      "prompt": "작은그물막(lesser omentum)은 _____의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막구멍(omental foramen)",
+        "accepted_answers": [
+          "그물막구멍(omental foramen)",
+          "omental foramen",
+          "epiploic foramen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막구멍(omental foramen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_005"
+      ],
+      "prompt": "_____는 위(stomach)의 작은굽이와 간(liver)을 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간위인대(hepatogastric ligament)",
+        "accepted_answers": [
+          "간위인대(hepatogastric ligament)",
+          "hepatogastric ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간위인대(hepatogastric ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간위인대(hepatogastric ligament)는 위(stomach)의 작은굽이와 간(liver)을 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_006"
+      ],
+      "prompt": "간십이지장인대(hepatoduodenal ligament)에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portal triad",
+          "hepatic triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간십이지장인대(hepatoduodenal ligament)에는 간문맥삼합(portal triad)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_007"
+      ],
+      "prompt": "_____은 간십이지장인대(hepatoduodenal ligament) 안을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portal triad",
+          "hepatic triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥삼합(portal triad)은 간십이지장인대(hepatoduodenal ligament) 안을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p015_course_배_필기본_015_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_course_007"
+      ],
+      "prompt": "간문맥삼합(portal triad)은 _____ 안을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간십이지장인대(hepatoduodenal ligament)",
+        "accepted_answers": [
+          "간십이지장인대(hepatoduodenal ligament)",
+          "hepatoduodenal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간십이지장인대(hepatoduodenal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문맥삼합(portal triad)은 간십이지장인대(hepatoduodenal ligament) 안을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 9,
+    "question_type_count": {
+      "fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__9126be99b5b1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__17daf6e80ed8.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__279c43c8043d.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__bc46d0e27838.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__abb326ded3ee.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__ecb927d12b2e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__053502c97f13.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__592581899e50.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__6b12d5412bf0.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__dce1b2398712.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__a424516c1787.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__11ddd62e5972.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__24c9abb08bb5.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__1ca43cc90e74.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__d3b19755bba7.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__c881c891008e.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__a9bc16787078.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__1198bdb3ca05.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__9d0083005507.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__a032fc1af389.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__28d9af8140d2.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__5ad5f96806a1.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__da8ef99375e3.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__3c2c47ba65a0.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__0225160fd950.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__a6e053f6ab17.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__fd92449dc9f1.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__82cdcef25e9b.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__f615453699ac.json"
+      }
+    ],
+    "current_index": 14,
+    "previous_page": 14,
+    "next_page": 16
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 15
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "작은그물막(lesser omentum)은 위(stomach)의 작은굽이와 샘창자(duodenum) 입구를 간(liver)에 연결한다.",
+        "작은그물막(lesser omentum)은 간(liver)과 위(stomach)를 연결한다.",
+        "작은그물막(lesser omentum)은 간(liver)과 샘창자(duodenum)을 연결한다.",
+        "작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다.",
+        "간위인대(hepatogastric ligament)는 위(stomach)의 작은굽이와 간(liver)을 연결한다.",
+        "간십이지장인대(hepatoduodenal ligament)에는 간문맥삼합(portal triad)이 들어 있다.",
+        "간문맥삼합(portal triad)은 간십이지장인대(hepatoduodenal ligament) 안을 지난다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "작은그물막의 영어 이름은 lesser omentum이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "간의 영어 이름은 liver이다.",
+        "위의 영어 이름은 stomach이다.",
+        "그물막구멍의 영어 이름은 omental foramen이다.",
+        "간위인대의 영어 이름은 hepatogastric ligament이다.",
+        "간십이지장인대의 영어 이름은 hepatoduodenal ligament이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": ": stomach lesser curvature duodenum liver 와의입구를에연결해주는것",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "- stomach lesser curvature - liver lig. 의연결해주는",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "- duodenum - liver lig. 입구연결해주는",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "Lesser omentum and portal triad",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "hepatoduodenal ligament connects the liver to the proximal duodenum",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 10,
+        "accounted_term_count": 10,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간문맥삼합(portal triad)",
+          "작은그물막(lesser omentum)",
+          "샘창자(duodenum)",
+          "간(liver)",
+          "위(stomach)",
+          "그물막구멍(omental foramen)",
+          "간위인대(hepatogastric ligament)",
+          "간십이지장인대(hepatoduodenal ligament)",
+          "문맥(portal vein)",
+          "간문(porta hepatis)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Lesser omentum and portal triad",
+        "cystic a 식도",
+        "쓸개주머니관 위 stomach",
+        "온간관 원간동맥 left hepatic a",
+        "common hepatic duct",
+        "올류P동tica hepatogastric lig. 작은그물막",
+        "고유간동맥 lesser omentum",
+        "proper hepatic a. 간심창자인대",
+        "간세동이 온쓸개관 hepatoduodenal lig.",
+        "hepatic triad common bile duct",
+        "hepatic portal V.",
+        "그림 6-65. 작은그불막과 간세동이",
+        "작은그물막 중에서 간심창자인대의 앞충올 제거하여 그 안에 있는 간세동이름 노출하없다."
+      ],
+      "supplemental_ocr_blocks": [
+        "쓸개",
+        "gallbladder",
+        "쓸개동백",
+        "esophagus",
+        "간위인대",
+        "간문맥",
+        "셈장자",
+        "duodenum"
+      ],
+      "corrected_page_text": "Lesser omentum and portal triad\ncystic a 식도\n쓸개주머니관 위 stomach\n온간관 원간동맥 left hepatic a\ncommon hepatic duct\n올류P동tica hepatogastric lig. 작은그물막\n고유간동맥 lesser omentum\nproper hepatic a. 간심창자인대\n간세동이 온쓸개관 hepatoduodenal lig.\nhepatic triad common bile duct\nhepatic portal V.\n그림 6-65. 작은그불막과 간세동이\n작은그물막 중에서 간심창자인대의 앞충올 제거하여 그 안에 있는 간세동이름 노출하없다.",
+      "quality_audit": {
+        "pdf_char_count": 27,
+        "pdf_span_count": 1,
+        "pdf_word_count": 5,
+        "ocr_fragment_count": 31,
+        "pdf_line_count": 1,
+        "ocr_line_count": 21,
+        "merged_line_count": 21,
+        "pdf_only_count": 0,
+        "ocr_only_count": 20,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 20,
+        "pdf_alpha_count": 27,
+        "ocr_alpha_count": 284,
+        "promoted_ocr_only_count": 12
+      }
+    }
+  }
+}

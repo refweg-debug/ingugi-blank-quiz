@@ -1,0 +1,549 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 13,
+    "note_page_number": 13,
+    "source_page_number": 83,
+    "original_page_number": 83,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_001"
+      ],
+      "prompt": "_____는 창자샘(intestinal glands)의 바닥부분에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "파네트세포(Paneth cells)",
+        "accepted_answers": [
+          "파네트세포(Paneth cells)",
+          "Paneth cells",
+          "Paneth cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "파네트세포(Paneth cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 파네트세포(Paneth cells)는 창자샘(intestinal glands)의 바닥부분에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_001"
+      ],
+      "prompt": "파네트세포(Paneth cells)는 _____의 바닥부분에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자샘(intestinal glands)",
+        "accepted_answers": [
+          "창자샘(intestinal glands)",
+          "intestinal glands",
+          "intestinal gland",
+          "crypts of Lieberkuhn"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자샘(intestinal glands)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 파네트세포(Paneth cells)는 창자샘(intestinal glands)의 바닥부분에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_002"
+      ],
+      "prompt": "_____는 술잔세포(goblet cell), 흡수세포(enterocyte), 내분비세포(endocrine cells)로 분화할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "재생세포(regenerative cells)",
+        "accepted_answers": [
+          "재생세포(regenerative cells)",
+          "regenerative cells",
+          "regenerative cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "재생세포(regenerative cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 재생세포(regenerative cells)는 술잔세포(goblet cell), 흡수세포(enterocyte), 내분비세포(endocrine cells)로 분화할 수 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_002"
+      ],
+      "prompt": "재생세포(regenerative cells)는 술잔세포(goblet cell), 흡수세포(enterocyte), _____로 분화할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내분비세포(endocrine cells)",
+        "accepted_answers": [
+          "내분비세포(endocrine cells)",
+          "endocrine cells",
+          "endocrine cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내분비세포(endocrine cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 재생세포(regenerative cells)는 술잔세포(goblet cell), 흡수세포(enterocyte), 내분비세포(endocrine cells)로 분화할 수 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_004"
+      ],
+      "prompt": "_____는 라이소자임(lysozyme)을 가지고 선천면역에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "파네트세포(Paneth cells)",
+        "accepted_answers": [
+          "파네트세포(Paneth cells)",
+          "Paneth cells",
+          "Paneth cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "파네트세포(Paneth cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 파네트세포(Paneth cells)는 라이소자임(lysozyme)을 가지고 선천면역에 관여한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p013_course_배_필기본_013_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_004"
+      ],
+      "prompt": "파네트세포(Paneth cells)는 _____을 가지고 선천면역에 관여한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "라이소자임(lysozyme)",
+        "accepted_answers": [
+          "라이소자임(lysozyme)",
+          "lysozyme"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "라이소자임(lysozyme)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 파네트세포(Paneth cells)는 라이소자임(lysozyme)을 가지고 선천면역에 관여한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 6,
+    "question_type_count": {
+      "fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 6
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__4dc434a3e59d.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__5edeab61f8f7.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__f4158e5297cf.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__a7b5eae69295.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__502c297bb727.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__3451ed70af73.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__90f87a5ee280.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__1575caa2932f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__af8cf76e3174.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__7ffb96a1af24.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__ec5f5d70c5af.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__b2fa3565ffa1.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__1d1d8cea5cd8.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__d3d14b1f527b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__3acaeed6337b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__d195ca83326d.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__f29baac7e42d.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__0bb2b9abc052.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__ee6f5492aea9.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__44db7b2c1695.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__7b969a75e30e.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__2e94c7100c4b.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__3b60d8389744.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a757750919ce.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__f11240973ddf.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e76fcb3aa838.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__90ad0554ff58.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__6ad75ef23808.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__7e5f0d9d201a.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__6ab655ae4965.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__89721a7d934d.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__fb461517236c.json"
+      }
+    ],
+    "current_index": 12,
+    "previous_page": 12,
+    "next_page": 14
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 13
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "파네트세포(Paneth cells)는 창자샘(intestinal glands)의 바닥부분에 위치한다.",
+        "재생세포(regenerative cells)는 술잔세포(goblet cell), 흡수세포(enterocyte), 내분비세포(endocrine cells)로 분화할 수 있다.",
+        "파네트세포(Paneth cells)는 라이소자임(lysozyme)을 가지고 선천면역에 관여한다.",
+        "파네트세포의 영어 이름은 Paneth cells이다.",
+        "라이소자임의 영어 이름은 lysozyme이다.",
+        "흡수세포의 영어 이름은 enterocyte이다.",
+        "재생세포의 영어 이름은 regenerative cells이다.",
+        "창자샘의 영어 이름은 intestinal glands이다.",
+        "술잔세포의 영어 이름은 goblet cell이다.",
+        "내분비세포의 영어 이름은 endocrine cells이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 7,
+        "accounted_term_count": 7,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "파네트세포(Paneth cells)",
+          "라이소자임(lysozyme)",
+          "흡수세포(enterocyte)",
+          "재생세포(regenerative cells)",
+          "창자샘(intestinal glands)",
+          "술잔세포(goblet cell)",
+          "내분비세포(endocrine cells)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "그림 15-26 파네트세도Paneth cell)틀 가진 분비생의 창지움",
+        "(a) 작은싱자에 걸쳐 있는 움모들 V) 사이에서 덮여 있는 상피세도는 고 처 수십억 개의 세포들이 퍼저 나가는 것이다 창자움의 바닥에는 선천적",
+        "유판LP) 속으로 함입되어 창자생 혹은 창자원C이라 불리논 짧은 원통 면역기능울 가진 많은 수의 파네트세포P)가 존자한다: 점막믿최-은 유",
+        "형의 분비생올 만듣다: 창지움의 입구 근처의 내충에는 작은 창자의 전체 미관으로 이어지논 많은 수의 림프관율 가지고 있다: (X200; H&E)",
+        "상피세포틀 위한 많은 수의 줄기세포틀 가지고 있다: 딸세포들은 성장하 (b) 높은 배율의 현미경에서 창자생의 바닥부분에는 파네트세포(P의 전",
+        "논 상피세포와 함께 천천히 창지움 바깥으로 이동하여 술잔세포 창자세 형적인 호산성 과립들올 관찰할 수 있는데 열린 형태의 위창자내문비세",
+        "포 위창자내분비세포로 분화되다: 이러한 세포들은 각각의 움모로 계속 모EC)와 분화중인 잔세되(G틀 따라 위치하다: (X4OO; H&E)",
+        "이동하여 일주일 내에 꼭지부분까지 퍼진다: 즉 매일 작은창자 전체들 겉"
+      ],
+      "supplemental_ocr_blocks": [
+        "G",
+        "EC",
+        "LP",
+        "P",
+        "IC",
+        "F 대 N!",
+        "b",
+        "'LP",
+        "s"
+      ],
+      "corrected_page_text": "그림 15-26 파네트세도Paneth cell)틀 가진 분비생의 창지움\n(a) 작은싱자에 걸쳐 있는 움모들 V) 사이에서 덮여 있는 상피세도는 고 처 수십억 개의 세포들이 퍼저 나가는 것이다 창자움의 바닥에는 선천적\n유판LP) 속으로 함입되어 창자생 혹은 창자원C이라 불리논 짧은 원통 면역기능울 가진 많은 수의 파네트세포P)가 존자한다: 점막믿최-은 유\n형의 분비생올 만듣다: 창지움의 입구 근처의 내충에는 작은 창자의 전체 미관으로 이어지논 많은 수의 림프관율 가지고 있다: (X200; H&E)\n상피세포틀 위한 많은 수의 줄기세포틀 가지고 있다: 딸세포들은 성장하 (b) 높은 배율의 현미경에서 창자생의 바닥부분에는 파네트세포(P의 전\n논 상피세포와 함께 천천히 창지움 바깥으로 이동하여 술잔세포 창자세 형적인 호산성 과립들올 관찰할 수 있는데 열린 형태의 위창자내문비세\n포 위창자내분비세포로 분화되다: 이러한 세포들은 각각의 움모로 계속 모EC)와 분화중인 잔세되(G틀 따라 위치하다: (X4OO; H&E)\n이동하여 일주일 내에 꼭지부분까지 퍼진다: 즉 매일 작은창자 전체들 겉",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 25,
+        "pdf_line_count": 0,
+        "ocr_line_count": 17,
+        "merged_line_count": 17,
+        "pdf_only_count": 0,
+        "ocr_only_count": 17,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 17,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 407,
+        "promoted_ocr_only_count": 8
+      }
+    }
+  }
+}

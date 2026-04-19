@@ -1,0 +1,975 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 11,
+    "note_page_number": 11,
+    "source_page_number": 11,
+    "original_page_number": 11,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_course_002"
+      ],
+      "prompt": "배가로근막(transversalis fascia)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_course_006"
+      ],
+      "prompt": "_____ 또는 배막바깥지방(extraperitoneal fat)은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배막바깥근막(extraperitoneal fascia)",
+        "accepted_answers": [
+          "배막바깥근막(extraperitoneal fascia)",
+          "extraperitoneal fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배막바깥근막(extraperitoneal fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 배막바깥근막(extraperitoneal fascia) 또는 배막바깥지방(extraperitoneal fat)은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_course_006"
+      ],
+      "prompt": "배막바깥근막(extraperitoneal fascia) 또는 _____은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배막바깥지방(extraperitoneal fat)",
+        "accepted_answers": [
+          "배막바깥지방(extraperitoneal fat)",
+          "extraperitoneal fat"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배막바깥지방(extraperitoneal fat)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 배막바깥근막(extraperitoneal fascia) 또는 배막바깥지방(extraperitoneal fat)은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_006_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_course_006"
+      ],
+      "prompt": "배막바깥근막(extraperitoneal fascia) 또는 배막바깥지방(extraperitoneal fat)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 배막바깥근막(extraperitoneal fascia) 또는 배막바깥지방(extraperitoneal fat)은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_014"
+      ],
+      "prompt": "_____은 배벽(abdominal wall) 근육(muscles)을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은근막(deep fascia)",
+        "accepted_answers": [
+          "깊은근막(deep fascia)",
+          "deep fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은근막(deep fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_필기본_011_course_014_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_014"
+      ],
+      "prompt": "깊은근막(deep fascia)은 배벽(abdominal wall) _____을 둘러싼다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육(muscles)",
+        "accepted_answers": [
+          "근육(muscles)",
+          "muscles",
+          "muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육(muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_강의원본_011_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_011_ai_corrected_001"
+      ],
+      "prompt": "_____은 피부(skin), 얕은근막(superficial fascia), 근육층(muscle layers), 배가로근막(transversalis fascia), 배막바깥근막(extraperitoneal fascia), 벽쪽복막(parietal peritoneum)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞가쪽배벽(anterolateral abdominal wall)은 피부(skin), 얕은근막(superficial fascia), 근육층(muscle layers), 배가로근막(transversalis fascia), 배막바깥근막(extraperitoneal fascia), 벽쪽복막(parietal peritoneum)으로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_강의원본_011_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_011_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)은 피부(skin), 얕은근막(superficial fascia), 근육층(muscle layers), 배가로근막(transversalis fascia), 배막바깥근막(extraperitoneal fascia), _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)",
+          "parietal peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞가쪽배벽(anterolateral abdominal wall)은 피부(skin), 얕은근막(superficial fascia), 근육층(muscle layers), 배가로근막(transversalis fascia), 배막바깥근막(extraperitoneal fascia), 벽쪽복막(parietal peritoneum)으로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_강의원본_011_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_011_ai_corrected_002"
+      ],
+      "prompt": "_____은 지방층인 Camper's fascia와 막층인 Scarpa's fascia로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은근막(superficial fascia)",
+        "accepted_answers": [
+          "얕은근막(superficial fascia)",
+          "superficial fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은근막(superficial fascia)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 얕은근막(superficial fascia)은 지방층인 Camper's fascia와 막층인 Scarpa's fascia로 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_강의원본_011_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_011_ai_corrected_002"
+      ],
+      "prompt": "얕은근막(superficial fascia)은 지방층인 _____와 막층인 Scarpa's fascia로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Camper's fascia",
+        "accepted_answers": [
+          "Camper's fascia",
+          "campers fascia",
+          "Camper fascia",
+          "Camper"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Camper's fascia"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 얕은근막(superficial fascia)은 지방층인 Camper's fascia와 막층인 Scarpa's fascia로 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_course_배_강의원본_011_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_011_ai_corrected_002"
+      ],
+      "prompt": "얕은근막(superficial fascia)은 지방층인 Camper's fascia와 막층인 _____로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Scarpa's fascia",
+        "accepted_answers": [
+          "Scarpa's fascia",
+          "scarpas fascia",
+          "Scarpa fascia",
+          "Scarpa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Scarpa's fascia"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 얕은근막(superficial fascia)은 지방층인 Camper's fascia와 막층인 Scarpa's fascia로 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "anterolateral abdominal wall layers",
+        "accepted_answers": [
+          "anterolateral abdominal wall layers"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "anterolateral abdominal wall layers",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::wall_layers"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::wall_layers",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 遺꾨쪟???쒓컖 援ъ꽦?붿냼瑜?吏곸젒 ?뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "?쒓컖 援ъ꽦?붿냼 ?먮Ц: anterolateral abdominal wall layers"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "얕은근막(superficial fascia)은(는) _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Camper's fascia",
+        "accepted_answers": [
+          "Camper's fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Camper's fascia",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 얕은근막(superficial fascia) / predicate: 나뉜다 / object: Camper's fascia"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "얕은근막(superficial fascia)은(는) _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Scarpa's fascia",
+        "accepted_answers": [
+          "Scarpa's fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "Scarpa's fascia",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 얕은근막(superficial fascia) / predicate: 나뉜다 / object: Scarpa's fascia"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "복막(peritoneum)은(는) _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "벽쪽복막(parietal peritoneum)",
+        "accepted_answers": [
+          "벽쪽복막(parietal peritoneum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "벽쪽복막(parietal peritoneum)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 복막(peritoneum) / predicate: 나뉜다 / object: 벽쪽복막(parietal peritoneum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_004_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "복막(peritoneum)은(는) _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p011_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 복막(peritoneum) / predicate: 나뉜다 / object: 장쪽복막(visceral peritoneum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "근육층(muscle layers)은(는) _____로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속빗근(internal oblique muscle)",
+        "accepted_answers": [
+          "속빗근(internal oblique muscle)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속빗근(internal oblique muscle)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 근육층(muscle layers) / predicate: 이루어진다 / object: 속빗근(internal oblique muscle)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_006_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "근육층(muscle layers)은(는) _____로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 근육층(muscle layers) / predicate: 이루어진다 / object: 배가로근(transversus abdominis muscle)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p011_visual_visual_relation_006_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "근육층(muscle layers)은(는) _____로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p011_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 근육층(muscle layers) / predicate: 이루어진다 / object: 바깥빗근(external oblique muscle)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 20,
+    "question_type_count": {
+      "fill_blank": 12,
+      "image_grounded_fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style": 10,
+      "course_exam_style_provisional": 2,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 7
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__21a24649b85f.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__6a5c4c49c1f2.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__f477c3aac9cd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__955eb52e460f.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__afcf110a0b5b.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__2203f8357a8a.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__77493632634b.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__a6dc0a7c10f6.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__a2239bcf6f6d.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__6d362694e762.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__d7f6008f517d.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__00c1cb058ea0.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__14f73874f0f6.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__fdd189632937.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__4107fde4f74b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__e3a9f01e2a33.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__089341e8fcfb.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__be505a5a6844.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__4a29d2f09b2a.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__7a7e617b7487.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__825d41c1d282.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__7fa11831b2d9.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__f34e22a92fdb.json"
+      }
+    ],
+    "current_index": 10,
+    "previous_page": 10,
+    "next_page": 12
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 11
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "Scarpa's fascia는 얕은근막(superficial fascia)의 깊은 막성층이다.",
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+        "벽쪽복막(parietal peritoneum)은 배골반벽의 안쪽을 덮는다.",
+        "배막바깥근막(extraperitoneal fascia) 또는 배막바깥지방(extraperitoneal fat)은 배가로근막(transversalis fascia)의 깊은쪽에 놓인다.",
+        "얕은근막(superficial fascia)은 바깥의 Camper's fascia와 안쪽의 Scarpa's fascia로 구분한다.",
+        "Camper's fascia는 얕은근막(superficial fascia)의 지방성 바깥층이다.",
+        "앞가쪽배벽(anterolateral abdominal wall)은 바깥빗근(external oblique muscle), 속빗근(internal oblique muscle), 배가로근(transversus abdominis muscle)의 세 층으로 이루어진다.",
+        "깊은근막(deep fascia)은 배벽(abdominal wall) 근육을 둘러싼다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "벽쪽 가슴막의 영어 이름은 parietal pleura이다.",
+        "얕은근막의 영어 이름은 superficial fascia이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "배막바깥근막의 영어 이름은 extraperitoneal fascia이다.",
+        "배막바깥지방의 영어 이름은 extraperitoneal fat이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "깊은근막의 영어 이름은 deep fascia이다.",
+        "장쪽 가슴막의 영어 이름은 visceral pleura이다.",
+        "장쪽복막의 영어 이름은 visceral peritoneum이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "앞가쪽배벽(anterolateral abdominal wall)은 피부(skin), 얕은근막(superficial fascia), 근육층(muscle layers), 배가로근막(transversalis fascia), 배막바깥근막(extraperitoneal fascia), 벽쪽복막(parietal peritoneum)으로 이어진다.",
+        "얕은근막(superficial fascia)은 지방층인 Camper's fascia와 막층인 Scarpa's fascia로 구분된다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "앞배벽 아랫쪽에는 지방성분이 많다 바깥에 지방 많은",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "알은근막(superficial fascia)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "피부(skin) 배가로근막(trans",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "배바깥빗근 (parietal peritoneum) 'B완tb eaesta)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "배속빗근 'peritoneum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "peritoneum) (extraperitoneal fascia)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "앞가쪽배벽의 층 구조를 그림 라벨로 보여주는 강의원본 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "근육층(muscle layers) 이루어진다 바깥빗근, 속빗근, 배가로근",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 27,
+        "accounted_term_count": 27,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "피부(skin)",
+          "얕은근막(superficial fascia)",
+          "근육층(muscle layers)",
+          "벽쪽복막(parietal peritoneum)",
+          "속빗근(internal oblique muscle)",
+          "배가로근(transversus abdominis muscle)",
+          "깊은근막(deep fascia)",
+          "배벽(abdominal wall)",
+          "복막(peritoneum)",
+          "장쪽복막(visceral peritoneum)",
+          "배(abdominal region)",
+          "앞벽(anterior wall)",
+          "Scarpa's fascia",
+          "근육(muscles)",
+          "바깥빗근(external oblique muscle)",
+          "벽쪽 가슴막(parietal pleura)",
+          "배가로근막(transversalis fascia)",
+          "배막바깥근막(extraperitoneal fascia)",
+          "배막바깥지방(extraperitoneal fat)",
+          "근육층(muscularis externa)",
+          "Camper's fascia",
+          "장쪽 가슴막(visceral pleura)",
+          "골반(pelvis)",
+          "널힘줄(aponeurosis)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "속배빗근(internal abdominal oblique muscle)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Anterolateral fascia",
+        "알은근막(superficial fascia)",
+        "지방촌[fatty layer (Camper s)] 막종[membranous layer (Scarpa's)]",
+        "피부(skin) 배가로근막(trans",
+        "널힘줄들 'versalis fascia)",
+        "(aponeuroses) 벽쪽부막",
+        "배바깥빗근 (parietal peritoneum) 'B완tb eaesta)",
+        "muscle) 내장쪽복막(visceral",
+        "배속빗근 'peritoneum)",
+        "(transversus {superfiaial (external oblique",
+        "abdominis muscle)",
+        "muscle) layer, Campers-",
+        "fascia) 배속빗근",
+        "(internal oblique",
+        "안은근막의 막종 배가로근",
+        "(superficial 'abdominis",
+        "layer, Scarpa's 배가로근막",
+        "fascia) (transversalis",
+        "피부(skin) 벽쪽록막(parietal 복막바깥근막",
+        "peritoneum) (extraperitoneal fascia)"
+      ],
+      "supplemental_ocr_blocks": [
+        "(external",
+        "oblique",
+        "(internal",
+        "oblique",
+        "muscle)",
+        "알은근막의 지방총",
+        "배가로근 배바깥빗근",
+        "muscle)",
+        "(transversus",
+        "fascia-",
+        "muscle)",
+        "membranous",
+        "fascia)"
+      ],
+      "corrected_page_text": "Anterolateral fascia\n알은근막(superficial fascia)\n지방촌[fatty layer (Camper s)] 막종[membranous layer (Scarpa's)]\n피부(skin) 배가로근막(trans\n널힘줄들 'versalis fascia)\n(aponeuroses) 벽쪽부막\n배바깥빗근 (parietal peritoneum) 'B완tb eaesta)\nmuscle) 내장쪽복막(visceral\n배속빗근 'peritoneum)\n(transversus {superfiaial (external oblique\nabdominis muscle)\nmuscle) layer, Campers-\nfascia) 배속빗근\n(internal oblique\n안은근막의 막종 배가로근\n(superficial 'abdominis\nlayer, Scarpa's 배가로근막\nfascia) (transversalis\n피부(skin) 벽쪽록막(parietal 복막바깥근막\nperitoneum) (extraperitoneal fascia)",
+      "quality_audit": {
+        "pdf_char_count": 19,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 55,
+        "pdf_line_count": 1,
+        "ocr_line_count": 33,
+        "merged_line_count": 33,
+        "pdf_only_count": 0,
+        "ocr_only_count": 32,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 32,
+        "pdf_alpha_count": 19,
+        "ocr_alpha_count": 495,
+        "promoted_ocr_only_count": 19
+      }
+    }
+  }
+}

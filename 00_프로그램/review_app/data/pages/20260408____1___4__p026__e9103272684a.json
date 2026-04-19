@@ -1,0 +1,379 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 26
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json",
+        "review_image_url": "./data/images/20260408____1___4__p004__14b5f2000d36.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json",
+        "review_image_url": "./data/images/20260408____1___4__p005__176e537841fb.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json",
+        "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json",
+        "review_image_url": "./data/images/20260408____1___4__p007__d5fa6a9b8c01.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json",
+        "review_image_url": "./data/images/20260408____1___4__p008__916dbe5cb8d4.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json",
+        "review_image_url": "./data/images/20260408____1___4__p009__76a8b4115b7b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json",
+        "review_image_url": "./data/images/20260408____1___4__p010__3ed52812c2a2.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json",
+        "review_image_url": "./data/images/20260408____1___4__p011__d794876b7892.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json",
+        "review_image_url": "./data/images/20260408____1___4__p012__207c1fa54313.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json",
+        "review_image_url": "./data/images/20260408____1___4__p013__2f3706809306.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json",
+        "review_image_url": "./data/images/20260408____1___4__p014__9a1488d0e654.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json",
+        "review_image_url": "./data/images/20260408____1___4__p015__1038f14a61f4.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json",
+        "review_image_url": "./data/images/20260408____1___4__p016__b81e29b09df3.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json",
+        "review_image_url": "./data/images/20260408____1___4__p017__5aced46f83fe.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json",
+        "review_image_url": "./data/images/20260408____1___4__p018__9732600e170b.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json",
+        "review_image_url": "./data/images/20260408____1___4__p019__aef147dc495e.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json",
+        "review_image_url": "./data/images/20260408____1___4__p020__1793145b6582.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json",
+        "review_image_url": "./data/images/20260408____1___4__p021__88ba53328161.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json",
+        "review_image_url": "./data/images/20260408____1___4__p022__a2cdd2934fea.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json",
+        "review_image_url": "./data/images/20260408____1___4__p023__950e2401b2aa.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json",
+        "review_image_url": "./data/images/20260408____1___4__p024__a27facf1f320.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json",
+        "review_image_url": "./data/images/20260408____1___4__p025__258631da83af.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json",
+        "review_image_url": "./data/images/20260408____1___4__p026__e9103272684a.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 25,
+    "previous_page": 25,
+    "next_page": 27
+  },
+  "review_image_url": "./data/images/20260408____1___4__p026__e9103272684a.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 26
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "큰창자의 영어 이름은 large intestine이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 1,
+        "accounted_term_count": 1,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "큰창자(large intestine)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Histology of large intestine",
+        "가로잘록창자 Transverse colon)",
+        "(%a뱀째 -내림잘록창자",
+        "(niaa 곧칭자 3gm히창자",
+        "appendix) (Rectur) colon)",
+        "''항문관Anal canal) 왼잘록창자굽이",
+        "가로질록창자 (Left colic flexure)",
+        "(Transverse 장자sCoIon)",
+        "(Orental appendices)",
+        "지 자교- -잘로창자다( Tenia coli)",
+        "위창자간막동백 내림배대동맥Descending abdominal aorta)",
+        "(Superiot 아래창자간락동댁",
+        "mesenteric (Inferior mesenteric artery)",
+        "돌막창자판락 곧창자 곧창자판막",
+        "(Ileocecal valve) (Rec- (Rectal valve)",
+        "막창재Cecum) tum)",
+        "((Ileum) muscle)",
+        "막창자-꼬리(Vermiform appendix) 항문관Anal canal)",
+        "곧창재Rectum) '정률 Veins)",
+        "'구물질록창자사이막 -#nn문주gaa anal",
+        "(Sigmoid mesocolon) 항문 sphincter)",
+        "-비i문주]다 anal",
+        "항문관( Anal canal)",
+        "함문기둥Anal columns) 함문글Anal sinuses)",
+        "(a) 굳창자 앞면(Large intestine, anterior view) (b) 항문관(Anal Canal)",
+        "위에서 본 것처럼; 크창자는 막창자 오름잘록창자 가로잘록창자; 내림잘 tra올 일으키다 잘록창자의 장막은 지지하는 장간막에 연속되어 있어 복",
+        "독창자 구물잘록창자 그리고 곧창자로 구성되다 막주렇이라 불리는 지방조직의 덩어리가 관찰되다",
+        "(a) 굉창자루 앞데서 보면 몸쪽 끝부분에 돌창자외 부작된 돌막창자판막 (b) 곧창자의 먼쪽끝 부위에서는 항문인데 점막증과 점막믿침에 혈관분",
+        "이 관찰되다: 막창자라 부르는 주머니와 막창자꼬리인 돌기부도 보인다 포가 잘 되어 있어 정매줄들이 존재하여 항문기둥이라 불리는 연속문 세",
+        "점막에는 단지 앞은 주름만이 있으며 음모는 존재하지 안듣다: 근육함은 로 주름의 형태로 관찰되다 대변은 곧창자에 축적되없다가 근육성 수죽",
+        "2가의 충으로 구성되논데 바깥의 세로충은 단지 잘록창자다라 불리논 근 올 통해 제거되논데 근육충의 돌림증과 연속든 속항문조임근과 가로무늬",
+        "육성유의 세 가의 다발로 구성되어 있어 잘목창자벽에서 평대운동(haus- 의 (자발적인) 바깥항문조임근의 작용이 포함되다:"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 15-31 근창자",
+        "(Descending",
+        "((양침자 colon)",
+        "요래지] -",
+        "복각주령",
+        "artery)",
+        "-n문유히금",
+        "놀장자 ani",
+        "NAnus)",
+        "sphincter)"
+      ],
+      "corrected_page_text": "Histology of large intestine\n가로잘록창자 Transverse colon)\n(%a뱀째 -내림잘록창자\n(niaa 곧칭자 3gm히창자\nappendix) (Rectur) colon)\n''항문관Anal canal) 왼잘록창자굽이\n가로질록창자 (Left colic flexure)\n(Transverse 장자sCoIon)\n(Orental appendices)\n지 자교- -잘로창자다( Tenia coli)\n위창자간막동백 내림배대동맥Descending abdominal aorta)\n(Superiot 아래창자간락동댁\nmesenteric (Inferior mesenteric artery)\n돌막창자판락 곧창자 곧창자판막\n(Ileocecal valve) (Rec- (Rectal valve)\n막창재Cecum) tum)\n((Ileum) muscle)\n막창자-꼬리(Vermiform appendix) 항문관Anal canal)\n곧창재Rectum) '정률 Veins)\n'구물질록창자사이막 -#nn문주gaa anal\n(Sigmoid mesocolon) 항문 sphincter)\n-비i문주]다 anal\n항문관( Anal canal)\n함문기둥Anal columns) 함문글Anal sinuses)\n(a) 굳창자 앞면(Large intestine, anterior view) (b) 항문관(Anal Canal)\n위에서 본 것처럼; 크창자는 막창자 오름잘록창자 가로잘록창자; 내림잘 tra올 일으키다 잘록창자의 장막은 지지하는 장간막에 연속되어 있어 복\n독창자 구물잘록창자 그리고 곧창자로 구성되다 막주렇이라 불리는 지방조직의 덩어리가 관찰되다\n(a) 굉창자루 앞데서 보면 몸쪽 끝부분에 돌창자외 부작된 돌막창자판막 (b) 곧창자의 먼쪽끝 부위에서는 항문인데 점막증과 점막믿침에 혈관분\n이 관찰되다: 막창자라 부르는 주머니와 막창자꼬리인 돌기부도 보인다 포가 잘 되어 있어 정매줄들이 존재하여 항문기둥이라 불리는 연속문 세\n점막에는 단지 앞은 주름만이 있으며 음모는 존재하지 안듣다: 근육함은 로 주름의 형태로 관찰되다 대변은 곧창자에 축적되없다가 근육성 수죽\n2가의 충으로 구성되논데 바깥의 세로충은 단지 잘록창자다라 불리논 근 올 통해 제거되논데 근육충의 돌림증과 연속든 속항문조임근과 가로무늬\n육성유의 세 가의 다발로 구성되어 있어 잘목창자벽에서 평대운동(haus- 의 (자발적인) 바깥항문조임근의 작용이 포함되다:",
+      "quality_audit": {
+        "pdf_char_count": 25,
+        "pdf_span_count": 1,
+        "pdf_word_count": 4,
+        "ocr_fragment_count": 76,
+        "pdf_line_count": 1,
+        "ocr_line_count": 42,
+        "merged_line_count": 42,
+        "pdf_only_count": 0,
+        "ocr_only_count": 41,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 41,
+        "pdf_alpha_count": 25,
+        "ocr_alpha_count": 943,
+        "promoted_ocr_only_count": 31
+      }
+    }
+  }
+}

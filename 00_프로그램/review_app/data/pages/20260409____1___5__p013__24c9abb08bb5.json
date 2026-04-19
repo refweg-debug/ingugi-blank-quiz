@@ -1,0 +1,753 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 13,
+    "note_page_number": 13,
+    "source_page_number": 115,
+    "original_page_number": 115,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_001"
+      ],
+      "prompt": "_____의 내장면(visceral surface)은 다른 내장과 접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_001"
+      ],
+      "prompt": "지라(spleen)의 _____은 다른 내장과 접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내장면(visceral surface)",
+        "accepted_answers": [
+          "내장면(visceral surface)",
+          "visceral surface"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내장면(visceral surface)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_002"
+      ],
+      "prompt": "_____은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담낭오목(gallbladder fossa)",
+        "accepted_answers": [
+          "담낭오목(gallbladder fossa)",
+          "gallbladder fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담낭오목(gallbladder fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_002"
+      ],
+      "prompt": "담낭오목(gallbladder fossa)은 _____가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니(gallbladder)",
+        "accepted_answers": [
+          "쓸개주머니(gallbladder)",
+          "gallbladder"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니(gallbladder)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_003"
+      ],
+      "prompt": "_____는 가쪽으로 이어져 삼각인대(triangular ligament)가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "관상인대(coronary ligament)",
+        "accepted_answers": [
+          "관상인대(coronary ligament)",
+          "coronary ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "관상인대(coronary ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 관상인대(coronary ligament)는 가쪽으로 이어져 삼각인대(triangular ligament)가 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_003"
+      ],
+      "prompt": "관상인대(coronary ligament)는 가쪽으로 이어져 _____가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "삼각인대(triangular ligament)",
+        "accepted_answers": [
+          "삼각인대(triangular ligament)",
+          "triangular ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "삼각인대(triangular ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 관상인대(coronary ligament)는 가쪽으로 이어져 삼각인대(triangular ligament)가 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_004"
+      ],
+      "prompt": "_____는 간(liver)을 앞벽(anterior wall)에 연결하며 해부학적 오른엽(right lobe of liver)과 왼엽(left lobe of liver)의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "겸상인대(falciform ligament)",
+        "accepted_answers": [
+          "겸상인대(falciform ligament)",
+          "falciform ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "겸상인대(falciform ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_004"
+      ],
+      "prompt": "겸상인대(falciform ligament)는 간(liver)을 앞벽(anterior wall)에 연결하며 해부학적 _____과 왼엽(left lobe of liver)의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른엽(right lobe of liver)",
+        "accepted_answers": [
+          "오른엽(right lobe of liver)",
+          "right lobe of liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른엽(right lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_004"
+      ],
+      "prompt": "겸상인대(falciform ligament)는 간(liver)을 앞벽(anterior wall)에 연결하며 해부학적 오른엽(right lobe of liver)과 _____의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼엽(left lobe of liver)",
+        "accepted_answers": [
+          "왼엽(left lobe of liver)",
+          "left lobe of liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼엽(left lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_005"
+      ],
+      "prompt": "_____는 태아기 배꼽정맥(umbilical vein)의 흔적이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "원간인대(round ligament of liver)",
+        "accepted_answers": [
+          "원간인대(round ligament of liver)",
+          "round ligament of liver",
+          "ligamentum teres hepatis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "원간인대(round ligament of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 원간인대(round ligament of liver)는 태아기 배꼽정맥(umbilical vein)의 흔적이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_006"
+      ],
+      "prompt": "_____은 문맥(portal vein), 고유간동맥(proper hepatic artery), 온간관(common hepatic duct), 림프가 드나드는 가로틈새이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문(porta hepatis)",
+        "accepted_answers": [
+          "간문(porta hepatis)",
+          "porta hepatis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문(porta hepatis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문(porta hepatis)은 문맥(portal vein), 고유간동맥(proper hepatic artery), 온간관(common hepatic duct), 림프가 드나드는 가로틈새이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p013_course_배_필기본_013_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_006"
+      ],
+      "prompt": "간문(porta hepatis)은 문맥(portal vein), 고유간동맥(proper hepatic artery), _____, 림프가 드나드는 가로틈새이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간관(common hepatic duct)",
+        "accepted_answers": [
+          "온간관(common hepatic duct)",
+          "common hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간관(common hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간문(porta hepatis)은 문맥(portal vein), 고유간동맥(proper hepatic artery), 온간관(common hepatic duct), 림프가 드나드는 가로틈새이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 12,
+    "question_type_count": {
+      "fill_blank": 12
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 12
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__9126be99b5b1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__17daf6e80ed8.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__279c43c8043d.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__bc46d0e27838.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__abb326ded3ee.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__ecb927d12b2e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__053502c97f13.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__592581899e50.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__6b12d5412bf0.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__dce1b2398712.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__a424516c1787.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__11ddd62e5972.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__24c9abb08bb5.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__1ca43cc90e74.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__d3b19755bba7.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__c881c891008e.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__a9bc16787078.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__1198bdb3ca05.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__9d0083005507.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__a032fc1af389.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__28d9af8140d2.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__5ad5f96806a1.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__da8ef99375e3.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__3c2c47ba65a0.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__0225160fd950.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__a6e053f6ab17.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__fd92449dc9f1.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__82cdcef25e9b.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__f615453699ac.json"
+      }
+    ],
+    "current_index": 12,
+    "previous_page": 12,
+    "next_page": 14
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 13
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다.",
+        "담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+        "관상인대(coronary ligament)는 가쪽으로 이어져 삼각인대(triangular ligament)가 된다.",
+        "겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다.",
+        "원간인대(round ligament of liver)는 태아기 배꼽정맥(umbilical vein)의 흔적이다.",
+        "간문(porta hepatis)은 문맥(portal vein), 고유간동맥(proper hepatic artery), 온간관(common hepatic duct), 림프가 드나드는 가로틈새이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "간의 영어 이름은 liver이다.",
+        "위의 영어 이름은 stomach이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "관상인대의 영어 이름은 coronary ligament이다.",
+        "오른콩팥의 영어 이름은 right kidney이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "내장면의 영어 이름은 visceral surface이다.",
+        "온간관의 영어 이름은 common hepatic duct이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "삼각인대의 영어 이름은 triangular ligament이다.",
+        "겸상인대의 영어 이름은 falciform ligament이다.",
+        "원간인대의 영어 이름은 round ligament of liver이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "고유간동맥의 영어 이름은 proper hepatic artery이다.",
+        "담낭오목의 영어 이름은 gallbladder fossa이다.",
+        "맨구역의 영어 이름은 bare area이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "- 간을앞배벽에연결",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 26,
+          "text": "the bare area is the part of the liver not covered by peritoneum",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 25,
+        "accounted_term_count": 25,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "가로막(diaphragm)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "앞벽(anterior wall)",
+          "간(liver)",
+          "위(stomach)",
+          "샘창자(duodenum)",
+          "관상인대(coronary ligament)",
+          "오른콩팥(right kidney)",
+          "간문(porta hepatis)",
+          "복막(peritoneum)",
+          "내장면(visceral surface)",
+          "온간관(common hepatic duct)",
+          "쓸개주머니(gallbladder)",
+          "삼각인대(triangular ligament)",
+          "겸상인대(falciform ligament)",
+          "원간인대(round ligament of liver)",
+          "문맥(portal vein)",
+          "고유간동맥(proper hepatic artery)",
+          "담낭오목(gallbladder fossa)",
+          "맨구역(bare area)",
+          "지라(spleen)",
+          "오른엽(right lobe of liver)",
+          "왼엽(left lobe of liver)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "복막 아래대정액 간정팩 원세모인대",
+        "관상인대 peritoneum inferior vena cava hepatic V. lelt triangular lig.",
+        "coronary lig",
+        "오른세모인대 left triangular lig.",
+        "triangular lig. -원간업",
+        "left lobe of liver",
+        "용료급다 lobe 낫인대",
+        "ol liver talciform lig.",
+        "아래모서리 coronary lig",
+        "inferior border -간원인대",
+        "of liver round lig. of liver",
+        "쓸개바닥 right lobe of liver 낫인대 left lobe of liver",
+        "A fundus of gallbladder falciform lig.",
+        "caudate lobe",
+        "정맥관인대 아래대정맥",
+        "ligamentum venosum inferior vena cava",
+        "원세모인대 무장막구역",
+        "left triangular lig. bare area",
+        "hepatic a proper coronary lig.",
+        "온간관 hepatic portal V.",
+        "common hepatic \"콩팔자국",
+        "duct renal impression",
+        "left lobe of liver common bile duct",
+        "Inferior border ~잘록창자자국 .",
+        "colic impression",
+        "round lig. of liver 셈창자자국",
+        "duodenal impression",
+        "네모염 쓸개 쓸개주머니관",
+        "quadrate lobe gallbladder cystic duct",
+        "그림 6-64. 간의 앞면(시), 위뒷면(B) 내장면C의 모습"
+      ],
+      "supplemental_ocr_blocks": [
+        "-원세모인대",
+        "right",
+        "관상인대",
+        "오른간업 왼간업",
+        "B",
+        "꼬리엽",
+        "고유간동백 -관상인대",
+        "-간문맥",
+        "왼간업 -온쓸개관",
+        "아래모서리",
+        "간원인대",
+        "C"
+      ],
+      "corrected_page_text": "복막 아래대정액 간정팩 원세모인대\n관상인대 peritoneum inferior vena cava hepatic V. lelt triangular lig.\ncoronary lig\n오른세모인대 left triangular lig.\ntriangular lig. -원간업\nleft lobe of liver\n용료급다 lobe 낫인대\nol liver talciform lig.\n아래모서리 coronary lig\ninferior border -간원인대\nof liver round lig. of liver\n쓸개바닥 right lobe of liver 낫인대 left lobe of liver\nA fundus of gallbladder falciform lig.\ncaudate lobe\n정맥관인대 아래대정맥\nligamentum venosum inferior vena cava\n원세모인대 무장막구역\nleft triangular lig. bare area\nhepatic a proper coronary lig.\n온간관 hepatic portal V.\ncommon hepatic \"콩팔자국\nduct renal impression\nleft lobe of liver common bile duct\nInferior border ~잘록창자자국 .\ncolic impression\nround lig. of liver 셈창자자국\nduodenal impression\n네모염 쓸개 쓸개주머니관\nquadrate lobe gallbladder cystic duct\n그림 6-64. 간의 앞면(시), 위뒷면(B) 내장면C의 모습",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 79,
+        "pdf_line_count": 0,
+        "ocr_line_count": 42,
+        "merged_line_count": 42,
+        "pdf_only_count": 0,
+        "ocr_only_count": 42,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 42,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 676,
+        "promoted_ocr_only_count": 30
+      }
+    }
+  }
+}

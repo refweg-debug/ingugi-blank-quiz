@@ -1,0 +1,2262 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "현재통합",
+    "source_stem": "2026년 배(소화계통 비뇨계통)",
+    "page_number": 3,
+    "note_page_number": 3,
+    "source_page_number": 3,
+    "original_page_number": 3,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)",
+    "note_source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "_____과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "배안(abdominal cavity)과 _____은 가로막(diaphragm)에 의해 명확하게 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "배안(abdominal cavity)과 가슴안(thoracic cavity)은 _____에 의해 명확하게 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막(diaphragm)",
+        "accepted_answers": [
+          "가로막(diaphragm)",
+          "diaphragm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막(diaphragm)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_002"
+      ],
+      "prompt": "_____은 위골반문(superior pelvic aperture)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반입구(pelvic inlet)",
+        "accepted_answers": [
+          "골반입구(pelvic inlet)",
+          "pelvic inlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반입구(pelvic inlet)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 골반입구(pelvic inlet)은 위골반문(superior pelvic aperture)이라고도 한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_005"
+      ],
+      "prompt": "_____는 가슴우리(thoracic cage)에 의해 보호받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위쪽배안장기(upper abdominal viscera)",
+        "accepted_answers": [
+          "위쪽배안장기(upper abdominal viscera)",
+          "위쪽 배안장기(upper abdominal viscera)",
+          "upper abdominal viscera"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위쪽배안장기(upper abdominal viscera)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위쪽 배안장기(upper abdominal viscera)는 가슴우리(thoracic cage)에 의해 보호받는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_005"
+      ],
+      "prompt": "위쪽배안장기(upper abdominal viscera)는 _____에 의해 보호받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴우리(thoracic cage)",
+        "accepted_answers": [
+          "가슴우리(thoracic cage)",
+          "thoracic cage"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴우리(thoracic cage)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위쪽 배안장기(upper abdominal viscera)는 가슴우리(thoracic cage)에 의해 보호받는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_007"
+      ],
+      "prompt": "_____과 골반안(pelvic cavity)은 명확하게 구분되지 않는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)은 명확하게 구분되지 않는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_007"
+      ],
+      "prompt": "배안(abdominal cavity)과 _____은 명확하게 구분되지 않는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)은 명확하게 구분되지 않는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_010"
+      ],
+      "prompt": "_____은 가짜골반(false pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_필기본_003_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_011"
+      ],
+      "prompt": "_____은 진골반(true pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은골반(lesser pelvis)",
+        "accepted_answers": [
+          "작은골반(lesser pelvis)",
+          "lesser pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은골반(lesser pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_001"
+      ],
+      "prompt": "_____는 큰골반(greater pelvis)에 의해 지지되고 보호된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래쪽배안장기(lower abdominal viscera)",
+        "accepted_answers": [
+          "아래쪽배안장기(lower abdominal viscera)",
+          "아래쪽 배안장기(lower abdominal viscera)",
+          "lower abdominal viscera"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래쪽배안장기(lower abdominal viscera)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_001"
+      ],
+      "prompt": "아래쪽배안장기(lower abdominal viscera)는 _____에 의해 지지되고 보호된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_002"
+      ],
+      "prompt": "_____과 골반안(pelvic cavity)의 경계는 명확하지 않아 함께 배골반안(abdominopelvic cavity)이라고 부르기도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)의 경계는 명확하지 않아 함께 배골반안(abdominopelvic cavity)이라고 부르기도 한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_002"
+      ],
+      "prompt": "배안(abdominal cavity)과 _____의 경계는 명확하지 않아 함께 배골반안(abdominopelvic cavity)이라고 부르기도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)의 경계는 명확하지 않아 함께 배골반안(abdominopelvic cavity)이라고 부르기도 한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_003"
+      ],
+      "prompt": "_____과 골반안(pelvic cavity)을 나누는 기준은 골반입구(pelvic inlet)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준은 골반입구(pelvic inlet)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p003_course_배_강의원본_003_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_003_ai_corrected_003"
+      ],
+      "prompt": "배안(abdominal cavity)과 _____을 나누는 기준은 골반입구(pelvic inlet)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준은 골반입구(pelvic inlet)이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 16,
+    "question_type_count": {
+      "fill_blank": 16
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 10,
+      "course_exam_style": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p001__7d02aa4591e0.json",
+        "review_image_url": "./data/images/2026__p001__7d02aa4591e0.webp"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p002__ca3362139d3b.json",
+        "review_image_url": "./data/images/2026__p002__ca3362139d3b.webp"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p003__62dc70e14a72.json",
+        "review_image_url": "./data/images/2026__p003__62dc70e14a72.webp"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p004__fbde3a9f4224.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p005__42c45b745a8f.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p006__93236cbfb35a.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p007__1b3dfe5f1d6c.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p008__40ece87291f7.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p009__130a2ff3fb89.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p010__793995fe2b3a.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p011__35d7ffd7fbba.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p012__ca4219607153.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p013__d6f856c00b85.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p014__1804a7b2532b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p015__949a6a247dcb.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p016__36978913f593.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p017__85dc409d44e2.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p018__fc8b40a38e75.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p019__867dad1b8f36.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p020__c5d81a6eca4d.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p021__6f8b7fa4d289.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p022__14f00c97b7a6.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p023__1674d6b938ec.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 24,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p024__5c234453f2bd.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 25,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p025__2e05d1b5cbb8.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 26,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p026__3d43a3f0b1e0.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 27,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p027__e011b27a5950.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 28,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p028__0aeb34fa2458.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 29,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p029__b13f0d9595b8.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 30,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p030__8afee6fa3a19.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 31,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p031__09b3c3029795.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 32,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p032__89862e8bd7fa.json"
+      },
+      {
+        "page_number": 33,
+        "source_page_number": 33,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p033__bf886203817f.json"
+      },
+      {
+        "page_number": 34,
+        "source_page_number": 34,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p034__dff6bd5433fc.json"
+      },
+      {
+        "page_number": 35,
+        "source_page_number": 35,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p035__6541419b9357.json"
+      },
+      {
+        "page_number": 36,
+        "source_page_number": 36,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p036__cb7cd5484cff.json"
+      },
+      {
+        "page_number": 37,
+        "source_page_number": 37,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p037__47a720f471b2.json"
+      },
+      {
+        "page_number": 38,
+        "source_page_number": 38,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p038__08258c51342b.json"
+      },
+      {
+        "page_number": 39,
+        "source_page_number": 39,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p039__5fe2c857b270.json"
+      },
+      {
+        "page_number": 40,
+        "source_page_number": 40,
+        "question_count": 19,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p040__b969cde25155.json"
+      },
+      {
+        "page_number": 41,
+        "source_page_number": 41,
+        "question_count": 5,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p041__260ccc373dab.json"
+      },
+      {
+        "page_number": 42,
+        "source_page_number": 42,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p042__38df47adf210.json"
+      },
+      {
+        "page_number": 43,
+        "source_page_number": 43,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p043__787a18aa7cf5.json"
+      },
+      {
+        "page_number": 44,
+        "source_page_number": 44,
+        "question_count": 11,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p044__191901fac17a.json"
+      },
+      {
+        "page_number": 45,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p045__a8d6bfcc15df.json"
+      },
+      {
+        "page_number": 46,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p046__44baab7d3e43.json"
+      },
+      {
+        "page_number": 47,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p047__58455c5e6489.json"
+      },
+      {
+        "page_number": 48,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p048__201653bc5620.json"
+      },
+      {
+        "page_number": 49,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p049__4dbd95911a50.json"
+      },
+      {
+        "page_number": 50,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p050__9754eb7cf806.json"
+      },
+      {
+        "page_number": 51,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p051__9e1261a8f444.json"
+      },
+      {
+        "page_number": 52,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p052__a08578ba02b7.json"
+      },
+      {
+        "page_number": 53,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p053__6caf069e0bda.json"
+      },
+      {
+        "page_number": 54,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p054__41278a32fdd6.json"
+      },
+      {
+        "page_number": 55,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/2026__p055__7e543affbcfd.json"
+      },
+      {
+        "page_number": 56,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p056__38f402637fbc.json"
+      },
+      {
+        "page_number": 57,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p057__daaec0f8eb8d.json"
+      },
+      {
+        "page_number": 58,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p058__a2fcfe04e8e0.json"
+      },
+      {
+        "page_number": 59,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p059__d0fd1267c554.json"
+      },
+      {
+        "page_number": 60,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p060__cba583ae74ac.json"
+      },
+      {
+        "page_number": 61,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p061__d3fdc297c1ab.json"
+      },
+      {
+        "page_number": 62,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p062__aa70e197c909.json"
+      },
+      {
+        "page_number": 63,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p063__65d341ce4b53.json"
+      },
+      {
+        "page_number": 64,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p064__de43ecef43ae.json"
+      },
+      {
+        "page_number": 65,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p065__4176b3fae9d8.json"
+      },
+      {
+        "page_number": 66,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p066__cafb7384dd77.json"
+      },
+      {
+        "page_number": 67,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p067__2aab5febbcda.json"
+      },
+      {
+        "page_number": 68,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p068__886fd2bcbe69.json"
+      },
+      {
+        "page_number": 69,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p069__72605f9249e0.json"
+      },
+      {
+        "page_number": 70,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p070__5b18012b27a0.json"
+      },
+      {
+        "page_number": 71,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p071__1c320b87a6d5.json"
+      },
+      {
+        "page_number": 72,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p072__fc1146ddbb7b.json"
+      },
+      {
+        "page_number": 73,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p073__e016d24b6485.json"
+      },
+      {
+        "page_number": 74,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p074__1573237f4481.json"
+      },
+      {
+        "page_number": 75,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p075__48cffc8b606f.json"
+      },
+      {
+        "page_number": 76,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p076__8100bea9140b.json"
+      },
+      {
+        "page_number": 77,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p077__92f958a6bb5e.json"
+      },
+      {
+        "page_number": 78,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p078__9ac09e8ce7b1.json"
+      },
+      {
+        "page_number": 79,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p079__8a893c95552d.json"
+      },
+      {
+        "page_number": 80,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p080__7984ffbabbf1.json"
+      },
+      {
+        "page_number": 81,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p081__470fc09b1146.json"
+      },
+      {
+        "page_number": 82,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p082__62730b73820a.json"
+      },
+      {
+        "page_number": 83,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p083__15496042e1df.json"
+      },
+      {
+        "page_number": 84,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p084__2be51c4f9771.json"
+      },
+      {
+        "page_number": 85,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p085__0c1603775878.json"
+      },
+      {
+        "page_number": 86,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p086__2fda956face4.json"
+      },
+      {
+        "page_number": 87,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p087__1d9400c7f5f9.json"
+      },
+      {
+        "page_number": 88,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p088__459e8a62eb59.json"
+      },
+      {
+        "page_number": 89,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p089__8dc3fed2af58.json"
+      },
+      {
+        "page_number": 90,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p090__c4a81495cc0a.json"
+      },
+      {
+        "page_number": 91,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p091__50596465c0c4.json"
+      },
+      {
+        "page_number": 92,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p092__0cee44bdf846.json"
+      },
+      {
+        "page_number": 93,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p093__afec4686bfd5.json"
+      },
+      {
+        "page_number": 94,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p094__c151b2fcc8a3.json"
+      },
+      {
+        "page_number": 95,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p095__08065a2ea451.json"
+      },
+      {
+        "page_number": 96,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p096__cf31308754a2.json"
+      },
+      {
+        "page_number": 97,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p097__e91557bde9c0.json"
+      },
+      {
+        "page_number": 98,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p098__b3328bc3e141.json"
+      },
+      {
+        "page_number": 99,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p099__ddcbb1bdcfe3.json"
+      },
+      {
+        "page_number": 100,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p100__9fe22e0db0f5.json"
+      },
+      {
+        "page_number": 101,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p101__2cbb48629ae0.json"
+      },
+      {
+        "page_number": 102,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p102__8b6bf5aabd73.json"
+      },
+      {
+        "page_number": 103,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p103__5d869270f3d6.json"
+      },
+      {
+        "page_number": 104,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p104__bf2aea4606ab.json"
+      },
+      {
+        "page_number": 105,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p105__42860a2b1871.json"
+      },
+      {
+        "page_number": 106,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p106__6cba8a6be4f1.json"
+      },
+      {
+        "page_number": 107,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p107__7fffb1a332b9.json"
+      },
+      {
+        "page_number": 108,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p108__550b2611d028.json"
+      },
+      {
+        "page_number": 109,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p109__03ce4622c192.json"
+      },
+      {
+        "page_number": 110,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p110__d2fec345e3d2.json"
+      },
+      {
+        "page_number": 111,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p111__82449158eb8c.json"
+      },
+      {
+        "page_number": 112,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p112__7069cf7174a1.json"
+      },
+      {
+        "page_number": 113,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p113__fc3159be46dd.json"
+      },
+      {
+        "page_number": 114,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p114__455267f3cc68.json"
+      },
+      {
+        "page_number": 115,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p115__46724fc2df06.json"
+      },
+      {
+        "page_number": 116,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p116__ecabf68d0bef.json"
+      },
+      {
+        "page_number": 117,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p117__7874d2bf1c38.json"
+      },
+      {
+        "page_number": 118,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p118__f6732c9070dd.json"
+      },
+      {
+        "page_number": 119,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p119__73e1fbb17167.json"
+      },
+      {
+        "page_number": 120,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p120__40fd80cb2dce.json"
+      },
+      {
+        "page_number": 121,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p121__0f374772dde9.json"
+      },
+      {
+        "page_number": 122,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p122__50bfe36ba926.json"
+      },
+      {
+        "page_number": 123,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p123__3cc79edf2088.json"
+      },
+      {
+        "page_number": 124,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p124__51f1372b765e.json"
+      },
+      {
+        "page_number": 125,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p125__8572946e2618.json"
+      },
+      {
+        "page_number": 126,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p126__7cd0003266fe.json"
+      },
+      {
+        "page_number": 127,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p127__7f08493616a1.json"
+      },
+      {
+        "page_number": 128,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p128__1c957dc71fa2.json"
+      },
+      {
+        "page_number": 129,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p129__aa52fe82466a.json"
+      },
+      {
+        "page_number": 130,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p130__fa6eb288b210.json"
+      },
+      {
+        "page_number": 131,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p131__1a16afb1f4b9.json"
+      },
+      {
+        "page_number": 132,
+        "source_page_number": 132,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p132__83c2e4c0b2f8.json"
+      },
+      {
+        "page_number": 133,
+        "source_page_number": 133,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p133__cc21ff2f293d.json"
+      },
+      {
+        "page_number": 134,
+        "source_page_number": 134,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p134__ce27efb5ddc9.json"
+      },
+      {
+        "page_number": 135,
+        "source_page_number": 135,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p135__ff75e9aff6d2.json"
+      },
+      {
+        "page_number": 136,
+        "source_page_number": 136,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p136__cf13b94d79bc.json"
+      },
+      {
+        "page_number": 137,
+        "source_page_number": 137,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p137__eb261078966f.json"
+      },
+      {
+        "page_number": 138,
+        "source_page_number": 138,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p138__9f320b74b076.json"
+      },
+      {
+        "page_number": 139,
+        "source_page_number": 139,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p139__d47d0fe66932.json"
+      },
+      {
+        "page_number": 140,
+        "source_page_number": 140,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p140__79f42a795ba3.json"
+      },
+      {
+        "page_number": 141,
+        "source_page_number": 141,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p141__ee9dc1b4c492.json"
+      },
+      {
+        "page_number": 142,
+        "source_page_number": 142,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p142__d7ff520a84ce.json"
+      },
+      {
+        "page_number": 143,
+        "source_page_number": 143,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p143__bba0c0e54734.json"
+      },
+      {
+        "page_number": 144,
+        "source_page_number": 144,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p144__e09461e45252.json"
+      },
+      {
+        "page_number": 145,
+        "source_page_number": 145,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p145__d60d21bc2e4f.json"
+      },
+      {
+        "page_number": 146,
+        "source_page_number": 146,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p146__5b44b967fe28.json"
+      },
+      {
+        "page_number": 147,
+        "source_page_number": 147,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p147__c908a7a86116.json"
+      },
+      {
+        "page_number": 148,
+        "source_page_number": 148,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p148__a076836abe57.json"
+      },
+      {
+        "page_number": 149,
+        "source_page_number": 149,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p149__e9059ad77a6e.json"
+      },
+      {
+        "page_number": 150,
+        "source_page_number": 150,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p150__bbfc81fbfb5b.json"
+      },
+      {
+        "page_number": 151,
+        "source_page_number": 151,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p151__b03393ac0cbd.json"
+      },
+      {
+        "page_number": 152,
+        "source_page_number": 152,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p152__9aaa4cd94d80.json"
+      },
+      {
+        "page_number": 153,
+        "source_page_number": 153,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p153__5863176ca98e.json"
+      },
+      {
+        "page_number": 154,
+        "source_page_number": 154,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p154__2b2644fc87ed.json"
+      },
+      {
+        "page_number": 155,
+        "source_page_number": 155,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p155__2ccc358d8d84.json"
+      },
+      {
+        "page_number": 156,
+        "source_page_number": 156,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p156__d13be9bba555.json"
+      },
+      {
+        "page_number": 157,
+        "source_page_number": 157,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p157__ee5743ec8963.json"
+      },
+      {
+        "page_number": 158,
+        "source_page_number": 158,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p158__cc2d54af62f1.json"
+      },
+      {
+        "page_number": 159,
+        "source_page_number": 159,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p159__0c6e52d518b9.json"
+      },
+      {
+        "page_number": 160,
+        "source_page_number": 160,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p160__859e4a6bfe38.json"
+      },
+      {
+        "page_number": 161,
+        "source_page_number": 161,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p161__7112bad577cb.json"
+      },
+      {
+        "page_number": 162,
+        "source_page_number": 162,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p162__0265bbe77958.json"
+      },
+      {
+        "page_number": 163,
+        "source_page_number": 163,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p163__4399fbe79248.json"
+      },
+      {
+        "page_number": 164,
+        "source_page_number": 164,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p164__2bd83160c97f.json"
+      },
+      {
+        "page_number": 165,
+        "source_page_number": 165,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p165__2d0f049be45b.json"
+      },
+      {
+        "page_number": 166,
+        "source_page_number": 166,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p166__bbb04033aa09.json"
+      },
+      {
+        "page_number": 167,
+        "source_page_number": 167,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p167__5f2874b02c51.json"
+      },
+      {
+        "page_number": 168,
+        "source_page_number": 168,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p168__5451fbd69021.json"
+      },
+      {
+        "page_number": 169,
+        "source_page_number": 169,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p169__457c2d79c040.json"
+      },
+      {
+        "page_number": 170,
+        "source_page_number": 170,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p170__c7108b8e3192.json"
+      },
+      {
+        "page_number": 171,
+        "source_page_number": 171,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p171__ccc974035dca.json"
+      },
+      {
+        "page_number": 172,
+        "source_page_number": 172,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p172__f3b565018b76.json"
+      },
+      {
+        "page_number": 173,
+        "source_page_number": 173,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p173__983911075f0c.json"
+      },
+      {
+        "page_number": 174,
+        "source_page_number": 174,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p174__01dd050154db.json"
+      },
+      {
+        "page_number": 175,
+        "source_page_number": 175,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p175__fb504cf1d16a.json"
+      },
+      {
+        "page_number": 176,
+        "source_page_number": 176,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p176__cc16cf0872af.json"
+      },
+      {
+        "page_number": 177,
+        "source_page_number": 177,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p177__421cd19b1f94.json"
+      },
+      {
+        "page_number": 178,
+        "source_page_number": 178,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p178__8c1736c14595.json"
+      },
+      {
+        "page_number": 179,
+        "source_page_number": 179,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p179__0dee003350b1.json"
+      },
+      {
+        "page_number": 180,
+        "source_page_number": 180,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p180__efa698839d0e.json"
+      }
+    ],
+    "current_index": 2,
+    "previous_page": 2,
+    "next_page": 4
+  },
+  "review_image_url": "./data/images/2026__p003__62dc70e14a72.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 3
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다.",
+        "골반입구(pelvic inlet)은 위골반문(superior pelvic aperture)이라고도 한다.",
+        "위쪽 배안장기(upper abdominal viscera)는 가슴우리(thoracic cage)에 의해 보호받는다.",
+        "아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호받는다.",
+        "배안(abdominal cavity)과 골반안(pelvic cavity)은 명확하게 구분되지 않는다.",
+        "골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다.",
+        "큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다.",
+        "작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다.",
+        "샅(perineum)은 골반(pelvis) 아래에 위치한다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "위골반문의 영어 이름은 superior pelvic aperture이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "작은골반의 영어 이름은 lesser pelvis이다.",
+        "심장의 영어 이름은 heart이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "큰골반의 영어 이름은 greater pelvis이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "위의 영어 이름은 stomach이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "허파의 영어 이름은 lung이다.",
+        "간의 영어 이름은 liver이다.",
+        "복장뼈의 영어 이름은 sternum이다.",
+        "가슴우리의 영어 이름은 thoracic cage이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "유문의 영어 이름은 pylorus이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "가슴안의 영어 이름은 thoracic cavity이다.",
+        "배속내장의 영어 이름은 abdominal viscera이다.",
+        "위쪽 배안장기의 영어 이름은 upper abdominal viscera이다.",
+        "아래쪽 배안장기의 영어 이름은 lower abdominal viscera이다.",
+        "골반안의 영어 이름은 pelvic cavity이다.",
+        "배골반안의 영어 이름은 abdominopelvic cavity이다.",
+        "골반입구의 영어 이름은 pelvic inlet이다.",
+        "가짜골반의 영어 이름은 false pelvis이다.",
+        "진골반의 영어 이름은 true pelvis이다.",
+        "샅의 영어 이름은 perineum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "윗배까지 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "pelvis가 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 13,
+          "text": "쓸개 이자운과 pelvis가 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "보호하고 '뼈 Cecum Small intestine",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 32,
+          "text": "보호하는 '뱃감장품 Xiphoid process of sternum",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 49,
+          "text": "강의원본의 배안/골반안 개요 그림 위에 경계와 보호 구조에 대한 필기가 추가된 페이지다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "lesser pelvis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "Outline o duodenum 가로잘록창자 Transverse colon",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "아래 막창자 작은창자",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "Greater pelvis 엉덩w올윗_ '가시사이면6 plane '소화기관과 kidney",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "diaphragm and 4th",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "Thorax Horizontal fissure o Left lung",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "Thoracic cage pro- 지라 Spleen",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "Gallbladder 위 Sia Stomach of pancreas",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "배 날문 Pylorus",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "Ascending colon 내림잘록창자 Descending colon",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 47,
+          "text": "배안에는 소화기관과 콩팥(kidney) 같은 내장이 많이 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 50,
+          "text": "배안(abdominal cavity) 가로막(diaphragm)에 의해 나뉜다 가슴안(thoracic cavity)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 37,
+        "accounted_term_count": 36,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.973,
+        "accounted_terms": [
+          "배안(abdominal cavity)",
+          "가슴안(thoracic cavity)",
+          "가로막(diaphragm)",
+          "위쪽 배안장기(upper abdominal viscera)",
+          "가슴우리(thoracic cage)",
+          "아래쪽 배안장기(lower abdominal viscera)",
+          "큰골반(greater pelvis)",
+          "골반안(pelvic cavity)",
+          "배골반안(abdominopelvic cavity)",
+          "골반입구(pelvic inlet)",
+          "위골반문(superior pelvic aperture)",
+          "가짜골반(false pelvis)",
+          "작은골반(lesser pelvis)",
+          "진골반(true pelvis)",
+          "골반(pelvis)",
+          "배(abdominal region)",
+          "심장(heart)",
+          "이자(pancreas)",
+          "샘창자(duodenum)",
+          "가로잘록창자(transverse colon)",
+          "막창자(cecum)",
+          "작은창자(small intestine)",
+          "기관(trachea)",
+          "척주(vertebral column)",
+          "위(stomach)",
+          "가슴(thorax)",
+          "허파(lung)",
+          "간(liver)",
+          "복장뼈(sternum)",
+          "지라(spleen)",
+          "쓸개주머니(gallbladder)",
+          "유문(pylorus)",
+          "오름잘록창자(ascending colon)",
+          "내림잘록창자(descending colon)",
+          "배속내장(abdominal viscera)",
+          "샅(perineum)"
+        ],
+        "unresolved_terms": [
+          "배안에는소화기관과콩팥(kidney)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Overview of viscera of thorax and abdomen in situ",
+        "내장들의 그림",
+        "thoracic cage가",
+        "diaphragm이 구분",
+        "윗배까지 보호",
+        "아래쪽 내장은 greater",
+        "pelvis가 보호",
+        "diaphragm and 4th",
+        "매우많음",
+        "superior pelvic aperture",
+        "lesser pelvis",
+        "Apex o right lung",
+        "가슴 오른히파 수평등새 원히파",
+        "Thorax Horizontal fissure o Left lung",
+        "로아일유%지않간 원허파 심장-임",
+        "Right dome o Cardiac notch o left lung",
+        "Inlercostal space 심장끝",
+        "Apex 이 heart",
+        "diaphragmol 구분 윗배까지 보호",
+        "위 복장뼈갈돌기롭골검상돌기)",
+        "보호하는 '뱃감장품 Xiphoid process of sternum",
+        "Thoracic cage pro- 지라 Spleen",
+        "Kbdotectimiyyucper Lin 날문가로면 Transpyloric plane 아래쪽 내장은 greater",
+        "쓸개 이자운과 pelvis가 보호",
+        "Gallbladder 위 Sia Stomach of pancreas",
+        "배 날문 Pylorus",
+        "Abdomen 셈장자 운과",
+        "Outline o duodenum 가로잘록창자 Transverse colon",
+        "Ascending colon 내림잘록창자 Descending colon",
+        "보호하고 '뼈 Cecum Small intestine",
+        "아래 막창자 작은창자",
+        "Greater pelvis 엉덩w올윗_ '가시사이면6 plane '소화기관과 kidney",
+        "{punearingoand and Anterior 구물잘록창자 매우망음",
+        "abusminal viscra superior iliac Sigmoid colon",
+        "superior pelvic aperturel spine 방광",
+        "Urlnary bladder",
+        "lesser pelvis",
+        "2 위골반문면에 의해 1. 가로막에 의해 경계 조위적\" '지위짐"
+      ],
+      "supplemental_ocr_blocks": [
+        "내장들의 그림",
+        "빗장-쇄골)",
+        "Clavicle",
+        "오른히파 꼭대기",
+        "right lung",
+        "가로막이",
+        "'오름잘록창자",
+        "골반",
+        "Pelvis",
+        "앞면"
+      ],
+      "corrected_page_text": "Overview of viscera of thorax and abdomen in situ\n내장들의 그림\nthoracic cage가\ndiaphragm이 구분\n윗배까지 보호\n아래쪽 내장은 greater\npelvis가 보호\ndiaphragm and 4th\n매우많음\nsuperior pelvic aperture\nlesser pelvis\nApex o right lung\n가슴 오른히파 수평등새 원히파\nThorax Horizontal fissure o Left lung\n로아일유%지않간 원허파 심장-임\nRight dome o Cardiac notch o left lung\nInlercostal space 심장끝\nApex 이 heart\ndiaphragmol 구분 윗배까지 보호\n위 복장뼈갈돌기롭골검상돌기)\n보호하는 '뱃감장품 Xiphoid process of sternum\nThoracic cage pro- 지라 Spleen\nKbdotectimiyyucper Lin 날문가로면 Transpyloric plane 아래쪽 내장은 greater\n쓸개 이자운과 pelvis가 보호\nGallbladder 위 Sia Stomach of pancreas\n배 날문 Pylorus\nAbdomen 셈장자 운과\nOutline o duodenum 가로잘록창자 Transverse colon\nAscending colon 내림잘록창자 Descending colon\n보호하고 '뼈 Cecum Small intestine\n아래 막창자 작은창자\nGreater pelvis 엉덩w올윗_ '가시사이면6 plane '소화기관과 kidney\n{punearingoand and Anterior 구물잘록창자 매우망음\nabusminal viscra superior iliac Sigmoid colon\nsuperior pelvic aperturel spine 방광\nUrlnary bladder\nlesser pelvis\n2 위골반문면에 의해 1. 가로막에 의해 경계 조위적\" '지위짐",
+      "quality_audit": {
+        "pdf_char_count": 149,
+        "pdf_span_count": 42,
+        "pdf_word_count": 30,
+        "ocr_fragment_count": 84,
+        "pdf_line_count": 11,
+        "ocr_line_count": 40,
+        "merged_line_count": 48,
+        "pdf_only_count": 8,
+        "ocr_only_count": 37,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 11,
+        "ocr_only_line_count": 37,
+        "pdf_alpha_count": 152,
+        "ocr_alpha_count": 693,
+        "promoted_ocr_only_count": 27
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Overview of viscera of thorax and abdomen in situ",
+        "Apex o right lung",
+        "가슴 오른히파 수평등새 원히파",
+        "Thorax Horizontal fissure o Left lung",
+        "로아일유%지않간 원허파 심장-임",
+        "Right dome o Cardiac notch o left lung",
+        "diaphragm and 4th",
+        "intercostal space 심장끝",
+        "Apex 이 heart",
+        "위 복장뼈갈돌기롭골검상돌기)",
+        "보호하는 '뱃감장품 Xiphoid process of sternum",
+        "Thoracic cage pro- 지라 Spleen",
+        "tecting upper 간",
+        "abdominal viscera Liver 날문가로면 Transpyloric plane",
+        "Gallbladder 위 Sia Stomach of pancreas",
+        "배 날문 Pylorus",
+        "Abdomen 셈장자 운과",
+        "오즘답록정차하나 가로잘록창자 Transverse colon",
+        "Ascending colon 내림잘록창자 Descending colon",
+        "아래 배내장울 막창자 작은창자",
+        "보호하고 지지하는 Cecum Small intestine",
+        "근골반 앞위 가시사이면",
+        "Greater pelvis 엉덩뼈가시 Interspinous plane",
+        "pupearingoard and Anterior 구물잘록창자",
+        "abdominal viscera superior iliac Sigmoid colon",
+        "Urinary bladder",
+        "2 위골반문면에 의해 1. 가로막에 의해 경계 조위적: '지위짐"
+      ],
+      "supplemental_ocr_blocks": [
+        "빗장-쇄골)",
+        "Clavicle",
+        "오른히파 꼭대기",
+        "'right lung",
+        "가로막이",
+        "쓸개 이자운과",
+        "Outline o",
+        "spine 방광",
+        "골반",
+        "Pelvis",
+        "앞면"
+      ],
+      "corrected_page_text": "Overview of viscera of thorax and abdomen in situ\nApex o right lung\n가슴 오른히파 수평등새 원히파\nThorax Horizontal fissure o Left lung\n로아일유%지않간 원허파 심장-임\nRight dome o Cardiac notch o left lung\ndiaphragm and 4th\nintercostal space 심장끝\nApex 이 heart\n위 복장뼈갈돌기롭골검상돌기)\n보호하는 '뱃감장품 Xiphoid process of sternum\nThoracic cage pro- 지라 Spleen\ntecting upper 간\nabdominal viscera Liver 날문가로면 Transpyloric plane\nGallbladder 위 Sia Stomach of pancreas\n배 날문 Pylorus\nAbdomen 셈장자 운과\n오즘답록정차하나 가로잘록창자 Transverse colon\nAscending colon 내림잘록창자 Descending colon\n아래 배내장울 막창자 작은창자\n보호하고 지지하는 Cecum Small intestine\n근골반 앞위 가시사이면\nGreater pelvis 엉덩뼈가시 Interspinous plane\npupearingoard and Anterior 구물잘록창자\nabdominal viscera superior iliac Sigmoid colon\nUrinary bladder\n2 위골반문면에 의해 1. 가로막에 의해 경계 조위적: '지위짐",
+      "quality_audit": {
+        "pdf_char_count": 41,
+        "pdf_span_count": 1,
+        "pdf_word_count": 9,
+        "ocr_fragment_count": 79,
+        "pdf_line_count": 1,
+        "ocr_line_count": 38,
+        "merged_line_count": 38,
+        "pdf_only_count": 0,
+        "ocr_only_count": 37,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 37,
+        "pdf_alpha_count": 41,
+        "ocr_alpha_count": 642,
+        "promoted_ocr_only_count": 26
+      }
+    }
+  }
+}

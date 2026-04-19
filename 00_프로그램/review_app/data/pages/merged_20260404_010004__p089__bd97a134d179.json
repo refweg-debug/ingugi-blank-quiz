@@ -1,0 +1,2312 @@
+{
+  "page_ref": {
+    "unit": "가슴",
+    "category": "필기본",
+    "source_stem": "merged_20260404_010004",
+    "page_number": 89
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "blocked_until_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_001"
+      ],
+      "prompt": "_____은 목(cervical region)과 배(abdominal region) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "가슴",
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 _____과 배(abdominal region) 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목(cervical region)",
+        "accepted_answers": [
+          "목(cervical region)",
+          "목",
+          "cervical region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목(cervical region)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 목(cervical region)과 _____ 사이에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배(abdominal region)",
+        "accepted_answers": [
+          "배(abdominal region)",
+          "배",
+          "abdominal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배(abdominal region)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_001"
+      ],
+      "prompt": "가슴(thorax)은 목(cervical region)과 배(abdominal region) _____",
+      "answer": {
+        "format": "single_text",
+        "value": "사이에 위치한다.",
+        "accepted_answers": [
+          "사이에 위치한다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "사이에 위치한다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_001"
+      ],
+      "prompt": "(__1__)은 (__2__)과 (__3__) (__4__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴(thorax)",
+          "목(cervical region)",
+          "배(abdominal region)",
+          "사이에 위치한다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴(thorax)",
+            "가슴",
+            "thorax"
+          ],
+          [
+            "목(cervical region)",
+            "목",
+            "cervical region"
+          ],
+          [
+            "배(abdominal region)",
+            "배",
+            "abdominal region"
+          ],
+          [
+            "사이에 위치한다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴(thorax)",
+          "목(cervical region)",
+          "배(abdominal region)",
+          "사이에 위치한다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "_____은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "가슴",
+          "thorax"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 _____, 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴벽(thoracic wall)",
+        "accepted_answers": [
+          "가슴벽(thoracic wall)",
+          "가슴벽",
+          "thoracic wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴벽(thoracic wall)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), _____, 가슴안 장기(thoracic organs)로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), _____로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안 장기(thoracic organs)",
+        "accepted_answers": [
+          "가슴안 장기(thoracic organs)",
+          "가슴안 장기",
+          "thoracic organs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안 장기(thoracic organs)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "로 구성된다.",
+        "accepted_answers": [
+          "로 구성된다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "로 구성된다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_002_006",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_002"
+      ],
+      "prompt": "(__1__)은 (__2__), (__3__), (__4__)로 구성된다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴(thorax)",
+          "가슴벽(thoracic wall)",
+          "가슴안(thoracic cavity)",
+          "가슴안 장기(thoracic organs)"
+        ],
+        "accepted_answers": [
+          [
+            "가슴(thorax)",
+            "가슴",
+            "thorax"
+          ],
+          [
+            "가슴벽(thoracic wall)",
+            "가슴벽",
+            "thoracic wall"
+          ],
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "가슴안 장기(thoracic organs)",
+            "가슴안 장기",
+            "thoracic organs"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴(thorax)",
+          "가슴벽(thoracic wall)",
+          "가슴안(thoracic cavity)",
+          "가슴안 장기(thoracic organs)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_003"
+      ],
+      "prompt": "_____은 허파(lung)가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_003"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허파(lung)",
+        "accepted_answers": [
+          "허파(lung)",
+          "허파",
+          "lung"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허파(lung)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_003"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 허파(lung)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "가 들어 있는 공간이다.",
+        "accepted_answers": [
+          "가 들어 있는 공간이다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "가 들어 있는 공간이다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_003"
+      ],
+      "prompt": "(__1__)은 (__2__)(__3__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "가 들어 있는 공간이다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "허파(lung)",
+            "허파",
+            "lung"
+          ],
+          [
+            "가 들어 있는 공간이다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "가 들어 있는 공간이다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_004"
+      ],
+      "prompt": "_____은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_004"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____와 심장(heart) 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허파(lung)",
+        "accepted_answers": [
+          "허파(lung)",
+          "허파",
+          "lung"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허파(lung)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_004"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 허파(lung)와 _____ 등의 장기가 들어 있는 공간이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "심장(heart)",
+        "accepted_answers": [
+          "심장(heart)",
+          "심장",
+          "heart"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "심장(heart)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_004_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_004"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기_____",
+      "answer": {
+        "format": "single_text",
+        "value": "가 들어 있는 공간이다.",
+        "accepted_answers": [
+          "가 들어 있는 공간이다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "가 들어 있는 공간이다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_004_005",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_004"
+      ],
+      "prompt": "(__1__)은 (__2__)와 (__3__) 등의 장기(__4__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "심장(heart)",
+          "가 들어 있는 공간이다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "허파(lung)",
+            "허파",
+            "lung"
+          ],
+          [
+            "심장(heart)",
+            "심장",
+            "heart"
+          ],
+          [
+            "가 들어 있는 공간이다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "허파(lung)",
+          "심장(heart)",
+          "가 들어 있는 공간이다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_005"
+      ],
+      "prompt": "_____은 피부, 근막, 근육이 붙어 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴벽(thoracic wall)",
+        "accepted_answers": [
+          "가슴벽(thoracic wall)",
+          "가슴벽",
+          "thoracic wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴벽(thoracic wall)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴벽(thoracic wall)은 피부, 근막, 근육이 붙어 이루어진다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_008"
+      ],
+      "prompt": "_____는 12쌍이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "갈비뼈",
+          "rib"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_008"
+      ],
+      "prompt": "갈비뼈(rib)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "12쌍",
+        "accepted_answers": [
+          "12쌍"
+        ]
+      },
+      "target": {
+        "kind": "number_or_range",
+        "text": "12쌍"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_008"
+      ],
+      "prompt": "(__1__)는 (__2__)이다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비뼈(rib)",
+          "12쌍"
+        ],
+        "accepted_answers": [
+          [
+            "갈비뼈(rib)",
+            "갈비뼈",
+            "rib"
+          ],
+          [
+            "12쌍"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비뼈(rib)",
+          "12쌍"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 12쌍이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_009"
+      ],
+      "prompt": "_____는 보호하는 역할도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "갈비뼈",
+          "rib"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 보호하는 역할도 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_009"
+      ],
+      "prompt": "갈비뼈(rib)는 _____",
+      "answer": {
+        "format": "single_text",
+        "value": "보호하는 역할도 한다.",
+        "accepted_answers": [
+          "보호하는 역할도 한다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "보호하는 역할도 한다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 보호하는 역할도 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_009"
+      ],
+      "prompt": "(__1__)는 (__2__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비뼈(rib)",
+          "보호하는 역할도 한다."
+        ],
+        "accepted_answers": [
+          [
+            "갈비뼈(rib)",
+            "갈비뼈",
+            "rib"
+          ],
+          [
+            "보호하는 역할도 한다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비뼈(rib)",
+          "보호하는 역할도 한다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비뼈(rib)는 보호하는 역할도 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "_____은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비사이근(intercostal muscles)",
+        "accepted_answers": [
+          "갈비사이근(intercostal muscles)",
+          "갈비사이근",
+          "intercostal muscles"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비사이근(intercostal muscles)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 _____, 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥갈비사이근(external intercostal muscle)",
+        "accepted_answers": [
+          "바깥갈비사이근(external intercostal muscle)",
+          "바깥갈비사이근",
+          "external intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥갈비사이근(external intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), _____, 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속갈비사이근(internal intercostal muscle)",
+        "accepted_answers": [
+          "속갈비사이근(internal intercostal muscle)",
+          "속갈비사이근",
+          "internal intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속갈비사이근(internal intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), _____으로 구분할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맨속갈비사이근(innermost intercostal muscle)",
+        "accepted_answers": [
+          "맨속갈비사이근(innermost intercostal muscle)",
+          "맨속갈비사이근",
+          "innermost intercostal muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맨속갈비사이근(innermost intercostal muscle)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "으로 구분할 수 있다.",
+        "accepted_answers": [
+          "으로 구분할 수 있다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "으로 구분할 수 있다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_011_006",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_011"
+      ],
+      "prompt": "(__1__)은 (__2__), (__3__), (__4__)으로 구분할 수 있다.",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비사이근(intercostal muscles)",
+          "바깥갈비사이근(external intercostal muscle)",
+          "속갈비사이근(internal intercostal muscle)",
+          "맨속갈비사이근(innermost intercostal muscle)"
+        ],
+        "accepted_answers": [
+          [
+            "갈비사이근(intercostal muscles)",
+            "갈비사이근",
+            "intercostal muscles"
+          ],
+          [
+            "바깥갈비사이근(external intercostal muscle)",
+            "바깥갈비사이근",
+            "external intercostal muscle"
+          ],
+          [
+            "속갈비사이근(internal intercostal muscle)",
+            "속갈비사이근",
+            "internal intercostal muscle"
+          ],
+          [
+            "맨속갈비사이근(innermost intercostal muscle)",
+            "맨속갈비사이근",
+            "innermost intercostal muscle"
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비사이근(intercostal muscles)",
+          "바깥갈비사이근(external intercostal muscle)",
+          "속갈비사이근(internal intercostal muscle)",
+          "맨속갈비사이근(innermost intercostal muscle)"
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_012"
+      ],
+      "prompt": "_____은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비사이근(intercostal muscles)",
+        "accepted_answers": [
+          "갈비사이근(intercostal muscles)",
+          "갈비사이근",
+          "intercostal muscles"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비사이근(intercostal muscles)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_012_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_012"
+      ],
+      "prompt": "갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 _____",
+      "answer": {
+        "format": "single_text",
+        "value": "역할을 한다.",
+        "accepted_answers": [
+          "역할을 한다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "역할을 한다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_012_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_012"
+      ],
+      "prompt": "(__1__)은 숨을 들이쉴 때 갈비뼈를 올리는 (__2__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "갈비사이근(intercostal muscles)",
+          "역할을 한다."
+        ],
+        "accepted_answers": [
+          [
+            "갈비사이근(intercostal muscles)",
+            "갈비사이근",
+            "intercostal muscles"
+          ],
+          [
+            "역할을 한다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "갈비사이근(intercostal muscles)",
+          "역할을 한다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_016"
+      ],
+      "prompt": "_____은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "가슴안",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_016_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 _____과 가슴세로칸(mediastinum)으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "양쪽 양쪽 가슴막안(pleural cavities)",
+        "accepted_answers": [
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "양쪽 양쪽 가슴막안",
+          "pleural cavities"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "양쪽 양쪽 가슴막안(pleural cavities)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_016_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 _____으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴세로칸(mediastinum)",
+        "accepted_answers": [
+          "가슴세로칸(mediastinum)",
+          "가슴세로칸",
+          "mediastinum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴세로칸(mediastinum)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_016_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_016"
+      ],
+      "prompt": "가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "으로 구성된다.",
+        "accepted_answers": [
+          "으로 구성된다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "으로 구성된다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_016_005",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_016"
+      ],
+      "prompt": "(__1__)은 (__2__)과 (__3__)(__4__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가슴안(thoracic cavity)",
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "가슴세로칸(mediastinum)",
+          "으로 구성된다."
+        ],
+        "accepted_answers": [
+          [
+            "가슴안(thoracic cavity)",
+            "가슴안",
+            "thoracic cavity"
+          ],
+          [
+            "양쪽 양쪽 가슴막안(pleural cavities)",
+            "양쪽 양쪽 가슴막안",
+            "pleural cavities"
+          ],
+          [
+            "가슴세로칸(mediastinum)",
+            "가슴세로칸",
+            "mediastinum"
+          ],
+          [
+            "으로 구성된다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가슴안(thoracic cavity)",
+          "양쪽 양쪽 가슴막안(pleural cavities)",
+          "가슴세로칸(mediastinum)",
+          "으로 구성된다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_020_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_020"
+      ],
+      "prompt": "_____은 목신경얼기(cervical plexus)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막신경(phrenic nerve)",
+        "accepted_answers": [
+          "가로막신경(phrenic nerve)",
+          "가로막신경",
+          "phrenic nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막신경(phrenic nerve)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_020_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_020"
+      ],
+      "prompt": "가로막신경(phrenic nerve)은 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "목신경얼기(cervical plexus)",
+        "accepted_answers": [
+          "목신경얼기(cervical plexus)",
+          "목신경얼기",
+          "cervical plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "목신경얼기(cervical plexus)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_020_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_020"
+      ],
+      "prompt": "가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)_____",
+      "answer": {
+        "format": "single_text",
+        "value": "의 가지이다.",
+        "accepted_answers": [
+          "의 가지이다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "의 가지이다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_021_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_021"
+      ],
+      "prompt": "_____은 빗장밑동맥과 빗장밑정맥 사이를 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막신경(phrenic nerve)",
+        "accepted_answers": [
+          "가로막신경(phrenic nerve)",
+          "가로막신경",
+          "phrenic nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막신경(phrenic nerve)"
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_021_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_021"
+      ],
+      "prompt": "가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이_____",
+      "answer": {
+        "format": "single_text",
+        "value": "를 지난다.",
+        "accepted_answers": [
+          "를 지난다."
+        ]
+      },
+      "target": {
+        "kind": "predicate",
+        "text": "를 지난다."
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    },
+    {
+      "question_id": "가슴_필기본_merged_20260404_010004_p089_canon_가슴_필기본_089_canon_021_003",
+      "question_type": "fill_blank",
+      "blank_mode": "multi",
+      "question_focus": "canonical_fact_mastery",
+      "proposition_refs": [
+        "가슴_필기본_089_canon_021"
+      ],
+      "prompt": "(__1__)은 빗장밑동맥과 빗장밑정맥 사이(__2__)",
+      "answer": {
+        "format": "ordered_list",
+        "value": [
+          "가로막신경(phrenic nerve)",
+          "를 지난다."
+        ],
+        "accepted_answers": [
+          [
+            "가로막신경(phrenic nerve)",
+            "가로막신경",
+            "phrenic nerve"
+          ],
+          [
+            "를 지난다."
+          ]
+        ]
+      },
+      "target": {
+        "kind": "multi_component",
+        "texts": [
+          "가로막신경(phrenic nerve)",
+          "를 지난다."
+        ]
+      },
+      "verification_status": "canonical_source",
+      "explanation": {
+        "short": "전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다.",
+        "full": "원문 명제: 가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다. / 검증 메모: 전공서 기반 canonical 명제를 직접 회상하는 빈칸 문제다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 47,
+    "question_type_count": {
+      "fill_blank": 47
+    },
+    "question_focus_count": {
+      "canonical_fact_mastery": 47
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p001__3566f794c6de.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p001__3566f794c6de.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 120,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p002__270a7e28acd7.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p002__270a7e28acd7.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p003__9635c7191dea.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p003__9635c7191dea.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 48,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p004__3908a86a8f81.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p004__3908a86a8f81.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p005__f61959c3393a.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p005__f61959c3393a.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p006__5b6738beba42.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p006__5b6738beba42.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 51,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p007__6e59cd503537.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p007__6e59cd503537.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p008__1b6e886cd875.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p008__1b6e886cd875.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p009__66ad26161f55.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p009__66ad26161f55.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 56,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p010__e73ebc38ac1e.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p010__e73ebc38ac1e.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 56,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p011__0d24c9c3be93.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p011__0d24c9c3be93.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 48,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p012__1b46acc83f1b.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p012__1b46acc83f1b.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 52,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p013__bc5d3a2fa2f4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p013__bc5d3a2fa2f4.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p014__ab9d9c32b001.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p014__ab9d9c32b001.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 49,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p015__e5fbb0b3fe75.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p015__e5fbb0b3fe75.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p016__6dd284e0a55e.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p016__6dd284e0a55e.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p017__50d427741b12.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p017__50d427741b12.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p018__2e3465d35bf2.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p018__2e3465d35bf2.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p019__73d61cfa32de.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p019__73d61cfa32de.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p020__4cbc85d1f328.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p020__4cbc85d1f328.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p021__c976f29a04d1.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p021__c976f29a04d1.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p022__809376bc2844.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p022__809376bc2844.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p023__e4621f18480c.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p023__e4621f18480c.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p024__fcab46f7b2e9.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p024__fcab46f7b2e9.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p025__cb69feec0666.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p025__cb69feec0666.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p026__09ab9453d8c0.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p026__09ab9453d8c0.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p027__ff1cf4242372.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p027__ff1cf4242372.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p028__aa26d8b33400.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p028__aa26d8b33400.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p029__186b938373ba.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p029__186b938373ba.webp"
+      },
+      {
+        "page_number": 30,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p030__ff0fd06ff088.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p030__ff0fd06ff088.webp"
+      },
+      {
+        "page_number": 31,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p031__4351a43678d6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p031__4351a43678d6.webp"
+      },
+      {
+        "page_number": 32,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p032__cd49d036d4ab.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p032__cd49d036d4ab.webp"
+      },
+      {
+        "page_number": 33,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p033__eea0658df225.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p033__eea0658df225.webp"
+      },
+      {
+        "page_number": 34,
+        "question_count": 51,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p034__6b3461ddff75.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p034__6b3461ddff75.webp"
+      },
+      {
+        "page_number": 35,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p035__7e1fec67c1f5.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p035__7e1fec67c1f5.webp"
+      },
+      {
+        "page_number": 36,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p036__bdd3b3c42ca7.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p036__bdd3b3c42ca7.webp"
+      },
+      {
+        "page_number": 37,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p037__51701a05fad9.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p037__51701a05fad9.webp"
+      },
+      {
+        "page_number": 38,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p038__7bdc285dad15.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p038__7bdc285dad15.webp"
+      },
+      {
+        "page_number": 39,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p039__dd14bef363f6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p039__dd14bef363f6.webp"
+      },
+      {
+        "page_number": 40,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p040__08bb887a8ac4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p040__08bb887a8ac4.webp"
+      },
+      {
+        "page_number": 41,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p041__3e0cae5f8ad4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p041__3e0cae5f8ad4.webp"
+      },
+      {
+        "page_number": 42,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p042__e54859fa0cb5.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p042__e54859fa0cb5.webp"
+      },
+      {
+        "page_number": 43,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p043__3e8e5bbba7fa.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p043__3e8e5bbba7fa.webp"
+      },
+      {
+        "page_number": 44,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p044__52489dfd5b70.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p044__52489dfd5b70.webp"
+      },
+      {
+        "page_number": 45,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p045__752b94bcdbaf.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p045__752b94bcdbaf.webp"
+      },
+      {
+        "page_number": 46,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p046__44ec3ac5267f.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p046__44ec3ac5267f.webp"
+      },
+      {
+        "page_number": 47,
+        "question_count": 52,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p047__a974d25fa734.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p047__a974d25fa734.webp"
+      },
+      {
+        "page_number": 48,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p048__03fe480b25d6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p048__03fe480b25d6.webp"
+      },
+      {
+        "page_number": 49,
+        "question_count": 51,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p049__132e330fa73c.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p049__132e330fa73c.webp"
+      },
+      {
+        "page_number": 50,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p050__f89b40685ccf.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p050__f89b40685ccf.webp"
+      },
+      {
+        "page_number": 51,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p051__7a369d8debb3.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p051__7a369d8debb3.webp"
+      },
+      {
+        "page_number": 52,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p052__2a44d2e01c8c.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p052__2a44d2e01c8c.webp"
+      },
+      {
+        "page_number": 53,
+        "question_count": 52,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p053__2749f75ccf33.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p053__2749f75ccf33.webp"
+      },
+      {
+        "page_number": 54,
+        "question_count": 51,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p054__50cc73e9d704.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p054__50cc73e9d704.webp"
+      },
+      {
+        "page_number": 55,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p055__77072792ee2a.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p055__77072792ee2a.webp"
+      },
+      {
+        "page_number": 56,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p056__9a0834f208ee.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p056__9a0834f208ee.webp"
+      },
+      {
+        "page_number": 57,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p057__986a8a0df62d.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p057__986a8a0df62d.webp"
+      },
+      {
+        "page_number": 58,
+        "question_count": 53,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p058__d822313979b8.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p058__d822313979b8.webp"
+      },
+      {
+        "page_number": 59,
+        "question_count": 59,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p059__18fad680b271.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p059__18fad680b271.webp"
+      },
+      {
+        "page_number": 60,
+        "question_count": 52,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p060__c5fd4a0c49bc.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p060__c5fd4a0c49bc.webp"
+      },
+      {
+        "page_number": 61,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p061__5a88fbe98f02.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p061__5a88fbe98f02.webp"
+      },
+      {
+        "page_number": 62,
+        "question_count": 53,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p062__1795183f51f5.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p062__1795183f51f5.webp"
+      },
+      {
+        "page_number": 63,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p063__d204c1be18e4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p063__d204c1be18e4.webp"
+      },
+      {
+        "page_number": 64,
+        "question_count": 51,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p064__74cf36c5e4c1.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p064__74cf36c5e4c1.webp"
+      },
+      {
+        "page_number": 65,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p065__e762d4dcd7c7.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p065__e762d4dcd7c7.webp"
+      },
+      {
+        "page_number": 66,
+        "question_count": 52,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p066__ccdafe29ef75.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p066__ccdafe29ef75.webp"
+      },
+      {
+        "page_number": 67,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p067__7ecdd032fd17.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p067__7ecdd032fd17.webp"
+      },
+      {
+        "page_number": 68,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p068__178833be4b7b.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p068__178833be4b7b.webp"
+      },
+      {
+        "page_number": 69,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p069__ab04321c15e2.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p069__ab04321c15e2.webp"
+      },
+      {
+        "page_number": 70,
+        "question_count": 39,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p070__4afbee088416.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p070__4afbee088416.webp"
+      },
+      {
+        "page_number": 71,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p071__32470fc4c3a4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p071__32470fc4c3a4.webp"
+      },
+      {
+        "page_number": 72,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p072__363231b87f72.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p072__363231b87f72.webp"
+      },
+      {
+        "page_number": 73,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p073__36d896703538.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p073__36d896703538.webp"
+      },
+      {
+        "page_number": 74,
+        "question_count": 50,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p074__2b833c696763.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p074__2b833c696763.webp"
+      },
+      {
+        "page_number": 75,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p075__f4b0c0d411bd.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p075__f4b0c0d411bd.webp"
+      },
+      {
+        "page_number": 76,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p076__fed79fc6ca18.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p076__fed79fc6ca18.webp"
+      },
+      {
+        "page_number": 77,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p077__89ee3d9c1bdf.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p077__89ee3d9c1bdf.webp"
+      },
+      {
+        "page_number": 78,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p078__740f4b2ee072.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p078__740f4b2ee072.webp"
+      },
+      {
+        "page_number": 79,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p079__671400fc478f.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p079__671400fc478f.webp"
+      },
+      {
+        "page_number": 80,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p080__625f455bfde9.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p080__625f455bfde9.webp"
+      },
+      {
+        "page_number": 81,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p081__8a32344f8edb.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p081__8a32344f8edb.webp"
+      },
+      {
+        "page_number": 82,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p082__3aaae7b630a3.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p082__3aaae7b630a3.webp"
+      },
+      {
+        "page_number": 83,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p083__cf9263fa967b.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p083__cf9263fa967b.webp"
+      },
+      {
+        "page_number": 84,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p084__58dd9cc5d08f.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p084__58dd9cc5d08f.webp"
+      },
+      {
+        "page_number": 85,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p085__dfd7dd5b29e6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p085__dfd7dd5b29e6.webp"
+      },
+      {
+        "page_number": 86,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p086__16f9fbe49291.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p086__16f9fbe49291.webp"
+      },
+      {
+        "page_number": 87,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p087__5464ff862846.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p087__5464ff862846.webp"
+      },
+      {
+        "page_number": 88,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p088__abc13f02d096.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p088__abc13f02d096.webp"
+      },
+      {
+        "page_number": 89,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p089__bd97a134d179.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p089__bd97a134d179.webp"
+      },
+      {
+        "page_number": 90,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p090__d145c87d085d.json"
+      },
+      {
+        "page_number": 91,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p091__c4a3788850fa.json"
+      },
+      {
+        "page_number": 92,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p092__63b03d0c82b0.json"
+      },
+      {
+        "page_number": 93,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p093__479dfacefcd4.json"
+      },
+      {
+        "page_number": 94,
+        "question_count": 47,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p094__b822506c17a6.json"
+      },
+      {
+        "page_number": 95,
+        "question_count": 39,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p095__8f4de7c82e8a.json"
+      }
+    ],
+    "current_index": 88,
+    "previous_page": 88,
+    "next_page": 90
+  },
+  "review_image_url": "./data/images/merged_20260404_010004__p089__bd97a134d179.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "merged_20260404_010004",
+      "page_number": 89
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [
+        "가슴(thorax)은 목(cervical region)과 배(abdominal region) 사이에 위치한다.",
+        "가슴(thorax)은 가슴벽(thoracic wall), 가슴안(thoracic cavity), 가슴안 장기(thoracic organs)로 구성된다.",
+        "가슴안(thoracic cavity)은 허파(lung)가 들어 있는 공간이다.",
+        "가슴안(thoracic cavity)은 허파(lung)와 심장(heart) 등의 장기가 들어 있는 공간이다.",
+        "가슴벽(thoracic wall)은 피부, 근막, 근육이 붙어 이루어진다.",
+        "갈비뼈(rib)는 12쌍이다.",
+        "갈비뼈(rib)는 보호하는 역할도 한다.",
+        "갈비사이근(intercostal muscles)은 바깥갈비사이근(external intercostal muscle), 속갈비사이근(internal intercostal muscle), 맨속갈비사이근(innermost intercostal muscle)으로 구분할 수 있다.",
+        "갈비사이근(intercostal muscles)은 숨을 들이쉴 때 갈비뼈를 올리는 역할을 한다.",
+        "가슴안(thoracic cavity)은 양쪽 양쪽 가슴막안(pleural cavities)과 가슴세로칸(mediastinum)으로 구성된다.",
+        "가로막신경(phrenic nerve)은 목신경얼기(cervical plexus)의 가지이다.",
+        "가로막신경(phrenic nerve)은 빗장밑동맥과 빗장밑정맥 사이를 지난다."
+      ],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 0,
+        "accounted_term_count": 0,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.0,
+        "accounted_terms": [],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ingugi Question Review</title>
+  <link rel="stylesheet" href="./app.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-block">
+        <h1>Ingugi Question Review</h1>
+        <p class="muted">Browser UI for reviewing generated fill-blank questions page by page.</p>
+      </div>
+
+      <div class="sidebar-block controls">
+        <label>
+          <span>Unit</span>
+          <select id="unitSelect"></select>
+        </label>
+        <label>
+          <span>Category</span>
+          <select id="categorySelect"></select>
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="sourceSelect"></select>
+        </label>
+        <button id="refreshButton" class="ghost">Refresh Library</button>
+      </div>
+
+      <div class="sidebar-block page-list-block">
+        <div class="page-list-header">
+          <strong>Pages</strong>
+          <span id="pageStats" class="muted"></span>
+        </div>
+        <div id="pageList" class="page-list"></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <section class="source-top-card">
+        <div class="source-top-head">
+          <div class="source-top-labels">
+            <h2>Source Page</h2>
+            <p id="sourceSummary" class="muted source-summary">Select a page</p>
+          </div>
+          <div class="nav-buttons">
+            <a id="openImageLink" target="_blank" rel="noopener noreferrer" class="ghost-link">Open Image</a>
+            <button id="prevPageButton" class="ghost">Previous Page</button>
+            <button id="nextPageButtonTop">Next Page</button>
+          </div>
+        </div>
+        <div class="source-image-frame">
+          <img id="reviewImage" alt="Source page preview">
+        </div>
+      </section>
+
+      <section class="question-panel question-panel-wide">
+        <div class="section-title-row">
+          <h3>Questions</h3>
+          <span id="questionCount" class="muted"></span>
+        </div>
+        <div id="questionList" class="question-list"></div>
+        <div class="footer-nav">
+          <button id="nextPageButtonBottom">Next Page</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="questionCardTemplate">
+    <article class="question-card">
+      <div class="question-card-top">
+        <span class="question-index"></span>
+        <span class="question-badge"></span>
+      </div>
+      <p class="question-prompt"></p>
+      <textarea class="answer-input" rows="2" placeholder="Type your answer here before opening the solution."></textarea>
+      <div class="question-actions">
+        <button class="reveal-answer-button">Show Answer</button>
+      </div>
+      <div class="answer-panel hidden">
+        <div><strong>Answer</strong><div class="answer-value"></div></div>
+        <div><strong>Accepted Answers</strong><div class="accepted-answer-value"></div></div>
+        <div><strong>Explanation</strong><div class="answer-explanation"></div></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

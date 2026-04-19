@@ -1,0 +1,636 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 12
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄 섬유는 정중선에서 서로 교차하여 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "lineaalba",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 널힘줄 섬유는 정중선에서 서로 교차하여 백색선(linea alba)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_002"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 _____은 세 층으로 배열된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "편평근(flat muscles)",
+        "accepted_answers": [
+          "편평근(flat muscles)",
+          "flatmuscles",
+          "flat muscles",
+          "flatmuscle",
+          "flat muscle",
+          "flat한근육",
+          "flat 한 근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "편평근(flat muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_003"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "lineaalba",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_007"
+      ],
+      "prompt": "배곧은집(rectus sheath) 안에는 _____이 들어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "피라미드근(pyramidalis)",
+        "accepted_answers": [
+          "피라미드근(pyramidalis)",
+          "pyramidalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "피라미드근(pyramidalis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은집(rectus sheath) 안에는 피라미드근(pyramidalis)이 들어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_014"
+      ],
+      "prompt": "_____의 근섬유 방향은 바깥빗근(external oblique muscle)과 다르며, 위쪽 섬유는 거의 수직으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속빗근(internal oblique muscle)",
+        "accepted_answers": [
+          "속빗근(internal oblique muscle)",
+          "internalobliquemuscle",
+          "internal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속빗근(internal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 속빗근(internal oblique muscle)의 근섬유 방향은 바깥빗근(external oblique muscle)과 다르며, 위쪽 섬유는 거의 수직으로 주행한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_course_014_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_012_course_014"
+      ],
+      "prompt": "속빗근(internal oblique muscle)의 근섬유 방향은 _____과 다르며, 위쪽 섬유는 거의 수직으로 주행한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)",
+          "externalobliquemuscle",
+          "external oblique muscle",
+          "externaloblique",
+          "external oblique"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 속빗근(internal oblique muscle)의 근섬유 방향은 바깥빗근(external oblique muscle)과 다르며, 위쪽 섬유는 거의 수직으로 주행한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_012_ai_corrected_001"
+      ],
+      "prompt": "정중선에서 _____ 섬유가 서로 교차하여 백색선(linea alba)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정중선에서 널힘줄(aponeurosis) 섬유가 서로 교차하여 백색선(linea alba)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_012_ai_corrected_001"
+      ],
+      "prompt": "정중선에서 널힘줄(aponeurosis) 섬유가 서로 교차하여 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "lineaalba",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 정중선에서 널힘줄(aponeurosis) 섬유가 서로 교차하여 백색선(linea alba)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p012_course_배_필기본_012_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_012_ai_corrected_002"
+      ],
+      "prompt": "세 편평근의 _____은 함께 배곧은근집(rectus sheath)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 세 편평근의 널힘줄(aponeurosis)은 함께 배곧은근집(rectus sheath)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 9,
+    "question_type_count": {
+      "fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 6,
+      "course_exam_style": 3
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 11,
+    "previous_page": 11,
+    "next_page": 13
+  },
+  "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 12
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄 섬유는 정중선에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다.",
+        "배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+        "배곧은집(rectus sheath) 안에는 피라미드근(pyramidalis)이 들어 있다.",
+        "속빗근(internal oblique muscle)의 근섬유 방향은 바깥빗근(external oblique muscle)과 다르며, 위쪽 섬유는 거의 수직으로 주행한다.",
+        "정중선에서 널힘줄(aponeurosis) 섬유가 서로 교차하여 백색선(linea alba)을 형성한다.",
+        "세 편평근의 널힘줄(aponeurosis)은 함께 배곧은근집(rectus sheath)을 형성한다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배곧은집의 영어 이름은 rectus sheath이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "피라미드근의 영어 이름은 pyramidalis이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "편평근의 영어 이름은 flat muscles이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "백색선의 영어 이름은 linea alba이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "내부 장기를 보호해주며",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "얘 안에 rectus abdominis pyramidalis",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "세 편평근은 배바깥빗근(external abdominal oblique muscle), 배속빗근(internal abdominal oblique muscle), 배가로근(transversus abdominis muscle)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "가운데의 두 세로근은 배곧은근(rectus abdominis muscle)과 배세모근(pyramidalis muscle)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "배바깥빗근(external abdominal oblique muscle)의 근육섬유는 아래안쪽 방향으로 달린다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "배속빗근(internal abdominal oblique muscle)의 근육섬유는 배바깥빗근과 다른 방향으로 달리며 위쪽에서는 거의 수직에 가깝다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "배가로근(transversus abdominis muscle)의 근육섬유는 거의 수평으로 달린다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "세 편평근은 앞쪽에서 널힘줄(aponeurosis)로 바뀐다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 18,
+        "accounted_term_count": 16,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.889,
+        "accounted_terms": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "배가로근(transversus abdominis muscle)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "근육(muscles)",
+          "널힘줄(aponeurosis)",
+          "위(stomach)",
+          "배곧은집(rectus sheath)",
+          "배곧은근(rectus abdominis)",
+          "피라미드근(pyramidalis)",
+          "편평근(flat muscles)",
+          "바깥빗근(external oblique muscle)",
+          "속빗근(internal oblique muscle)",
+          "백색선(linea alba)"
+        ],
+        "unresolved_terms": [
+          "배세모근(pyramidalis muscle)",
+          "포함한다배곧은근(rectus abdominis muscle)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Flat 3개",
+        "Anterolateral muscles",
+        "Vertical이 가운데에 2개 있다",
+        "배벽의 지지해 주고",
+        "내부 장기를 보호해주며",
+        "자세 유지 역할을 담당한다",
+        "아래안쪽방향",
+        "근육이 끝나고 aponeurosis로 바뀜",
+        "linea alba형성",
+        "나름 수평",
+        "근육 주행방향 external과 다름 참고부채살 모양",
+        "얘도 aponeurosis",
+        "위쪽에선 거의 수직",
+        "aponuerosis가 합쳐져서 rectus sheath",
+        "여기도 aponeurosis",
+        "얘 안에 rectus abdominis pyramidalis",
+        "ﬂat한 놈들 3개",
+        "|있다",
+        "origin은 뒤 가족이고; 앞쪽의 aponeurosis 형태 있다!"
+      ],
+      "supplemental_ocr_blocks": [
+        "내부 장기름 보호해주머",
+        "자세 유지 역할울 담당하다.",
+        "표 6-1. 앞가족배벽의 근육",
+        "쇼)",
+        "배바깥빗근",
+        "external",
+        "abdominal",
+        "oblique m",
+        "아래안쪽방향 배가로근 세모근",
+        "배속빗근 transversus 배곧은근 pyramidalis m",
+        "굳육이 끝나고aponeylgyjs로 바판. internal abdominal abdominis m rectus abdominis m",
+        "linea alba형성 linea alba oblique m",
+        "위쪽에선 거의 수직 '얘도 aponeurosis",
+        "여가도 aponeuirosis aponuerosis가 합처저서 rectus sheath",
+        "flat한 놈들 3개 얘 안에 rectus abdominis; pyramidalis"
+      ],
+      "corrected_page_text": "Flat 3개\nAnterolateral muscles\nVertical이 가운데에 2개 있다\n배벽의 지지해 주고\n내부 장기를 보호해주며\n자세 유지 역할을 담당한다\n아래안쪽방향\n근육이 끝나고 aponeurosis로 바뀜\nlinea alba형성\n나름 수평\n근육 주행방향 external과 다름 참고부채살 모양\n얘도 aponeurosis\n위쪽에선 거의 수직\naponuerosis가 합쳐져서 rectus sheath\n여기도 aponeurosis\n얘 안에 rectus abdominis pyramidalis\nﬂat한 놈들 3개\n|있다\norigin은 뒤 가족이고; 앞쪽의 aponeurosis 형태 있다!",
+      "quality_audit": {
+        "pdf_char_count": 276,
+        "pdf_span_count": 128,
+        "pdf_word_count": 59,
+        "ocr_fragment_count": 34,
+        "pdf_line_count": 19,
+        "ocr_line_count": 20,
+        "merged_line_count": 34,
+        "pdf_only_count": 14,
+        "ocr_only_count": 15,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 19,
+        "ocr_only_line_count": 15,
+        "pdf_alpha_count": 266,
+        "ocr_alpha_count": 297,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

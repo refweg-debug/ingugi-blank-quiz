@@ -1,0 +1,1053 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 8
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_003"
+      ],
+      "prompt": "_____은 정중시상면(sagittal plane)과 배꼽가로면(transumbilical plane)을 기준으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "4분구역(four-quadrant pattern)",
+        "accepted_answers": [
+          "4분구역(four-quadrant pattern)",
+          "four-quadrant pattern"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "4분구역(four-quadrant pattern)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 4분구역(four-quadrant pattern)은 정중시상면(sagittal plane)과 배꼽가로면(transumbilical plane)을 기준으로 나눈다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_003"
+      ],
+      "prompt": "4분구역(four-quadrant pattern)은 _____과 배꼽가로면(transumbilical plane)을 기준으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중시상면(sagittal plane)",
+        "accepted_answers": [
+          "정중시상면(sagittal plane)",
+          "sagittal plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중시상면(sagittal plane)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 4분구역(four-quadrant pattern)은 정중시상면(sagittal plane)과 배꼽가로면(transumbilical plane)을 기준으로 나눈다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_003"
+      ],
+      "prompt": "4분구역(four-quadrant pattern)은 정중시상면(sagittal plane)과 _____을 기준으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽가로면(transumbilical plane)",
+        "accepted_answers": [
+          "배꼽가로면(transumbilical plane)",
+          "transumbilical plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽가로면(transumbilical plane)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 4분구역(four-quadrant pattern)은 정중시상면(sagittal plane)과 배꼽가로면(transumbilical plane)을 기준으로 나눈다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_004"
+      ],
+      "prompt": "_____은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "4분구역(four-quadrant pattern)",
+        "accepted_answers": [
+          "4분구역(four-quadrant pattern)",
+          "four-quadrant pattern"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "4분구역(four-quadrant pattern)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_004"
+      ],
+      "prompt": "4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), _____으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼아래사분구역(left lower quadrant)",
+        "accepted_answers": [
+          "왼아래사분구역(left lower quadrant)",
+          "left lower quadrant",
+          "LLQ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼아래사분구역(left lower quadrant)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_005"
+      ],
+      "prompt": "_____는 막창자꼬리(appendix)의 표면해부학적 기준점이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)",
+          "McBurney's point",
+          "McBurney point"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 appendix의 표면해부학적 기준점이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_005"
+      ],
+      "prompt": "맥버니점(McBurney's point)는 _____의 표면해부학적 기준점이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(appendix)",
+        "accepted_answers": [
+          "막창자꼬리(appendix)",
+          "appendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(appendix)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 appendix의 표면해부학적 기준점이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_006"
+      ],
+      "prompt": "_____는 ASIS(anterior superior iliac spine)와 배꼽을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)",
+          "McBurney's point",
+          "McBurney point"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 ASIS(anterior superior iliac spine)와 배꼽을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_007"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_007"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_007_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_007"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_008"
+      ],
+      "prompt": "_____는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈 안쪽에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_008"
+      ],
+      "prompt": "지라(spleen)는 _____의 9번째부터 11번째 갈비뼈 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위사분구역(left upper quadrant)",
+        "accepted_answers": [
+          "왼위사분구역(left upper quadrant)",
+          "left upper quadrant"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위사분구역(left upper quadrant)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈 안쪽에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_009"
+      ],
+      "prompt": "간(liver)은 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위사분구역(right upper quadrant)",
+        "accepted_answers": [
+          "오른위사분구역(right upper quadrant)",
+          "right upper quadrant"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위사분구역(right upper quadrant)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 간(liver)은 오른위사분구역(right upper quadrant)에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_course_배_필기본_008_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_009"
+      ],
+      "prompt": "_____은 오른위사분구역(right upper quadrant)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 간(liver)은 오른위사분구역(right upper quadrant)에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽과 ASIS를 연결한 spinoumbilical line의 아래쪽 1/3 지점에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 맥버니점(McBurney's point) / predicate: 위치한다 / object: 배꼽과 ASIS를 연결한 spinoumbilical line의 아래쪽 1/3 지점"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "4분구역(four-quadrant pattern)의 기준으로 사용되는 수직면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중면(median plane)",
+        "accepted_answers": [
+          "정중면(median plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중면(median plane)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 4분구역(four-quadrant pattern) / predicate: uses_vertical_planes / object: 정중면(median plane)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "4분구역(four-quadrant pattern)의 기준으로 사용되는 수평면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽가로면(transumbilical plane)",
+        "accepted_answers": [
+          "배꼽가로면(transumbilical plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽가로면(transumbilical plane)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 4분구역(four-quadrant pattern) / predicate: uses_horizontal_planes / object: 배꼽가로면(transumbilical plane)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "간(liver)이 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른위사분구역(right upper quadrant)",
+        "accepted_answers": [
+          "오른위사분구역(right upper quadrant)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른위사분구역(right upper quadrant)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 간(liver) / predicate: lies_within / object: 오른위사분구역(right upper quadrant)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)이 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위사분구역(left upper quadrant)",
+        "accepted_answers": [
+          "왼위사분구역(left upper quadrant)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위사분구역(left upper quadrant)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위(stomach) / predicate: lies_within / object: 왼위사분구역(left upper quadrant)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "지라(spleen)이 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위사분구역(left upper quadrant)",
+        "accepted_answers": [
+          "왼위사분구역(left upper quadrant)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위사분구역(left upper quadrant)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: lies_within / object: 왼위사분구역(left upper quadrant)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_009_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "막창자꼬리(appendix) 위의 기준점은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_009"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_009"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 맥버니점(McBurney's point) / predicate: 표면해부학적 기준점이다 / object: 막창자꼬리(appendix)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p008_visual_visual_relation_010_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "spinoumbilical line의 가쪽 1/3 지점에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_010"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p008_ai_page_read::rel_010"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 맥버니점(McBurney's point) / predicate: 위치한다 / object: spinoumbilical line의 가쪽 1/3 지점"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 23,
+    "question_type_count": {
+      "fill_blank": 15,
+      "image_grounded_fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 15,
+      "visual_relation_understanding": 8
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 7,
+    "previous_page": 7,
+    "next_page": 9
+  },
+  "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 8
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "아래쪽 1/3 지점이 McBurney's point에 위치.",
+        "McBurney 절개(gridiron incision)는 McBurney's point 부근에 둔다.",
+        "4분구역(four-quadrant pattern)은 정중시상면(sagittal plane)과 배꼽가로면(transumbilical plane)을 기준으로 나눈다.",
+        "4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다.",
+        "McBurney's point는 appendix의 표면해부학적 기준점이다.",
+        "McBurney's point는 ASIS(anterior superior iliac spine)와 배꼽을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈 안쪽에 위치한다.",
+        "간(liver)은 오른위사분구역(right upper quadrant)에 위치한다.",
+        "샅의 영어 이름은 perineum이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "간의 영어 이름은 liver이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "정중시상면의 영어 이름은 sagittal plane이다.",
+        "배꼽가로면의 영어 이름은 transumbilical plane이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "4분구역의 영어 이름은 four-quadrant pattern이다.",
+        "오른위사분구역의 영어 이름은 right upper quadrant이다.",
+        "왼위사분구역의 영어 이름은 left upper quadrant이다.",
+        "오른아래사분구역의 영어 이름은 right lower quadrant이다.",
+        "왼아래사분구역의 영어 이름은 left lower quadrant이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "막창자의 영어 이름은 cecum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "배꼽과 ASIS를 연결한 spinoumbilical line",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "샅고랑인대 (inguinal ligament)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "ASIS: anterior superior iliac spine",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "오른위사분역 (right upper quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "왼위사분역 (left upper quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "오른아래사분역 (right lower quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "왼아래사분역 (left lower quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "가로막 (diaphragm)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "쓸개 (gallbladder)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "위앞엉덩뼈가시 (anterior superior iliac spine)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "4분구역(four-quadrant pattern) uses_vertical_planes 정중면(median plane)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "4분구역(four-quadrant pattern) uses_horizontal_planes 배꼽가로면(transumbilical plane)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "위(stomach) lies_within 왼위사분구역(left upper quadrant)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 26,
+        "accounted_term_count": 22,
+        "unresolved_term_count": 1,
+        "missing_term_count": 3,
+        "coverage_ratio": 0.846,
+        "accounted_terms": [
+          "고샅인대(inguinal ligament)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "오른아래사분구역(right lower quadrant)",
+          "왼아래사분구역(left lower quadrant)",
+          "정중시상면(sagittal plane)",
+          "간(liver)",
+          "가로막(diaphragm)",
+          "쓸개주머니(gallbladder)",
+          "McBurney's point",
+          "막창자꼬리(appendix)",
+          "위앞엉덩뼈가시(anterior superior iliac spine)",
+          "지라(spleen)",
+          "위(stomach)",
+          "내림잘록창자(descending colon)",
+          "4분구역(four-quadrant pattern)",
+          "샅(perineum)",
+          "배(abdominal region)",
+          "척주(vertebral column)",
+          "배꼽가로면(transumbilical plane)",
+          "막창자(cecum)",
+          "절개(gridiron incision)"
+        ],
+        "unresolved_terms": [
+          "정중면(median plane)"
+        ],
+        "missing_terms": [
+          "갈비모서리(costal margin)",
+          "두덩뼈결절(pubic tubercle)",
+          "구불잘록창자(sigmoid colon)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ai_page_read_manifest_primary",
+      "corrected_blocks": [
+        "Four-quadrant pattern",
+        "오른위사분역 (right upper quadrant)",
+        "왼위사분역 (left upper quadrant)",
+        "오른아래사분역 (right lower quadrant)",
+        "왼아래사분역 (left lower quadrant)",
+        "배꼽가로면 (transumbilical plane)",
+        "정중면 (median plane)",
+        "시상면 (sagittal plane)",
+        "간 (liver)",
+        "가로막 (diaphragm)",
+        "갈비모서리 (costal margin)",
+        "쓸개 (gallbladder)",
+        "맥버니 점 (McBurney's point)",
+        "막창자꼬리 (appendix)",
+        "위앞엉덩뼈가시 (anterior superior iliac spine)",
+        "샅고랑인대 (inguinal ligament)",
+        "두덩뼈결절 (pubic tubercle)",
+        "지라 (spleen)",
+        "위 (stomach)",
+        "내림잘록창자 (descending colon)",
+        "구불잘록창자 (sigmoid colon)",
+        "충수염 수술",
+        "appendix에 염증",
+        "appendix의 정확한 위치?",
+        "배꼽과 ASIS를 연결한 spinoumbilical line",
+        "아래쪽 1/3 지점이 McBurney's point에 위치",
+        "ASIS: anterior superior iliac spine",
+        "liver",
+        "stomach",
+        "spleen",
+        "sagittal plane",
+        "transumbilical plane",
+        "descending colon",
+        "sigmoid colon"
+      ],
+      "supplemental_ocr_blocks": [],
+      "corrected_page_text": "Four-quadrant pattern\n오른위사분역 (right upper quadrant)\n왼위사분역 (left upper quadrant)\n오른아래사분역 (right lower quadrant)\n왼아래사분역 (left lower quadrant)\n배꼽가로면 (transumbilical plane)\n정중면 (median plane)\n시상면 (sagittal plane)\n간 (liver)\n가로막 (diaphragm)\n갈비모서리 (costal margin)\n쓸개 (gallbladder)\n맥버니 점 (McBurney's point)\n막창자꼬리 (appendix)\n위앞엉덩뼈가시 (anterior superior iliac spine)\n샅고랑인대 (inguinal ligament)\n두덩뼈결절 (pubic tubercle)\n지라 (spleen)\n위 (stomach)\n내림잘록창자 (descending colon)\n구불잘록창자 (sigmoid colon)\n충수염 수술\nappendix에 염증\nappendix의 정확한 위치?\n배꼽과 ASIS를 연결한 spinoumbilical line\n아래쪽 1/3 지점이 McBurney's point에 위치\nASIS: anterior superior iliac spine\nliver\nstomach\nspleen\nsagittal plane\ntransumbilical plane\ndescending colon\nsigmoid colon",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 0,
+        "pdf_line_count": 0,
+        "ocr_line_count": 0,
+        "merged_line_count": 34,
+        "pdf_only_count": 0,
+        "ocr_only_count": 0,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 34,
+        "ocr_only_line_count": 0,
+        "pdf_alpha_count": 562,
+        "ocr_alpha_count": 0,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 25,
+    "note_page_number": 25,
+    "source_page_number": 127,
+    "original_page_number": 127,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p025_course_배_필기본_025_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_025_course_001"
+      ],
+      "prompt": "_____은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p025_course_배_필기본_025_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_025_course_001"
+      ],
+      "prompt": "담즙(bile)은 _____을 거쳐 담관(bile duct)로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담세관(bile canaliculus)",
+        "accepted_answers": [
+          "담세관(bile canaliculus)",
+          "bile canaliculus",
+          "bile canaliculi"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담세관(bile canaliculus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p025_course_배_필기본_025_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_025_course_001"
+      ],
+      "prompt": "담즙(bile)은 담세관(bile canaliculus)을 거쳐 _____로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관(bile duct)",
+        "accepted_answers": [
+          "담관(bile duct)",
+          "bile duct",
+          "bile ducts"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관(bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 3,
+    "question_type_count": {
+      "fill_blank": 3
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 3
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__9126be99b5b1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__17daf6e80ed8.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__279c43c8043d.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__bc46d0e27838.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__abb326ded3ee.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__ecb927d12b2e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__053502c97f13.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__592581899e50.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__6b12d5412bf0.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__dce1b2398712.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__a424516c1787.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__11ddd62e5972.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__24c9abb08bb5.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__1ca43cc90e74.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__d3b19755bba7.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__c881c891008e.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__a9bc16787078.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__1198bdb3ca05.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__9d0083005507.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__a032fc1af389.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__28d9af8140d2.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__5ad5f96806a1.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__da8ef99375e3.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__3c2c47ba65a0.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__0225160fd950.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__a6e053f6ab17.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__fd92449dc9f1.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__82cdcef25e9b.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__f615453699ac.json"
+      }
+    ],
+    "current_index": 24,
+    "previous_page": 24,
+    "next_page": 26
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 25
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "간의 영어 이름은 liver이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "담세관의 영어 이름은 bile canaliculus이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "간굴모세혈관의 영어 이름은 hepatic sinusoid이다.",
+        "간경화의 영어 이름은 liver cirrhosis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 10,
+          "text": "hepatocyte endothelium sinusoid 와사이공간",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 7,
+        "accounted_term_count": 7,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간세포(hepatocyte)",
+          "간(liver)",
+          "담즙(bile)",
+          "담세관(bile canaliculus)",
+          "담관(bile duct)",
+          "간굴모세혈관(hepatic sinusoid)",
+          "간경화(liver cirrhosis)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Hepatocytes",
+        "그림 16-16 간의 미세구조와 주요 기능",
+        "E으@I8 mi Cl 호",
+        "로 [물(SER) 쓸개모세관 (Bile canaliculus)",
+        "l@용해속: 차g %cduding)",
+        "1_모 물(SER)' 7%8 부착반점",
+        "[출alals 0a00",
+        "[ 용로 itroviliy Rrpy\"쥐 ao",
+        "훌축주위D리Perisinusoidal space; _m하liym",
+        "창Fenestration) 그물섬워Reticular fibers)",
+        "주요 기능을 하는 간세포 내의 세포형질구성체의 분포틀 보여주는 그 ulovesicular system)의 효소과정올 거처 쓸개모세관bile canaliculi)으",
+        "팀: (1) RER은 줄주위공간으로 유리하는 혈장단백질(plasma protein) 로 배출되다: (3) 포도당은 굳주위공간에서 훔수되어 당원과림glycogen",
+        "의 합성에 일차적으로 관여하다: (2) 잠재적인 독성물질 빌리루반일부민 granule) 속에 저장되다: 포도당이 필요하면 이 과정은 반대로 반응하다:",
+        "에 결합) , 쓸개롭이 굳주위공간으로 흙수되어 SER의 대통소포계통tub-"
+      ],
+      "supplemental_ocr_blocks": [
+        "[@자?};",
+        "junctions]",
+        "% (Desmosome)",
+        "@",
+        "Mmeaporwaaq"
+      ],
+      "corrected_page_text": "Hepatocytes\n그림 16-16 간의 미세구조와 주요 기능\nE으@I8 mi Cl 호\n로 [물(SER) 쓸개모세관 (Bile canaliculus)\nl@용해속: 차g %cduding)\n1_모 물(SER)' 7%8 부착반점\n[출alals 0a00\n[ 용로 itroviliy Rrpy\"쥐 ao\n훌축주위D리Perisinusoidal space; _m하liym\n창Fenestration) 그물섬워Reticular fibers)\n주요 기능을 하는 간세포 내의 세포형질구성체의 분포틀 보여주는 그 ulovesicular system)의 효소과정올 거처 쓸개모세관bile canaliculi)으\n팀: (1) RER은 줄주위공간으로 유리하는 혈장단백질(plasma protein) 로 배출되다: (3) 포도당은 굳주위공간에서 훔수되어 당원과림glycogen\n의 합성에 일차적으로 관여하다: (2) 잠재적인 독성물질 빌리루반일부민 granule) 속에 저장되다: 포도당이 필요하면 이 과정은 반대로 반응하다:\n에 결합) , 쓸개롭이 굳주위공간으로 흙수되어 SER의 대통소포계통tub-",
+      "quality_audit": {
+        "pdf_char_count": 11,
+        "pdf_span_count": 1,
+        "pdf_word_count": 1,
+        "ocr_fragment_count": 37,
+        "pdf_line_count": 1,
+        "ocr_line_count": 19,
+        "merged_line_count": 19,
+        "pdf_only_count": 0,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 11,
+        "ocr_alpha_count": 417,
+        "promoted_ocr_only_count": 13
+      }
+    }
+  }
+}

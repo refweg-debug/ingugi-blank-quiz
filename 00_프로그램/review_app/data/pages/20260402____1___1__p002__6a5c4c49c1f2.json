@@ -1,0 +1,1301 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 2,
+    "note_page_number": 2,
+    "source_page_number": 2,
+    "original_page_number": 2,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_002"
+      ],
+      "prompt": "_____의 앞가쪽 경계는 배벽(abdominal wall)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)의 앞가쪽 경계는 배벽(abdominal wall)이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_003"
+      ],
+      "prompt": "_____은 배안(abdominal cavity)과 골반안(pelvic cavity)을 함께 이르는 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배골반안(abdominopelvic cavity)",
+        "accepted_answers": [
+          "배골반안(abdominopelvic cavity)",
+          "abdominopelvic cavity",
+          "abdominal pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배골반안(abdominopelvic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 배골반안(abdominopelvic cavity)은 배안(abdominal cavity)과 골반안(pelvic cavity)을 함께 이르는 말이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_003"
+      ],
+      "prompt": "배골반안(abdominopelvic cavity)은 _____과 골반안(pelvic cavity)을 함께 이르는 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 배골반안(abdominopelvic cavity)은 배안(abdominal cavity)과 골반안(pelvic cavity)을 함께 이르는 말이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_003"
+      ],
+      "prompt": "배골반안(abdominopelvic cavity)은 배안(abdominal cavity)과 _____을 함께 이르는 말이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 배골반안(abdominopelvic cavity)은 배안(abdominal cavity)과 골반안(pelvic cavity)을 함께 이르는 말이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_005"
+      ],
+      "prompt": "_____은 가짜골반(false pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_002_course_006"
+      ],
+      "prompt": "_____은 위골반문(superior pelvic aperture)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반입구(pelvic inlet)",
+        "accepted_answers": [
+          "골반입구(pelvic inlet)",
+          "pelvic inlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반입구(pelvic inlet)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)은 위골반문(superior pelvic aperture)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_007"
+      ],
+      "prompt": "_____는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반입구(pelvic inlet)",
+        "accepted_answers": [
+          "골반입구(pelvic inlet)",
+          "pelvic inlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반입구(pelvic inlet)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_007"
+      ],
+      "prompt": "골반입구(pelvic inlet)는 _____과 골반안(pelvic cavity)을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_007_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_007"
+      ],
+      "prompt": "골반입구(pelvic inlet)는 배안(abdominal cavity)과 _____을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_008"
+      ],
+      "prompt": "_____은 아래골반문(inferior pelvic aperture)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반출구(pelvic outlet)",
+        "accepted_answers": [
+          "골반출구(pelvic outlet)",
+          "pelvic outlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반출구(pelvic outlet)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반출구(pelvic outlet)은 아래골반문(inferior pelvic aperture)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_필기본_002_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_002_course_009"
+      ],
+      "prompt": "_____은 진골반(true pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은골반(lesser pelvis)",
+        "accepted_answers": [
+          "작은골반(lesser pelvis)",
+          "lesser pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은골반(lesser pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_001"
+      ],
+      "prompt": "_____과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_001"
+      ],
+      "prompt": "배안(abdominal cavity)과 _____은 가로막(diaphragm)에 의해 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴안(thoracic cavity)",
+        "accepted_answers": [
+          "가슴안(thoracic cavity)",
+          "thoracic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴안(thoracic cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_001"
+      ],
+      "prompt": "배안(abdominal cavity)과 가슴안(thoracic cavity)은 _____에 의해 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막(diaphragm)",
+        "accepted_answers": [
+          "가로막(diaphragm)",
+          "diaphragm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막(diaphragm)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 구분된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_002"
+      ],
+      "prompt": "_____은 아래쪽에서 골반안(pelvic cavity)과 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)은 아래쪽에서 골반안(pelvic cavity)과 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_002"
+      ],
+      "prompt": "배안(abdominal cavity)은 아래쪽에서 _____과 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배안(abdominal cavity)은 아래쪽에서 골반안(pelvic cavity)과 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_003"
+      ],
+      "prompt": "_____과 아래골반문(inferior pelvic aperture)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반입구(pelvic inlet)",
+        "accepted_answers": [
+          "골반입구(pelvic inlet)",
+          "pelvic inlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반입구(pelvic inlet)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위골반문(pelvic inlet)과 아래골반문(pelvic outlet)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_003"
+      ],
+      "prompt": "골반입구(pelvic inlet)과 _____은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래골반문(inferior pelvic aperture)",
+        "accepted_answers": [
+          "아래골반문(inferior pelvic aperture)",
+          "inferior pelvic aperture"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래골반문(inferior pelvic aperture)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위골반문(pelvic inlet)과 아래골반문(pelvic outlet)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_course_배_강의원본_002_ai_corrected_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_002_ai_corrected_003"
+      ],
+      "prompt": "골반입구(pelvic inlet)과 아래골반문(inferior pelvic aperture)은 _____의 위쪽과 아래쪽 경계를 나타낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위골반문(pelvic inlet)과 아래골반문(pelvic outlet)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "가슴안(thoracic cavity)과 가로막(diaphragm)에 의해 구분되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배안(abdominal cavity) / predicate: separated_from / object: 가슴안(thoracic cavity) by 가로막(diaphragm)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배벽(abdominal wall)을 앞가쪽 경계로 가지는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배안(abdominal cavity) / predicate: anterolateral_boundary / object: 배벽(abdominal wall)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반안(pelvic cavity)과 이어지는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배안(abdominal cavity) / predicate: continuous_with / object: 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배안(abdominal cavity) and 골반안(pelvic cavity)을 여러 구획으로 나누는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위골반문(pelvic inlet)",
+        "accepted_answers": [
+          "위골반문(pelvic inlet)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위골반문(pelvic inlet)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위골반문(pelvic inlet) / predicate: divides / object: 배안(abdominal cavity) and 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_004_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배안(abdominal cavity) and 골반안(pelvic cavity)을 여러 구획으로 나누는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위골반문(superior pelvic aperture)",
+        "accepted_answers": [
+          "위골반문(superior pelvic aperture)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위골반문(superior pelvic aperture)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위골반문(superior pelvic aperture) / predicate: divides / object: 배안(abdominal cavity) and 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "큰골반(greater pelvis)은 _____이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가짜골반(false pelvis)",
+        "accepted_answers": [
+          "가짜골반(false pelvis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가짜골반(false pelvis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 큰골반(greater pelvis) / predicate: alias_of / object: 가짜골반(false pelvis)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "작은골반(lesser pelvis)은 _____이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "참골반(true pelvis)",
+        "accepted_answers": [
+          "참골반(true pelvis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "참골반(true pelvis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 작은골반(lesser pelvis) / predicate: alias_of / object: 참골반(true pelvis)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반(pelvis)의 아래에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅(perineum)",
+        "accepted_answers": [
+          "샅(perineum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅(perineum)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p002_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 샅(perineum) / predicate: inferior_to / object: 골반(pelvis)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_010_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반안(pelvic cavity)의 위쪽 경계에 해당하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위골반문(pelvic inlet)",
+        "accepted_answers": [
+          "위골반문(pelvic inlet)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위골반문(pelvic inlet)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위골반문(pelvic inlet) / predicate: superior_boundary_of / object: 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_010_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반안(pelvic cavity)의 위쪽 경계에 해당하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위골반문(superior pelvic aperture)",
+        "accepted_answers": [
+          "위골반문(superior pelvic aperture)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위골반문(superior pelvic aperture)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위골반문(superior pelvic aperture) / predicate: superior_boundary_of / object: 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_011_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반안(pelvic cavity)의 아래쪽 경계에 해당하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래골반문(pelvic outlet)",
+        "accepted_answers": [
+          "아래골반문(pelvic outlet)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래골반문(pelvic outlet)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 아래골반문(pelvic outlet) / predicate: inferior_boundary_of / object: 골반안(pelvic cavity)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p002_visual_visual_relation_011_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "골반안(pelvic cavity)의 아래쪽 경계에 해당하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래골반문(inferior pelvic aperture)",
+        "accepted_answers": [
+          "아래골반문(inferior pelvic aperture)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래골반문(inferior pelvic aperture)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p002_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 아래골반문(inferior pelvic aperture) / predicate: inferior_boundary_of / object: 골반안(pelvic cavity)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 31,
+    "question_type_count": {
+      "fill_blank": 19,
+      "image_grounded_fill_blank": 12
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 10,
+      "course_exam_style": 9,
+      "visual_relation_understanding": 12
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__21a24649b85f.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__6a5c4c49c1f2.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__f477c3aac9cd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__955eb52e460f.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__afcf110a0b5b.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__2203f8357a8a.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__77493632634b.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__a6dc0a7c10f6.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__a2239bcf6f6d.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__6d362694e762.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__d7f6008f517d.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__00c1cb058ea0.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__14f73874f0f6.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__fdd189632937.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__4107fde4f74b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__e3a9f01e2a33.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__089341e8fcfb.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__be505a5a6844.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__4a29d2f09b2a.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__7a7e617b7487.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__825d41c1d282.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__7fa11831b2d9.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__f34e22a92fdb.json"
+      }
+    ],
+    "current_index": 1,
+    "previous_page": 1,
+    "next_page": 3
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 2
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 명확하게 나뉜다.",
+        "배안(abdominal cavity)의 앞가쪽 경계는 배벽(abdominal wall)이다.",
+        "배골반안(abdominopelvic cavity)은 배안(abdominal cavity)과 골반안(pelvic cavity)을 함께 이르는 말이다.",
+        "샅(perineum)은 골반(pelvis) 아래에 위치한다.",
+        "큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다.",
+        "골반입구(pelvic inlet)은 위골반문(superior pelvic aperture)이라고도 한다.",
+        "골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다.",
+        "골반출구(pelvic outlet)은 아래골반문(inferior pelvic aperture)이라고도 한다.",
+        "작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "위의 영어 이름은 stomach이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "골반안의 영어 이름은 pelvic cavity이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "큰골반의 영어 이름은 greater pelvis이다.",
+        "위골반문의 영어 이름은 superior pelvic aperture이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "골반입구의 영어 이름은 pelvic inlet이다.",
+        "아래골반문의 영어 이름은 inferior pelvic aperture이다.",
+        "작은골반의 영어 이름은 lesser pelvis이다.",
+        "진골반의 영어 이름은 true pelvis이다.",
+        "배골반안의 영어 이름은 abdominopelvic cavity이다.",
+        "가슴안의 영어 이름은 thoracic cavity이다.",
+        "가짜골반의 영어 이름은 false pelvis이다.",
+        "배안(abdominal cavity)과 가슴안(thoracic cavity)은 가로막(diaphragm)에 의해 구분된다.",
+        "배안(abdominal cavity)은 아래쪽에서 골반안(pelvic cavity)과 이어진다.",
+        "위골반문(pelvic inlet)과 아래골반문(pelvic outlet)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다.",
+        "골반출구의 영어 이름은 pelvic outlet이다.",
+        "정중시상면의 영어 이름은 sagittal plane이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 12,
+          "text": "배를 나누는 기준은 abdominal cavity",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "위쪽으로는 thorax",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "골반은 pelvic cavity",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "배골반안(abdominopelvic cavity)은 위로 가슴(thorax)과 접하고 아래로 골반(pelvis)과 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "배안(abdominal cavity)과 골반안(pelvic cavity)은 아래쪽에서 명확한 경계 없이 이어지므로 함께 배골반안(abdominopelvic cavity)이라고 부르기도 한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "복막(peritoneum)은 배골반안 내부에서 장기를 둘러싸는 막이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "배안(abdominal cavity) separated_from 가슴안(thoracic cavity) by 가로막(diaphragm)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "배안(abdominal cavity) anterolateral_boundary 배벽(abdominal wall)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "배안(abdominal cavity) continuous_with 골반안(pelvic cavity)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "위골반문(pelvic inlet) divides 배안(abdominal cavity) and 골반안(pelvic cavity)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "가슴안 thoracic cavity",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "가로막 diaphragm",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "배안 abdominal cavity",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "위골반문 pelvic inlet",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "아래골반문 pelvic outlet",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "배안(abdominal cavity)은 아래쪽에서 골반안(pelvic cavity)과 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "위골반문(pelvic inlet)과 아래골반문(pelvic outlet)은 골반안(pelvic cavity)의 위쪽과 아래쪽 경계를 나타낸다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "배골반안의 시상면 그림으로 가슴안, 가로막, 배안, 골반안, 위골반문, 아래골반문을 보여주는 강의원본 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "아래골반문(pelvic outlet) inferior_boundary_of 골반안(pelvic cavity)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 21,
+        "accounted_term_count": 21,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배골반안(abdominopelvic cavity)",
+          "가슴(thorax)",
+          "골반(pelvis)",
+          "배안(abdominal cavity)",
+          "가슴안(thoracic cavity)",
+          "가로막(diaphragm)",
+          "배벽(abdominal wall)",
+          "골반안(pelvic cavity)",
+          "골반입구(pelvic inlet)",
+          "큰골반(greater pelvis)",
+          "가짜골반(false pelvis)",
+          "작은골반(lesser pelvis)",
+          "진골반(true pelvis)",
+          "복막(peritoneum)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "샅(perineum)",
+          "위골반문(superior pelvic aperture)",
+          "아래골반문(inferior pelvic aperture)",
+          "골반출구(pelvic outlet)",
+          "정중시상면(sagittal plane)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Abdomen: overview",
+        "superior thoracic aperture",
+        "[thoracic inlet]",
+        "가슴안 thoracic cavity",
+        "가로막 diaphragm",
+        "배안 abdominal cavity",
+        "위골반문 pelvic inlet",
+        "골반안 pelvic cavity",
+        "두명결합 pubic symphysis",
+        "아래골반문 pelvic outlet"
+      ],
+      "supplemental_ocr_blocks": [
+        "oioriow",
+        "위가슴문",
+        "그림 6-1. 배골반안"
+      ],
+      "corrected_page_text": "Abdomen: overview\nsuperior thoracic aperture\n[thoracic inlet]\n가슴안 thoracic cavity\n가로막 diaphragm\n배안 abdominal cavity\n위골반문 pelvic inlet\n골반안 pelvic cavity\n두명결합 pubic symphysis\n아래골반문 pelvic outlet",
+      "quality_audit": {
+        "pdf_char_count": 16,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 13,
+        "pdf_line_count": 1,
+        "ocr_line_count": 13,
+        "merged_line_count": 13,
+        "pdf_only_count": 0,
+        "ocr_only_count": 12,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 12,
+        "pdf_alpha_count": 15,
+        "ocr_alpha_count": 165,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

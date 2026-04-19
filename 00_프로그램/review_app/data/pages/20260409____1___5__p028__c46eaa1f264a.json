@@ -1,0 +1,429 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 28
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p028_course_배_필기본_028_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_028_course_001"
+      ],
+      "prompt": "_____의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p028_course_배_필기본_028_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_028_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 _____는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p028_course_배_필기본_028_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_028_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 상피(epithelium)는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "단순원주상피(simple columnar epithelium)",
+        "accepted_answers": [
+          "단순원주상피(simple columnar epithelium)",
+          "simple columnar epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "단순원주상피(simple columnar epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 3,
+    "question_type_count": {
+      "fill_blank": 3
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 3
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json",
+        "review_image_url": "./data/images/20260409____1___5__p022__d2a89e91bc3e.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json",
+        "review_image_url": "./data/images/20260409____1___5__p023__f0f568a9765e.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json",
+        "review_image_url": "./data/images/20260409____1___5__p024__9a922fb440a2.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json",
+        "review_image_url": "./data/images/20260409____1___5__p025__7a88342dc4a5.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json",
+        "review_image_url": "./data/images/20260409____1___5__p026__14a9f4fad021.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json",
+        "review_image_url": "./data/images/20260409____1___5__p027__0fc7a3e668b4.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json",
+        "review_image_url": "./data/images/20260409____1___5__p028__c46eaa1f264a.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 27,
+    "previous_page": 27,
+    "next_page": 29
+  },
+  "review_image_url": "./data/images/20260409____1___5__p028__c46eaa1f264a.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 28
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "단순원주상피의 영어 이름은 simple columnar epithelium이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "담즙의 영어 이름은 bile이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 5,
+        "accounted_term_count": 5,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "상피(epithelium)",
+          "단순원주상피(simple columnar epithelium)",
+          "점막고유층(lamina propria)",
+          "담즙(bile)",
+          "작은창자(small intestine)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "simple columnar epithelium",
+        "lamina propria 와함께주름져있음",
+        "-> 쓸개즙많이저장하면쓸개팽창주름사라짐",
+        "simple columnar epithelium",
+        "lamina propria와 함께 주름저있음_",
+        "쓸개품 많이 저장하면 쓸개 평창 -> 주름 사라참",
+        "쓸개는 쓸개죽올 저상하고 농축하는 주머니 모양의 구조이고 식사 후 셈 (b) 상피세포의 투과선자현미경사신에는 꼭대기 미세움되(MV)들 가로지",
+        "창자로 쓸개품올 유리하다: 르는 수분음수와 주름진 바닥가쪽세포막올 통한 세포사이공간화살표으",
+        "(a) 쓸개벽은 단참원주상-화살표로 덮어 있는 전형적인 고유판LP)의 로 수문배출올 위한 특수한 세포들이 관찰되다: 이 공간의 수분은 바닥총",
+        "주름이 발달된 점막; 장기속울 비우는 데 유용하 방향으로 배열된 근육섬 에 앞는 모세혈관에 의해 빨리 제거듭다: 풍부한 미토론드리아는 이러한",
+        "유다발의 근육V(M); 간과 접한 면의 바깥막(A)과 노출된 장막으로 덮여 편프과정올 위한 에너지틀 제공하다: 문산원 꼭대기의 분비과림(G은 점",
+        "있다: (X6O; H&E) 액을 함유하다: (X5600)"
+      ],
+      "supplemental_ocr_blocks": [
+        "LP MV",
+        "',",
+        "'LP",
+        "M",
+        "A"
+      ],
+      "corrected_page_text": "simple columnar epithelium\nlamina propria 와함께주름져있음\n-> 쓸개즙많이저장하면쓸개팽창주름사라짐\nsimple columnar epithelium\nlamina propria와 함께 주름저있음_\n쓸개품 많이 저장하면 쓸개 평창 -> 주름 사라참\n쓸개는 쓸개죽올 저상하고 농축하는 주머니 모양의 구조이고 식사 후 셈 (b) 상피세포의 투과선자현미경사신에는 꼭대기 미세움되(MV)들 가로지\n창자로 쓸개품올 유리하다: 르는 수분음수와 주름진 바닥가쪽세포막올 통한 세포사이공간화살표으\n(a) 쓸개벽은 단참원주상-화살표로 덮어 있는 전형적인 고유판LP)의 로 수문배출올 위한 특수한 세포들이 관찰되다: 이 공간의 수분은 바닥총\n주름이 발달된 점막; 장기속울 비우는 데 유용하 방향으로 배열된 근육섬 에 앞는 모세혈관에 의해 빨리 제거듭다: 풍부한 미토론드리아는 이러한\n유다발의 근육V(M); 간과 접한 면의 바깥막(A)과 노출된 장막으로 덮여 편프과정올 위한 에너지틀 제공하다: 문산원 꼭대기의 분비과림(G은 점\n있다: (X6O; H&E) 액을 함유하다: (X5600)",
+      "quality_audit": {
+        "pdf_char_count": 65,
+        "pdf_span_count": 13,
+        "pdf_word_count": 15,
+        "ocr_fragment_count": 22,
+        "pdf_line_count": 3,
+        "ocr_line_count": 15,
+        "merged_line_count": 17,
+        "pdf_only_count": 2,
+        "ocr_only_count": 14,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 3,
+        "ocr_only_line_count": 14,
+        "pdf_alpha_count": 63,
+        "ocr_alpha_count": 356,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

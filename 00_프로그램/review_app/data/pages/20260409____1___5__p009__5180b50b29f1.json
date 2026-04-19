@@ -1,0 +1,635 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 9
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "_____은 이자(pancreas)의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "랑게르한스섬(islets of Langerhans)",
+        "accepted_answers": [
+          "랑게르한스섬(islets of Langerhans)",
+          "islets of Langerhans",
+          "islet of Langerhans",
+          "pancreatic islet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "랑게르한스섬(islets of Langerhans)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_001"
+      ],
+      "prompt": "랑게르한스섬(islets of Langerhans)은 _____의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_003"
+      ],
+      "prompt": "_____는 외분비세포와 내분비세포(endocrine cells)를 함께 가진 혼합샘이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)는 외분비세포와 내분비세포를 함께 가진 혼합샘이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "_____의 외분비 부분은 장액샘(serous gland) 형태의 복합세관포상샘(compound tubuloalveolar gland)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자의 외분비 부분은 장액샘(serous gland) 형태의 복합세관포상샘(compound tubuloalveolar gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "이자(pancreas)의 외분비 부분은 _____ 형태의 복합세관포상샘(compound tubuloalveolar gland)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장액샘(serous gland)",
+        "accepted_answers": [
+          "장액샘(serous gland)",
+          "serous gland"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장액샘(serous gland)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자의 외분비 부분은 장액샘(serous gland) 형태의 복합세관포상샘(compound tubuloalveolar gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_004"
+      ],
+      "prompt": "이자(pancreas)의 외분비 부분은 장액샘(serous gland) 형태의 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복합세관포상샘(compound tubuloalveolar gland)",
+        "accepted_answers": [
+          "복합세관포상샘(compound tubuloalveolar gland)",
+          "compound tubuloalveolar gland"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복합세관포상샘(compound tubuloalveolar gland)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자의 외분비 부분은 장액샘(serous gland) 형태의 복합세관포상샘(compound tubuloalveolar gland)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_005"
+      ],
+      "prompt": "_____가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자선방세포(acinar cells)",
+        "accepted_answers": [
+          "이자선방세포(acinar cells)",
+          "acinar cells",
+          "acinar cell"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자선방세포(acinar cells)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자선방세포(acinar cells)가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_005"
+      ],
+      "prompt": "이자선방세포(acinar cells)가 대부분의 _____를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자선방세포(acinar cells)가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p009_course_배_필기본_009_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_009_course_005"
+      ],
+      "prompt": "이자선방세포(acinar cells)가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 _____이 흩어져 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "랑게르한스섬(islets of Langerhans)",
+        "accepted_answers": [
+          "랑게르한스섬(islets of Langerhans)",
+          "islets of Langerhans",
+          "islet of Langerhans",
+          "pancreatic islet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "랑게르한스섬(islets of Langerhans)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자선방세포(acinar cells)가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 9,
+    "question_type_count": {
+      "fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 8,
+    "previous_page": 8,
+    "next_page": 10
+  },
+  "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 9
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다.",
+        "이자(pancreas)는 외분비와 내분비 기능을 모두 가진다.",
+        "이자(pancreas)는 외분비세포와 내분비세포를 함께 가진 혼합샘이다.",
+        "이자의 외분비 부분은 장액샘(serous gland) 형태의 복합세관포상샘(compound tubuloalveolar gland)이다.",
+        "이자선방세포(acinar cells)가 대부분의 이자(pancreas)를 차지하고, 그 사이사이에 랑게르한스섬(islets of Langerhans)이 흩어져 있다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "내분비세포의 영어 이름은 endocrine cells이다.",
+        "간의 영어 이름은 liver이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "장액샘의 영어 이름은 serous gland이다.",
+        "복합세관포상샘의 영어 이름은 compound tubuloalveolar gland이다.",
+        "이자선방세포의 영어 이름은 acinar cells이다.",
+        "랑게르한스섬의 영어 이름은 islets of Langerhans이다.",
+        "이자관의 영어 이름은 pancreatic duct이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 18,
+          "text": "- , 과립의유무염색성에따라알파베타델타세포로구분",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 10,
+        "accounted_term_count": 10,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "이자(pancreas)",
+          "샘창자(duodenum)",
+          "내분비세포(endocrine cells)",
+          "간(liver)",
+          "간세포(hepatocyte)",
+          "장액샘(serous gland)",
+          "복합세관포상샘(compound tubuloalveolar gland)",
+          "이자선방세포(acinar cells)",
+          "랑게르한스섬(islets of Langerhans)",
+          "이자관(pancreatic duct)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "혼합샘",
+        "Histology of pancreas",
+        "=> duodenum 탄단지소화하는효소를에분비하는외분비세포",
+        "+ 인슐린등호르몬분비하는내분비세포",
+        ", cell 외분비내분비기능하는이따로있음",
+        "cf. hepatocyte 간은하나가외분비내분비모두함",
+        "# 외분비샘",
+        "- serous gland( ) 소화효소니까단백질의맑은장액",
+        "- compound tubuloalveolar gland",
+        "acinar cell 주변부가다",
+        "pancreatic islet중간중간",
+        "# 내분비기능",
+        "- pancreatic islet = islet of Langerhans",
+        "덧이자관 compound tubuloalveolar gland",
+        "내분비담당",
+        "외분비담당",
+        "- vessel 분비물을혈관통해내보내야해서주변에발달",
+        "- , 과립의유무염색성에따라알파베타델타세포로구분",
+        "pancreatic duct) (Duodenojejunal",
+        "1 베타세포가손상되면형당뇨",
+        "(Hepatopancreatic",
+        "- 베타인슐린",
+        "-델타소마토스타틴"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 16-7 이자와 셈장자",
+        "외분비, 내분비 기능하는 cellol 따로 있음",
+        "cf 간은 hepatocyte 하나가 외분비 내문비 모두 함",
+        "이자몸통",
+        "이자관 (Body of pancreas)",
+        "(Main pancreatic duct)",
+        "(Common bile 이자고리Tail of pancreas)",
+        "duct)",
+        "셈장자 # 외분비생",
+        "(Duodenum) 소화호소니까 serous gland(단백질의 맑은 장액)",
+        "'쓸개이자관광대 flexure)}",
+        "큰심창자유두",
+        "(Major duodenal 이자과리",
+        "papilla) (Pancreatic 주변부가 다 acinar cell",
+        "반장자 acini) 중간중간 pancreatic islet",
+        "이자머리Head of pancreas) (Jejunum)",
+        "(a) 셈장자와 이자의 앞면(Duodenum and pancreas, anterior view)",
+        "# 내문비 기능",
+        "이자섬",
+        "{눈무@\" 과리세모(Acinar cell) (Pancreatic",
+        "acinar cell 사이에 풍처서 내문비 존재 islet) 내문비 담당",
+        "외분비 담당",
+        "분비물올 혈관 통해 내보내야 해서 주변에 vessel 발달",
+        "과립의 유무, 염색성에 따라 알파 베타 텔타세포로 구분",
+        "가장 많은 것(70%0이 베타 - 인술린 분비",
+        "베타 세포가 손상되면 1형 당뇨",
+        "cf 알파-골루카곧 이자파리Pancreatic acinus)",
+        "베타-인술린 (b)",
+        "텔타-소마토스타:",
+        "(a) 이자의 주요 부분이 27의 이자관과 셈장자와의 위치관계틀 보인다: (b) 현미경사진에는 이자섬(pancreatic islet)과 여러 개의 이자과리가 보",
+        "인다 (X75 and X200; H&E)"
+      ],
+      "corrected_page_text": "혼합샘\nHistology of pancreas\n=> duodenum 탄단지소화하는효소를에분비하는외분비세포\n+ 인슐린등호르몬분비하는내분비세포\n, cell 외분비내분비기능하는이따로있음\ncf. hepatocyte 간은하나가외분비내분비모두함\n# 외분비샘\n- serous gland( ) 소화효소니까단백질의맑은장액\n- compound tubuloalveolar gland\nacinar cell 주변부가다\npancreatic islet중간중간\n# 내분비기능\n- pancreatic islet = islet of Langerhans\n덧이자관 compound tubuloalveolar gland\n내분비담당\n외분비담당\n- vessel 분비물을혈관통해내보내야해서주변에발달\n- , 과립의유무염색성에따라알파베타델타세포로구분\npancreatic duct) (Duodenojejunal\n1 베타세포가손상되면형당뇨\n(Hepatopancreatic\n- 베타인슐린\n-델타소마토스타틴",
+      "quality_audit": {
+        "pdf_char_count": 393,
+        "pdf_span_count": 107,
+        "pdf_word_count": 108,
+        "ocr_fragment_count": 67,
+        "pdf_line_count": 23,
+        "ocr_line_count": 41,
+        "merged_line_count": 54,
+        "pdf_only_count": 13,
+        "ocr_only_count": 31,
+        "replaced_with_ocr_count": 3,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 23,
+        "ocr_only_line_count": 31,
+        "pdf_alpha_count": 395,
+        "ocr_alpha_count": 583,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

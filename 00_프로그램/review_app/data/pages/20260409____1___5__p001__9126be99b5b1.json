@@ -1,0 +1,1053 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 1,
+    "note_page_number": 1,
+    "source_page_number": 103,
+    "original_page_number": 103,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "_____은 지라(spleen)의 혈관이 드나드는 부위이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라문(splenic hilum)",
+        "accepted_answers": [
+          "지라문(splenic hilum)",
+          "splenic hilum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라문(splenic hilum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라문(splenic hilum)은 지라(spleen)의 혈관이 드나드는 부위이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "지라문(splenic hilum)은 _____의 혈관이 드나드는 부위이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라문(splenic hilum)은 지라(spleen)의 혈관이 드나드는 부위이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "_____는 복강내기관(intraperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_003"
+      ],
+      "prompt": "지라(spleen)는 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강내기관(intraperitoneal organs)",
+        "accepted_answers": [
+          "복강내기관(intraperitoneal organs)",
+          "intraperitoneal organ",
+          "intraperitoneal organs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강내기관(intraperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "_____는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "지라(spleen)는 _____의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위사분구역(left upper quadrant)",
+        "accepted_answers": [
+          "왼위사분구역(left upper quadrant)",
+          "left upper quadrant"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위사분구역(left upper quadrant)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_001"
+      ],
+      "prompt": "지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 _____ 안쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "rib",
+          "ribs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_002"
+      ],
+      "prompt": "오른쪽 가쪽 그림에서 _____는 갈비뼈(rib) 깊은 쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 오른쪽 가쪽 그림에서 지라(spleen)는 갈비뼈(rib) 깊은 쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_필기본_001_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_001_ai_corrected_002"
+      ],
+      "prompt": "오른쪽 가쪽 그림에서 지라(spleen)는 _____ 깊은 쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "rib",
+          "ribs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 오른쪽 가쪽 그림에서 지라(spleen)는 갈비뼈(rib) 깊은 쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_001"
+      ],
+      "prompt": "왼쪽 그림에는 _____, 이자(pancreas), 콩팥(kidney), 심장(heart)의 상대적 위치가 함께 표시되어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼쪽 그림에는 지라(spleen), 이자(pancreas), 콩팥(kidney), 심장(heart)의 상대적 위치가 함께 표시되어 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_001"
+      ],
+      "prompt": "왼쪽 그림에는 지라(spleen), 이자(pancreas), 콩팥(kidney), _____의 상대적 위치가 함께 표시되어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "심장(heart)",
+        "accepted_answers": [
+          "심장(heart)",
+          "heart"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "심장(heart)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼쪽 그림에는 지라(spleen), 이자(pancreas), 콩팥(kidney), 심장(heart)의 상대적 위치가 함께 표시되어 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_002"
+      ],
+      "prompt": "_____는 이자(pancreas)의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 이자(pancreas)의 가쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_002"
+      ],
+      "prompt": "지라(spleen)는 _____의 가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 이자(pancreas)의 가쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_003"
+      ],
+      "prompt": "_____는 콩팥(kidney)의 위가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 콩팥(kidney)의 위가쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_course_배_강의원본_103_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_103_ai_corrected_003"
+      ],
+      "prompt": "지라(spleen)는 _____의 위가쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "콩팥(kidney)",
+        "accepted_answers": [
+          "콩팥(kidney)",
+          "kidney"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "콩팥(kidney)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 콩팥(kidney)의 위가쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼위사분구역(left upper quadrant)의 9-11번째 갈비뼈(rib) 안쪽의 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: 위치한다 / object: 왼위사분구역(left upper quadrant)의 9-11번째 갈비뼈(rib) 안쪽"
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "지라(spleen)에서 혈관이 드나드는 부위는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라문(splenic hilum)",
+        "accepted_answers": [
+          "지라문(splenic hilum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라문(splenic hilum)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라문(splenic hilum) / predicate: 혈관이 드나드는 부위이다 / object: 지라(spleen)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "가로막(diaphragm) 바로 아래에 놓이는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연__p001_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: 가로막(diaphragm) 바로 아래에 놓인다 / object: 오른쪽 가쪽 그림"
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "이자(pancreas)의 가쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: 가쪽에 위치한다 / object: 이자(pancreas)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "콩팥(kidney)의 위가쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: 위가쪽에 위치한다 / object: 콩팥(kidney)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p001_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "가로막(diaphragm) 아래에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p103_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: 가로막(diaphragm) 아래에 위치한다 / object: 오른쪽 가쪽 그림"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 21,
+    "question_type_count": {
+      "fill_blank": 15,
+      "image_grounded_fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 4,
+      "course_exam_style": 11,
+      "visual_relation_understanding": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__9126be99b5b1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__17daf6e80ed8.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__279c43c8043d.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__bc46d0e27838.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__abb326ded3ee.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__ecb927d12b2e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__053502c97f13.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__592581899e50.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__6b12d5412bf0.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__dce1b2398712.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__a424516c1787.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__11ddd62e5972.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__24c9abb08bb5.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__1ca43cc90e74.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__d3b19755bba7.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__c881c891008e.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__a9bc16787078.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__1198bdb3ca05.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__9d0083005507.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__a032fc1af389.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__28d9af8140d2.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__5ad5f96806a1.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__da8ef99375e3.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__3c2c47ba65a0.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__0225160fd950.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__a6e053f6ab17.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__fd92449dc9f1.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__82cdcef25e9b.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__f615453699ac.json"
+      }
+    ],
+    "current_index": 0,
+    "next_page": 2
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 1
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "지라문(splenic hilum)은 지라(spleen)의 혈관이 드나드는 부위이다.",
+        "지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈 안쪽에 위치한다.",
+        "지라(spleen)는 복강내기관(intraperitoneal organs)에 속한다.",
+        "지라(spleen)는 왼위사분구역(left upper quadrant)의 9번째부터 11번째 갈비뼈(rib) 안쪽에 위치한다.",
+        "오른쪽 가쪽 그림에서 지라(spleen)는 갈비뼈(rib) 깊은 쪽에 위치한다.",
+        "왼위사분구역의 영어 이름은 left upper quadrant이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "위의 영어 이름은 stomach이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "복강내기관의 영어 이름은 intraperitoneal organs이다.",
+        "지라문의 영어 이름은 splenic hilum이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "이자(pancreas)의 왼쪽에는 지라(spleen)가 있다.",
+        "왼쪽 그림에는 지라(spleen), 이자(pancreas), 콩팥(kidney), 심장(heart)의 상대적 위치가 함께 표시되어 있다.",
+        "지라(spleen)는 이자(pancreas)의 가쪽에 위치한다.",
+        "지라(spleen)는 콩팥(kidney)의 위가쪽에 위치한다.",
+        "오른쪽 그림은 지라(spleen)의 위치를 가쪽에서 본 모습이다.",
+        "오른쪽 그림에서 지라(spleen)는 가로막(diaphragm) 아래에 위치한다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "심장의 영어 이름은 heart이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "# : left upper quadrant, 9~11 rib 위치번째안쪽",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "- intraperitoneal organ() 복막내장기으로",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "지라(spleen)는 림프기관(lymphoid organ)에 속한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "지라(spleen)는 지라문(splenic hilum)을 제외한 대부분이 복막(peritoneum)으로 덮여 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "오른쪽 가쪽 그림에서 지라(spleen)는 갈비뼈(rib) 깊은 쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "오른쪽 가쪽 그림에서 지라(spleen)는 가로막(diaphragm) 바로 아래에 놓인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "비장의 위치, 복막 관계, 지라문을 필기 중심으로 보강한 페이지이다. 필기에서는 왼위사분구역, 9~11번째 갈비뼈 안쪽, 복막내장기, 지라문을 제외한 복막 피복을 강조한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "지라(spleen) 가로막(diaphragm) 바로 아래에 놓인다 오른쪽 가쪽 그림",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "콩팔 pancreas spleen",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "그림 6-55. 지라 이자; 콩팔 등의 위치름 몸 표면에 투",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "영한 모습 그림 6-56. 지라의 위치름 가족에서 본 모습",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "지라(spleen)는 이자(pancreas)의 가쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "지라(spleen)는 콩팥(kidney)의 위가쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "오른쪽 그림은 지라(spleen)의 위치를 가쪽에서 본 모습이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "오른쪽 그림에서 지라(spleen)는 9번째부터 11번째 갈비뼈(rib) 안쪽에 놓인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "오른쪽 그림에서 지라(spleen)는 가로막(diaphragm) 아래에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "강의원본의 비장 위치도 페이지로, 왼쪽 그림은 지라·이자·콩팥·심장의 상대 위치를, 오른쪽 그림은 지라를 갈비뼈 안쪽에서 본 위치를 보여준다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "지라(spleen) 가쪽에 위치한다 이자(pancreas)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "지라(spleen) 위가쪽에 위치한다 콩팥(kidney)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "지라(spleen) 가로막(diaphragm) 아래에 위치한다 오른쪽 가쪽 그림",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 14,
+        "accounted_term_count": 13,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.929,
+        "accounted_terms": [
+          "지라(spleen)",
+          "왼위사분구역(left upper quadrant)",
+          "갈비뼈(rib)",
+          "복강내기관(intraperitoneal organs)",
+          "지라문(splenic hilum)",
+          "가로막(diaphragm)",
+          "위(stomach)",
+          "기관(trachea)",
+          "복막(peritoneum)",
+          "배안(abdominal cavity)",
+          "이자(pancreas)",
+          "콩팥(kidney)",
+          "심장(heart)"
+        ],
+        "unresolved_terms": [
+          "림프기관(lymphoid organ)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Spleen",
+        "콩팔 pancreas spleen",
+        "그림 6-55. 지라 이자; 콩팔 등의 위치름 몸 표면에 투",
+        "영한 모습 그림 6-56. 지라의 위치름 가족에서 본 모습"
+      ],
+      "supplemental_ocr_blocks": [
+        "심장",
+        "heart",
+        "지라",
+        "spleen",
+        "이자 지라",
+        "kidney C"
+      ],
+      "corrected_page_text": "Spleen\n콩팔 pancreas spleen\n그림 6-55. 지라 이자; 콩팔 등의 위치름 몸 표면에 투\n영한 모습 그림 6-56. 지라의 위치름 가족에서 본 모습",
+      "quality_audit": {
+        "pdf_char_count": 6,
+        "pdf_span_count": 1,
+        "pdf_word_count": 1,
+        "ocr_fragment_count": 15,
+        "pdf_line_count": 1,
+        "ocr_line_count": 10,
+        "merged_line_count": 10,
+        "pdf_only_count": 0,
+        "ocr_only_count": 9,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 9,
+        "pdf_alpha_count": 6,
+        "ocr_alpha_count": 79,
+        "promoted_ocr_only_count": 3
+      }
+    }
+  }
+}

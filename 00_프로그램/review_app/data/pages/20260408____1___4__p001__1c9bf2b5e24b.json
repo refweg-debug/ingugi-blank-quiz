@@ -1,0 +1,533 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 1
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "_____는 배안(abdominal cavity)의 내장 가운데 가장 길다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 배안의 내장 가운데 가장 길다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_001"
+      ],
+      "prompt": "작은창자(small intestine)는 _____의 내장 가운데 가장 길다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 배안의 내장 가운데 가장 길다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "_____는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "작은창자(small intestine)는 _____, 빈창자(jejunum), 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "작은창자(small intestine)는 샘창자(duodenum), _____, 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p001_course_배_필기본_001_course_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_001_course_002"
+      ],
+      "prompt": "작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 6,
+    "question_type_count": {
+      "fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 6
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 0,
+    "next_page": 2
+  },
+  "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 1
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "작은창자(small intestine)는 배안의 내장 가운데 가장 길다.",
+        "작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "위의 영어 이름은 stomach이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "빈창자의 영어 이름은 jejunum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 11,
+          "text": "duodenum is short and fixed near the stomach",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "jejunum and ileum form the mobile distal small intestine",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 8,
+        "accounted_term_count": 8,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "작은창자(small intestine)",
+          "배(abdominal region)",
+          "큰창자(large intestine)",
+          "샘창자(duodenum)",
+          "위(stomach)",
+          "돌창자(ileum)",
+          "빈창자(jejunum)",
+          "배안(abdominal cavity)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Small intestine 소장",
+        "= 소장",
+        "- ( ) 배의내장에서가장길다대부분을차지할정도",
+        "→ 1/3 대장암으로소장을정도절제해도생활이가능하다",
+        "duodenum - : (/) ; //X위치샘창자십이지장위에서내려옴짧음유동성",
+        "배의 내장에서 가장 길다",
+        "ileum+ () 돌창자이연속됨",
+        "·",
+        "위치: quodenum (셈장자/ 십이지장) ; 위에서 내려올 짧음유동성X",
+        "jejunum (반창자)",
+        "ileum (돌창자) 이 연속템",
+        "혀 tongue 인무 pharynx",
+        "\"실뒷가충분봉 빼안부튼 배안부분)",
+        "간 liver esophagus",
+        "part, abdominal part)",
+        "날문 pylorus 위 stomach",
+        "gallbladder pancreas",
+        "가로잘록창자 -내림잘록창자",
+        "transverse colon descending colon",
+        "오름잘록창자 반창자 jejunum",
+        "ascending colon",
+        "막창자 돌창자 ileum",
+        "둘안장자연경cion \"3u#장롭창장n",
+        "망창자m리appendix ~곧창자 rectum",
+        "그림 6-39. 소화기관. 식도 위, 창자의 위치 소화생인 간과 이자루 같이 나타내없다."
+      ],
+      "supplemental_ocr_blocks": [
+        "=",
+        "쓸개 -이자",
+        "cecum",
+        "ileocecal"
+      ],
+      "corrected_page_text": "Small intestine 소장\n= 소장\n- ( ) 배의내장에서가장길다대부분을차지할정도\n→ 1/3 대장암으로소장을정도절제해도생활이가능하다\nduodenum - : (/) ; //X위치샘창자십이지장위에서내려옴짧음유동성\n배의 내장에서 가장 길다\nileum+ () 돌창자이연속됨\n·\n위치: quodenum (셈장자/ 십이지장) ; 위에서 내려올 짧음유동성X\njejunum (반창자)\nileum (돌창자) 이 연속템\n혀 tongue 인무 pharynx\n\"실뒷가충분봉 빼안부튼 배안부분)\n간 liver esophagus\npart, abdominal part)\n날문 pylorus 위 stomach\ngallbladder pancreas\n가로잘록창자 -내림잘록창자\ntransverse colon descending colon\n오름잘록창자 반창자 jejunum\nascending colon\n막창자 돌창자 ileum\n둘안장자연경cion \"3u#장롭창장n\n망창자m리appendix ~곧창자 rectum\n그림 6-39. 소화기관. 식도 위, 창자의 위치 소화생인 간과 이자루 같이 나타내없다.",
+      "quality_audit": {
+        "pdf_char_count": 130,
+        "pdf_span_count": 50,
+        "pdf_word_count": 35,
+        "ocr_fragment_count": 41,
+        "pdf_line_count": 8,
+        "ocr_line_count": 25,
+        "merged_line_count": 29,
+        "pdf_only_count": 4,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 8,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 109,
+        "ocr_alpha_count": 318,
+        "promoted_ocr_only_count": 17
+      }
+    }
+  }
+}

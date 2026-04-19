@@ -1,0 +1,392 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 29
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json",
+        "review_image_url": "./data/images/20260409____1___5__p022__d2a89e91bc3e.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json",
+        "review_image_url": "./data/images/20260409____1___5__p023__f0f568a9765e.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json",
+        "review_image_url": "./data/images/20260409____1___5__p024__9a922fb440a2.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json",
+        "review_image_url": "./data/images/20260409____1___5__p025__7a88342dc4a5.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json",
+        "review_image_url": "./data/images/20260409____1___5__p026__14a9f4fad021.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json",
+        "review_image_url": "./data/images/20260409____1___5__p027__0fc7a3e668b4.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json",
+        "review_image_url": "./data/images/20260409____1___5__p028__c46eaa1f264a.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json",
+        "review_image_url": "./data/images/20260409____1___5__p029__2f5e5fe14549.webp"
+      }
+    ],
+    "current_index": 28,
+    "previous_page": 28
+  },
+  "review_image_url": "./data/images/20260409____1___5__p029__2f5e5fe14549.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 29
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "담즙의 영어 이름은 bile이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 5,
+        "accounted_term_count": 5,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "담즙(bile)",
+          "간문맥삼합(portal triad)",
+          "간(liver)",
+          "문맥(portal vein)",
+          "간문(porta hepatis)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Duct system for bile",
+        "extrahepatic portal triad 로모여감",
+        "간질환있으면황달생김",
+        "-> bile 의빌리루빈때문에노랗게보이는것",
+        "Blood Ilowirg in",
+        "문맥 Portai ver",
+        "간동댁 Hepatc arteryt 소업사이간세5이",
+        "품로화 도몇주주국공임프관 쓸개관 Biiary duct Inlerobuar porlal Iriad extrahepatic portal triad 로 모여 감",
+        "Deep lyrphalic ducl",
+        "Iccuivirg lymur Irami",
+        "Bile canaliculi",
+        "혈과으로 철약의 흐록 차SK",
+        "sirusoidds Irom",
+        "간세프에서 #선 탓등얼적-슬기금한체",
+        "\"lngpabcrartesin 모세관;",
+        "국모양현관주위공간 사대 동이로 호급 rom repdiacyes",
+        "(Disse 공간) nlo blle canalicull, to nleriobuar",
+        "Perl sinusodal 'bliary duclsand then toIe blle",
+        "spaces (oi Dsce) ducl ir Ihe extrarepatc porlal triad",
+        "간질환 있으면 항달 생김",
+        "> bile의 빌리루반 때문에 노랗게 보이는 것",
+        "(A) Porblliary arierial 간세포살개출올 만들 중심절하현없올 '매으로",
+        "pexus 고 해독직용혼 함)",
+        "Central vein",
+        "Hepalocyles Itcanspartr I6a7",
+        "(produce ble 'bood l0 hepalic vein)",
+        "and detoxty",
+        "Bigil and lell 간소염",
+        "IheDailic duCiS Llyerlobues",
+        "Iver (inlerlobuiar)",
+        "쓸개비닥 Fundus porlal iriads",
+        "쓸개 Gallbladaer",
+        "쓸가용통 Bady ' Bladda<",
+        "쓸개주머신주일 꿀구양훨관 간세포 Central veins",
+        "Spiral told (valve) Sinusoid3 HeDalocytes",
+        "In cyslic duct",
+        "hepaile GuCl 쓸개관조임근",
+        "쓸가목 Neck Bppiduer % 쓸개관",
+        "쓸개관 Bile du디",
+        "Bie duct Pylorus",
+        "덧이자관 part ol duoderum",
+        "pancreale duC 이자관",
+        "쓸개이자관명대 근심창자유드 durl",
+        "\"aippaonarcreaic Main pancredlc Maor duoderal 이자관조임근",
+        "duct Dapllla Sphincler 미",
+        "심장자 pancrealc duct",
+        "Hepalo-pancrealic",
+        "(B) 셈장자의 앞면 간의 아래면 '(C) 앞면"
+      ],
+      "supplemental_ocr_blocks": [
+        "perislnusocal",
+        "space",
+        "불모양",
+        "Inlierlobula'",
+        "'쓸개관주위동막얼기",
+        "blood)",
+        "오른 . 원간관",
+        "소염사이간세동이",
+        "'Gall",
+        "'중심정대",
+        "온간관",
+        "Comnmon",
+        "'셈장자의 내리부분",
+        "Descending",
+        "Accessory",
+        "Pancreatic",
+        "'주이자관",
+        "Duoderurn",
+        "쓸개이자관멩다",
+        "ampulla"
+      ],
+      "corrected_page_text": "Duct system for bile\nextrahepatic portal triad 로모여감\n간질환있으면황달생김\n-> bile 의빌리루빈때문에노랗게보이는것\nBlood Ilowirg in\n문맥 Portai ver\n간동댁 Hepatc arteryt 소업사이간세5이\n품로화 도몇주주국공임프관 쓸개관 Biiary duct Inlerobuar porlal Iriad extrahepatic portal triad 로 모여 감\nDeep lyrphalic ducl\nIccuivirg lymur Irami\nBile canaliculi\n혈과으로 철약의 흐록 차SK\nsirusoidds Irom\n간세프에서 #선 탓등얼적-슬기금한체\n\"lngpabcrartesin 모세관;\n국모양현관주위공간 사대 동이로 호급 rom repdiacyes\n(Disse 공간) nlo blle canalicull, to nleriobuar\nPerl sinusodal 'bliary duclsand then toIe blle\nspaces (oi Dsce) ducl ir Ihe extrarepatc porlal triad\n간질환 있으면 항달 생김\n> bile의 빌리루반 때문에 노랗게 보이는 것\n(A) Porblliary arierial 간세포살개출올 만들 중심절하현없올 '매으로\npexus 고 해독직용혼 함)\nCentral vein\nHepalocyles Itcanspartr I6a7\n(produce ble 'bood l0 hepalic vein)\nand detoxty\nBigil and lell 간소염\nIheDailic duCiS Llyerlobues\nIver (inlerlobuiar)\n쓸개비닥 Fundus porlal iriads\n쓸개 Gallbladaer\n쓸가용통 Bady ' Bladda<\n쓸개주머신주일 꿀구양훨관 간세포 Central veins\nSpiral told (valve) Sinusoid3 HeDalocytes\nIn cyslic duct\nhepaile GuCl 쓸개관조임근\n쓸가목 Neck Bppiduer % 쓸개관\n쓸개관 Bile du디\nBie duct Pylorus\n덧이자관 part ol duoderum\npancreale duC 이자관\n쓸개이자관명대 근심창자유드 durl\n\"aippaonarcreaic Main pancredlc Maor duoderal 이자관조임근\nduct Dapllla Sphincler 미\n심장자 pancrealc duct\nHepalo-pancrealic\n(B) 셈장자의 앞면 간의 아래면 '(C) 앞면",
+      "quality_audit": {
+        "pdf_char_count": 85,
+        "pdf_span_count": 17,
+        "pdf_word_count": 22,
+        "ocr_fragment_count": 114,
+        "pdf_line_count": 5,
+        "ocr_line_count": 67,
+        "merged_line_count": 68,
+        "pdf_only_count": 1,
+        "ocr_only_count": 63,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 5,
+        "ocr_only_line_count": 63,
+        "pdf_alpha_count": 87,
+        "ocr_alpha_count": 1056,
+        "promoted_ocr_only_count": 43
+      }
+    }
+  }
+}

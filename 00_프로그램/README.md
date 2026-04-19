@@ -61,6 +61,22 @@ python .\src\ingugi_pipeline.py ingest-common-exams
 python .\src\ingugi_pipeline.py build
 ```
 
+## 기존 8765 review_app 정적 배포
+
+- 원본 로컬 검토 앱은 `review_app`이며, LAN 서버 주소는 `http://192.168.1.3:8765/` 형태다.
+- Git에는 원본 PDF, 전공서, 녹음파일, 파이프라인 중간 산출물 전체를 올리지 않고, 정적 웹앱에 필요한 `review_app` 파일과 export된 `review_app/data`만 올린다.
+- 정적 데이터는 기존 8765 서버의 `/api/library`, `/api/page`, `/api/review-image` 응답 형태를 파일로 바꾼 것이다.
+
+```powershell
+cd C:\Users\a\Desktop\거실\코덱스\인구기\00_프로그램
+python .\src\adapter_bridge\export_review_app_static_bundle.py
+python -m http.server 8770 --directory .\review_app
+```
+
+- 로컬 확인 주소는 `http://127.0.0.1:8770/` 이다.
+- GitHub Pages 같은 정적 호스팅에서는 `00_프로그램/review_app` 폴더를 배포 대상으로 잡으면 된다.
+- 새 문항 JSON이 생기면 exporter를 다시 실행한 뒤 `review_app/data` 변경분을 Git에 커밋한다.
+
 ## 범용 코어 연결
 
 - 범용 코어는 `C:\Users\a\Desktop\거실\코덱스\범용프로그램`에 둔다.

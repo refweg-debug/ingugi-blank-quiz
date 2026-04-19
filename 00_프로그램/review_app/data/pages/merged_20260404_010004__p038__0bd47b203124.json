@@ -1,0 +1,758 @@
+{
+  "page_ref": {
+    "unit": "등",
+    "category": "필기본",
+    "source_stem": "merged_20260404_010004",
+    "page_number": 38
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "blocked_until_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p001__06f65e228d6e.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p001__06f65e228d6e.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 41,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p002__0beb02358428.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p002__0beb02358428.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p003__10a43b9e0249.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p003__10a43b9e0249.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p004__ccf8dd9cf9dc.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p004__ccf8dd9cf9dc.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p005__2f8611ddcf85.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p005__2f8611ddcf85.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p006__484bdd5dc89f.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p006__484bdd5dc89f.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p007__2de84e014890.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p007__2de84e014890.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p008__669cee3c9bdb.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p008__669cee3c9bdb.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p009__05a7ba656889.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p009__05a7ba656889.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p010__3fabd00bdaf6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p010__3fabd00bdaf6.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p011__d9cc25a9f1d0.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p011__d9cc25a9f1d0.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p012__3b9f7943d1a6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p012__3b9f7943d1a6.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p013__816fdcdfd6d2.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p013__816fdcdfd6d2.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p014__0c65ae29c103.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p014__0c65ae29c103.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p015__b8d5b156a43e.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p015__b8d5b156a43e.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p016__84635a5e5506.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p016__84635a5e5506.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p017__6968d49e05f9.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p017__6968d49e05f9.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p018__be63f0b4e155.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p018__be63f0b4e155.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p019__26258f820510.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p019__26258f820510.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p020__0dc5b6bbbbde.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p020__0dc5b6bbbbde.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p021__6f993a07f96c.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p021__6f993a07f96c.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p022__d0add63ea858.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p022__d0add63ea858.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p023__be04f5dd68a2.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p023__be04f5dd68a2.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p024__4e8adf1964d7.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p024__4e8adf1964d7.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p025__321cf76d9903.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p025__321cf76d9903.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p026__1f1d82591974.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p026__1f1d82591974.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p027__3d744c4c5194.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p027__3d744c4c5194.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p028__51a7f8e12fc0.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p028__51a7f8e12fc0.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p029__6a7fc1f0c3c4.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p029__6a7fc1f0c3c4.webp"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p030__7e27c1bd886f.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p030__7e27c1bd886f.webp"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p031__ef5f86593b12.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p031__ef5f86593b12.webp"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p032__cc710a1fbfae.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p032__cc710a1fbfae.webp"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p033__c0c74e2adab6.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p033__c0c74e2adab6.webp"
+      },
+      {
+        "page_number": 34,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p034__2048bf6400cf.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p034__2048bf6400cf.webp"
+      },
+      {
+        "page_number": 35,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p035__a4eaad836415.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p035__a4eaad836415.webp"
+      },
+      {
+        "page_number": 36,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p036__ab4d246b6a9a.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p036__ab4d246b6a9a.webp"
+      },
+      {
+        "page_number": 37,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p037__544eecd76792.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p037__544eecd76792.webp"
+      },
+      {
+        "page_number": 38,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p038__0bd47b203124.json",
+        "review_image_url": "./data/images/merged_20260404_010004__p038__0bd47b203124.webp"
+      },
+      {
+        "page_number": 39,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p039__a0371783e11f.json"
+      },
+      {
+        "page_number": 40,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p040__490b1624fc84.json"
+      },
+      {
+        "page_number": 41,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p041__71710f36e0e9.json"
+      },
+      {
+        "page_number": 42,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p042__a5c6638537ed.json"
+      },
+      {
+        "page_number": 43,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p043__3bbf22cd95a4.json"
+      },
+      {
+        "page_number": 44,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p044__56674811041a.json"
+      },
+      {
+        "page_number": 45,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p045__89e1a19f2049.json"
+      },
+      {
+        "page_number": 46,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p046__3f35300fccfc.json"
+      },
+      {
+        "page_number": 47,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p047__f6a83dfdd4e8.json"
+      },
+      {
+        "page_number": 48,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p048__db33feaf2a90.json"
+      },
+      {
+        "page_number": 49,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p049__63109d174adf.json"
+      },
+      {
+        "page_number": 50,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p050__a062c560423e.json"
+      },
+      {
+        "page_number": 51,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p051__628e9f1a66ae.json"
+      },
+      {
+        "page_number": 52,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p052__73916edfbd35.json"
+      },
+      {
+        "page_number": 53,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p053__461586ded91d.json"
+      },
+      {
+        "page_number": 54,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p054__4697ea40ab3e.json"
+      },
+      {
+        "page_number": 55,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p055__deea95a83b21.json"
+      },
+      {
+        "page_number": 56,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p056__3788af2d38e1.json"
+      },
+      {
+        "page_number": 57,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p057__59a66dd83686.json"
+      },
+      {
+        "page_number": 58,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p058__bfe496d8e7cb.json"
+      },
+      {
+        "page_number": 59,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p059__1f4e5c9c1b81.json"
+      },
+      {
+        "page_number": 60,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p060__c1d62aca3fa7.json"
+      },
+      {
+        "page_number": 61,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p061__f236d3f2bb43.json"
+      },
+      {
+        "page_number": 62,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p062__2e05b921e390.json"
+      },
+      {
+        "page_number": 63,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p063__d0400448dfe6.json"
+      },
+      {
+        "page_number": 64,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p064__3f38564ccc37.json"
+      },
+      {
+        "page_number": 65,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p065__7e44e260d29e.json"
+      },
+      {
+        "page_number": 66,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p066__9e655c7eb083.json"
+      },
+      {
+        "page_number": 67,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p067__a8438442407a.json"
+      },
+      {
+        "page_number": 68,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p068__3fb21dda93f2.json"
+      },
+      {
+        "page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p069__c3d68999666d.json"
+      },
+      {
+        "page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p070__392e0ca0d18d.json"
+      },
+      {
+        "page_number": 71,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p071__2dd750f9968f.json"
+      },
+      {
+        "page_number": 72,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p072__84c2275bd1c9.json"
+      },
+      {
+        "page_number": 73,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p073__3d46d2dcafa4.json"
+      },
+      {
+        "page_number": 74,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p074__93674052497d.json"
+      },
+      {
+        "page_number": 75,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p075__dfa4dddfba90.json"
+      },
+      {
+        "page_number": 76,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p076__d1b123afc1a8.json"
+      },
+      {
+        "page_number": 77,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p077__2cfbb763310f.json"
+      },
+      {
+        "page_number": 78,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p078__71c1b03b5359.json"
+      },
+      {
+        "page_number": 79,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p079__58db4693fd61.json"
+      },
+      {
+        "page_number": 80,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p080__7a37919e7ce8.json"
+      },
+      {
+        "page_number": 81,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p081__80ef07eb89a6.json"
+      },
+      {
+        "page_number": 82,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p082__e121bfbe0201.json"
+      },
+      {
+        "page_number": 83,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p083__18e286e73030.json"
+      },
+      {
+        "page_number": 84,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p084__f6335799433a.json"
+      },
+      {
+        "page_number": 85,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p085__95597c7be97f.json"
+      },
+      {
+        "page_number": 86,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p086__e41ac919af4e.json"
+      },
+      {
+        "page_number": 87,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p087__ee71ad5f92c9.json"
+      },
+      {
+        "page_number": 88,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p088__ccaf4cf8862e.json"
+      },
+      {
+        "page_number": 89,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p089__5ac165731ef9.json"
+      },
+      {
+        "page_number": 90,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p090__05535fbed2ab.json"
+      },
+      {
+        "page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p091__ba8a6d3b6faf.json"
+      },
+      {
+        "page_number": 92,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p092__118f404cba04.json"
+      },
+      {
+        "page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p093__749b18976b46.json"
+      },
+      {
+        "page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p094__828db20a463d.json"
+      },
+      {
+        "page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/merged_20260404_010004__p095__5873379c5a3d.json"
+      }
+    ],
+    "current_index": 37,
+    "previous_page": 37,
+    "next_page": 39
+  },
+  "review_image_url": "./data/images/merged_20260404_010004__p038__0bd47b203124.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "merged_20260404_010004",
+      "page_number": 38
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 0,
+        "accounted_term_count": 0,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.0,
+        "accounted_terms": [],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    }
+  }
+}

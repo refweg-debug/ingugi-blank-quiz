@@ -1,0 +1,1158 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 7
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "_____은 갈비밑면(subcostal plane)과 결절사이면(inter tubercle)을 기준 평면으로 사용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(nine-region pattern)",
+        "accepted_answers": [
+          "9분구역(nine-region pattern)",
+          "nine-region pattern",
+          "nine regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(nine-region pattern)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 9분구역(nine-region pattern)은 갈비밑면(subcostal plane)과 결절사이면(intertubercular plane)을 기준 평면으로 사용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "9분구역(nine-region pattern)은 _____과 결절사이면(inter tubercle)을 기준 평면으로 사용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑면(subcostal plane)",
+        "accepted_answers": [
+          "갈비밑면(subcostal plane)",
+          "subcostal plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑면(subcostal plane)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 9분구역(nine-region pattern)은 갈비밑면(subcostal plane)과 결절사이면(intertubercular plane)을 기준 평면으로 사용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_009"
+      ],
+      "prompt": "_____은 빗장뼈(clavicle)의 중간에서 시작해 고샅인대(inguinal ligament) 쪽으로 내려가는 세로 기준선이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빗장중간선(midclavicular line)",
+        "accepted_answers": [
+          "빗장중간선(midclavicular line)",
+          "midclavicular line"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빗장중간선(midclavicular line)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 빗장중간선(midclavicular line)은 빗장뼈(clavicle)의 중간에서 시작해 inguinal ligament 쪽으로 내려가는 세로 기준선이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_009"
+      ],
+      "prompt": "빗장중간선(midclavicular line)은 _____의 중간에서 시작해 고샅인대(inguinal ligament) 쪽으로 내려가는 세로 기준선이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빗장뼈(clavicle)",
+        "accepted_answers": [
+          "빗장뼈(clavicle)",
+          "clavicle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빗장뼈(clavicle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 빗장중간선(midclavicular line)은 빗장뼈(clavicle)의 중간에서 시작해 inguinal ligament 쪽으로 내려가는 세로 기준선이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_course_009_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_009"
+      ],
+      "prompt": "빗장중간선(midclavicular line)은 빗장뼈(clavicle)의 중간에서 시작해 _____ 쪽으로 내려가는 세로 기준선이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 빗장중간선(midclavicular line)은 빗장뼈(clavicle)의 중간에서 시작해 inguinal ligament 쪽으로 내려가는 세로 기준선이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_001"
+      ],
+      "prompt": "_____은 두 개의 수직 평면인 빗장중간면(midclavicular plane)과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(inter tubercle)을 이용해 배를 아홉 구역으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(nine-region pattern)",
+        "accepted_answers": [
+          "9분구역(nine-region pattern)",
+          "nine-region pattern",
+          "nine regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(nine-region pattern)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: nine-region pattern은 두 개의 수직 평면인 빗장중간면(midclavicular planes)과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(intertubercular plane)을 이용해 배를 아홉 구역으로 나눈다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_001"
+      ],
+      "prompt": "9분구역(nine-region pattern)은 두 개의 수직 평면인 _____과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(inter tubercle)을 이용해 배를 아홉 구역으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빗장중간면(midclavicular plane)",
+        "accepted_answers": [
+          "빗장중간면(midclavicular plane)",
+          "midclavicular plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빗장중간면(midclavicular plane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: nine-region pattern은 두 개의 수직 평면인 빗장중간면(midclavicular planes)과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(intertubercular plane)을 이용해 배를 아홉 구역으로 나눈다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_001"
+      ],
+      "prompt": "9분구역(nine-region pattern)은 두 개의 수직 평면인 빗장중간면(midclavicular plane)과 두 개의 수평 평면인 갈비밑면(subcostal plane), _____을 이용해 배를 아홉 구역으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "결절사이면(inter tubercle)",
+        "accepted_answers": [
+          "결절사이면(inter tubercle)",
+          "inter tubercle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "결절사이면(inter tubercle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: nine-region pattern은 두 개의 수직 평면인 빗장중간면(midclavicular planes)과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(intertubercular plane)을 이용해 배를 아홉 구역으로 나눈다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "_____는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "명치부위(epigastric region)",
+        "accepted_answers": [
+          "명치부위(epigastric region)",
+          "epigastric region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "명치부위(epigastric region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, _____는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽부위(umbilical region)",
+        "accepted_answers": [
+          "배꼽부위(umbilical region)",
+          "umbilical region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽부위(umbilical region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, _____는 뒤창자(hindgut) 연관통증 부위로 표시된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩부위(pubic region)",
+        "accepted_answers": [
+          "두덩부위(pubic region)",
+          "pubic region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩부위(pubic region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_002_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 _____ 연관통증 부위로 표시된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤창자(hindgut)",
+        "accepted_answers": [
+          "뒤창자(hindgut)",
+          "hindgut"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤창자(hindgut)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_003"
+      ],
+      "prompt": "_____은 열째갈비뼈(rib 10)의 아래모서리를 지나며 L2-L3 높이에 해당한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑면(subcostal plane)",
+        "accepted_answers": [
+          "갈비밑면(subcostal plane)",
+          "subcostal plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑면(subcostal plane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 갈비밑면(subcostal plane)은 열째갈비뼈(rib 10)의 아래모서리를 지나며 L2-L3 높이에 해당한다는 필기 메모가 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_003"
+      ],
+      "prompt": "갈비밑면(subcostal plane)은 _____의 아래모서리를 지나며 L2-L3 높이에 해당한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "열째갈비뼈(rib 10)",
+        "accepted_answers": [
+          "열째갈비뼈(rib 10)",
+          "rib 10"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "열째갈비뼈(rib 10)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 갈비밑면(subcostal plane)은 열째갈비뼈(rib 10)의 아래모서리를 지나며 L2-L3 높이에 해당한다는 필기 메모가 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "_____은 양쪽엉덩결절(iliac tubercles)을 연결하며 L5 높이에 해당한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "결절사이면(inter tubercle)",
+        "accepted_answers": [
+          "결절사이면(inter tubercle)",
+          "inter tubercle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "결절사이면(inter tubercle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 결절사이면(intertubercular plane)은 양쪽 엉덩결절(iliac tubercles)을 연결하며 L5 높이에 해당한다는 필기 메모가 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "결절사이면(inter tubercle)은 _____을 연결하며 L5 높이에 해당한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "양쪽엉덩결절(iliac tubercles)",
+        "accepted_answers": [
+          "양쪽엉덩결절(iliac tubercles)",
+          "iliac tubercles"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "양쪽엉덩결절(iliac tubercles)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 결절사이면(intertubercular plane)은 양쪽 엉덩결절(iliac tubercles)을 연결하며 L5 높이에 해당한다는 필기 메모가 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_course_배_필기본_007_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_005"
+      ],
+      "prompt": "_____은 위(stomach)의 날문(pylorus) 기준 평면이며 아홉째갈비연골(rib 9 costal cartilage)과 관련된다는 필기 메모가 추가되어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위유문면(transpyloric plane)",
+        "accepted_answers": [
+          "위유문면(transpyloric plane)",
+          "transpyloric plane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위유문면(transpyloric plane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위유문면(transpyloric plane)은 위(stomach)의 날문(pylorus) 기준 평면이며 아홉째갈비연골(rib 9 costal cartilage)과 관련된다는 필기 메모가 추가되어 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "nine-region pattern의 기준으로 사용되는 수직면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빗장중간면(midclavicular planes)",
+        "accepted_answers": [
+          "빗장중간면(midclavicular planes)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빗장중간면(midclavicular planes)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: nine-region pattern / predicate: uses_vertical_planes / object: 빗장중간면(midclavicular planes)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "nine-region pattern의 기준으로 사용되는 수평면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑면(subcostal plane)",
+        "accepted_answers": [
+          "갈비밑면(subcostal plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑면(subcostal plane)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: nine-region pattern / predicate: uses_horizontal_planes / object: 갈비밑면(subcostal plane)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "nine-region pattern의 기준으로 사용되는 수평면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "결절사이면(intertubercular plane)",
+        "accepted_answers": [
+          "결절사이면(intertubercular plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "결절사이면(intertubercular plane)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: nine-region pattern / predicate: uses_horizontal_planes / object: 결절사이면(intertubercular plane)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "갈비밑면(subcostal plane)가 지나는 기준 높이는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "열째갈비뼈(rib 10)",
+        "accepted_answers": [
+          "열째갈비뼈(rib 10)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "열째갈비뼈(rib 10)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 갈비밑면(subcostal plane) / predicate: passes_level / object: 열째갈비뼈(rib 10)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "결절사이면(intertubercular plane)과 연결되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "양쪽엉덩결절(iliac tubercles)",
+        "accepted_answers": [
+          "양쪽엉덩결절(iliac tubercles)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "양쪽엉덩결절(iliac tubercles)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 결절사이면(intertubercular plane) / predicate: connects / object: 양쪽엉덩결절(iliac tubercles)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "명치부위(epigastric region)에 연관통증을 보내는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞창자(foregut)",
+        "accepted_answers": [
+          "앞창자(foregut)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞창자(foregut)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 명치부위(epigastric region) / predicate: referred_pain_from / object: 앞창자(foregut)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽부위(umbilical region)에 연관통증을 보내는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간창자(midgut)",
+        "accepted_answers": [
+          "중간창자(midgut)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간창자(midgut)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배꼽부위(umbilical region) / predicate: referred_pain_from / object: 중간창자(midgut)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p007_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "두덩부위(pubic region)에 연관통증을 보내는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤창자(hindgut)",
+        "accepted_answers": [
+          "뒤창자(hindgut)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤창자(hindgut)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p007_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 두덩부위(pubic region) / predicate: referred_pain_from / object: 뒤창자(hindgut)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 25,
+    "question_type_count": {
+      "fill_blank": 17,
+      "image_grounded_fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 5,
+      "course_exam_style": 12,
+      "visual_relation_understanding": 8
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 6,
+    "next_page": 8
+  },
+  "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 7
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "9분구역(nine-region pattern)은 갈비밑면(subcostal plane)과 결절사이면(intertubercular plane)을 기준 평면으로 사용한다.",
+        "결절사이면(intertubercular plane)은 양쪽 iliac tubercle을 연결하며 L5 높이에 있다.",
+        "갈비밑면(subcostal plane)은 열째갈비뼈(rib 10)의 아래모서리를 지나며 L2-L3 높이에 해당한다.",
+        "빗장뼈(clavicle)의 한국어 이름은 빗장뼈이다.",
+        "빗장중간선(midclavicular line)은 빗장뼈(clavicle)의 중간에서 시작해 inguinal ligament 쪽으로 내려가는 세로 기준선이다.",
+        "nine-region pattern은 두 개의 수직 평면인 빗장중간면(midclavicular planes)과 두 개의 수평 평면인 갈비밑면(subcostal plane), 결절사이면(intertubercular plane)을 이용해 배를 아홉 구역으로 나눈다.",
+        "명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다.",
+        "갈비밑면(subcostal plane)은 열째갈비뼈(rib 10)의 아래모서리를 지나며 L2-L3 높이에 해당한다는 필기 메모가 있다.",
+        "결절사이면(intertubercular plane)은 양쪽 엉덩결절(iliac tubercles)을 연결하며 L5 높이에 해당한다는 필기 메모가 있다.",
+        "위유문면(transpyloric plane)은 위(stomach)의 날문(pylorus) 기준 평면이며 아홉째갈비연골(rib 9 costal cartilage)과 관련된다는 필기 메모가 추가되어 있다.",
+        "갈비밑면의 영어 이름은 subcostal plane이다.",
+        "결절사이면의 영어 이름은 intertubercular plane이다.",
+        "빗장뼈의 영어 이름은 clavicle이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "위의 영어 이름은 stomach이다.",
+        "유문의 영어 이름은 pylorus이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "갈비연골의 영어 이름은 costal cartilage이다.",
+        "9분구역의 영어 이름은 nine-region pattern이다.",
+        "중간창자의 영어 이름은 midgut이다.",
+        "간의 영어 이름은 liver이다.",
+        "명치부위의 영어 이름은 epigastric region이다.",
+        "두덩부위의 영어 이름은 pubic region이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "뒤창자의 영어 이름은 hindgut이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "배꼽부위의 영어 이름은 umbilical region이다.",
+        "왼옆구리부위의 영어 이름은 left lateral region이다.",
+        "오른쪽옆구리의 영어 이름은 right flank이다.",
+        "오른옆구리부위의 영어 이름은 right lateral region이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "샅굴의 영어 이름은 inguinal canal이다.",
+        "앞창자의 영어 이름은 foregut이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "clavicle 가운데 아래쪽 inguinal ligament 지나는 평면",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "stomach에서 나가는 pylorus 기준으로",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "Nine-region pattern subcostal plane; intertubercular 'plane",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "stomach예서 나가는 pylorus 기준으로",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "빗장중간면(midclavicular plane)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "(subcostal plane) (pubic region)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "오른염구리부워(right flank)| (umbilical region)| 왼옆구리부위lleft flank) (referred pain \"신고랑인다(inguinal lig:)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "결절사이면(inter tubercle)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "오른살굴부위right groin) (pu5glegion) (왼살굴부위(left groin)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "위열에는 오른갈비밑부위(right hypochondrium), 명치부위(epigastric region), 왼갈비밑부위(left hypochondrium)가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "가운데열에는 오른옆구리부위(right flank), 배꼽부위(umbilical region), 왼옆구리부위(left flank)가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "아래열에는 오른샅굴부위(right groin), 두덩부위(pubic region), 왼샅굴부위(left groin)가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "명치부위(epigastric region)는 앞창자(foregut) 연관통증 부위, 배꼽부위(umbilical region)는 중간창자(midgut) 연관통증 부위, 두덩부위(pubic region)는 뒤창자(hindgut) 연관통증 부위로 표시된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "위유문면(transpyloric plane)은 위(stomach)의 날문(pylorus) 기준 평면이며 아홉째갈비연골(rib 9 costal cartilage)과 관련된다는 필기 메모가 추가되어 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "배의 nine-region pattern 페이지로, 빗장중간면, 갈비밑면, 결절사이면을 이용한 아홉 구역과 각 구역의 명칭, 필기에서 추가된 평면 높이 메모가 함께 제시된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "nine-region pattern uses_vertical_planes 빗장중간면(midclavicular planes)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "결절사이면(intertubercular plane) connects 양쪽 엉덩결절(iliac tubercles)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "결절사이면(intertubercular plane) passes_level L5",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 45,
+          "text": "명치부위(epigastric region) referred_pain_from 앞창자(foregut)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 46,
+          "text": "배꼽부위(umbilical region) referred_pain_from 중간창자(midgut)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 47,
+          "text": "두덩부위(pubic region) referred_pain_from 뒤창자(hindgut)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 35,
+        "accounted_term_count": 31,
+        "unresolved_term_count": 4,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.886,
+        "accounted_terms": [
+          "빗장중간면(midclavicular plane)",
+          "오른쪽옆구리(right flank)",
+          "결절사이면(inter tubercle)",
+          "결절사이면(intertubercular plane)",
+          "명치부위(epigastric region)",
+          "배꼽부위(umbilical region)",
+          "왼옆구리부위(left flank)",
+          "두덩부위(pubic region)",
+          "앞창자(foregut)",
+          "중간창자(midgut)",
+          "뒤창자(hindgut)",
+          "갈비밑면(subcostal plane)",
+          "열째갈비뼈(rib 10)",
+          "양쪽엉덩결절(iliac tubercles)",
+          "빗장뼈(clavicle)",
+          "위유문면(transpyloric plane)",
+          "위(stomach)",
+          "유문(pylorus)",
+          "빗장중간면(midclavicular planes)",
+          "고샅인대(inguinal ligament)",
+          "갈비뼈(rib)",
+          "갈비연골(costal cartilage)",
+          "9분구역(nine-region pattern)",
+          "간(liver)",
+          "배(abdominal region)",
+          "척주(vertebral column)",
+          "왼옆구리부위(left lateral region)",
+          "오른옆구리부위(right lateral region)",
+          "샅(perineum)",
+          "샅굴(inguinal canal)",
+          "빗장중간선(midclavicular line)"
+        ],
+        "unresolved_terms": [
+          "갈비아래면두딩부위(right groin)",
+          "신고랑인다(inguinal lig:)",
+          "왼살굴부위(left groin)",
+          "왼갈비밑부위(left hypochondrium)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "plane 4개",
+        "Nine-region pattern",
+        "subcostal plane intertubercular plane",
+        "clavicle 가운데 아래쪽 inguinal ligament 지나는 평면",
+        "L5",
+        "양쪽 iliac tubercle 연결 , L5위치",
+        "stomach에서 나가는 pylorus 기준으로",
+        "rib 10의 아랫모서리 지나고 L2 L3 지난다 다른 하나는",
+        "rib9 costal cartilage -> transpyrolic plane",
+        "Nine-region pattern subcostal plane; intertubercular 'plane",
+        "빗장중간면(midclavicular plane)",
+        "(midclavicular plane)",
+        "명치부위(epigastric",
+        "(referred pain 왼갈비믿부위(left",
+        "~중간창자부터 {r@gion-오l요7 무위 {subrosdanpeane)",
+        "{right hypgnanjleu위 fepisagl분유egion | [올a u뷰유hondrum) (referred pain from (rightflank) bercular plane)",
+        "midgut) 오른살굴부위 왼살구부위 - 위앞엉당뼈가ante",
+        "갈비아래면 두딩부위 (right groin) Teifroin-riaf Superiof aae",
+        "(subcostal plane) (pubic region)",
+        "배체부위 ~뒤창자로부터 연관통증 spine)",
+        "오른염구리부워(right flank)| (umbilical region)| 왼옆구리부위lleft flank) (referred pain \"신고랑인다(inguinal lig:)",
+        "from hindgut) 두딩뼈결질pubic",
+        "결절사이면(inter tubercle)",
+        "L5 tubercularplane)",
+        "오른살굴부위right groin) (pu5glegion) (왼살굴부위(left groin)",
+        "양쪽 iliac tubercle 연결 L5위치",
+        "stomach예서 나가는 pylorus 기준으로",
+        "rib9 costal cartilage -> transpyrolic , plane"
+      ],
+      "supplemental_ocr_blocks": [
+        "빗장중간면",
+        "갈비밀면",
+        "오른갈비밀부위 표뭐"
+      ],
+      "corrected_page_text": "plane 4개\nNine-region pattern\nsubcostal plane intertubercular plane\nclavicle 가운데 아래쪽 inguinal ligament 지나는 평면\nL5\n양쪽 iliac tubercle 연결 , L5위치\nstomach에서 나가는 pylorus 기준으로\nrib 10의 아랫모서리 지나고 L2 L3 지난다 다른 하나는\nrib9 costal cartilage -> transpyrolic plane\nNine-region pattern subcostal plane; intertubercular 'plane\n빗장중간면(midclavicular plane)\n(midclavicular plane)\n명치부위(epigastric\n(referred pain 왼갈비믿부위(left\n~중간창자부터 {r@gion-오l요7 무위 {subrosdanpeane)\n{right hypgnanjleu위 fepisagl분유egion | [올a u뷰유hondrum) (referred pain from (rightflank) bercular plane)\nmidgut) 오른살굴부위 왼살구부위 - 위앞엉당뼈가ante\n갈비아래면 두딩부위 (right groin) Teifroin-riaf Superiof aae\n(subcostal plane) (pubic region)\n배체부위 ~뒤창자로부터 연관통증 spine)\n오른염구리부워(right flank)| (umbilical region)| 왼옆구리부위lleft flank) (referred pain \"신고랑인다(inguinal lig:)\nfrom hindgut) 두딩뼈결질pubic\n결절사이면(inter tubercle)\nL5 tubercularplane)\n오른살굴부위right groin) (pu5glegion) (왼살굴부위(left groin)\n양쪽 iliac tubercle 연결 L5위치\nstomach예서 나가는 pylorus 기준으로\nrib9 costal cartilage -> transpyrolic , plane",
+      "quality_audit": {
+        "pdf_char_count": 210,
+        "pdf_span_count": 59,
+        "pdf_word_count": 40,
+        "ocr_fragment_count": 63,
+        "pdf_line_count": 9,
+        "ocr_line_count": 28,
+        "merged_line_count": 31,
+        "pdf_only_count": 3,
+        "ocr_only_count": 22,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 9,
+        "ocr_only_line_count": 22,
+        "pdf_alpha_count": 193,
+        "ocr_alpha_count": 620,
+        "promoted_ocr_only_count": 19
+      }
+    }
+  }
+}

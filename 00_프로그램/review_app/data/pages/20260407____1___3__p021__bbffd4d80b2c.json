@@ -1,0 +1,833 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 21,
+    "note_page_number": 21,
+    "source_page_number": 65,
+    "original_page_number": 65,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_001"
+      ],
+      "prompt": "_____의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_001"
+      ],
+      "prompt": "작은창자(small intestine)의 _____는 단순원주상피(simple columnar epithelium)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_002"
+      ],
+      "prompt": "위 표면은 대부분 표면점액세포(surface mucous cells)가 포함된 _____로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "단순원주상피(simple columnar epithelium)",
+        "accepted_answers": [
+          "단순원주상피(simple columnar epithelium)",
+          "simple columnar epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "단순원주상피(simple columnar epithelium)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위 표면은 대부분 표면점액세포(surface mucous cells)가 포함된 단순원주상피(simple columnar epithelium)로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_002"
+      ],
+      "prompt": "위 표면은 대부분 _____가 포함된 단순원주상피(simple columnar epithelium)로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "표면점액세포(surface mucous cells)",
+        "accepted_answers": [
+          "표면점액세포(surface mucous cells)",
+          "surface mucous cells"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "표면점액세포(surface mucous cells)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위 표면은 대부분 표면점액세포(surface mucous cells)가 포함된 단순원주상피(simple columnar epithelium)로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_003"
+      ],
+      "prompt": "점막밑층(submucosa)에는 _____가 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘이없고점막밑신경얼기(submucosal nerve plexus)",
+        "accepted_answers": [
+          "샘이없고점막밑신경얼기(submucosal nerve plexus)",
+          "submucosal nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘이없고점막밑신경얼기(submucosal nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑층(submucosa)에는 샘이 없고 점막밑신경얼기(submucosal nerve plexus)가 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_004"
+      ],
+      "prompt": "_____은 날문조임근(pyloric sphincter)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌림층(circular layer)",
+        "accepted_answers": [
+          "돌림층(circular layer)",
+          "circular layer"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌림층(circular layer)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 돌림층(circular layer)은 날문조임근(pyloric sphincter)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_필기본_021_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_004"
+      ],
+      "prompt": "돌림층(circular layer)은 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "날문조임근(pyloric sphincter)",
+        "accepted_answers": [
+          "날문조임근(pyloric sphincter)",
+          "pyloric sphincter"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "날문조임근(pyloric sphincter)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 돌림층(circular layer)은 날문조임근(pyloric sphincter)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_강의원본_065_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_065_ai_corrected_001"
+      ],
+      "prompt": "_____은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위주름(gastric folds)",
+        "accepted_answers": [
+          "위주름(gastric folds)",
+          "gastric folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위주름(gastric folds)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_강의원본_065_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_065_ai_corrected_001"
+      ],
+      "prompt": "위주름(gastric folds)은 _____과 점막밑층(submucosa)에 의해 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)",
+          "mucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p021_course_배_강의원본_065_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_065_ai_corrected_001"
+      ],
+      "prompt": "위주름(gastric folds)은 점막(mucosa)과 _____에 의해 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 10,
+    "question_type_count": {
+      "fill_blank": 10
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 2,
+      "course_exam_style": 8
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 20,
+    "previous_page": 20,
+    "next_page": 22
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 21
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "작은창자(small intestine)의 상피(epithelium)는 단순원주상피(simple columnar epithelium)이다.",
+        "위오목(gastric pit)은 점막에서 위샘(gastric glands)으로 이어지는 구멍이며, 위샘은 cardiac glands, gastric glands proper, pyloric glands로 구분할 수 있다.",
+        "위 표면은 대부분 표면점액세포(surface mucous cells)가 포함된 단순원주상피(simple columnar epithelium)로 이루어진다.",
+        "점막밑층(submucosa)에는 샘이 없고 점막밑신경얼기(submucosal nerve plexus)가 존재한다.",
+        "돌림층(circular layer)은 날문조임근(pyloric sphincter)을 형성한다.",
+        "위의 영어 이름은 stomach이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "점액의 영어 이름은 mucin이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "간의 영어 이름은 liver이다.",
+        "점막밑층의 영어 이름은 submucosa이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "위주름의 영어 이름은 gastric rugae이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "점막근육층의 영어 이름은 muscularis mucosae이다.",
+        "단순원주상피의 영어 이름은 simple columnar epithelium이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다.",
+        "위오목(gastric pit)은 점막 표면에서 위샘(gastric glands)으로 이어지는 함입이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "유문의 영어 이름은 pylorus이다.",
+        "장막의 영어 이름은 serosa이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 22,
+          "text": "inner circular; outer loflgitudinal pyloric 9 ands로 구분",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 41,
+          "text": "위오목(gastric pit)은 점막에서 위샘(gastric glands)으로 이어지는 구멍이며, 위샘은 cardiac glands, gastric glands proper, pyloric glands로 구분할 수 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "들문(Cardia) (a) 위의 주요 부위는 들문 바닥 몸통 날문으로 구성되어 있으며 모든 구역에서",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "대부분 surfac| mucosa cell로 되어있음",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "(Submucosa) 정매(Vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "식도(Esophagus) 바닥(Fundus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "셈장자 \"# #질 작은 굽이 통림하a 콤운luais| LP (b) 식도-위접합부어서 식도들 덮고 있는 중증편평상피SSE는 돌연 위의 단종원",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "(c) 위벽의 점막은 위심으로 이어지는 위오목이라 불리는 함업부들 가지고 있다:",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "(Muscularis mucosae)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "해부학적으로 위는 네 부분으로 나누지만 조직학적으로는 cardiac, fundus/body, pyloric의 세 파트로 정리할 수 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)이 안쪽으로 들어가서 생기는 주름이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "점막밑층(submucosa)에는 샘이 없고 점막밑신경얼기(submucosal nerve plexus)가 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "근육층(muscularis)은 빗층(oblique layer), 돌림층(circular layer), 세로층(longitudinal layer)의 세 층으로 이루어지며, 근육신경얼기(myenteric nerve plexus)는 돌림층과 세로층 사이에 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 45,
+          "text": "돌림층(circular layer)은 날문조임근(pyloric sphincter)을 형성한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 47,
+          "text": "위 조직학 개요 그림 위에 위의 조직학적 분류, 위주름·위오목·위샘 관계, 상피와 신경얼기, 근육층 3층 구조를 설명하는 필기가 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 48,
+          "text": "위주름(gastric folds) 생긴다 점막(mucosa)과 점막밑층(submucosa)의 함입",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 49,
+          "text": "점막밑층(submucosa) 가진다 점막밑신경얼기(submucosal nerve plexus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 50,
+          "text": "돌림층(circular layer) 형성한다 날문조임근(pyloric sphincter)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "(a) 위의 주요 부위는 들문 바닥 몸통 날문으로 구성되어 있으며 모든 구역에서",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "(Mucosa) (Lamina propria) GG",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "(Submucosa) '정매(Vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "위의 해부학적 구역은 들문(cardia), 바닥(fundus), 몸통(body), 날문(pylorus)으로 나뉜다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "위주름(gastric folds)은 점막(mucosa)과 점막밑층(submucosa)에 의해 형성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "위오목(gastric pit)은 점막 표면에서 위샘(gastric glands)으로 이어지는 함입이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "근육층(muscularis)은 빗층(oblique layer), 돌림층(circular layer), 세로층(longitudinal layer)의 세 층으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 있고, 근육신경얼기(myenteric nerve plexus)는 돌림층(circular layer)과 세로층(longitudinal layer) 사이에 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "위 조직학 개요 페이지로, 해부학적 구역, 점막·점막밑층·근육층·장막 구조, 위오목과 위샘, 상피 전이, 신경얼기 위치를 함께 보여 준다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "위주름(gastric folds) 형성된다 점막(mucosa)과 점막밑층(submucosa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "위오목(gastric pit) 이어진다 위샘(gastric glands)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "근육신경얼기(myenteric nerve plexus) 사이에 있다 돌림층(circular layer)과 세로층(longitudinal layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 36,
+        "accounted_term_count": 27,
+        "unresolved_term_count": 7,
+        "missing_term_count": 2,
+        "coverage_ratio": 0.75,
+        "accounted_terms": [
+          "는(c)",
+          "식도(esophagus)",
+          "위주름(gastric folds)",
+          "점막(mucosa)",
+          "점막밑층(submucosa)",
+          "위오목(gastric pit)",
+          "단순원주상피(simple columnar epithelium)",
+          "샘이없고점막밑신경얼기(submucosal nerve plexus)",
+          "근육층(muscularis)",
+          "돌림층(circular layer)",
+          "날문조임근(pyloric sphincter)",
+          "위(stomach)",
+          "근육(muscles)",
+          "점액(mucin)",
+          "상피(epithelium)",
+          "간(liver)",
+          "신경(nerves)",
+          "위주름(gastric rugae)",
+          "목(cervical region)",
+          "점막근육층(muscularis mucosae)",
+          "근육층(muscularis externa)",
+          "작은창자(small intestine)",
+          "유문(pylorus)",
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "어진다위샘(gastric glands)",
+          "점막고유층(lamina propria)",
+          "장막(serosa)"
+        ],
+        "unresolved_terms": [
+          "들문(Cardia)",
+          "정매(Vein)",
+          "바닥(Fundus)",
+          "빗층(oblique layer)",
+          "세로층(longitudinal layer)",
+          "근육신경얼기(myenteric nerve plexus)",
+          "몸통(body)"
+        ],
+        "missing_terms": [
+          "도관찰되다(X6O)",
+          "점막민층동맥(Artery)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Histology of stomach",
+        "식도(Esophagus) 바닥(Fundus)",
+        "위는 소회관의 근육종이 확장되어 부위로 물리적 소회와 회학적 소회가 일어나는",
+        "A어na 세로의 위주름ruga)이l 존자한다 근육충은 3개의 충으로 이루어저 있다:",
+        "(a) 위의 주요 부위는 들문 바닥 몸통 날문으로 구성되어 있으며 모든 구역에서",
+        "셈장자 \"# #질 작은 굽이 통림하a 콤운luais| LP (b) 식도-위접합부어서 식도들 덮고 있는 중증편평상피SSE는 돌연 위의 단종원",
+        "(Duodlenum) @rsaurz layer) SSE 주상고SCE로 다체되다: 이 사진예서논 또한 점막근육-관M씨)과 고유때LP) 아",
+        "빗창Oblique 쾌의 점액성 식도들문. ECG)도 관찰되다: (X6O; H&E)",
+        "(c) 위벽의 점막은 위심으로 이어지는 위오목이라 불리는 함업부들 가지고 있다:",
+        "몸통Body) 이러한 구조는 5가지로 기능적인 분류륙 할 수 있는 세포랑 함유한 단충원주상피",
+        "MM 에 의해 덮여 있다:",
+        "J3per curvature) '굽이",
+        "(d) 위점막의 조직학적 절단먼어서 고유쩐의 세도들로 둘러싸인 위오되P)과 위셈",
+        "(Pu표us) (GG)올 관찰활 수 있다: 아래의 점막근육- MM) 또한 보인다: (X6O; HSE)",
+        "(Gastric folds)",
+        "(a) '원국워하유하 regions, anterior view)",
+        "위 속공간HStomach lumen)",
+        "\"simnpararga 훨관Blood vessel)",
+        "림프관Lymph vessel)",
+        "(Mucosa) (Lamina propria) GG",
+        "(Muscularis mucosae)",
+        "점막민층 동맥 (Artery)",
+        "(Submucosa) '정매(Vein)",
+        "(Oblique layer) 정마P신경업기",
+        "(Circular r듭수히",
+        "nerve plexus)}",
+        "(Muscii육s 궁하열기",
+        "longitwna_ nerve plexus)",
+        "(c) 위벽, 절단면Stomach wall, sectional view)"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 15-14 위",
+        "SCE 긋이다:",
+        "들문(Cardia)",
+        "layer)",
+        "ECG",
+        "위수름",
+        "(@워용목t)",
+        "P P",
+        "점막 고유판",
+        "짐막근유판_",
+        "빗총",
+        "layer)",
+        "장학촌",
+        "(Serosa)",
+        "MM"
+      ],
+      "corrected_page_text": "Histology of stomach\n식도(Esophagus) 바닥(Fundus)\n위는 소회관의 근육종이 확장되어 부위로 물리적 소회와 회학적 소회가 일어나는\nA어na 세로의 위주름ruga)이l 존자한다 근육충은 3개의 충으로 이루어저 있다:\n(a) 위의 주요 부위는 들문 바닥 몸통 날문으로 구성되어 있으며 모든 구역에서\n셈장자 \"# #질 작은 굽이 통림하a 콤운luais| LP (b) 식도-위접합부어서 식도들 덮고 있는 중증편평상피SSE는 돌연 위의 단종원\n(Duodlenum) @rsaurz layer) SSE 주상고SCE로 다체되다: 이 사진예서논 또한 점막근육-관M씨)과 고유때LP) 아\n빗창Oblique 쾌의 점액성 식도들문. ECG)도 관찰되다: (X6O; H&E)\n(c) 위벽의 점막은 위심으로 이어지는 위오목이라 불리는 함업부들 가지고 있다:\n몸통Body) 이러한 구조는 5가지로 기능적인 분류륙 할 수 있는 세포랑 함유한 단충원주상피\nMM 에 의해 덮여 있다:\nJ3per curvature) '굽이\n(d) 위점막의 조직학적 절단먼어서 고유쩐의 세도들로 둘러싸인 위오되P)과 위셈\n(Pu표us) (GG)올 관찰활 수 있다: 아래의 점막근육- MM) 또한 보인다: (X6O; HSE)\n(Gastric folds)\n(a) '원국워하유하 regions, anterior view)\n위 속공간HStomach lumen)\n\"simnpararga 훨관Blood vessel)\n림프관Lymph vessel)\n(Mucosa) (Lamina propria) GG\n(Muscularis mucosae)\n점막민층 동맥 (Artery)\n(Submucosa) '정매(Vein)\n(Oblique layer) 정마P신경업기\n(Circular r듭수히\nnerve plexus)}\n(Muscii육s 궁하열기\nlongitwna_ nerve plexus)\n(c) 위벽, 절단면Stomach wall, sectional view)",
+      "quality_audit": {
+        "pdf_char_count": 18,
+        "pdf_span_count": 1,
+        "pdf_word_count": 3,
+        "ocr_fragment_count": 75,
+        "pdf_line_count": 1,
+        "ocr_line_count": 44,
+        "merged_line_count": 44,
+        "pdf_only_count": 0,
+        "ocr_only_count": 43,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 43,
+        "pdf_alpha_count": 18,
+        "ocr_alpha_count": 742,
+        "promoted_ocr_only_count": 28
+      }
+    }
+  }
+}

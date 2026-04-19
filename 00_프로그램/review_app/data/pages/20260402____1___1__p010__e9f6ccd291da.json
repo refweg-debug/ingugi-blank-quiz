@@ -1,0 +1,861 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 10
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_010_ai_corrected_001"
+      ],
+      "prompt": "배의 수술 절개는 근섬유 방향(muscle fiber direction)과 혈관(blood vessels), _____의 위치를 고려하여 계획한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "신경(nerves)",
+        "accepted_answers": [
+          "신경(nerves)",
+          "nerves"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "신경(nerves)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배의 수술 절개는 근섬유 방향(muscle fiber direction)과 혈관(blood vessels), 신경(nerves)의 위치를 고려하여 계획한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_010_ai_corrected_001"
+      ],
+      "prompt": "배의 수술 절개는 근섬유 _____과 혈관(blood vessels), 신경(nerves)의 위치를 고려하여 계획한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "방향(muscle fiber direction)",
+        "accepted_answers": [
+          "방향(muscle fiber direction)",
+          "muscle fiber direction"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "방향(muscle fiber direction)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배의 수술 절개는 근섬유 방향(muscle fiber direction)과 혈관(blood vessels), 신경(nerves)의 위치를 고려하여 계획한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "_____는 갈비활(costal margin)에서 약 2 cm 아래에 둔다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑절개(subcostal incision)",
+        "accepted_answers": [
+          "갈비밑절개(subcostal incision)",
+          "subcostal incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑절개(subcostal incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 갈비밑절개(subcostal incision)는 갈비활(costal margin)에서 약 2 cm 아래에 둔다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "갈비밑절개(subcostal incision)는 _____에서 약 2 cm 아래에 둔다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비활(costal margin)",
+        "accepted_answers": [
+          "갈비활(costal margin)",
+          "costal margin"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비활(costal margin)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 갈비밑절개(subcostal incision)는 갈비활(costal margin)에서 약 2 cm 아래에 둔다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_008"
+      ],
+      "prompt": "_____의 다른 이름은 정중선절개(midline incision)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중절개(median incision)",
+        "accepted_answers": [
+          "정중절개(median incision)",
+          "median incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중절개(median incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 정중절개(median incision)의 다른 이름은 정중선절개(midline incision)이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_011"
+      ],
+      "prompt": "_____의 다른 이름은 근육분리절개(muscle-splitting incision)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "격자형절개(gridiron incision)",
+        "accepted_answers": [
+          "격자형절개(gridiron incision)",
+          "gridiron incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "격자형절개(gridiron incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 격자형절개(gridiron incision)의 다른 이름은 근육분리절개(muscle-splitting incision)이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_013_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_013"
+      ],
+      "prompt": "_____는 충수절제술(appendectomy)에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "격자형절개(gridiron incision)",
+        "accepted_answers": [
+          "격자형절개(gridiron incision)",
+          "gridiron incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "격자형절개(gridiron incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 격자형절개(gridiron incision)는 충수절제술(appendectomy)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_013_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_013"
+      ],
+      "prompt": "격자형절개(gridiron incision)는 _____에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "충수절제술(appendectomy)",
+        "accepted_answers": [
+          "충수절제술(appendectomy)",
+          "appendectomy"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "충수절제술(appendectomy)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 격자형절개(gridiron incision)는 충수절제술(appendectomy)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_016_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_016"
+      ],
+      "prompt": "_____의 다른 이름은 파넨스틸절개(Pfannenstiel incision)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩위절개(suprapubic incision)",
+        "accepted_answers": [
+          "두덩위절개(suprapubic incision)",
+          "suprapubic incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩위절개(suprapubic incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 두덩위절개(suprapubic incision)의 다른 이름은 파넨스틸절개(Pfannenstiel incision)이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_017_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_017"
+      ],
+      "prompt": "_____는 자궁절제술(hysterectomy)에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩위절개(suprapubic incision)",
+        "accepted_answers": [
+          "두덩위절개(suprapubic incision)",
+          "suprapubic incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩위절개(suprapubic incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 두덩위절개(suprapubic incision)는 자궁절제술(hysterectomy)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_017_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_017"
+      ],
+      "prompt": "두덩위절개(suprapubic incision)는 _____에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "자궁절제술(hysterectomy)",
+        "accepted_answers": [
+          "자궁절제술(hysterectomy)",
+          "hysterectomy"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "자궁절제술(hysterectomy)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 두덩위절개(suprapubic incision)는 자궁절제술(hysterectomy)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_019"
+      ],
+      "prompt": "_____는 쓸개절제술(gallbladder removal)에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑절개(subcostal incision)",
+        "accepted_answers": [
+          "갈비밑절개(subcostal incision)",
+          "subcostal incision"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑절개(subcostal incision)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 갈비밑절개(subcostal incision)는 쓸개절제술(gallbladder removal)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_course_배_필기본_010_course_019_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_019"
+      ],
+      "prompt": "갈비밑절개(subcostal incision)는 _____에 이용한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개절제술(gallbladder removal)",
+        "accepted_answers": [
+          "쓸개절제술(gallbladder removal)",
+          "gallbladder removal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개절제술(gallbladder removal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 갈비밑절개(subcostal incision)는 쓸개절제술(gallbladder removal)에 이용한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "정중절개(midline incision)의 정중절개(midline incision)에서 약 2-3 cm 가쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼정중곁절개(left paramedian incision)",
+        "accepted_answers": [
+          "왼정중곁절개(left paramedian incision)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼정중곁절개(left paramedian incision)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 왼정중곁절개(left paramedian incision) / predicate: 정중절개(midline incision)에서 약 2-3 cm 가쪽에 위치한다 / object: 정중절개(midline incision)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "충수절제술(appendectomy)에 이용하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "격자형절개(gridiron incision)",
+        "accepted_answers": [
+          "격자형절개(gridiron incision)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "격자형절개(gridiron incision)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 격자형절개(gridiron incision) / predicate: 충수절제술(appendectomy)에 이용한다 / object: 충수절제술(appendectomy)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "갈비활(costal margin)의 갈비활(costal margin)에서 약 2 cm 아래에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비밑절개(subcostal incision)",
+        "accepted_answers": [
+          "갈비밑절개(subcostal incision)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비밑절개(subcostal incision)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 갈비밑절개(subcostal incision) / predicate: 갈비활(costal margin)에서 약 2 cm 아래에 위치한다 / object: 갈비활(costal margin)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "가시배꼽선(spino-umbilical line) 위의 기준점은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney point)",
+        "accepted_answers": [
+          "맥버니점(McBurney point)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney point)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 맥버니점(McBurney point) / predicate: 가시배꼽선(spino-umbilical line) 위의 기준점이다 / object: 가시배꼽선(spino-umbilical line)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_004_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "가시배꼽선(spino-umbilical line) 위의 기준점은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "맥버니점(McBurney's point)",
+        "accepted_answers": [
+          "맥버니점(McBurney's point)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "맥버니점(McBurney's point)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 맥버니점(McBurney's point) / predicate: 가시배꼽선(spino-umbilical line) 위의 기준점이다 / object: 가시배꼽선(spino-umbilical line)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p010_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "맥버니점(McBurney point) 부위에서 시행하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "격자형절개(gridiron incision)",
+        "accepted_answers": [
+          "격자형절개(gridiron incision)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "격자형절개(gridiron incision)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p010_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 격자형절개(gridiron incision) / predicate: 맥버니점(McBurney point) 부위에서 시행한다 / object: 맥버니점(McBurney point)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 19,
+    "question_type_count": {
+      "fill_blank": 13,
+      "image_grounded_fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style": 2,
+      "course_exam_style_provisional": 11,
+      "visual_relation_understanding": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 9,
+    "previous_page": 9,
+    "next_page": 11
+  },
+  "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 10
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배의 수술 절개는 근섬유 방향(muscle fiber direction)과 혈관(blood vessels), 신경(nerves)의 위치를 고려하여 계획한다.",
+        "왼정중곱절개(left paramedian incision)는 정중절개(midline incision)에서 약 2-3 cm 가쪽에 둔다.",
+        "McBurney 절개(gridiron incision)는 McBurney's point 부근에 둔다.",
+        "갈비밑절개(subcostal incision)는 갈비활(costal margin)에서 약 2 cm 아래에 둔다.",
+        "배의 수술 절개는 근섬유 방향과 혈관, 신경의 위치를 고려하여 계획한다.",
+        "정중절개(median incision)의 다른 이름은 정중선절개(midline incision)이다.",
+        "격자형절개(gridiron incision)의 다른 이름은 근육분리절개(muscle-splitting incision)이다.",
+        "격자형절개(gridiron incision)는 충수절제술(appendectomy)에 이용한다.",
+        "맥버니점(McBurney point)은 가시배꽉선(spino-umbilical line) 위의 기준점이다.",
+        "두덩위절개(suprapubic incision)의 다른 이름은 파넨스틸절개(Pfannenstiel incision)이다.",
+        "두덩위절개(suprapubic incision)는 자궁절제술(hysterectomy)에 이용한다.",
+        "갈비밑절개(subcostal incision)는 쓸개절제술(gallbladder removal)에 이용한다.",
+        "근육의 영어 이름은 muscles이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "정중선의 영어 이름은 midline이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "muscle ﬁber와 혈관 신경 위치고려",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "배의 수술 절개 위치를 설명하는 강의 그림 위에 절개 기준점과 예시 수술 적응증을 보강한 필기가 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 22,
+        "accounted_term_count": 21,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.955,
+        "accounted_terms": [
+          "정중절개(median incision)",
+          "왼정중곁절개(left paramedian incision)",
+          "정중절개(midline incision)",
+          "격자형절개(gridiron incision)",
+          "McBurney's point",
+          "시배꼽선(spino-umbilical line)",
+          "두덩위절개(suprapubic incision)",
+          "자궁절제술(hysterectomy)",
+          "갈비밑절개(subcostal incision)",
+          "갈비활(costal margin)",
+          "쓸개절제술(gallbladder removal)",
+          "혈관(blood vessels)",
+          "신경(nerves)",
+          "충수절제술(appendectomy)",
+          "근육(muscles)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "정중선(midline)",
+          "쓸개주머니(gallbladder)",
+          "근육분리절개(muscle-splitting incision)",
+          "파넨스틸절개(Pfannenstiel incision)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "옆왼정중옆절개(exploratory operation)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Surgical incision",
+        "수술 시 절개할 때 참고할 지점",
+        "muscle ﬁber와 혈관 신경 위치고려",
+        "2 3cm 옆",
+        "결국 mcburney~s point에",
+        "costal margin 2cm아래",
+        "앞에서 본 모습",
+        "배의 외과적 절개",
+        "'정J pmadian incision;",
+        "2-3cm 옆 왼정중옆절개 (exploratory operation)|",
+        "'niragar#ilan misision-",
+        "(left incision)",
+        "결국 mcburney' s point에 (paa다a제술 예:",
+        "가로설개transverse incision)",
+        "'둘료관 베umrapauay Pfannenstiel inosi절제숙hysterectomy)",
+        "갈비믿적개subcostal incision) -Baliblsaaaerr 예:",
+        "costal margin 2cm아래 removal)"
+      ],
+      "supplemental_ocr_blocks": [
+        "가사뻐표성",
+        "urnbilical",
+        "line)",
+        "가시배끔점",
+        "예: 담색개복술"
+      ],
+      "corrected_page_text": "Surgical incision\n수술 시 절개할 때 참고할 지점\nmuscle ﬁber와 혈관 신경 위치고려\n2 3cm 옆\n결국 mcburney~s point에\ncostal margin 2cm아래\n앞에서 본 모습\n배의 외과적 절개\n'정J pmadian incision;\n2-3cm 옆 왼정중옆절개 (exploratory operation)|\n'niragar#ilan misision-\n(left incision)\n결국 mcburney' s point에 (paa다a제술 예:\n가로설개transverse incision)\n'둘료관 베umrapauay Pfannenstiel inosi절제숙hysterectomy)\n갈비믿적개subcostal incision) -Baliblsaaaerr 예:\ncostal margin 2cm아래 removal)",
+      "quality_audit": {
+        "pdf_char_count": 89,
+        "pdf_span_count": 36,
+        "pdf_word_count": 20,
+        "ocr_fragment_count": 31,
+        "pdf_line_count": 6,
+        "ocr_line_count": 20,
+        "merged_line_count": 22,
+        "pdf_only_count": 2,
+        "ocr_only_count": 16,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 6,
+        "ocr_only_line_count": 16,
+        "pdf_alpha_count": 83,
+        "ocr_alpha_count": 271,
+        "promoted_ocr_only_count": 11
+      }
+    }
+  }
+}

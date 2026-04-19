@@ -1,0 +1,794 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 18
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_001"
+      ],
+      "prompt": "배꼽곁정맥(paraumbilical veins)과 _____은 문맥-온몸정맥 곁순환(collateral pathway) 경로를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical vein)과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_001"
+      ],
+      "prompt": "문맥(portal vein)에는 판막이 없어 역류가 가능하므로, 막히면 온몸정맥(systemic veins)과의 _____이 형성될 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곁순환(collateral pathway)",
+        "accepted_answers": [
+          "곁순환(collateral pathway)",
+          "collateral pathway"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곁순환(collateral pathway)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 문맥(portal vein)에는 판막이 없어 역류가 가능하므로, 막히면 온몸정맥(systemic veins)과의 곁순환(collateral pathway)이 형성될 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "_____은 문맥계(portal venous system)에 속하고, 식도정맥(esophageal veins)과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼위정맥(left gastric vein)",
+        "accepted_answers": [
+          "왼위정맥(left gastric vein)",
+          "left gastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼위정맥(left gastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 문맥계(portal venous system)에 속하고, 식도정맥(esophageal veins)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "왼위정맥(left gastric vein)은 문맥계(portal venous system)에 속하고, _____과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도정맥(esophageal veins)",
+        "accepted_answers": [
+          "식도정맥(esophageal veins)",
+          "esophageal veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도정맥(esophageal veins)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 왼위정맥(left gastric vein)은 문맥계(portal venous system)에 속하고, 식도정맥(esophageal veins)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_003"
+      ],
+      "prompt": "_____은 홀정맥계(azygos system)로 이어지므로 식도(esophagus) 부위는 문맥-온몸정맥 곁순환(collateral pathway) 부위가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도정맥(esophageal veins)",
+        "accepted_answers": [
+          "식도정맥(esophageal veins)",
+          "esophageal veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도정맥(esophageal veins)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도 부위는 문맥-온몸정맥 곁순환 부위가 된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_003"
+      ],
+      "prompt": "식도정맥(esophageal veins)은 _____로 이어지므로 식도(esophagus) 부위는 문맥-온몸정맥 곁순환(collateral pathway) 부위가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "홀정맥계(azygos system)",
+        "accepted_answers": [
+          "홀정맥계(azygos system)",
+          "azygos system"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "홀정맥계(azygos system)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도 부위는 문맥-온몸정맥 곁순환 부위가 된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_003"
+      ],
+      "prompt": "식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도(esophagus) 부위는 문맥-온몸정맥 _____ 부위가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곁순환(collateral pathway)",
+        "accepted_answers": [
+          "곁순환(collateral pathway)",
+          "collateral pathway"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곁순환(collateral pathway)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도 부위는 문맥-온몸정맥 곁순환 부위가 된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_004"
+      ],
+      "prompt": "_____은 아래창자간막정맥(inferior mesenteric vein)을 거쳐 문맥계(portal venous system)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위곧창자정맥(superior rectal vein)",
+        "accepted_answers": [
+          "위곧창자정맥(superior rectal vein)",
+          "superior rectal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위곧창자정맥(superior rectal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위곧창자정맥(superior rectal vein)은 아래창자간막정맥(inferior mesenteric vein)을 거쳐 문맥계(portal venous system)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_004"
+      ],
+      "prompt": "위곧창자정맥(superior rectal vein)은 _____을 거쳐 문맥계(portal venous system)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 위곧창자정맥(superior rectal vein)은 아래창자간막정맥(inferior mesenteric vein)을 거쳐 문맥계(portal venous system)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_005"
+      ],
+      "prompt": "_____은 문맥계(portal venous system)를 따라 간으로 가고, 앞배벽의 얕은배벽정맥(superficial epigastric vein)과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽곁정맥(paraumbilical veins)",
+        "accepted_answers": [
+          "배꼽곁정맥(paraumbilical veins)",
+          "paraumbilical veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배꼽곁정맥(paraumbilical veins)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical veins)은 문맥계(portal venous system)를 따라 간으로 가고, 앞배벽의 얕은배벽정맥(superficial epigastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p018_course_배_필기본_018_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_005"
+      ],
+      "prompt": "배꼽곁정맥(paraumbilical veins)은 문맥계(portal venous system)를 따라 간으로 가고, 앞배벽의 _____과 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽정맥(superficial epigastric vein)",
+        "accepted_answers": [
+          "얕은배벽정맥(superficial epigastric vein)",
+          "superficial epigastric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽정맥(superficial epigastric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배꼽곁정맥(paraumbilical veins)은 문맥계(portal venous system)를 따라 간으로 가고, 앞배벽의 얕은배벽정맥(superficial epigastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 11
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 1,
+      "course_exam_style": 10
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 17,
+    "previous_page": 17,
+    "next_page": 19
+  },
+  "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 18
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배꼽곁정맥(paraumbilical vein)과 얕은배벽정맥(superficial epigastric vein)은 문맥-온몸정맥 곁순환 경로를 이룬다.",
+        "배꼽곁정맥(paraumbilical vein)은 문맥(portal vein) 계통을 따라 간으로 간다.",
+        "문맥(portal vein)에는 판막이 없어 역류가 가능하므로, 막히면 온몸정맥(systemic veins)과의 곁순환(collateral pathway)이 형성될 수 있다.",
+        "왼위정맥(left gastric vein)은 문맥계(portal venous system)에 속하고, 식도정맥(esophageal veins)과 연결된다.",
+        "식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도 부위는 문맥-온몸정맥 곁순환 부위가 된다.",
+        "위곧창자정맥(superior rectal vein)은 아래창자간막정맥(inferior mesenteric vein)을 거쳐 문맥계(portal venous system)로 이어진다.",
+        "배꼽곁정맥(paraumbilical veins)은 문맥계(portal venous system)를 따라 간으로 가고, 앞배벽의 얕은배벽정맥(superficial epigastric vein)과 연결된다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "간문맥의 영어 이름은 hepatic portal vein이다.",
+        "간의 영어 이름은 liver이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "간문맥계의 영어 이름은 portal venous system이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "위의 영어 이름은 stomach이다.",
+        "왼위정맥의 영어 이름은 left gastric vein이다.",
+        "식도정맥의 영어 이름은 esophageal veins이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "위곧창자정맥의 영어 이름은 superior rectal vein이다.",
+        "중간곧창자정맥의 영어 이름은 middle rectal vein이다.",
+        "아래곧창자정맥의 영어 이름은 inferior rectal vein이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "배꼽곁정맥의 영어 이름은 paraumbilical vein이다.",
+        "얕은배벽정맥의 영어 이름은 superficial epigastric vein이다.",
+        "반기정맥의 영어 이름은 azygos vein이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 17,
+          "text": "왼위정맥(left gastric vein)은 문맥계(portal venous system)에 속하고, 식도정맥(esophageal veins)과 연결된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 24,
+          "text": "문맥-온몸정맥 곁순환 4가지와 각 경로의 portal 쪽·systemic 쪽 연결 단계를 필기와 그림을 대조해 원자 명제로 정리한 페이지다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 26,
+          "text": "왼위정맥(left gastric vein) 연결된다 식도정맥(esophageal veins)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "문맥(portal vein)에는 판막이 없어 역류가 가능하므로, 막히면 온몸정맥(systemic veins)과의 곁순환(collateral pathway)이 형성될 수 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "문맥-온몸정맥 곁순환(collateral pathway)의 대표적인 부위는 식도, 곧창자, 뒤배벽, 배꼽 주위의 네 곳이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "식도정맥(esophageal veins)은 홀정맥계(azygos system)로 이어지므로 식도 부위는 문맥-온몸정맥 곁순환 부위가 된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "위곧창자정맥(superior rectal vein)은 아래창자간막정맥(inferior mesenteric vein)을 거쳐 문맥계(portal venous system)로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "중간곧창자정맥(middle rectal vein)과 아래곧창자정맥(inferior rectal vein)은 온몸정맥계(systemic veins)에 속하므로 곧창자 부위가 문맥-온몸정맥 곁순환 부위가 된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "잘록창자정맥(colic veins)은 문맥계(portal venous system) 쪽 정맥이고, 복막뒤정맥(retroperitoneal veins)은 온몸정맥계(systemic veins) 쪽 정맥이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "왼위정맥(left gastric vein) 속한다 문맥계(portal venous system)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "식도정맥(esophageal veins) 이어진다 홀정맥계(azygos system)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "위곧창자정맥(superior rectal vein) 이어진다 아래창자간막정맥(inferior mesenteric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "아래창자간막정맥(inferior mesenteric vein) 속한다 문맥계(portal venous system)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "중간곧창자정맥(middle rectal vein) 속한다 온몸정맥계(systemic veins)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "아래곧창자정맥(inferior rectal vein) 속한다 온몸정맥계(systemic veins)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "잘록창자정맥(colic veins) 속한다 문맥계(portal venous system)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "복막뒤정맥(retroperitoneal veins) 속한다 온몸정맥계(systemic veins)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "배꼽곁정맥(paraumbilical veins) 속한다 문맥계(portal venous system)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "left gastric vein to esophageal veins to azygos vein is a portosystemic collateral pathway",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "superior rectal vein drains to the portal system whereas middle and inferior rectal veins drain to the systemic veins",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "retroperitoneal colic venous drainage can also form a portosystemic collateral pathway",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 29,
+        "accounted_term_count": 27,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.931,
+        "accounted_terms": [
+          "간문맥(hepatic portal vein)",
+          "막히면온몸정맥(systemic veins)",
+          "곁순환(collateral pathway)",
+          "왼위정맥(left gastric vein)",
+          "간문맥계(portal venous system)",
+          "식도정맥(esophageal veins)",
+          "홀정맥계(azygos system)",
+          "위곧창자정맥(superior rectal vein)",
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "중간곧창자정맥(middle rectal vein)",
+          "아래곧창자정맥(inferior rectal vein)",
+          "배꼽곁정맥(paraumbilical veins)",
+          "간(liver)",
+          "간문(porta hepatis)",
+          "배(abdominal region)",
+          "곧창자(rectum)",
+          "배벽(abdominal wall)",
+          "뒤배부분(posterior abdominal part)",
+          "뒤배벽(posterior abdominal wall)",
+          "식도(esophagus)",
+          "위(stomach)",
+          "창자간막(mesentery)",
+          "복막(peritoneum)",
+          "앞벽(anterior wall)",
+          "배꼽곁정맥(paraumbilical vein)",
+          "얕은배벽정맥(superficial epigastric vein)",
+          "반기정맥(azygos vein)"
+        ],
+        "unresolved_terms": [
+          "잘록창자정맥(colic veins)",
+          "복막뒤정맥(retroperitoneal veins)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "< 4>문맥의곁순환가지",
+        "4 간문맥막혔을때곁순환할수있는부분가지",
+        "portal v., systemic v collateral 이섞여서하게배출되는경로를만들어줌",
+        "portal v. valve collateral 이없어서역류가능하기때문에가능",
+        "colic v. -> inferior mesenteric v. -> portal system",
+        "retroperitoneal v. -> 온몸정맥",
+        "left gastric v. -> esophageal v.",
+        "-> azygos v. -> 온몸정맥",
+        "paraumbilical v. 으로우회",
+        "-> superﬁcial epigastric v.",
+        "잘랍학자적얘관결",
+        "rectum 3 , 은군데통해공급배출됨",
+        "1) superior rectal v. -> inferior mesenteric v. -> portal v.",
+        "2) mid, inferior rectal v. -> 온몸정맥"
+      ],
+      "supplemental_ocr_blocks": [
+        "portal v.이 valve 없어서 역류 가능하기 때문에 collateral 가능 portal V, systemic 섞여서 collateral 하게 배출되는 경로름 만들어중",
+        "\"올위정하이심동절렉올 retroperitoneal V. -> 온몸정맥 0",
+        "'n히하이n3자 paraumbilical v. 으로 우회",
+        "> superficial epigastric V",
+        "> 온몸정맥",
+        "그림 6-69. 문맥의 곁순환",
+        "rectum은 3군데 통해 공급, 배출틱"
+      ],
+      "corrected_page_text": "< 4>문맥의곁순환가지\n4 간문맥막혔을때곁순환할수있는부분가지\nportal v., systemic v collateral 이섞여서하게배출되는경로를만들어줌\nportal v. valve collateral 이없어서역류가능하기때문에가능\ncolic v. -> inferior mesenteric v. -> portal system\nretroperitoneal v. -> 온몸정맥\nleft gastric v. -> esophageal v.\n-> azygos v. -> 온몸정맥\nparaumbilical v. 으로우회\n-> superﬁcial epigastric v.\n잘랍학자적얘관결\nrectum 3 , 은군데통해공급배출됨\n1) superior rectal v. -> inferior mesenteric v. -> portal v.\n2) mid, inferior rectal v. -> 온몸정맥",
+      "quality_audit": {
+        "pdf_char_count": 367,
+        "pdf_span_count": 56,
+        "pdf_word_count": 88,
+        "ocr_fragment_count": 29,
+        "pdf_line_count": 14,
+        "ocr_line_count": 14,
+        "merged_line_count": 21,
+        "pdf_only_count": 7,
+        "ocr_only_count": 7,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 14,
+        "ocr_only_line_count": 7,
+        "pdf_alpha_count": 323,
+        "ocr_alpha_count": 182,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

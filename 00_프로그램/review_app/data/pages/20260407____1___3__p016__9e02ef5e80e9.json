@@ -1,0 +1,1195 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 16,
+    "note_page_number": 16,
+    "source_page_number": 60,
+    "original_page_number": 60,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_002"
+      ],
+      "prompt": "_____은 간(liver)과 위(stomach)를 연결한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 작은그물막(lesser omentum)은 간(liver)과 위(stomach)를 연결한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_003"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_003"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_003_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_003"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_course_004"
+      ],
+      "prompt": "_____은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라동맥(splenic artery)",
+        "accepted_answers": [
+          "지라동맥(splenic artery)",
+          "splenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라동맥(splenic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_course_004"
+      ],
+      "prompt": "지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 _____의 위쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_course_006"
+      ],
+      "prompt": "_____의 왼쪽에는 지라(spleen)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_course_006"
+      ],
+      "prompt": "이자(pancreas)의 왼쪽에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_007"
+      ],
+      "prompt": "_____은 그물막구멍(omental foramen)의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)",
+          "lesser omentum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_007"
+      ],
+      "prompt": "작은그물막(lesser omentum)은 _____의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막구멍(omental foramen)",
+        "accepted_answers": [
+          "그물막구멍(omental foramen)",
+          "omental foramen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막구멍(omental foramen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_008"
+      ],
+      "prompt": "간(liver)은 _____의 위쪽 경계를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막구멍(omental foramen)",
+        "accepted_answers": [
+          "그물막구멍(omental foramen)",
+          "omental foramen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막구멍(omental foramen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 간(liver)은 그물막구멍(omental foramen)의 위쪽 경계를 이룬다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_016_course_008"
+      ],
+      "prompt": "_____은 그물막구멍(omental foramen)의 위쪽 경계를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 간(liver)은 그물막구멍(omental foramen)의 위쪽 경계를 이룬다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_001"
+      ],
+      "prompt": "_____은 그물막구멍(omental foramen)의 앞쪽 경계와 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)",
+          "common hepatic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 온간동맥(common hepatic artery)은 그물막구멍(omental foramen)의 앞쪽 경계와 관련된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_001"
+      ],
+      "prompt": "온간동맥(common hepatic artery)은 _____의 앞쪽 경계와 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막구멍(omental foramen)",
+        "accepted_answers": [
+          "그물막구멍(omental foramen)",
+          "omental foramen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막구멍(omental foramen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 온간동맥(common hepatic artery)은 그물막구멍(omental foramen)의 앞쪽 경계와 관련된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_002"
+      ],
+      "prompt": "_____는 위(stomach)의 왼쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 지라(spleen)는 위(stomach)의 왼쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_003"
+      ],
+      "prompt": "_____는 위(stomach)의 뒤쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 이자(pancreas)는 위(stomach)의 뒤쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_004"
+      ],
+      "prompt": "_____은 이자(pancreas)의 아래쪽과 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자간막(transverse mesocolon)",
+        "accepted_answers": [
+          "가로잘록창자간막(transverse mesocolon)",
+          "transverse mesocolon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자간막(transverse mesocolon)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 가로잘록창자간막(transverse mesocolon)은 이자(pancreas)의 아래쪽과 관련된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_course_배_필기본_016_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_004"
+      ],
+      "prompt": "가로잘록창자간막(transverse mesocolon)은 _____의 아래쪽과 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 가로잘록창자간막(transverse mesocolon)은 이자(pancreas)의 아래쪽과 관련된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)의 뒤쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막주머니(omental bursa)",
+        "accepted_answers": [
+          "그물막주머니(omental bursa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막주머니(omental bursa)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 그물막주머니(omental bursa) / predicate: is_posterior_to / object: 위(stomach)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "그물막구멍(omental foramen)이 열리는 공간은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "그물막주머니(omental bursa)",
+        "accepted_answers": [
+          "그물막주머니(omental bursa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "그물막주머니(omental bursa)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 그물막구멍(omental foramen) / predicate: opens_to / object: 그물막주머니(omental bursa)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)의 뒤쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 이자(pancreas) / predicate: is_posterior_to / object: 위(stomach)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "그물막구멍(omental foramen)의 앞쪽 경계에 해당하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간동맥(common hepatic artery)",
+        "accepted_answers": [
+          "온간동맥(common hepatic artery)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간동맥(common hepatic artery)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 온간동맥(common hepatic artery) / predicate: anterior_boundary_of / object: 그물막구멍(omental foramen)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "지라동맥(splenic artery)이 도달하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라동맥(splenic artery) / predicate: reaches / object: 지라(spleen)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)의 왼쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 지라(spleen) / predicate: is_left_of / object: 위(stomach)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "이자(pancreas)의 아래쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로잘록창자간막(transverse mesocolon)",
+        "accepted_answers": [
+          "가로잘록창자간막(transverse mesocolon)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로잘록창자간막(transverse mesocolon)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 가로잘록창자간막(transverse mesocolon) / predicate: is_inferior_to / object: 이자(pancreas)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)의 큰굽이(greater curvature)에서 내려오는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰그물막(greater omentum)",
+        "accepted_answers": [
+          "큰그물막(greater omentum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰그물막(greater omentum)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 큰그물막(greater omentum) / predicate: descends_from / object: 위(stomach)의 큰굽이(greater curvature)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p016_visual_visual_relation_009_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위(stomach)와 간(liver) 사이에 놓이는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은그물막(lesser omentum)",
+        "accepted_answers": [
+          "작은그물막(lesser omentum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은그물막(lesser omentum)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_009"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p016_ai_page_read::rel_009"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 작은그물막(lesser omentum) / predicate: is_between / object: 위(stomach)와 간(liver)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 27,
+    "question_type_count": {
+      "fill_blank": 18,
+      "image_grounded_fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8,
+      "course_exam_style": 10,
+      "visual_relation_understanding": 9
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 15,
+    "previous_page": 15,
+    "next_page": 17
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 16
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "큰그물막(greater omentum)은 위큰굽이에서 시작한다.",
+        "작은그물막(lesser omentum)은 간(liver)과 위(stomach)를 연결한다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "지라동맥(splenic artery)은 위(stomach)의 뒤쪽과 이자(pancreas)의 위쪽을 지난다.",
+        "이자(pancreas)의 앞쪽은 위(stomach)에 덮여 있다.",
+        "이자(pancreas)의 왼쪽에는 지라(spleen)가 있다.",
+        "작은그물막(lesser omentum)은 그물막구멍(omental foramen)의 앞쪽에 위치한다.",
+        "간(liver)은 그물막구멍(omental foramen)의 위쪽 경계를 이룬다.",
+        "온간동맥(common hepatic artery)은 그물막구멍(omental foramen)의 앞쪽 경계와 관련된다.",
+        "지라(spleen)는 위(stomach)의 왼쪽에 위치한다.",
+        "이자(pancreas)는 위(stomach)의 뒤쪽에 위치한다.",
+        "가로잘록창자간막(transverse mesocolon)은 이자(pancreas)의 아래쪽과 관련된다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "위의 영어 이름은 stomach이다.",
+        "그물막구멍의 영어 이름은 omental foramen이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "온간동맥의 영어 이름은 common hepatic artery이다.",
+        "간의 영어 이름은 liver이다.",
+        "가로잘록창자간막의 영어 이름은 transverse mesocolon이다.",
+        "큰그물막의 영어 이름은 greater omentum이다.",
+        "그물막주머니의 영어 이름은 omental bursa이다.",
+        "지라동맥의 영어 이름은 splenic artery이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "작은그물막의 영어 이름은 lesser omentum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "common hepatic a '이자는 항상 위의 뒤에 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "그물막구멍 지라 spleen",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "온간동맥- 이자 pancreas",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "transverse mesocolon",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "그물막주머니(omental bursa)는 위(stomach)의 뒤쪽 공간이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "그물막구멍(omental foramen)은 그물막주머니(omental bursa)로 들어가는 입구이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "온간동맥(common hepatic artery)은 그물막구멍(omental foramen)의 앞쪽 경계와 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "지라동맥(splenic artery)은 지라(spleen)으로 향한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "지라(spleen)는 위(stomach)의 왼쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "이자(pancreas)는 위(stomach)의 뒤쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "가로잘록창자간막(transverse mesocolon)은 이자(pancreas)의 아래쪽과 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "위(stomach) 뒤쪽의 그물막주머니(omental bursa)와 그물막구멍(omental foramen), 지라, 이자, 큰그물막, 가로잘록창자간막을 설명하는 필기본 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "그물막주머니(omental bursa) is_posterior_to 위(stomach)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "그물막구멍(omental foramen) opens_to 그물막주머니(omental bursa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "이자(pancreas) is_posterior_to 위(stomach)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "위(stomach) 뒤쪽의 그물막주머니(omental bursa)와 그물막구멍(omental foramen), 이자, 지라, 큰그물막을 보여주는 강의원본 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 16,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "그물막주머니(omental bursa)",
+          "위(stomach)",
+          "그물막구멍(omental foramen)",
+          "온간동맥(common hepatic artery)",
+          "지라동맥(splenic artery)",
+          "지라(spleen)",
+          "이자(pancreas)",
+          "가로잘록창자간막(transverse mesocolon)",
+          "큰그물막(greater omentum)",
+          "큰굽이(greater curvature)",
+          "작은그물막(lesser omentum)",
+          "간(liver)",
+          "창자간막(mesentery)",
+          "가로잘록창자(transverse colon)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "greater curvature",
+        "쓸개 left gastric a",
+        "그물막구멍 지라 spleen",
+        "omental foramen",
+        "온간동맥- 이자 pancreas",
+        "common hepatic a",
+        "transverse mesocolon",
+        "greater omentum",
+        "위잘록창자인대름 자르고 위름 위쪽으로 젖혀서 그물막주머니름 노출하없다."
+      ],
+      "supplemental_ocr_blocks": [
+        "근굽이",
+        "간 liver",
+        "원위동맥",
+        "gallbladder",
+        "지라동맥",
+        "splenic a",
+        "가로잘록창자간막",
+        "근그물막",
+        "그림 6-34. 위자리"
+      ],
+      "corrected_page_text": "greater curvature\n쓸개 left gastric a\n그물막구멍 지라 spleen\nomental foramen\n온간동맥- 이자 pancreas\ncommon hepatic a\ntransverse mesocolon\ngreater omentum\n위잘록창자인대름 자르고 위름 위쪽으로 젖혀서 그물막주머니름 노출하없다.",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 21,
+        "pdf_line_count": 0,
+        "ocr_line_count": 18,
+        "merged_line_count": 18,
+        "pdf_only_count": 0,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 203,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

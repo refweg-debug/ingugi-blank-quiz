@@ -1,0 +1,1008 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 3
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "_____과 주이자관(major pancreatic duct)은 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 주이자관(major pancreatic duct)은 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 _____은 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주이자관(major pancreatic duct)",
+        "accepted_answers": [
+          "주이자관(major pancreatic duct)",
+          "major pancreatic duct",
+          "main pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주이자관(major pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 주이자관(major pancreatic duct)은 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_001"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 주이자관(major pancreatic duct)은 _____으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 주이자관(major pancreatic duct)은 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_002"
+      ],
+      "prompt": "온간관(common hepatic duct)(온간관(common hepatic duct))과 _____은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니관(cystic duct)",
+        "accepted_answers": [
+          "쓸개주머니관(cystic duct)",
+          "cystic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니관(cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_002"
+      ],
+      "prompt": "온간관(common hepatic duct)(온간관(common hepatic duct))과 쓸개주머니관(cystic duct)은 합쳐져 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_003"
+      ],
+      "prompt": "_____과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간관(common hepatic duct)",
+        "accepted_answers": [
+          "온간관(common hepatic duct)",
+          "common hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간관(common hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_003"
+      ],
+      "prompt": "온간관(common hepatic duct)과 _____은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니관(cystic duct)",
+        "accepted_answers": [
+          "쓸개주머니관(cystic duct)",
+          "cystic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니관(cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_003"
+      ],
+      "prompt": "온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_004"
+      ],
+      "prompt": "_____은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_004"
+      ],
+      "prompt": "온쓸개관(common bile duct)은 _____를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰샘창자유두(major duodenal papilla)",
+        "accepted_answers": [
+          "큰샘창자유두(major duodenal papilla)",
+          "major duodenal papilla"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰샘창자유두(major duodenal papilla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_004"
+      ],
+      "prompt": "온쓸개관(common bile duct)은 큰샘창자유두(major duodenal papilla)를 통해 _____으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_005"
+      ],
+      "prompt": "_____은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주이자관(major pancreatic duct)",
+        "accepted_answers": [
+          "주이자관(major pancreatic duct)",
+          "major pancreatic duct",
+          "main pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주이자관(major pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 주이자관(major pancreatic duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_005"
+      ],
+      "prompt": "주이자관(major pancreatic duct)은 _____를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰샘창자유두(major duodenal papilla)",
+        "accepted_answers": [
+          "큰샘창자유두(major duodenal papilla)",
+          "major duodenal papilla"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰샘창자유두(major duodenal papilla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 주이자관(major pancreatic duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_005"
+      ],
+      "prompt": "주이자관(major pancreatic duct)은 큰샘창자유두(major duodenal papilla)를 통해 _____으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 주이자관(major pancreatic duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_006"
+      ],
+      "prompt": "_____은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부이자관(accessory pancreatic duct)",
+        "accepted_answers": [
+          "부이자관(accessory pancreatic duct)",
+          "accessory pancreatic duct",
+          "minor pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부이자관(accessory pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_006"
+      ],
+      "prompt": "부이자관(accessory pancreatic duct)은 _____를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은샘창자유두(minor duodenal papilla)",
+        "accepted_answers": [
+          "작은샘창자유두(minor duodenal papilla)",
+          "minor duodenal papilla"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은샘창자유두(minor duodenal papilla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_006"
+      ],
+      "prompt": "부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 _____으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_007"
+      ],
+      "prompt": "_____는 샘빈창자굽이(duodenojejunal flexure)의 각을 유지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자걸이인대(suspensory ligament of duodenum)",
+        "accepted_answers": [
+          "샘창자걸이인대(suspensory ligament of duodenum)",
+          "suspensory ligament of duodenum",
+          "ligament of Treitz",
+          "Treitz ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자걸이인대(suspensory ligament of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자걸이인대(suspensory ligament of duodenum)는 샘빈창자굽이(duodenojejunal flexure)의 각을 유지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_007"
+      ],
+      "prompt": "샘창자걸이인대(suspensory ligament of duodenum)는 _____의 각을 유지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘빈창자굽이(duodenojejunal flexure)",
+        "accepted_answers": [
+          "샘빈창자굽이(duodenojejunal flexure)",
+          "duodenojejunal flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘빈창자굽이(duodenojejunal flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자걸이인대(suspensory ligament of duodenum)는 샘빈창자굽이(duodenojejunal flexure)의 각을 유지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_008"
+      ],
+      "prompt": "_____는 샘빈창자연결(duodenojejunal junction) 부위의 굽이이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘빈창자굽이(duodenojejunal flexure)",
+        "accepted_answers": [
+          "샘빈창자굽이(duodenojejunal flexure)",
+          "duodenojejunal flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘빈창자굽이(duodenojejunal flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘빈창자굽이(duodenojejunal flexure)는 샘빈창자연결(duodenojejunal junction) 부위의 굽이이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p003_course_배_필기본_003_course_008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_003_course_008"
+      ],
+      "prompt": "샘빈창자굽이(duodenojejunal flexure)는 _____ 부위의 굽이이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘빈창자연결(duodenojejunal junction)",
+        "accepted_answers": [
+          "샘빈창자연결(duodenojejunal junction)",
+          "duodenojejunal junction"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘빈창자연결(duodenojejunal junction)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘빈창자굽이(duodenojejunal flexure)는 샘빈창자연결(duodenojejunal junction) 부위의 굽이이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 21,
+    "question_type_count": {
+      "fill_blank": 21
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 21
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 2,
+    "previous_page": 2,
+    "next_page": 4
+  },
+  "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 3
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "온쓸개관(common bile duct)과 주이자관(major pancreatic duct)은 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+        "총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+        "온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+        "온쓸개관(common bile duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+        "주이자관(major pancreatic duct)은 큰샘창자유두(major duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+        "부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+        "샘창자걸이인대(suspensory ligament of duodenum)는 샘빈창자굽이(duodenojejunal flexure)의 각을 유지한다.",
+        "샘빈창자굽이(duodenojejunal flexure)는 샘빈창자연결(duodenojejunal junction) 부위의 굽이이다.",
+        "간의 영어 이름은 liver이다.",
+        "온간관의 영어 이름은 common hepatic duct이다.",
+        "쓸개주머니관의 영어 이름은 cystic duct이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "샘창자 둘째부분의 영어 이름은 descending part of duodenum이다.",
+        "온쓸개관의 영어 이름은 common bile duct이다.",
+        "이자관의 영어 이름은 pancreatic duct이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "주이자관의 영어 이름은 major pancreatic duct이다.",
+        "샘빈창자연결의 영어 이름은 duodenojejunal junction이다.",
+        "부이자관의 영어 이름은 accessory pancreatic duct이다.",
+        "빈창자의 영어 이름은 jejunum이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "큰샘창자유두의 영어 이름은 major duodenal papilla이다.",
+        "작은샘창자유두의 영어 이름은 minor duodenal papilla이다.",
+        "샘창자걸이인대의 영어 이름은 suspensory ligament of duodenum이다.",
+        "샘빈창자굽이의 영어 이름은 duodenojejunal flexure이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "accessoryminor→ + pancreatic duct duodenal papilla descending part 로에열림",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "major pancreatic duct",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "accessory pancreatic duct",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 19,
+        "accounted_term_count": 19,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간(liver)",
+          "온간관(common hepatic duct)",
+          "쓸개주머니관(cystic duct)",
+          "쓸개주머니(gallbladder)",
+          "샘창자 둘째부분(descending part of duodenum)",
+          "온쓸개관(common bile duct)",
+          "이자관(pancreatic duct)",
+          "담즙(bile)",
+          "담관(bile duct)",
+          "이자(pancreas)",
+          "주이자관(major pancreatic duct)",
+          "샘빈창자연결(duodenojejunal junction)",
+          "부이자관(accessory pancreatic duct)",
+          "빈창자(jejunum)",
+          "샘창자(duodenum)",
+          "큰샘창자유두(major duodenal papilla)",
+          "작은샘창자유두(minor duodenal papilla)",
+          "샘창자걸이인대(suspensory ligament of duodenum)",
+          "샘빈창자굽이(duodenojejunal flexure)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "common hepatic duct () 간에서나온총간관와",
+        "cystic duct (/) 담낭에서나온쓸개주머니관담낭관이만나",
+        "majormajor→ Common bile duct (/) + pancreatic duct duodenal papilla descending part 이둘이합쳐져온쓸개관총담관이되어내려옴로에열림",
+        "accessoryminor→ + pancreatic duct duodenal papilla descending part 로에열림",
+        "i√",
+        "쓸개즙",
+        "·",
+        "pancreas",
+        "accessory",
+        "pancreatic",
+        "duct",
+        "major pancreatic duct",
+        "duodenojejunal junction",
+        "() 수축시각도굽넓어짐",
+        "√",
+        ".인대가걸어서각을유지하고있음",
+        "accessory pancreatic duct",
+        "jejunum 창자내부의내용물들이으로이동"
+      ],
+      "supplemental_ocr_blocks": [
+        "쓸개주머니관 온간관",
+        "cystic duct common hepatic duct",
+        "쓸개듭 온쓸개관",
+        "날문구멍 suspensory lig of pancreas",
+        "pyloric orifice duodenum",
+        "Ba,areatia",
+        "작은심장자유두 Yuct",
+        "minor duodenal papilla 이자관",
+        "pancreatic duct",
+        "major pencreatic duct",
+        "큰심창자유두",
+        "major duodenal papilla duodenojejunal Jjunction",
+        "셈반창자굽이",
+        "내량둘째)부분 duodenojejunal flexure",
+        "descending (Znd) part (수축시 각도(급) 넓어짐",
+        "이자파임",
+        "pancreatic notch",
+        "반장자",
+        "jejunum",
+        "아래심창자굽이 '올료어m분지)",
+        "part",
+        "inferior duodenal flexure",
+        "아래말평 또늄nm부분 {현어석각유 유징하고%움; 시",
+        "인대가",
+        "inferior or 3rd) part 근육이 '_어 부의다훌줄이 s러R물블등 이동",
+        "넓어저",
+        "그림 6-41. 셈장자 내림부분 중간으로 열리논 쓸개길과 이자관"
+      ],
+      "corrected_page_text": "common hepatic duct () 간에서나온총간관와\ncystic duct (/) 담낭에서나온쓸개주머니관담낭관이만나\nmajormajor→ Common bile duct (/) + pancreatic duct duodenal papilla descending part 이둘이합쳐져온쓸개관총담관이되어내려옴로에열림\naccessoryminor→ + pancreatic duct duodenal papilla descending part 로에열림\ni√\n쓸개즙\n·\npancreas\naccessory\npancreatic\nduct\nmajor pancreatic duct\nduodenojejunal junction\n() 수축시각도굽넓어짐\n√\n.인대가걸어서각을유지하고있음\naccessory pancreatic duct\njejunum 창자내부의내용물들이으로이동",
+      "quality_audit": {
+        "pdf_char_count": 365,
+        "pdf_span_count": 86,
+        "pdf_word_count": 75,
+        "ocr_fragment_count": 63,
+        "pdf_line_count": 18,
+        "ocr_line_count": 37,
+        "merged_line_count": 45,
+        "pdf_only_count": 8,
+        "ocr_only_count": 27,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 18,
+        "ocr_only_line_count": 27,
+        "pdf_alpha_count": 348,
+        "ocr_alpha_count": 429,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

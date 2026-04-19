@@ -1,0 +1,860 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 6
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_001"
+      ],
+      "prompt": "배(abdominal region)의 구역 구분에는 _____과 4분구역(4 abdominal quadrants)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(9 abdominal regions)",
+        "accepted_answers": [
+          "9분구역(9 abdominal regions)",
+          "9 abdominal regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(9 abdominal regions)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_001"
+      ],
+      "prompt": "배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "4분구역(4 abdominal quadrants)",
+        "accepted_answers": [
+          "4분구역(4 abdominal quadrants)",
+          "4 abdominal quadrants"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "4분구역(4 abdominal quadrants)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_001"
+      ],
+      "prompt": "_____의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배(abdominal region)",
+        "accepted_answers": [
+          "배(abdominal region)",
+          "abdominal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배(abdominal region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_002"
+      ],
+      "prompt": "_____은 4분구역(4 abdominal quadrants)보다 더 세부적으로 배의 위치를 나타낸다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(9 abdominal regions)",
+        "accepted_answers": [
+          "9분구역(9 abdominal regions)",
+          "9 abdominal regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(9 abdominal regions)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)은 4분구역(4 abdominal quadrants)보다 더 세부적으로 배의 위치를 나타낸다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_004"
+      ],
+      "prompt": "_____의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(9 abdominal regions)",
+        "accepted_answers": [
+          "9분구역(9 abdominal regions)",
+          "9 abdominal regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(9 abdominal regions)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_004"
+      ],
+      "prompt": "9분구역(9 abdominal regions)의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼갈비밑구역(left hypochondriac region)",
+        "accepted_answers": [
+          "왼갈비밑구역(left hypochondriac region)",
+          "left hypochondriac region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼갈비밑구역(left hypochondriac region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_005"
+      ],
+      "prompt": "_____의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(9 abdominal regions)",
+        "accepted_answers": [
+          "9분구역(9 abdominal regions)",
+          "9 abdominal regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(9 abdominal regions)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_005"
+      ],
+      "prompt": "9분구역(9 abdominal regions)의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼옆구리부위(left lateral region)",
+        "accepted_answers": [
+          "왼옆구리부위(left lateral region)",
+          "left lateral region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼옆구리부위(left lateral region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_006"
+      ],
+      "prompt": "_____의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9분구역(9 abdominal regions)",
+        "accepted_answers": [
+          "9분구역(9 abdominal regions)",
+          "9 abdominal regions"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "9분구역(9 abdominal regions)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_006_ai_corrected_006"
+      ],
+      "prompt": "9분구역(9 abdominal regions)의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), _____으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼고샅부위(left inguinal region)",
+        "accepted_answers": [
+          "왼고샅부위(left inguinal region)",
+          "left inguinal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼고샅부위(left inguinal region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 9분구역(9 abdominal regions)의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 이루어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_008"
+      ],
+      "prompt": "_____의 다른 이름은 오른요부(right lumbar region)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른옆구리부위(right lateral region)",
+        "accepted_answers": [
+          "오른옆구리부위(right lateral region)",
+          "right lateral region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른옆구리부위(right lateral region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른옆구리부위(right lateral region)의 다른 이름은 오른요부(right lumbar region)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_009"
+      ],
+      "prompt": "_____의 다른 이름은 왼요부(left lumbar region)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼옆구리부위(left lateral region)",
+        "accepted_answers": [
+          "왼옆구리부위(left lateral region)",
+          "left lateral region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼옆구리부위(left lateral region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼옆구리부위(left lateral region)의 다른 이름은 왼요부(left lumbar region)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_010"
+      ],
+      "prompt": "_____의 다른 이름은 오른엉덩부위(right iliac region)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른고샅부위(right inguinal region)",
+        "accepted_answers": [
+          "오른고샅부위(right inguinal region)",
+          "right inguinal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른고샅부위(right inguinal region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른고샅부위(right inguinal region)의 다른 이름은 오른엉덩부위(right iliac region)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_011"
+      ],
+      "prompt": "_____의 다른 이름은 왼엉덩부위(left iliac region)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼고샅부위(left inguinal region)",
+        "accepted_answers": [
+          "왼고샅부위(left inguinal region)",
+          "left inguinal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼고샅부위(left inguinal region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼고샅부위(left inguinal region)의 다른 이름은 왼엉덩부위(left iliac region)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_012"
+      ],
+      "prompt": "4분구역(4 abdominal quadrants)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), _____으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼아래사분구역(left lower quadrant)",
+        "accepted_answers": [
+          "왼아래사분구역(left lower quadrant)",
+          "left lower quadrant"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼아래사분구역(left lower quadrant)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_course_배_필기본_006_course_015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_015"
+      ],
+      "prompt": "9분구역(9 abdominal regions)은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region), 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region), 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), _____으로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼고샅부위(left inguinal region)",
+        "accepted_answers": [
+          "왼고샅부위(left inguinal region)",
+          "left inguinal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼고샅부위(left inguinal region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 9분구역(nine-region pattern)은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region), 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region), 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p006_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "9 abdominal regions 및 4 abdominal quadrants 도표",
+        "accepted_answers": [
+          "9 abdominal regions 및 4 abdominal quadrants 도표"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "9 abdominal regions 및 4 abdominal quadrants 도표",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p006_ai_page_read::diagram_001"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p006_ai_page_read::diagram_001",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: 9 abdominal regions 및 4 abdominal quadrants 도표"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 17,
+    "question_type_count": {
+      "fill_blank": 16,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style": 10,
+      "course_exam_style_provisional": 6,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 5,
+    "previous_page": 5,
+    "next_page": 7
+  },
+  "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 6
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다.",
+        "9분구역(9 abdominal regions)은 4분구역(4 abdominal quadrants)보다 더 세부적으로 배의 위치를 나타낸다.",
+        "4분구역(4 abdominal quadrants)은 장기의 위치와 통증 부위를 빠르게 설명할 때 사용한다.",
+        "9분구역(9 abdominal regions)의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region)으로 이루어진다.",
+        "9분구역(9 abdominal regions)의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region)으로 이루어진다.",
+        "9분구역(9 abdominal regions)의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 이루어진다.",
+        "배의 구역 구분에는 9분구역(nine-region pattern)과 4분구역(four-quadrant pattern)이 있다.",
+        "9분구역(nine-region pattern)과 4분구역(four-quadrant pattern)은 장기의 위치와 통증을 설명하기 위해 사용한다.",
+        "9분구역(nine-region pattern)의 일부 구역 명칭은 교재나 문맥에 따라 다르게 부르기도 한다.",
+        "오른옆구리부위(right lateral region)의 다른 이름은 오른요부(right lumbar region)이다.",
+        "왼옆구리부위(left lateral region)의 다른 이름은 왼요부(left lumbar region)이다.",
+        "오른고샅부위(right inguinal region)의 다른 이름은 오른엉덩부위(right iliac region)이다.",
+        "왼고샅부위(left inguinal region)의 다른 이름은 왼엉덩부위(left iliac region)이다.",
+        "4분구역(four-quadrant pattern)은 오른위사분구역(right upper quadrant), 왼위사분구역(left upper quadrant), 오른아래사분구역(right lower quadrant), 왼아래사분구역(left lower quadrant)으로 나눈다.",
+        "9분구역(nine-region pattern)은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region), 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region), 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 나눈다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "9분구역의 영어 이름은 nine-region pattern이다.",
+        "4분구역의 영어 이름은 four-quadrant pattern이다.",
+        "오른갈비밑구역의 영어 이름은 right hypochondriac region이다.",
+        "명치부위의 영어 이름은 epigastric region이다.",
+        "왼갈비밑구역의 영어 이름은 left hypochondriac region이다.",
+        "오른옆구리부위의 영어 이름은 right lateral region이다.",
+        "배꼽부위의 영어 이름은 umbilical region이다.",
+        "왼옆구리부위의 영어 이름은 left lateral region이다.",
+        "옆구리부위의 영어 이름은 lateral region이다.",
+        "요부의 영어 이름은 lumbar region이다.",
+        "오른고샅부위의 영어 이름은 right inguinal region이다.",
+        "아래배부위의 영어 이름은 hypogastric region이다.",
+        "왼고샅부위의 영어 이름은 left inguinal region이다.",
+        "고샅구역의 영어 이름은 inguinal region이다.",
+        "고샅부위의 영어 이름은 inguinal region이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "오른요부의 영어 이름은 right lumbar region이다.",
+        "왼요부의 영어 이름은 left lumbar region이다.",
+        "엉덩뼈부위의 영어 이름은 iliac region이다.",
+        "오른엉덩부위의 영어 이름은 right iliac region이다.",
+        "왼엉덩부위의 영어 이름은 left iliac region이다.",
+        "오른위사분구역의 영어 이름은 right upper quadrant이다.",
+        "왼위사분구역의 영어 이름은 left upper quadrant이다.",
+        "오른아래사분구역의 영어 이름은 right lower quadrant이다.",
+        "왼아래사분구역의 영어 이름은 left lower quadrant이다.",
+        "목의 영어 이름은 cervical region이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 15,
+          "text": "배(abdominal region)의 구역 구분에는 9분구역(9 abdominal regions)과 4분구역(4 abdominal quadrants)이 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 14,
+          "text": "그림 6-2 배의 9분구역 그림 6-3. 배의 사분구역",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "4분구역(4 abdominal quadrants)은 장기의 위치와 통증 부위를 빠르게 설명할 때 사용한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "9분구역(9 abdominal regions)의 위쪽 줄은 오른갈비밑구역(right hypochondriac region), 명치부위(epigastric region), 왼갈비밑구역(left hypochondriac region)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "9분구역(9 abdominal regions)의 가운데 줄은 오른옆구리부위(right lateral region), 배꼽부위(umbilical region), 왼옆구리부위(left lateral region)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "9분구역(9 abdominal regions)의 아래쪽 줄은 오른고샅부위(right inguinal region), 아래배부위(hypogastric region), 왼고샅부위(left inguinal region)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "9분구역과 4분구역을 비교하면서, 필기본에는 일부 구역의 다른 이름과 임상적 사용 목적이 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "4분구역(4 abdominal quadrants) 설명한다 장기의 위치와 통증 부위(organ location and pain site)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "9분구역 and 4분구역 are used to explain location of organs and pain",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "some names in 9분구역 are called differently",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 29,
+        "accounted_term_count": 29,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "9분구역(9 abdominal regions)",
+          "4분구역(4 abdominal quadrants)",
+          "명치부위(epigastric region)",
+          "왼갈비밑구역(left hypochondriac region)",
+          "배꼽부위(umbilical region)",
+          "왼옆구리부위(left lateral region)",
+          "아래배부위(hypogastric region)",
+          "왼고샅부위(left inguinal region)",
+          "오른옆구리부위(right lateral region)",
+          "오른고샅부위(right inguinal region)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "오른아래사분구역(right lower quadrant)",
+          "왼아래사분구역(left lower quadrant)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "9분구역(nine-region pattern)",
+          "4분구역(four-quadrant pattern)",
+          "오른갈비밑구역(right hypochondriac region)",
+          "옆구리부위(lateral region)",
+          "요부(lumbar region)",
+          "고샅구역(inguinal region)",
+          "샅(perineum)",
+          "오른요부(right lumbar region)",
+          "왼요부(left lumbar region)",
+          "엉덩뼈부위(iliac region)",
+          "오른엉덩부위(right iliac region)",
+          "왼엉덩부위(left iliac region)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Abdominal regions and planes",
+        "장기의 위치와 통증 설명하기 위해 9분 4분 나눠서 이야기한다",
+        "뒤에랑 명칭 다르게 부르기도 함",
+        "region region region",
+        "오른위 사분구역 원위 사분구역",
+        "right upper left upper",
+        "'quadrant) quadrant",
+        "오른염구림분월 'umb품부움j jon 입자국리부위",
+        "오른아래 사분구역 (원아래 사분구역",
+        "아랫배부위 왼고살부위 right lower left lower",
+        "올발고심부움 hypogastric quadrant quadrant",
+        "left inguinal",
+        "region region region",
+        "그림 6-2 배의 9분구역 그림 6-3. 배의 사분구역",
+        "뒤에량 명칭 다르게 부르기도 함 장기의 위치와 통증 설명하기 위해 9분 / 4분 나뉘서 이야기한다:"
+      ],
+      "supplemental_ocr_blocks": [
+        "right",
+        "region region"
+      ],
+      "corrected_page_text": "Abdominal regions and planes\n장기의 위치와 통증 설명하기 위해 9분 4분 나눠서 이야기한다\n뒤에랑 명칭 다르게 부르기도 함\nregion region region\n오른위 사분구역 원위 사분구역\nright upper left upper\n'quadrant) quadrant\n오른염구림분월 'umb품부움j jon 입자국리부위\n오른아래 사분구역 (원아래 사분구역\n아랫배부위 왼고살부위 right lower left lower\n올발고심부움 hypogastric quadrant quadrant\nleft inguinal\nregion region region\n그림 6-2 배의 9분구역 그림 6-3. 배의 사분구역\n뒤에량 명칭 다르게 부르기도 함 장기의 위치와 통증 설명하기 위해 9분 / 4분 나뉘서 이야기한다:",
+      "quality_audit": {
+        "pdf_char_count": 66,
+        "pdf_span_count": 40,
+        "pdf_word_count": 17,
+        "ocr_fragment_count": 37,
+        "pdf_line_count": 3,
+        "ocr_line_count": 16,
+        "merged_line_count": 17,
+        "pdf_only_count": 1,
+        "ocr_only_count": 14,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 3,
+        "ocr_only_line_count": 14,
+        "pdf_alpha_count": 62,
+        "ocr_alpha_count": 265,
+        "promoted_ocr_only_count": 12
+      }
+    }
+  }
+}

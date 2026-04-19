@@ -1,0 +1,692 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 15
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_001"
+      ],
+      "prompt": "버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-_____ 장벽(혈액-고환장벽(blood-testis barrier))의 형태학적 기반이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환 장벽(blood-testis barrier)의 형태학적 기반이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_001"
+      ],
+      "prompt": "버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환(testis) 장벽(_____)의 형태학적 기반이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "혈액-고환장벽(blood-testis barrier)",
+        "accepted_answers": [
+          "혈액-고환장벽(blood-testis barrier)",
+          "blood-testisbarrier",
+          "blood-testis barrier"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "혈액-고환장벽(blood-testis barrier)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환 장벽(blood-testis barrier)의 형태학적 기반이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "복합세포사이이음(compound intercellular junction)은 _____ 상피(epithelium)를 속공간쪽칸(위쪽(adluminal compartment))과 바닥칸(아래쪽(basal compartment))으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "꼬불정세관(convoluted seminiferous tubules)",
+        "accepted_answers": [
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "convolutedseminiferoustubules",
+          "convoluted seminiferous tubules",
+          "seminiferoustubules",
+          "seminiferous tubules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "꼬불정세관(convoluted seminiferous tubules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "복합세포사이이음(compound intercellular junction)은 _____ 상피(epithelium)를 속공간쪽칸(위쪽(adluminal compartment))과 바닥칸(아래쪽(basal compartment))으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "꼬불정세관(convoluted seminiferous tubules)",
+        "accepted_answers": [
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "convolutedseminiferoustubules",
+          "convoluted seminiferous tubules",
+          "seminiferoustubules",
+          "seminiferous tubules"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "꼬불정세관(convoluted seminiferous tubules)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p015_ai_page_read::seminiferous_tubule_diagram",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) _____를 속공간쪽칸(위쪽(adluminal compartment))과 바닥칸(아래쪽(basal compartment))으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "상피(epithelium)",
+        "accepted_answers": [
+          "상피(epithelium)",
+          "epithelium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "상피(epithelium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) 상피(epithelium)를 속공간쪽칸(_____)과 바닥칸(아래쪽(basal compartment))으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위쪽(adluminal compartment)",
+        "accepted_answers": [
+          "위쪽(adluminal compartment)",
+          "adluminalcompartment",
+          "adluminal compartment"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위쪽(adluminal compartment)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) 상피(epithelium)를 속공간쪽칸(위쪽(adluminal compartment))과 바닥칸(_____)으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래쪽(basal compartment)",
+        "accepted_answers": [
+          "아래쪽(basal compartment)",
+          "basalcompartment",
+          "basal compartment"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래쪽(basal compartment)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_003"
+      ],
+      "prompt": "_____는 바닥칸(아래쪽(basal compartment))에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정조세포(spermatogonium)",
+        "accepted_answers": [
+          "정조세포(spermatogonium)",
+          "spermatogonium"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정조세포(spermatogonium)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_003"
+      ],
+      "prompt": "정조세포(spermatogonium)는 바닥칸(_____)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래쪽(basal compartment)",
+        "accepted_answers": [
+          "아래쪽(basal compartment)",
+          "basalcompartment",
+          "basal compartment"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래쪽(basal compartment)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_004"
+      ],
+      "prompt": "_____는 속공간쪽칸(위쪽(adluminal compartment))을 거쳐 내강 쪽으로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정자세포(spermatid)",
+        "accepted_answers": [
+          "정자세포(spermatid)",
+          "spermatid"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정자세포(spermatid)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정자세포(spermatid)는 속공간쪽칸(adluminal compartment)을 거쳐 내강 쪽으로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p015_course_배_필기본_015_ai_corrected_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_004"
+      ],
+      "prompt": "정자세포(spermatid)는 속공간쪽칸(_____)을 거쳐 내강 쪽으로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위쪽(adluminal compartment)",
+        "accepted_answers": [
+          "위쪽(adluminal compartment)",
+          "adluminalcompartment",
+          "adluminal compartment"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위쪽(adluminal compartment)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정자세포(spermatid)는 속공간쪽칸(adluminal compartment)을 거쳐 내강 쪽으로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 10,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 11
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json",
+        "review_image_url": "./data/images/20260406____1___2__p010__ed284d878b85.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json",
+        "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json",
+        "review_image_url": "./data/images/20260406____1___2__p012__a83a57b19eaa.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json",
+        "review_image_url": "./data/images/20260406____1___2__p013__e55fd5c955c7.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json",
+        "review_image_url": "./data/images/20260406____1___2__p014__e878c085ff03.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json",
+        "review_image_url": "./data/images/20260406____1___2__p015__fe3349b2ee43.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 14,
+    "previous_page": 14,
+    "next_page": 16
+  },
+  "review_image_url": "./data/images/20260406____1___2__p015__fe3349b2ee43.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 15
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환 장벽(blood-testis barrier)의 형태학적 기반이다.",
+        "복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다.",
+        "정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다.",
+        "정자세포(spermatid)는 속공간쪽칸(adluminal compartment)을 거쳐 내강 쪽으로 이동한다.",
+        "꼬불정세관의 영어 이름은 convoluted seminiferous tubules이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "위의 영어 이름은 stomach이다.",
+        "고환의 영어 이름은 testis이다.",
+        "간의 영어 이름은 liver이다.",
+        "고환그물의 영어 이름은 rete testis이다.",
+        "근육의 영어 이름은 muscles이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 26,
+          "text": "#세포-세포 연결 3가지 종류: anchcring; cornmunication occuding spermatogoniur 정자발생세포)-> (여기서 파라색) [관 주변예 있어서 수출활 수 잇는 기능 가짐",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 31,
+          "text": "복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 36,
+          "text": "버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환 장벽(blood-testis barrier)의 형태학적 기반이다. 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 구분한다. 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. 정자세포(spermatid)는 속공간쪽칸(adluminal compartment)을 거쳐 내강 쪽으로 이동한다. lamina propria와 결합조직에는 myoid cell과 fibroblast가 존재한다. myoid cell은 수축하여 운동성이 없는 정자를 rete testis 쪽으로 이동시키는 데 도움을 준다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 39,
+          "text": "복합세포사이이음(compound intercellular junction) 구분한다 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "'adluminal compartment (위쪽)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "basal compartment (아래쪽)의 경계기 팀",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 혈액-고환 장벽(blood-testis barrier)의 형태학적 기반이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "정자세포(spermatid)는 속공간쪽칸(adluminal compartment)을 거쳐 내강 쪽으로 이동한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "myoid cell은 수축하여 운동성이 없는 정자를 rete testis 쪽으로 이동시키는 데 도움을 준다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "정세관 구조 도식에 혈액-고환 장벽, compartment, 버팀세포 기능, 근육모양세포 기능이 필기로 보강된 필기본 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "복합세포사이이음(compound intercellular junction) 형태학적 기반이다 혈액-고환 장벽(blood-testis barrier)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "myoid cell 도움을 준다 운동성이 없는 정자를 rete testis 쪽으로 이동시키는 것",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 12,
+        "accounted_term_count": 12,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "위쪽(adluminal compartment)",
+          "아래쪽(basal compartment)",
+          "혈액-고환장벽(blood-testis barrier)",
+          "정조세포(spermatogonium)",
+          "정자세포(spermatid)",
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "상피(epithelium)",
+          "위(stomach)",
+          "고환(testis)",
+          "간(liver)",
+          "고환그물(rete testis)",
+          "근육(muscles)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Seminiferous tubules",
+        "'정자가 발생하고 성숙한 후에 정자가 빠져나가는 관 형태 Seminiferous tubules",
+        "'정자 발생과 성숙올 담당하는 정자 발생 상피로 가지고 있음",
+        "'굉장히 꿈습관속하고 속이 비어앗는 관",
+        "'위에서 부터 cpitheliurn-Iamina propria connectiye tissue로 구성된 전형적인 관의 형태",
+        "[compound intercellular junction] 7~",
+        "blood testis barrier 로서 여합 합",
+        "(connective tissue의 훨권이 위로 못김) 이불",
+        "'adluminal compartment (위쪽)",
+        "basal compartment (아래쪽)의 경계기 팀",
+        "seminiferous epithelium",
+        "epithelium 흔 힘관이 없어서",
+        "Connective Tissue 예서 확산되서 영양분움 받음",
+        "secordary 이정모서포",
+        "adkminal compartment",
+        "버딩세도 Sertoli ccll",
+        "prirrary sperratocyte",
+        "compound intercellular junctiot",
+        "바닥간 basal campartment",
+        "spermatogoniumn",
+        "[sertoli cell] (여기서 분혼색)",
+        "'바탕의 여할 / 지지+영양분 공급으로 supporting/ 후에 phagocytosis 도 진행 '복합세도사이이음 connective tissue myoid cell fibroblast 존재",
+        "lamnina propria",
+        "귀기 근 colurnnar 형태로 김쭉하게 되어 있음",
+        "comnpcund intercellular junction 으로 형성 compound intercellular junction",
+        "(=occluding junction: 통과 X=tight junction)",
+        "#세포-세포 연결 3가지 종류: anchcring; cornmunication occuding spermatogoniur 정자발생세포)-> (여기서 파라색) [관 주변예 있어서 수출활 수 잇는 기능 가짐",
+        "'성숙 과정에 앞는 세포든 : 처음에는 정조세포 (stem cell 여환) 존재 (운동성이 업는 정자다 전단해서 rete testis까지 믿어내는 여합 ]",
+        "'점점 발생해서 primnary spermatocyte; secondary spermatocyte; spermnatid의 중종으로 구성칙"
+      ],
+      "supplemental_ocr_blocks": [
+        "혈관",
+        "정자세포 Sy",
+        "spemratd",
+        "Jy",
+        "(Spewm",
+        "%",
+        "속공간쪽간",
+        "일차정모세포",
+        "복합세도사이이음",
+        "정조세도"
+      ],
+      "corrected_page_text": "Seminiferous tubules\n'정자가 발생하고 성숙한 후에 정자가 빠져나가는 관 형태 Seminiferous tubules\n'정자 발생과 성숙올 담당하는 정자 발생 상피로 가지고 있음\n'굉장히 꿈습관속하고 속이 비어앗는 관\n'위에서 부터 cpitheliurn-Iamina propria connectiye tissue로 구성된 전형적인 관의 형태\n[compound intercellular junction] 7~\nblood testis barrier 로서 여합 합\n(connective tissue의 훨권이 위로 못김) 이불\n'adluminal compartment (위쪽)\nbasal compartment (아래쪽)의 경계기 팀\nseminiferous epithelium\nepithelium 흔 힘관이 없어서\nConnective Tissue 예서 확산되서 영양분움 받음\nsecordary 이정모서포\nadkminal compartment\n버딩세도 Sertoli ccll\nprirrary sperratocyte\ncompound intercellular junctiot\n바닥간 basal campartment\nspermatogoniumn\n[sertoli cell] (여기서 분혼색)\n'바탕의 여할 / 지지+영양분 공급으로 supporting/ 후에 phagocytosis 도 진행 '복합세도사이이음 connective tissue myoid cell fibroblast 존재\nlamnina propria\n귀기 근 colurnnar 형태로 김쭉하게 되어 있음\ncomnpcund intercellular junction 으로 형성 compound intercellular junction\n(=occluding junction: 통과 X=tight junction)\n#세포-세포 연결 3가지 종류: anchcring; cornmunication occuding spermatogoniur 정자발생세포)-> (여기서 파라색) [관 주변예 있어서 수출활 수 잇는 기능 가짐\n'성숙 과정에 앞는 세포든 : 처음에는 정조세포 (stem cell 여환) 존재 (운동성이 업는 정자다 전단해서 rete testis까지 믿어내는 여합 ]\n'점점 발생해서 primnary spermatocyte; secondary spermatocyte; spermnatid의 중종으로 구성칙",
+      "quality_audit": {
+        "pdf_char_count": 19,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 50,
+        "pdf_line_count": 1,
+        "ocr_line_count": 39,
+        "merged_line_count": 39,
+        "pdf_only_count": 0,
+        "ocr_only_count": 38,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 38,
+        "pdf_alpha_count": 19,
+        "ocr_alpha_count": 953,
+        "promoted_ocr_only_count": 28
+      }
+    }
+  }
+}

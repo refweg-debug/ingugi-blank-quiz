@@ -1,0 +1,415 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 16
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p016_course_배_필기본_016_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_002"
+      ],
+      "prompt": "선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell)는 분화하여 B형 _____가 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "형정조세포(Type B spermatogonia)",
+        "accepted_answers": [
+          "형정조세포(Type B spermatogonia)",
+          "형정조세포(Type A spermatogonia)",
+          "TypeAspermatogonia",
+          "Type A spermatogonia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "형정조세포(Type B spermatogonia)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell)는 분화하여 B형 정조세포(Type B spermatogonia)가 된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 1,
+    "question_type_count": {
+      "fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json",
+        "review_image_url": "./data/images/20260406____1___2__p010__ed284d878b85.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json",
+        "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json",
+        "review_image_url": "./data/images/20260406____1___2__p012__a83a57b19eaa.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json",
+        "review_image_url": "./data/images/20260406____1___2__p013__e55fd5c955c7.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json",
+        "review_image_url": "./data/images/20260406____1___2__p014__e878c085ff03.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json",
+        "review_image_url": "./data/images/20260406____1___2__p015__fe3349b2ee43.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json",
+        "review_image_url": "./data/images/20260406____1___2__p016__3eb28b9b950d.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 15,
+    "previous_page": 15,
+    "next_page": 17
+  },
+  "review_image_url": "./data/images/20260406____1___2__p016__3eb28b9b950d.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 16
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "줄기세포형 A형 정조세포(Type A spermatogonia, stem cell)는 유사분열로 자신과 같은 줄기세포군을 유지한다.",
+        "선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell)는 분화하여 B형 정조세포(Type B spermatogonia)가 된다.",
+        "일차정모세포(primary spermatocyte)는 2n 염색체를 가진다.",
+        "정자세포(spermatid)는 n 염색체를 가진다.",
+        "정자의 영어 이름은 sperm이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "재생세포의 영어 이름은 regenerative cells이다.",
+        "꼬불정세관의 영어 이름은 convoluted seminiferous tubules이다.",
+        "상피의 영어 이름은 epithelium이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 25,
+          "text": "은 세포사이다리intercellular bridge)이라는 구조물로 연결된 채로 잎 잔류소체residual body)가 된다: 이러한 세도사이의 연결은 세포질 내의",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 28,
+          "text": "눈 2개만 표시하없다)가 된다 세도질은 아직 연결되어 있다: 결합체는 첫",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 35,
+          "text": "정자발생(spermatogenesis) 단계도에 필기본으로 type A/B 구분, 염색체 수, seminiferous epithelium 관련 메모가 추가된 페이지이다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "정자세포(Spermatids) n",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "'줄기세도처럼 작용하는 A형정조세포는 새로운 줄기세포름 형성하거나 다 번째와 두 번째 감수분열 동안데도 지속되고 콤배수체 정자세포가 정자",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "그림 21-7 동일한 유전형질의 정자발생 단계",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "성숙문 정중(Mature spermatozoa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "치논 B형정조세포로 분화되고 감수분열로 들어가 일차정모세포(그림에 하게 해주다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell)는 분화하여 B형 정조세포(Type B spermatogonia)가 된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "정자세포(spermatid)는 n 염색체를 가진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "정자발생(spermatogenesis)은 정세관 상피(seminiferous epithelium)에서 일어난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "줄기세포형 A형 정조세포(Type A spermatogonia, stem cell)는 유사분열로 자신과 같은 줄기세포군을 유지한다. 선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell)는 분화하여 B형 정조세포(Type B spermatogonia)가 된다. 일차정모세포(primary spermatocyte)는 2n 염색체를 가진다. 정자세포(spermatid)는 n 염색체를 가진다. 정자발생(spermatogenesis)은 정세관 상피(seminiferous epithelium)에서 일어난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "선조세포형 A형 정조세포(Type A spermatogonia, progenitor cell) 분화한다 B형 정조세포(Type B spermatogonia)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "정자세포(spermatid) 가진다 n 염색체",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "정자발생(spermatogenesis) 일어난다 정세관 상피(seminiferous epithelium)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 3,
+        "missing_term_count": 2,
+        "coverage_ratio": 0.688,
+        "accounted_terms": [
+          "유사분(Mitosis)",
+          "정자세포(Spermatids)",
+          "형정조세포(Type A spermatogonia)",
+          "형정조세포(Type B spermatogonia)",
+          "일차정모세포(primary spermatocyte)",
+          "정자세포(spermatid)",
+          "정자(sperm)",
+          "배(abdominal region)",
+          "재생세포(regenerative cells)",
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "상피(epithelium)"
+        ],
+        "unresolved_terms": [
+          "성숙문정중(Mature spermatozoa)",
+          "정자발생(spermatogenesis)",
+          "정세관상피(seminiferous epithelium)"
+        ],
+        "missing_terms": [
+          "첫번째감수분열(Primary spermatocytes)",
+          "두번째감수분열(Secondary spermatocytes)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Spermatogenesis",
+        "그림 21-7 동일한 유전형질의 정자발생 단계",
+        "type AB 기 있움 > 세모 형대기 다르다( 자세하계 나는 끝요 x)",
+        "A형 정조세되줄기세)",
+        "[Type A spermatogonia (stem cellll",
+        "A형 정조세되선조세도)",
+        "[Type A spermatogonia",
+        "(progenitor cell]",
+        "유사분-( Mitosis)",
+        "B형 정조세포",
+        "(Type B spermatogonia)",
+        "첫 번째 감수분열 (Primary spermatocytes)",
+        "(First meiotic division)",
+        "두번째 감수분열 (Secondary spermatocytes)",
+        "(Second meiotic division)",
+        "정자세포(Spermatids) n",
+        "성숙문 정중(Mature spermatozoa)",
+        "maturation의 단개 정자완생분화)",
+        "[Spermiogenesis",
+        "(differentiation)]",
+        "'이 과정이 seminiferous cpithelium예서 얻어님",
+        "(Residual bodies)",
+        "'줄기세도처럼 작용하는 A형정조세포는 새로운 줄기세포름 형성하거나 다 번째와 두 번째 감수분열 동안데도 지속되고 콤배수체 정자세포가 정자",
+        "흔 A형정조세모름 형성하다 이런 세포의 유사분열은 불완전하여 세모질 로 분화하는 과정에서 없어진다(정지완성) 어분의 세포질은 떨어저 나와",
+        "은 세포사이다리intercellular bridge)이라는 구조물로 연결된 채로 잎 잔류소체residual body)가 된다: 이러한 세도사이의 연결은 세포질 내의",
+        "다: A형정조세도가 2~3회 유사분열올 한 다음 유시분열의 최종단계름 거 소동올 기능하게 하여 감수분열과 정자완성의 과정올 조절하는 것울 기능",
+        "치논 B형정조세포로 분화되고 감수분열로 들어가 일차정모세포(그림에 하게 해주다.",
+        "눈 2개만 표시하없다)가 된다 세도질은 아직 연결되어 있다: 결합체는 첫"
+      ],
+      "supplemental_ocr_blocks": [
+        "당l음",
+        "일차정모세도 2n",
+        "'0 차정모세도",
+        "잔류소체"
+      ],
+      "corrected_page_text": "Spermatogenesis\n그림 21-7 동일한 유전형질의 정자발생 단계\ntype AB 기 있움 > 세모 형대기 다르다( 자세하계 나는 끝요 x)\nA형 정조세되줄기세)\n[Type A spermatogonia (stem cellll\nA형 정조세되선조세도)\n[Type A spermatogonia\n(progenitor cell]\n유사분-( Mitosis)\nB형 정조세포\n(Type B spermatogonia)\n첫 번째 감수분열 (Primary spermatocytes)\n(First meiotic division)\n두번째 감수분열 (Secondary spermatocytes)\n(Second meiotic division)\n정자세포(Spermatids) n\n성숙문 정중(Mature spermatozoa)\nmaturation의 단개 정자완생분화)\n[Spermiogenesis\n(differentiation)]\n'이 과정이 seminiferous cpithelium예서 얻어님\n(Residual bodies)\n'줄기세도처럼 작용하는 A형정조세포는 새로운 줄기세포름 형성하거나 다 번째와 두 번째 감수분열 동안데도 지속되고 콤배수체 정자세포가 정자\n흔 A형정조세모름 형성하다 이런 세포의 유사분열은 불완전하여 세모질 로 분화하는 과정에서 없어진다(정지완성) 어분의 세포질은 떨어저 나와\n은 세포사이다리intercellular bridge)이라는 구조물로 연결된 채로 잎 잔류소체residual body)가 된다: 이러한 세도사이의 연결은 세포질 내의\n다: A형정조세도가 2~3회 유사분열올 한 다음 유시분열의 최종단계름 거 소동올 기능하게 하여 감수분열과 정자완성의 과정올 조절하는 것울 기능\n치논 B형정조세포로 분화되고 감수분열로 들어가 일차정모세포(그림에 하게 해주다.\n눈 2개만 표시하없다)가 된다 세도질은 아직 연결되어 있다: 결합체는 첫",
+      "quality_audit": {
+        "pdf_char_count": 15,
+        "pdf_span_count": 1,
+        "pdf_word_count": 1,
+        "ocr_fragment_count": 42,
+        "pdf_line_count": 1,
+        "ocr_line_count": 32,
+        "merged_line_count": 32,
+        "pdf_only_count": 0,
+        "ocr_only_count": 31,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 31,
+        "pdf_alpha_count": 15,
+        "ocr_alpha_count": 715,
+        "promoted_ocr_only_count": 27
+      }
+    }
+  }
+}

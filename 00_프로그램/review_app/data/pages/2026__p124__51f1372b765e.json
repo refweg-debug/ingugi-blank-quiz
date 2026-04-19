@@ -1,0 +1,1984 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "현재통합",
+    "source_stem": "2026년 배(소화계통 비뇨계통)",
+    "page_number": 124,
+    "note_page_number": 22,
+    "source_page_number": 124,
+    "original_page_number": 124,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)",
+    "note_source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_001"
+      ],
+      "prompt": "혈액(blood)은 _____ 쪽으로 흐른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "_____은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고전간소엽(classic hepatic lobule)",
+        "accepted_answers": [
+          "고전간소엽(classic hepatic lobule)",
+          "classic hepatic lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고전간소엽(classic hepatic lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "고전간소엽(classic hepatic lobule)은 혈류가 _____ 쪽으로 모이는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "_____은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥소엽(portal lobule)",
+        "accepted_answers": [
+          "문맥소엽(portal lobule)",
+          "portal lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥소엽(portal lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "문맥소엽(portal lobule)은 _____이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "문맥소엽(portal lobule)은 담즙(bile)이 _____ 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관(bile duct)",
+        "accepted_answers": [
+          "담관(bile duct)",
+          "bile duct",
+          "bile ducts"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관(bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_004"
+      ],
+      "prompt": "_____은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간선포(hepatic acinus)",
+        "accepted_answers": [
+          "간선포(hepatic acinus)",
+          "hepatic acinus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간선포(hepatic acinus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_004"
+      ],
+      "prompt": "간선포(hepatic acinus)은 _____에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portal triad",
+          "hepatic triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 8,
+    "question_type_count": {
+      "fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p001__7d02aa4591e0.json",
+        "review_image_url": "./data/images/2026__p001__7d02aa4591e0.webp"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p002__ca3362139d3b.json",
+        "review_image_url": "./data/images/2026__p002__ca3362139d3b.webp"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p003__62dc70e14a72.json",
+        "review_image_url": "./data/images/2026__p003__62dc70e14a72.webp"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p004__fbde3a9f4224.json",
+        "review_image_url": "./data/images/2026__p004__fbde3a9f4224.webp"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p005__42c45b745a8f.json",
+        "review_image_url": "./data/images/2026__p005__42c45b745a8f.webp"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p006__93236cbfb35a.json",
+        "review_image_url": "./data/images/2026__p006__93236cbfb35a.webp"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p007__1b3dfe5f1d6c.json",
+        "review_image_url": "./data/images/2026__p007__1b3dfe5f1d6c.webp"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p008__40ece87291f7.json",
+        "review_image_url": "./data/images/2026__p008__40ece87291f7.webp"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p009__130a2ff3fb89.json",
+        "review_image_url": "./data/images/2026__p009__130a2ff3fb89.webp"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p010__793995fe2b3a.json",
+        "review_image_url": "./data/images/2026__p010__793995fe2b3a.webp"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p011__35d7ffd7fbba.json",
+        "review_image_url": "./data/images/2026__p011__35d7ffd7fbba.webp"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p012__ca4219607153.json",
+        "review_image_url": "./data/images/2026__p012__ca4219607153.webp"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p013__d6f856c00b85.json",
+        "review_image_url": "./data/images/2026__p013__d6f856c00b85.webp"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p014__1804a7b2532b.json",
+        "review_image_url": "./data/images/2026__p014__1804a7b2532b.webp"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p015__949a6a247dcb.json",
+        "review_image_url": "./data/images/2026__p015__949a6a247dcb.webp"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p016__36978913f593.json",
+        "review_image_url": "./data/images/2026__p016__36978913f593.webp"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p017__85dc409d44e2.json",
+        "review_image_url": "./data/images/2026__p017__85dc409d44e2.webp"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p018__fc8b40a38e75.json",
+        "review_image_url": "./data/images/2026__p018__fc8b40a38e75.webp"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p019__867dad1b8f36.json",
+        "review_image_url": "./data/images/2026__p019__867dad1b8f36.webp"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p020__c5d81a6eca4d.json",
+        "review_image_url": "./data/images/2026__p020__c5d81a6eca4d.webp"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p021__6f8b7fa4d289.json",
+        "review_image_url": "./data/images/2026__p021__6f8b7fa4d289.webp"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p022__14f00c97b7a6.json",
+        "review_image_url": "./data/images/2026__p022__14f00c97b7a6.webp"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p023__1674d6b938ec.json",
+        "review_image_url": "./data/images/2026__p023__1674d6b938ec.webp"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 24,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p024__5c234453f2bd.json",
+        "review_image_url": "./data/images/2026__p024__5c234453f2bd.webp"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 25,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p025__2e05d1b5cbb8.json",
+        "review_image_url": "./data/images/2026__p025__2e05d1b5cbb8.webp"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 26,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p026__3d43a3f0b1e0.json",
+        "review_image_url": "./data/images/2026__p026__3d43a3f0b1e0.webp"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 27,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p027__e011b27a5950.json",
+        "review_image_url": "./data/images/2026__p027__e011b27a5950.webp"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 28,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p028__0aeb34fa2458.json",
+        "review_image_url": "./data/images/2026__p028__0aeb34fa2458.webp"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 29,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p029__b13f0d9595b8.json",
+        "review_image_url": "./data/images/2026__p029__b13f0d9595b8.webp"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 30,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p030__8afee6fa3a19.json",
+        "review_image_url": "./data/images/2026__p030__8afee6fa3a19.webp"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 31,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p031__09b3c3029795.json",
+        "review_image_url": "./data/images/2026__p031__09b3c3029795.webp"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 32,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p032__89862e8bd7fa.json",
+        "review_image_url": "./data/images/2026__p032__89862e8bd7fa.webp"
+      },
+      {
+        "page_number": 33,
+        "source_page_number": 33,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p033__bf886203817f.json",
+        "review_image_url": "./data/images/2026__p033__bf886203817f.webp"
+      },
+      {
+        "page_number": 34,
+        "source_page_number": 34,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p034__dff6bd5433fc.json",
+        "review_image_url": "./data/images/2026__p034__dff6bd5433fc.webp"
+      },
+      {
+        "page_number": 35,
+        "source_page_number": 35,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p035__6541419b9357.json",
+        "review_image_url": "./data/images/2026__p035__6541419b9357.webp"
+      },
+      {
+        "page_number": 36,
+        "source_page_number": 36,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p036__cb7cd5484cff.json",
+        "review_image_url": "./data/images/2026__p036__cb7cd5484cff.webp"
+      },
+      {
+        "page_number": 37,
+        "source_page_number": 37,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p037__47a720f471b2.json",
+        "review_image_url": "./data/images/2026__p037__47a720f471b2.webp"
+      },
+      {
+        "page_number": 38,
+        "source_page_number": 38,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p038__08258c51342b.json",
+        "review_image_url": "./data/images/2026__p038__08258c51342b.webp"
+      },
+      {
+        "page_number": 39,
+        "source_page_number": 39,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p039__5fe2c857b270.json",
+        "review_image_url": "./data/images/2026__p039__5fe2c857b270.webp"
+      },
+      {
+        "page_number": 40,
+        "source_page_number": 40,
+        "question_count": 19,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p040__b969cde25155.json",
+        "review_image_url": "./data/images/2026__p040__b969cde25155.webp"
+      },
+      {
+        "page_number": 41,
+        "source_page_number": 41,
+        "question_count": 5,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p041__260ccc373dab.json",
+        "review_image_url": "./data/images/2026__p041__260ccc373dab.webp"
+      },
+      {
+        "page_number": 42,
+        "source_page_number": 42,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p042__38df47adf210.json",
+        "review_image_url": "./data/images/2026__p042__38df47adf210.webp"
+      },
+      {
+        "page_number": 43,
+        "source_page_number": 43,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p043__787a18aa7cf5.json",
+        "review_image_url": "./data/images/2026__p043__787a18aa7cf5.webp"
+      },
+      {
+        "page_number": 44,
+        "source_page_number": 44,
+        "question_count": 11,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p044__191901fac17a.json",
+        "review_image_url": "./data/images/2026__p044__191901fac17a.webp"
+      },
+      {
+        "page_number": 45,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p045__a8d6bfcc15df.json",
+        "review_image_url": "./data/images/2026__p045__a8d6bfcc15df.webp"
+      },
+      {
+        "page_number": 46,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p046__44baab7d3e43.json",
+        "review_image_url": "./data/images/2026__p046__44baab7d3e43.webp"
+      },
+      {
+        "page_number": 47,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p047__58455c5e6489.json",
+        "review_image_url": "./data/images/2026__p047__58455c5e6489.webp"
+      },
+      {
+        "page_number": 48,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p048__201653bc5620.json",
+        "review_image_url": "./data/images/2026__p048__201653bc5620.webp"
+      },
+      {
+        "page_number": 49,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p049__4dbd95911a50.json",
+        "review_image_url": "./data/images/2026__p049__4dbd95911a50.webp"
+      },
+      {
+        "page_number": 50,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p050__9754eb7cf806.json",
+        "review_image_url": "./data/images/2026__p050__9754eb7cf806.webp"
+      },
+      {
+        "page_number": 51,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p051__9e1261a8f444.json",
+        "review_image_url": "./data/images/2026__p051__9e1261a8f444.webp"
+      },
+      {
+        "page_number": 52,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p052__a08578ba02b7.json",
+        "review_image_url": "./data/images/2026__p052__a08578ba02b7.webp"
+      },
+      {
+        "page_number": 53,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p053__6caf069e0bda.json",
+        "review_image_url": "./data/images/2026__p053__6caf069e0bda.webp"
+      },
+      {
+        "page_number": 54,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p054__41278a32fdd6.json",
+        "review_image_url": "./data/images/2026__p054__41278a32fdd6.webp"
+      },
+      {
+        "page_number": 55,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/2026__p055__7e543affbcfd.json",
+        "review_image_url": "./data/images/2026__p055__7e543affbcfd.webp"
+      },
+      {
+        "page_number": 56,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p056__38f402637fbc.json",
+        "review_image_url": "./data/images/2026__p056__38f402637fbc.webp"
+      },
+      {
+        "page_number": 57,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p057__daaec0f8eb8d.json",
+        "review_image_url": "./data/images/2026__p057__daaec0f8eb8d.webp"
+      },
+      {
+        "page_number": 58,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p058__a2fcfe04e8e0.json",
+        "review_image_url": "./data/images/2026__p058__a2fcfe04e8e0.webp"
+      },
+      {
+        "page_number": 59,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p059__d0fd1267c554.json",
+        "review_image_url": "./data/images/2026__p059__d0fd1267c554.webp"
+      },
+      {
+        "page_number": 60,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p060__cba583ae74ac.json",
+        "review_image_url": "./data/images/2026__p060__cba583ae74ac.webp"
+      },
+      {
+        "page_number": 61,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p061__d3fdc297c1ab.json",
+        "review_image_url": "./data/images/2026__p061__d3fdc297c1ab.webp"
+      },
+      {
+        "page_number": 62,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p062__aa70e197c909.json",
+        "review_image_url": "./data/images/2026__p062__aa70e197c909.webp"
+      },
+      {
+        "page_number": 63,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p063__65d341ce4b53.json",
+        "review_image_url": "./data/images/2026__p063__65d341ce4b53.webp"
+      },
+      {
+        "page_number": 64,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p064__de43ecef43ae.json",
+        "review_image_url": "./data/images/2026__p064__de43ecef43ae.webp"
+      },
+      {
+        "page_number": 65,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p065__4176b3fae9d8.json",
+        "review_image_url": "./data/images/2026__p065__4176b3fae9d8.webp"
+      },
+      {
+        "page_number": 66,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p066__cafb7384dd77.json",
+        "review_image_url": "./data/images/2026__p066__cafb7384dd77.webp"
+      },
+      {
+        "page_number": 67,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p067__2aab5febbcda.json",
+        "review_image_url": "./data/images/2026__p067__2aab5febbcda.webp"
+      },
+      {
+        "page_number": 68,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p068__886fd2bcbe69.json",
+        "review_image_url": "./data/images/2026__p068__886fd2bcbe69.webp"
+      },
+      {
+        "page_number": 69,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p069__72605f9249e0.json",
+        "review_image_url": "./data/images/2026__p069__72605f9249e0.webp"
+      },
+      {
+        "page_number": 70,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p070__5b18012b27a0.json",
+        "review_image_url": "./data/images/2026__p070__5b18012b27a0.webp"
+      },
+      {
+        "page_number": 71,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p071__1c320b87a6d5.json",
+        "review_image_url": "./data/images/2026__p071__1c320b87a6d5.webp"
+      },
+      {
+        "page_number": 72,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p072__fc1146ddbb7b.json",
+        "review_image_url": "./data/images/2026__p072__fc1146ddbb7b.webp"
+      },
+      {
+        "page_number": 73,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p073__e016d24b6485.json",
+        "review_image_url": "./data/images/2026__p073__e016d24b6485.webp"
+      },
+      {
+        "page_number": 74,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p074__1573237f4481.json",
+        "review_image_url": "./data/images/2026__p074__1573237f4481.webp"
+      },
+      {
+        "page_number": 75,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p075__48cffc8b606f.json",
+        "review_image_url": "./data/images/2026__p075__48cffc8b606f.webp"
+      },
+      {
+        "page_number": 76,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p076__8100bea9140b.json",
+        "review_image_url": "./data/images/2026__p076__8100bea9140b.webp"
+      },
+      {
+        "page_number": 77,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p077__92f958a6bb5e.json",
+        "review_image_url": "./data/images/2026__p077__92f958a6bb5e.webp"
+      },
+      {
+        "page_number": 78,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p078__9ac09e8ce7b1.json",
+        "review_image_url": "./data/images/2026__p078__9ac09e8ce7b1.webp"
+      },
+      {
+        "page_number": 79,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p079__8a893c95552d.json",
+        "review_image_url": "./data/images/2026__p079__8a893c95552d.webp"
+      },
+      {
+        "page_number": 80,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p080__7984ffbabbf1.json",
+        "review_image_url": "./data/images/2026__p080__7984ffbabbf1.webp"
+      },
+      {
+        "page_number": 81,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p081__470fc09b1146.json",
+        "review_image_url": "./data/images/2026__p081__470fc09b1146.webp"
+      },
+      {
+        "page_number": 82,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p082__62730b73820a.json",
+        "review_image_url": "./data/images/2026__p082__62730b73820a.webp"
+      },
+      {
+        "page_number": 83,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p083__15496042e1df.json",
+        "review_image_url": "./data/images/2026__p083__15496042e1df.webp"
+      },
+      {
+        "page_number": 84,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p084__2be51c4f9771.json",
+        "review_image_url": "./data/images/2026__p084__2be51c4f9771.webp"
+      },
+      {
+        "page_number": 85,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p085__0c1603775878.json",
+        "review_image_url": "./data/images/2026__p085__0c1603775878.webp"
+      },
+      {
+        "page_number": 86,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p086__2fda956face4.json",
+        "review_image_url": "./data/images/2026__p086__2fda956face4.webp"
+      },
+      {
+        "page_number": 87,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p087__1d9400c7f5f9.json",
+        "review_image_url": "./data/images/2026__p087__1d9400c7f5f9.webp"
+      },
+      {
+        "page_number": 88,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p088__459e8a62eb59.json",
+        "review_image_url": "./data/images/2026__p088__459e8a62eb59.webp"
+      },
+      {
+        "page_number": 89,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p089__8dc3fed2af58.json",
+        "review_image_url": "./data/images/2026__p089__8dc3fed2af58.webp"
+      },
+      {
+        "page_number": 90,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p090__c4a81495cc0a.json",
+        "review_image_url": "./data/images/2026__p090__c4a81495cc0a.webp"
+      },
+      {
+        "page_number": 91,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p091__50596465c0c4.json",
+        "review_image_url": "./data/images/2026__p091__50596465c0c4.webp"
+      },
+      {
+        "page_number": 92,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p092__0cee44bdf846.json",
+        "review_image_url": "./data/images/2026__p092__0cee44bdf846.webp"
+      },
+      {
+        "page_number": 93,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p093__afec4686bfd5.json",
+        "review_image_url": "./data/images/2026__p093__afec4686bfd5.webp"
+      },
+      {
+        "page_number": 94,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p094__c151b2fcc8a3.json",
+        "review_image_url": "./data/images/2026__p094__c151b2fcc8a3.webp"
+      },
+      {
+        "page_number": 95,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p095__08065a2ea451.json",
+        "review_image_url": "./data/images/2026__p095__08065a2ea451.webp"
+      },
+      {
+        "page_number": 96,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p096__cf31308754a2.json",
+        "review_image_url": "./data/images/2026__p096__cf31308754a2.webp"
+      },
+      {
+        "page_number": 97,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p097__e91557bde9c0.json",
+        "review_image_url": "./data/images/2026__p097__e91557bde9c0.webp"
+      },
+      {
+        "page_number": 98,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p098__b3328bc3e141.json",
+        "review_image_url": "./data/images/2026__p098__b3328bc3e141.webp"
+      },
+      {
+        "page_number": 99,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p099__ddcbb1bdcfe3.json",
+        "review_image_url": "./data/images/2026__p099__ddcbb1bdcfe3.webp"
+      },
+      {
+        "page_number": 100,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p100__9fe22e0db0f5.json",
+        "review_image_url": "./data/images/2026__p100__9fe22e0db0f5.webp"
+      },
+      {
+        "page_number": 101,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p101__2cbb48629ae0.json",
+        "review_image_url": "./data/images/2026__p101__2cbb48629ae0.webp"
+      },
+      {
+        "page_number": 102,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p102__8b6bf5aabd73.json",
+        "review_image_url": "./data/images/2026__p102__8b6bf5aabd73.webp"
+      },
+      {
+        "page_number": 103,
+        "source_page_number": 103,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p103__5d869270f3d6.json",
+        "review_image_url": "./data/images/2026__p103__5d869270f3d6.webp"
+      },
+      {
+        "page_number": 104,
+        "source_page_number": 104,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p104__bf2aea4606ab.json",
+        "review_image_url": "./data/images/2026__p104__bf2aea4606ab.webp"
+      },
+      {
+        "page_number": 105,
+        "source_page_number": 105,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p105__42860a2b1871.json",
+        "review_image_url": "./data/images/2026__p105__42860a2b1871.webp"
+      },
+      {
+        "page_number": 106,
+        "source_page_number": 106,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p106__6cba8a6be4f1.json",
+        "review_image_url": "./data/images/2026__p106__6cba8a6be4f1.webp"
+      },
+      {
+        "page_number": 107,
+        "source_page_number": 107,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p107__7fffb1a332b9.json",
+        "review_image_url": "./data/images/2026__p107__7fffb1a332b9.webp"
+      },
+      {
+        "page_number": 108,
+        "source_page_number": 108,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p108__550b2611d028.json",
+        "review_image_url": "./data/images/2026__p108__550b2611d028.webp"
+      },
+      {
+        "page_number": 109,
+        "source_page_number": 109,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p109__03ce4622c192.json",
+        "review_image_url": "./data/images/2026__p109__03ce4622c192.webp"
+      },
+      {
+        "page_number": 110,
+        "source_page_number": 110,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p110__d2fec345e3d2.json",
+        "review_image_url": "./data/images/2026__p110__d2fec345e3d2.webp"
+      },
+      {
+        "page_number": 111,
+        "source_page_number": 111,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p111__82449158eb8c.json",
+        "review_image_url": "./data/images/2026__p111__82449158eb8c.webp"
+      },
+      {
+        "page_number": 112,
+        "source_page_number": 112,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p112__7069cf7174a1.json",
+        "review_image_url": "./data/images/2026__p112__7069cf7174a1.webp"
+      },
+      {
+        "page_number": 113,
+        "source_page_number": 113,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p113__fc3159be46dd.json",
+        "review_image_url": "./data/images/2026__p113__fc3159be46dd.webp"
+      },
+      {
+        "page_number": 114,
+        "source_page_number": 114,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p114__455267f3cc68.json",
+        "review_image_url": "./data/images/2026__p114__455267f3cc68.webp"
+      },
+      {
+        "page_number": 115,
+        "source_page_number": 115,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p115__46724fc2df06.json",
+        "review_image_url": "./data/images/2026__p115__46724fc2df06.webp"
+      },
+      {
+        "page_number": 116,
+        "source_page_number": 116,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p116__ecabf68d0bef.json",
+        "review_image_url": "./data/images/2026__p116__ecabf68d0bef.webp"
+      },
+      {
+        "page_number": 117,
+        "source_page_number": 117,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p117__7874d2bf1c38.json",
+        "review_image_url": "./data/images/2026__p117__7874d2bf1c38.webp"
+      },
+      {
+        "page_number": 118,
+        "source_page_number": 118,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p118__f6732c9070dd.json",
+        "review_image_url": "./data/images/2026__p118__f6732c9070dd.webp"
+      },
+      {
+        "page_number": 119,
+        "source_page_number": 119,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p119__73e1fbb17167.json",
+        "review_image_url": "./data/images/2026__p119__73e1fbb17167.webp"
+      },
+      {
+        "page_number": 120,
+        "source_page_number": 120,
+        "question_count": 34,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p120__40fd80cb2dce.json",
+        "review_image_url": "./data/images/2026__p120__40fd80cb2dce.webp"
+      },
+      {
+        "page_number": 121,
+        "source_page_number": 121,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p121__0f374772dde9.json",
+        "review_image_url": "./data/images/2026__p121__0f374772dde9.webp"
+      },
+      {
+        "page_number": 122,
+        "source_page_number": 122,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p122__50bfe36ba926.json",
+        "review_image_url": "./data/images/2026__p122__50bfe36ba926.webp"
+      },
+      {
+        "page_number": 123,
+        "source_page_number": 123,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p123__3cc79edf2088.json",
+        "review_image_url": "./data/images/2026__p123__3cc79edf2088.webp"
+      },
+      {
+        "page_number": 124,
+        "source_page_number": 124,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p124__51f1372b765e.json",
+        "review_image_url": "./data/images/2026__p124__51f1372b765e.webp"
+      },
+      {
+        "page_number": 125,
+        "source_page_number": 125,
+        "question_count": 4,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p125__8572946e2618.json"
+      },
+      {
+        "page_number": 126,
+        "source_page_number": 126,
+        "question_count": 7,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/2026__p126__7cd0003266fe.json"
+      },
+      {
+        "page_number": 127,
+        "source_page_number": 127,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p127__7f08493616a1.json"
+      },
+      {
+        "page_number": 128,
+        "source_page_number": 128,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p128__1c957dc71fa2.json"
+      },
+      {
+        "page_number": 129,
+        "source_page_number": 129,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p129__aa52fe82466a.json"
+      },
+      {
+        "page_number": 130,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p130__fa6eb288b210.json"
+      },
+      {
+        "page_number": 131,
+        "source_page_number": 131,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p131__1a16afb1f4b9.json"
+      },
+      {
+        "page_number": 132,
+        "source_page_number": 132,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p132__83c2e4c0b2f8.json"
+      },
+      {
+        "page_number": 133,
+        "source_page_number": 133,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p133__cc21ff2f293d.json"
+      },
+      {
+        "page_number": 134,
+        "source_page_number": 134,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p134__ce27efb5ddc9.json"
+      },
+      {
+        "page_number": 135,
+        "source_page_number": 135,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p135__ff75e9aff6d2.json"
+      },
+      {
+        "page_number": 136,
+        "source_page_number": 136,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p136__cf13b94d79bc.json"
+      },
+      {
+        "page_number": 137,
+        "source_page_number": 137,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p137__eb261078966f.json"
+      },
+      {
+        "page_number": 138,
+        "source_page_number": 138,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p138__9f320b74b076.json"
+      },
+      {
+        "page_number": 139,
+        "source_page_number": 139,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p139__d47d0fe66932.json"
+      },
+      {
+        "page_number": 140,
+        "source_page_number": 140,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p140__79f42a795ba3.json"
+      },
+      {
+        "page_number": 141,
+        "source_page_number": 141,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p141__ee9dc1b4c492.json"
+      },
+      {
+        "page_number": 142,
+        "source_page_number": 142,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p142__d7ff520a84ce.json"
+      },
+      {
+        "page_number": 143,
+        "source_page_number": 143,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p143__bba0c0e54734.json"
+      },
+      {
+        "page_number": 144,
+        "source_page_number": 144,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p144__e09461e45252.json"
+      },
+      {
+        "page_number": 145,
+        "source_page_number": 145,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p145__d60d21bc2e4f.json"
+      },
+      {
+        "page_number": 146,
+        "source_page_number": 146,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p146__5b44b967fe28.json"
+      },
+      {
+        "page_number": 147,
+        "source_page_number": 147,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p147__c908a7a86116.json"
+      },
+      {
+        "page_number": 148,
+        "source_page_number": 148,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p148__a076836abe57.json"
+      },
+      {
+        "page_number": 149,
+        "source_page_number": 149,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p149__e9059ad77a6e.json"
+      },
+      {
+        "page_number": 150,
+        "source_page_number": 150,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p150__bbfc81fbfb5b.json"
+      },
+      {
+        "page_number": 151,
+        "source_page_number": 151,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p151__b03393ac0cbd.json"
+      },
+      {
+        "page_number": 152,
+        "source_page_number": 152,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p152__9aaa4cd94d80.json"
+      },
+      {
+        "page_number": 153,
+        "source_page_number": 153,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p153__5863176ca98e.json"
+      },
+      {
+        "page_number": 154,
+        "source_page_number": 154,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p154__2b2644fc87ed.json"
+      },
+      {
+        "page_number": 155,
+        "source_page_number": 155,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p155__2ccc358d8d84.json"
+      },
+      {
+        "page_number": 156,
+        "source_page_number": 156,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p156__d13be9bba555.json"
+      },
+      {
+        "page_number": 157,
+        "source_page_number": 157,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p157__ee5743ec8963.json"
+      },
+      {
+        "page_number": 158,
+        "source_page_number": 158,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p158__cc2d54af62f1.json"
+      },
+      {
+        "page_number": 159,
+        "source_page_number": 159,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p159__0c6e52d518b9.json"
+      },
+      {
+        "page_number": 160,
+        "source_page_number": 160,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p160__859e4a6bfe38.json"
+      },
+      {
+        "page_number": 161,
+        "source_page_number": 161,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p161__7112bad577cb.json"
+      },
+      {
+        "page_number": 162,
+        "source_page_number": 162,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p162__0265bbe77958.json"
+      },
+      {
+        "page_number": 163,
+        "source_page_number": 163,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p163__4399fbe79248.json"
+      },
+      {
+        "page_number": 164,
+        "source_page_number": 164,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p164__2bd83160c97f.json"
+      },
+      {
+        "page_number": 165,
+        "source_page_number": 165,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p165__2d0f049be45b.json"
+      },
+      {
+        "page_number": 166,
+        "source_page_number": 166,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p166__bbb04033aa09.json"
+      },
+      {
+        "page_number": 167,
+        "source_page_number": 167,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p167__5f2874b02c51.json"
+      },
+      {
+        "page_number": 168,
+        "source_page_number": 168,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p168__5451fbd69021.json"
+      },
+      {
+        "page_number": 169,
+        "source_page_number": 169,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p169__457c2d79c040.json"
+      },
+      {
+        "page_number": 170,
+        "source_page_number": 170,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p170__c7108b8e3192.json"
+      },
+      {
+        "page_number": 171,
+        "source_page_number": 171,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p171__ccc974035dca.json"
+      },
+      {
+        "page_number": 172,
+        "source_page_number": 172,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p172__f3b565018b76.json"
+      },
+      {
+        "page_number": 173,
+        "source_page_number": 173,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p173__983911075f0c.json"
+      },
+      {
+        "page_number": 174,
+        "source_page_number": 174,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p174__01dd050154db.json"
+      },
+      {
+        "page_number": 175,
+        "source_page_number": 175,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p175__fb504cf1d16a.json"
+      },
+      {
+        "page_number": 176,
+        "source_page_number": 176,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p176__cc16cf0872af.json"
+      },
+      {
+        "page_number": 177,
+        "source_page_number": 177,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p177__421cd19b1f94.json"
+      },
+      {
+        "page_number": 178,
+        "source_page_number": 178,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p178__8c1736c14595.json"
+      },
+      {
+        "page_number": 179,
+        "source_page_number": 179,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p179__0dee003350b1.json"
+      },
+      {
+        "page_number": 180,
+        "source_page_number": 180,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "blocked_until_ai_page_read",
+        "static_page_file": "pages/2026__p180__efa698839d0e.json"
+      }
+    ],
+    "current_index": 123,
+    "previous_page": 123,
+    "next_page": 125
+  },
+  "review_image_url": "./data/images/2026__p124__51f1372b765e.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 22
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다.",
+        "고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다.",
+        "문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+        "간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+        "영역 I(Zone I)은 가장 산소가 풍부한 영역이다.",
+        "영역 III(Zone III)은 가장 산소가 적은 영역이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "간소엽의 영어 이름은 hepatic lobule이다.",
+        "중심정맥의 영어 이름은 central vein이다.",
+        "고전간소엽의 영어 이름은 classic hepatic lobule이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "문맥소엽의 영어 이름은 portal lobule이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "간선포의 영어 이름은 hepatic acinus이다.",
+        "영역 I의 영어 이름은 Zone I이다.",
+        "영역 III의 영어 이름은 Zone III이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간문맥삼합(portal triad)",
+          "담즙(bile)",
+          "간소엽(hepatic lobule)",
+          "중심정맥(central vein)",
+          "고전간소엽(classic hepatic lobule)",
+          "담관(bile duct)",
+          "문맥소엽(portal lobule)",
+          "간세포(hepatocyte)",
+          "간선포(hepatic acinus)",
+          "영역 I(Zone I)",
+          "영역 III(Zone III)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "portal triad",
+        "혈액",
+        "bile",
+        "그림 16-18 간의 구조와 기능간의 개념",
+        "(a) 고전간소염(classic hepatic (b) 문맥소염(portal (c) 간파리hepatic acinus)",
+        "lobulel은 문맥정맥과 간동백에서 lobule)은 간세포에서 산소함량이 높은 혈액올",
+        "간정맥 또는 중심정맥으로 혈액올 쓸개관으로 쓸개중올 간세포에 공급하다:",
+        "간세동맥 중심정맥(Ccntral vcin)",
+        "(Hepatic arteriole) 'portal triad",
+        "영역Zone IIl)",
+        "쓸개관 혈액 산도포화도가 낮음",
+        "(Bile duct) '(least oxygenated)",
+        "=맵 vein) 영역IZone Il)",
+        "중심정팩 또는 간세정팩 영역I(Zone 1)",
+        "(Central 산포포화도가 높음",
+        "(or hepatic) venule) bile ^ (most oxygenated)",
+        "간의 조직학 생리학 병리학연구는 간구성체름 이해하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함광의 혈액올 강조하다: 이것은 2개 이상의 고",
+        "법으로 이해하게 되엇으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간",
+        "(a) 고전간소염(classic hepatic lobule)개넘은 간구성체에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정h다: 영",
+        "관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세도틀 지난 중심정팩 '역의 문맥주위 세포들은 더 많은 산소와 영양부올 공급발고 낮은 산소와",
+        "으로향하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 l의 중심정맥주위 간세포까지 서로 다른 대",
+        "(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소염 사활동올 보인다 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해",
+        "영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개증의 흐름올 강 가잘 된다",
+        "조한다: (Boron WF Boulpaep EL Medical Physiology: A Cellular and Molec-",
+        "ular Approach Philadelphia PA: Saunders Elsevier 2005. 제공)",
+        "(c) 간과리hepatic acinus)개넘은 국로세혈관올 따라 서로 다른 거리에"
+      ],
+      "supplemental_ocr_blocks": [
+        "배출하다 배출하다:"
+      ],
+      "corrected_page_text": "portal triad\n혈액\nbile\n그림 16-18 간의 구조와 기능간의 개념\n(a) 고전간소염(classic hepatic (b) 문맥소염(portal (c) 간파리hepatic acinus)\nlobulel은 문맥정맥과 간동백에서 lobule)은 간세포에서 산소함량이 높은 혈액올\n간정맥 또는 중심정맥으로 혈액올 쓸개관으로 쓸개중올 간세포에 공급하다:\n간세동맥 중심정맥(Ccntral vcin)\n(Hepatic arteriole) 'portal triad\n영역Zone IIl)\n쓸개관 혈액 산도포화도가 낮음\n(Bile duct) '(least oxygenated)\n=맵 vein) 영역IZone Il)\n중심정팩 또는 간세정팩 영역I(Zone 1)\n(Central 산포포화도가 높음\n(or hepatic) venule) bile ^ (most oxygenated)\n간의 조직학 생리학 병리학연구는 간구성체름 이해하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함광의 혈액올 강조하다: 이것은 2개 이상의 고\n법으로 이해하게 되엇으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간\n(a) 고전간소염(classic hepatic lobule)개넘은 간구성체에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정h다: 영\n관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세도틀 지난 중심정팩 '역의 문맥주위 세포들은 더 많은 산소와 영양부올 공급발고 낮은 산소와\n으로향하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 l의 중심정맥주위 간세포까지 서로 다른 대\n(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소염 사활동올 보인다 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해\n영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개증의 흐름올 강 가잘 된다\n조한다: (Boron WF Boulpaep EL Medical Physiology: A Cellular and Molec-\nular Approach Philadelphia PA: Saunders Elsevier 2005. 제공)\n(c) 간과리hepatic acinus)개넘은 국로세혈관올 따라 서로 다른 거리에",
+      "quality_audit": {
+        "pdf_char_count": 17,
+        "pdf_span_count": 3,
+        "pdf_word_count": 4,
+        "ocr_fragment_count": 49,
+        "pdf_line_count": 3,
+        "ocr_line_count": 24,
+        "merged_line_count": 27,
+        "pdf_only_count": 3,
+        "ocr_only_count": 24,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 3,
+        "ocr_only_line_count": 24,
+        "pdf_alpha_count": 17,
+        "ocr_alpha_count": 830,
+        "promoted_ocr_only_count": 23
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "그림 16-18 간의 구조와 기능간의 개념",
+        "(a) 고전간소염(classic hepatic (b) 문렉소염portal (c) 간b리hepatic acinus)는",
+        "lobulel은 문맥정맥과 간동백에서 lobulel은 간세포에서 산소함량이 높은 혈액올",
+        "간정팩 또는 중심정맥으로 혈액올 쓸개관으로 쓸개품올 간세모에 공급하다:",
+        "간세동맥 중심정맥(Ccntral vcin)",
+        "(Hepatic arteriole)",
+        "영역IZone Ill)",
+        "쓸개관 산도포화도가 낮음",
+        "(Bile duct) (least oxygenated)",
+        "속맵 vein) 영역I(Zone Il)",
+        "중심정팩 또는 간세정맥 영역I(Zone I)",
+        "(Central 산포포화도가 높음",
+        "(or hepatic) venule) (most oxygenated)",
+        "간의 조직학 생리학; 병리학연구는 간구성체률 이하하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함량의 혈액올 강조한다 이것은 2개 이상의 고",
+        "법으로 이해하게 되없으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간",
+        "(a) 고전간소염classic hepatic lobule)개념은 간구성제에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정되다: 영",
+        "관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세포틀 지난 중심정맥 역의 문맥주위 세포들은 더 많은 사소와 영양부올 공급발고 낮은 사소와",
+        "으로항하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 I의 중심정맥주위 간세포까지 서로 다른 대",
+        "(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소업 사활동올 보인다: 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해",
+        "영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개중의 흐름올 강 가잘 된다:",
+        "조한다: (Boron WF; Boulpaep EL Medical Physiology: A Cellular and Molec-",
+        "ular Approach Philadelphia; PA: Saunders Elsevier 2005. 제공)",
+        "(c) 간b리hepatic acinus)개넘은 물로세혈관올 따라 서로 다른 거리에"
+      ],
+      "supplemental_ocr_blocks": [
+        "배출하다: 배출하다;"
+      ],
+      "corrected_page_text": "그림 16-18 간의 구조와 기능간의 개념\n(a) 고전간소염(classic hepatic (b) 문렉소염portal (c) 간b리hepatic acinus)는\nlobulel은 문맥정맥과 간동백에서 lobulel은 간세포에서 산소함량이 높은 혈액올\n간정팩 또는 중심정맥으로 혈액올 쓸개관으로 쓸개품올 간세모에 공급하다:\n간세동맥 중심정맥(Ccntral vcin)\n(Hepatic arteriole)\n영역IZone Ill)\n쓸개관 산도포화도가 낮음\n(Bile duct) (least oxygenated)\n속맵 vein) 영역I(Zone Il)\n중심정팩 또는 간세정맥 영역I(Zone I)\n(Central 산포포화도가 높음\n(or hepatic) venule) (most oxygenated)\n간의 조직학 생리학; 병리학연구는 간구성체률 이하하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함량의 혈액올 강조한다 이것은 2개 이상의 고\n법으로 이해하게 되없으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간\n(a) 고전간소염classic hepatic lobule)개념은 간구성제에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정되다: 영\n관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세포틀 지난 중심정맥 역의 문맥주위 세포들은 더 많은 사소와 영양부올 공급발고 낮은 사소와\n으로항하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 I의 중심정맥주위 간세포까지 서로 다른 대\n(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소업 사활동올 보인다: 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해\n영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개중의 흐름올 강 가잘 된다:\n조한다: (Boron WF; Boulpaep EL Medical Physiology: A Cellular and Molec-\nular Approach Philadelphia; PA: Saunders Elsevier 2005. 제공)\n(c) 간b리hepatic acinus)개넘은 물로세혈관올 따라 서로 다른 거리에",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 46,
+        "pdf_line_count": 0,
+        "ocr_line_count": 24,
+        "merged_line_count": 24,
+        "pdf_only_count": 0,
+        "ocr_only_count": 24,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 24,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 818,
+        "promoted_ocr_only_count": 23
+      }
+    }
+  }
+}

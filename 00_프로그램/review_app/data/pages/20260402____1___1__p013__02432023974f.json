@@ -1,0 +1,893 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 13
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_001"
+      ],
+      "prompt": "배곧은근(rectus abdominis)은 _____을 방지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허리앞굽음(lordosis)",
+        "accepted_answers": [
+          "허리앞굽음(lordosis)",
+          "lordosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허리앞굽음(lordosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은근(rectus abdominis)은 허리앞굽음(lordosis)을 방지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_002"
+      ],
+      "prompt": "배곧은근(rectus abdominis)은 골반(pelvis)과 _____를 굽힌다.",
+      "answer": {
+        "format": "single_text",
+        "value": "척주(vertebral column)",
+        "accepted_answers": [
+          "척주(vertebral column)",
+          "vertebralcolumn",
+          "vertebral column"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "척주(vertebral column)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배곧은근(rectus abdominis)은 골반(pelvis)과 척주(vertebral column)를 굽힌다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_005"
+      ],
+      "prompt": "_____의 이는곳은 아래쪽 8개 갈비뼈(rib) 바깥면이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배바깥빗근(external abdominal oblique muscle)",
+        "accepted_answers": [
+          "배바깥빗근(external abdominal oblique muscle)",
+          "externalabdominalobliquemuscle",
+          "external abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배바깥빗근(external abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배바깥빗근(external abdominal oblique muscle)의 이는곳은 아래쪽 8개 갈비뼈(ribs) 바깥면이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_006"
+      ],
+      "prompt": "_____의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배속빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "배속빗근(internal abdominal oblique muscle)",
+          "internalabdominalobliquemuscle",
+          "internal abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배속빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_006"
+      ],
+      "prompt": "배속빗근(internal abdominal oblique muscle)의 이는곳에는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "등허리근막(thoracolumbar fascia)",
+        "accepted_answers": [
+          "등허리근막(thoracolumbar fascia)",
+          "thoracolumbarfascia",
+          "thoracolumbar fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "등허리근막(thoracolumbar fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_007"
+      ],
+      "prompt": "_____의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배속빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "배속빗근(internal abdominal oblique muscle)",
+          "internalabdominalobliquemuscle",
+          "internal abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배속빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_007"
+      ],
+      "prompt": "배속빗근(internal abdominal oblique muscle)의 이는곳에는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩뼈능선(iliac crest)",
+        "accepted_answers": [
+          "엉덩뼈능선(iliac crest)",
+          "iliaccrest",
+          "iliac crest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩뼈능선(iliac crest)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_008"
+      ],
+      "prompt": "_____의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배속빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "배속빗근(internal abdominal oblique muscle)",
+          "internalabdominalobliquemuscle",
+          "internal abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배속빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_008_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_008"
+      ],
+      "prompt": "배속빗근(internal abdominal oblique muscle)의 이는곳에는 _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinalligament",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배속빗근(internal abdominal oblique muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_009"
+      ],
+      "prompt": "배가로근(transversus abdominis muscle)의 이는곳에는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비연골(costal cartilage)",
+        "accepted_answers": [
+          "갈비연골(costal cartilage)",
+          "costalcartilage",
+          "costal cartilage"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비연골(costal cartilage)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 갈비연골(costal cartilage)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_010"
+      ],
+      "prompt": "배가로근(transversus abdominis muscle)의 이는곳에는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "등허리근막(thoracolumbar fascia)",
+        "accepted_answers": [
+          "등허리근막(thoracolumbar fascia)",
+          "thoracolumbarfascia",
+          "thoracolumbar fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "등허리근막(thoracolumbar fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_011_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_011"
+      ],
+      "prompt": "배가로근(transversus abdominis muscle)의 이는곳에는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩뼈능선(iliac crest)",
+        "accepted_answers": [
+          "엉덩뼈능선(iliac crest)",
+          "iliaccrest",
+          "iliac crest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩뼈능선(iliac crest)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_012_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_012"
+      ],
+      "prompt": "배가로근(transversus abdominis muscle)의 이는곳에는 _____가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinalligament",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근(transversus abdominis muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_019"
+      ],
+      "prompt": "_____은 백색선(linea alba)을 당긴다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배세모근(pyramidalis muscle)",
+        "accepted_answers": [
+          "배세모근(pyramidalis muscle)",
+          "pyramidalismuscle",
+          "pyramidalis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배세모근(pyramidalis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배세모근(pyramidalis muscle)은 백색선(linea alba)을 당긴다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_course_019_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_013_course_019"
+      ],
+      "prompt": "배세모근(pyramidalis muscle)은 _____을 당긴다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "lineaalba",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배세모근(pyramidalis muscle)은 백색선(linea alba)을 당긴다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p013_course_배_필기본_013_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_001"
+      ],
+      "prompt": "배곧은근(rectus abdominis muscle)은 _____을 방지하는 데 도움을 준다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허리앞굽음(lordosis)",
+        "accepted_answers": [
+          "허리앞굽음(lordosis)",
+          "lordosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허리앞굽음(lordosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배곧은근(rectus abdominis muscle)은 허리앞굽음(lordosis)을 방지하는 데 도움을 준다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 16,
+    "question_type_count": {
+      "fill_blank": 16
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 15,
+      "course_exam_style": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 12,
+    "previous_page": 12,
+    "next_page": 14
+  },
+  "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 13
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배곧은근(rectus abdominis)은 허리앞굽음(lordosis)을 방지한다.",
+        "배곧은근(rectus abdominis)은 골반(pelvis)과 척주(vertebral column)를 굽힌다.",
+        "배바깥빗근(external abdominal oblique muscle)의 이는곳은 아래쪽 8개 갈비뼈(ribs) 바깥면이다.",
+        "배속빗근(internal abdominal oblique muscle)의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다.",
+        "배속빗근(internal abdominal oblique muscle)의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다.",
+        "배속빗근(internal abdominal oblique muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+        "배가로근(transversus abdominis muscle)의 이는곳에는 갈비연골(costal cartilage)이 포함된다.",
+        "배가로근(transversus abdominis muscle)의 이는곳에는 등허리근막(thoracolumbar fascia)이 포함된다.",
+        "배가로근(transversus abdominis muscle)의 이는곳에는 엉덩뼈능선(iliac crest)이 포함된다.",
+        "배가로근(transversus abdominis muscle)의 이는곳에는 고샅인대(inguinal ligament)가 포함된다.",
+        "세 편평근인 배바깥빗근(external abdominal oblique muscle), 배속빗근(internal abdominal oblique muscle), 배가로근(transversus abdominis muscle)은 배를 누르고 내장을 보호하며 강하게 숨을 내쉴 때 작용한다.",
+        "배바깥빗근(external abdominal oblique muscle)은 배를 누른다.",
+        "배속빗근(internal abdominal oblique muscle)은 내장을 보호한다.",
+        "배가로근(transversus abdominis muscle)은 강하게 숨을 내쉴 때 작용한다.",
+        "배세모근(pyramidalis muscle)은 백색선(linea alba)을 당긴다.",
+        "샅(perineum)은 골반(pelvis) 아래에 위치한다.",
+        "배곧은근(rectus abdominis muscle)은 허리앞굽음(lordosis)을 방지하는 데 도움을 준다.",
+        "허리앞굽음의 영어 이름은 lordosis이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "위의 영어 이름은 stomach이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "간의 영어 이름은 liver이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "엉덩아랫배신경의 영어 이름은 iliohypogastric nerve이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "갈비연골의 영어 이름은 costal cartilage이다.",
+        "복장뼈의 영어 이름은 sternum이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "피라미드근의 영어 이름은 pyramidalis이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "엉덩뼈능선의 영어 이름은 iliac crest이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "편평근의 영어 이름은 flat muscles이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "사래쪽 8개 갈비뼈 가지 내장올 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "(엉덩빼능선 앞쪽 2/3 | 백색선 내장올 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "능허리근막 중간층 백색선 앞가지 내장올 보호",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 13,
+          "text": "근육 이논곳 당는곳 신경지배 작용",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 38,
+          "text": "세 편평근 포함한다 배바깥빗근(external abdominal oblique muscle), 배속빗근(internal abdominal oblique muscle), 배가로근(transversus abdominis muscle)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 11,
+          "text": "배곧은근 두명결합 갈돌기 아래쪽 6개 갈비사이신경 | 강하계 숨올 내설 때",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "(external abdominal 백색선",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "등허리근막 아래쪽 3개 갈비연골 배름 누름",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "배세모근 두명결합 다른 근육과 함께 작",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "(pyramidalis m) 두딩빼능선 용하여 배안의 압력",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "배곧은근(rectus abdominis muscle)은 골반(pelvis)과 척주(vertebral column)를 굽힌다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "배곧은근(rectus abdominis muscle)은 복장뼈를 골반 쪽으로 당기는 방향으로 작용한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "배곧은근(rectus abdominis muscle) 굽힌다 골반(pelvis)과 척주(vertebral column)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 32,
+        "accounted_term_count": 32,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "바깥배빗근(external abdominal oblique muscle)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "등허리근막(thoracolumbar fascia)",
+          "배가로근(transversus abdominis muscle)",
+          "배곧은근(rectus abdominis muscle)",
+          "골반(pelvis)",
+          "척주(vertebral column)",
+          "허리앞굽음(lordosis)",
+          "배세모근(pyramidalis muscle)",
+          "백색선(linea alba)",
+          "갈비뼈(rib)",
+          "신경(nerves)",
+          "위(stomach)",
+          "간(liver)",
+          "배(abdominal region)",
+          "엉덩아랫배신경(iliohypogastric nerve)",
+          "배곧은근(rectus abdominis)",
+          "근육(muscles)",
+          "가슴(thorax)",
+          "바깥빗근(external oblique muscle)",
+          "갈비연골(costal cartilage)",
+          "복장뼈(sternum)",
+          "배안(abdominal cavity)",
+          "피라미드근(pyramidalis)",
+          "샅(perineum)",
+          "속빗근(internal oblique muscle)",
+          "고샅인대(inguinal ligament)",
+          "엉덩뼈능선(iliac crest)",
+          "편평근(flat muscles)",
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "내장(viscera)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "lordosis 방지",
+        "근육 이논곳 당는곳 신경지배 작용",
+        "아래쪽 6개 가슴신경 앞 | 배름 누름",
+        "배바깥빗근 의 바깥능선",
+        "사래쪽 8개 갈비뼈 가지 내장올 보호",
+        "(external abdominal 백색선",
+        "바깥면 위쪽 2개 허리신경 앞가 | |강하게 숨올 내술 때",
+        "oblique m) 두명뼈능선",
+        "아래쪽 6개 가슴신경 앞",
+        "등허리근막 아래쪽 3개 갈비연골 배름 누름",
+        "(엉덩빼능선 앞쪽 2/3 | 백색선 내장올 보호",
+        "(internal abdominal 첫째허리신경 앞가지",
+        "의의 중간능선 두명뼈능선 강하게 숨올 내실 때",
+        "oblique m) 엉덩아랫배신경",
+        "'고살인대 가족 2/3 두명뼈넷 작용",
+        "아래쪽 6개 갈비연",
+        "(골 속면 아래쪽 6개 갈비사이신경 | |름 누름",
+        "능허리근막 중간층 백색선 앞가지 내장올 보호",
+        "(transvcrsus abdom-",
+        "성덩빼능선 앞쪽 2/3 | 두명 빼능선 엉덩아랫배신경 강하게 숨올 내실 /",
+        "'의 속능선 엉덩고살신경 작하",
+        "배곧은근 두명결합 갈돌기 아래쪽 6개 갈비사이신경 | 강하계 숨올 내설 때",
+        "(rcctus abdominis | 두딩뼈결절 다섯~일급께갈비연 | 앞가지 작용",
+        "m) 두명 빼능선 골 엉덩아랫배신경 골반과 척주름 급힘 lordosis 방지",
+        "복장뼈름 골반 쪽으",
+        "배세모근 두명결합 다른 근육과 함께 작",
+        "(pyramidalis m) 두딩빼능선 용하여 배안의 압력"
+      ],
+      "supplemental_ocr_blocks": [
+        "엉덩뼈능선 앞쪽 1/2",
+        "지 (작용",
+        "두명뼈결절",
+        "배속빗근 가지",
+        "배가로근",
+        "inis)",
+        "고살인대 가족 1/3",
+        "배름 누름",
+        "내장올 보호",
+        "엉덩고살신경",
+        "로 당김",
+        "백색선올 당김",
+        "백색선 갈비믿신경",
+        "올 올림"
+      ],
+      "corrected_page_text": "lordosis 방지\n근육 이논곳 당는곳 신경지배 작용\n아래쪽 6개 가슴신경 앞 | 배름 누름\n배바깥빗근 의 바깥능선\n사래쪽 8개 갈비뼈 가지 내장올 보호\n(external abdominal 백색선\n바깥면 위쪽 2개 허리신경 앞가 | |강하게 숨올 내술 때\noblique m) 두명뼈능선\n아래쪽 6개 가슴신경 앞\n등허리근막 아래쪽 3개 갈비연골 배름 누름\n(엉덩빼능선 앞쪽 2/3 | 백색선 내장올 보호\n(internal abdominal 첫째허리신경 앞가지\n의의 중간능선 두명뼈능선 강하게 숨올 내실 때\noblique m) 엉덩아랫배신경\n'고살인대 가족 2/3 두명뼈넷 작용\n아래쪽 6개 갈비연\n(골 속면 아래쪽 6개 갈비사이신경 | |름 누름\n능허리근막 중간층 백색선 앞가지 내장올 보호\n(transvcrsus abdom-\n성덩빼능선 앞쪽 2/3 | 두명 빼능선 엉덩아랫배신경 강하게 숨올 내실 /\n'의 속능선 엉덩고살신경 작하\n배곧은근 두명결합 갈돌기 아래쪽 6개 갈비사이신경 | 강하계 숨올 내설 때\n(rcctus abdominis | 두딩뼈결절 다섯~일급께갈비연 | 앞가지 작용\nm) 두명 빼능선 골 엉덩아랫배신경 골반과 척주름 급힘 lordosis 방지\n복장뼈름 골반 쪽으\n배세모근 두명결합 다른 근육과 함께 작\n(pyramidalis m) 두딩빼능선 용하여 배안의 압력",
+      "quality_audit": {
+        "pdf_char_count": 10,
+        "pdf_span_count": 3,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 86,
+        "pdf_line_count": 1,
+        "ocr_line_count": 41,
+        "merged_line_count": 41,
+        "pdf_only_count": 0,
+        "ocr_only_count": 40,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 40,
+        "pdf_alpha_count": 10,
+        "ocr_alpha_count": 526,
+        "promoted_ocr_only_count": 26
+      }
+    }
+  }
+}

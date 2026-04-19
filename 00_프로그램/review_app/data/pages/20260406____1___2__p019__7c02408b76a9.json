@@ -1,0 +1,1341 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 19
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_001"
+      ],
+      "prompt": "_____는 난자를 뚫는 효소를 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "첨체(acrosome)",
+        "accepted_answers": [
+          "첨체(acrosome)",
+          "acrosome"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "첨체(acrosome)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 첨체(acrosome)는 난자를 뚫는 효소를 포함한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_002"
+      ],
+      "prompt": "_____는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "머리(head)",
+        "accepted_answers": [
+          "머리(head)",
+          "head"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "머리(head)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_002"
+      ],
+      "prompt": "머리(head)는 핵(nucleus)과 _____로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "첨체-첨체판복합체(acrosome-acroplaxome complex)",
+        "accepted_answers": [
+          "첨체-첨체판복합체(acrosome-acroplaxome complex)",
+          "acrosome-acroplaxome complex"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "첨체-첨체판복합체(acrosome-acroplaxome complex)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_002"
+      ],
+      "prompt": "머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 _____으로 둘러싸인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "세포막(plasma membrane)",
+        "accepted_answers": [
+          "세포막(plasma membrane)",
+          "plasma membrane"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "세포막(plasma membrane)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_003"
+      ],
+      "prompt": "_____-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "머리(head)",
+        "accepted_answers": [
+          "머리(head)",
+          "head"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "머리(head)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_003"
+      ],
+      "prompt": "머리(head)-꼬리 연결장치(head-tail coupling apparatus)에는 _____과 축사를 만드는 원위중심립(distal centriole)이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근위중심립(proximal centriole)",
+        "accepted_answers": [
+          "근위중심립(proximal centriole)",
+          "proximal centriole"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근위중심립(proximal centriole)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_003"
+      ],
+      "prompt": "머리(head)-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 _____이 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "원위중심립(distal centriole)",
+        "accepted_answers": [
+          "원위중심립(distal centriole)",
+          "distal centriole"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "원위중심립(distal centriole)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_004"
+      ],
+      "prompt": "_____은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간부분(middle piece)",
+        "accepted_answers": [
+          "중간부분(middle piece)",
+          "middle piece"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간부분(middle piece)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 중간부분(middle piece)은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_004"
+      ],
+      "prompt": "중간부분(middle piece)은 머리에서 시작하여 _____이 끝나는 지점까지 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "미토콘드리아집(mitochondrial sheath)",
+        "accepted_answers": [
+          "미토콘드리아집(mitochondrial sheath)",
+          "mitochondrial sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "미토콘드리아집(mitochondrial sheath)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 중간부분(middle piece)은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_005"
+      ],
+      "prompt": "_____는 미토콘드리아집(mitochondrial sheath)의 마지막 회전 바로 아래에 있는 치밀한 고리(annulus)로, 중간부분(middle piece)이 주부분(principal piece)으로 바뀌는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고리(annulus)",
+        "accepted_answers": [
+          "고리(annulus)",
+          "annulus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고리(annulus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_005"
+      ],
+      "prompt": "고리(annulus)는 _____의 마지막 회전 바로 아래에 있는 치밀한 고리(annulus)로, 중간부분(middle piece)이 주부분(principal piece)으로 바뀌는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "미토콘드리아집(mitochondrial sheath)",
+        "accepted_answers": [
+          "미토콘드리아집(mitochondrial sheath)",
+          "mitochondrial sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "미토콘드리아집(mitochondrial sheath)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_005_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_005"
+      ],
+      "prompt": "고리(annulus)는 미토콘드리아집(mitochondrial sheath)의 마지막 회전 바로 아래에 있는 치밀한 _____로, 중간부분(middle piece)이 주부분(principal piece)으로 바뀌는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고리(annulus)",
+        "accepted_answers": [
+          "고리(annulus)",
+          "annulus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고리(annulus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_005_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_005"
+      ],
+      "prompt": "고리(annulus)는 미토콘드리아집(mitochondrial sheath)의 마지막 회전 바로 아래에 있는 치밀한 고리(annulus)로, _____이 주부분(principal piece)으로 바뀌는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간부분(middle piece)",
+        "accepted_answers": [
+          "중간부분(middle piece)",
+          "middle piece"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간부분(middle piece)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_005_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_005"
+      ],
+      "prompt": "고리(annulus)는 미토콘드리아집(mitochondrial sheath)의 마지막 회전 바로 아래에 있는 치밀한 고리(annulus)로, 중간부분(middle piece)이 _____으로 바뀌는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주부분(principal piece)",
+        "accepted_answers": [
+          "주부분(principal piece)",
+          "principal piece"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주부분(principal piece)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_006"
+      ],
+      "prompt": "_____은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사(axoneme)를 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주부분(principal piece)",
+        "accepted_answers": [
+          "주부분(principal piece)",
+          "principal piece"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주부분(principal piece)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사를 포함한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_course_배_필기본_019_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_019_ai_corrected_006"
+      ],
+      "prompt": "주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 _____를 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "축사(axoneme)",
+        "accepted_answers": [
+          "축사(axoneme)",
+          "axoneme"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "축사(axoneme)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사를 포함한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "머리(head)을 둘러싸는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "세포막(plasma membrane)",
+        "accepted_answers": [
+          "세포막(plasma membrane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "세포막(plasma membrane)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 머리(head) / predicate: enclosed_by / object: 세포막(plasma membrane)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "근위중심립(proximal centriole)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "머리-꼬리연결장치(head-tail coupling apparatus)",
+        "accepted_answers": [
+          "머리-꼬리연결장치(head-tail coupling apparatus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "머리-꼬리연결장치(head-tail coupling apparatus)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 머리-꼬리연결장치(head-tail coupling apparatus) / predicate: contains / object: 근위중심립(proximal centriole)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "원위중심립(distal centriole)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "머리-꼬리연결장치(head-tail coupling apparatus)",
+        "accepted_answers": [
+          "머리-꼬리연결장치(head-tail coupling apparatus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "머리-꼬리연결장치(head-tail coupling apparatus)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 머리-꼬리연결장치(head-tail coupling apparatus) / predicate: contains / object: 원위중심립(distal centriole)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "축사(axoneme)를 형성하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "원위중심립(distal centriole)",
+        "accepted_answers": [
+          "원위중심립(distal centriole)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "원위중심립(distal centriole)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 원위중심립(distal centriole) / predicate: forms / object: 축사(axoneme)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "중간부분(middle piece)을 둘러싸는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "미토콘드리아집(mitochondrial sheath)",
+        "accepted_answers": [
+          "미토콘드리아집(mitochondrial sheath)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "미토콘드리아집(mitochondrial sheath)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 중간부분(middle piece) / predicate: enclosed_by / object: 미토콘드리아집(mitochondrial sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "9+2 미세소관 축사(9+2 microtubular axoneme)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간부분(middle piece)",
+        "accepted_answers": [
+          "중간부분(middle piece)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간부분(middle piece)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 중간부분(middle piece) / predicate: contains / object: 9+2 미세소관 축사(9+2 microtubular axoneme)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_009_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "바깥치밀섬유(outer dense fibers)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간부분(middle piece)",
+        "accepted_answers": [
+          "중간부분(middle piece)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간부분(middle piece)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_009"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_009"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 중간부분(middle piece) / predicate: contains / object: 바깥치밀섬유(outer dense fibers)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_011_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "섬유집(fibrous sheath)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주부분(principal piece)",
+        "accepted_answers": [
+          "주부분(principal piece)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주부분(principal piece)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_011"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_011"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 주부분(principal piece) / predicate: contains / object: 섬유집(fibrous sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_012_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "미토콘드리아집(mitochondrial sheath)가 없는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "주부분(principal piece)",
+        "accepted_answers": [
+          "주부분(principal piece)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "주부분(principal piece)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_012"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_012"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 주부분(principal piece) / predicate: lacks / object: 미토콘드리아집(mitochondrial sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_013_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "섬유집(fibrous sheath)가 없는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "끝부분(end piece)",
+        "accepted_answers": [
+          "끝부분(end piece)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "끝부분(end piece)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_013"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_013"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 끝부분(end piece) / predicate: lacks / object: 섬유집(fibrous sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p019_visual_visual_relation_014_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "끝부분(end piece)을 둘러싸는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "세포막(plasma membrane)",
+        "accepted_answers": [
+          "세포막(plasma membrane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "세포막(plasma membrane)",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_014"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p019_ai_page_read::rel_014"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 회상하는 빈칸문제다.",
+        "full": "subject: 끝부분(end piece) / predicate: enclosed_by / object: 세포막(plasma membrane)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 27,
+    "question_type_count": {
+      "fill_blank": 16,
+      "image_grounded_fill_blank": 11
+    },
+    "question_focus_count": {
+      "course_exam_style": 16,
+      "visual_relation_understanding": 11
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json",
+        "review_image_url": "./data/images/20260406____1___2__p010__ed284d878b85.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json",
+        "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json",
+        "review_image_url": "./data/images/20260406____1___2__p012__a83a57b19eaa.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json",
+        "review_image_url": "./data/images/20260406____1___2__p013__e55fd5c955c7.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json",
+        "review_image_url": "./data/images/20260406____1___2__p014__e878c085ff03.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json",
+        "review_image_url": "./data/images/20260406____1___2__p015__fe3349b2ee43.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json",
+        "review_image_url": "./data/images/20260406____1___2__p016__3eb28b9b950d.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json",
+        "review_image_url": "./data/images/20260406____1___2__p017__c7a9aeaf3d39.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json",
+        "review_image_url": "./data/images/20260406____1___2__p018__ebbe62eb3cd8.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json",
+        "review_image_url": "./data/images/20260406____1___2__p019__7c02408b76a9.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 18,
+    "previous_page": 18,
+    "next_page": 20
+  },
+  "review_image_url": "./data/images/20260406____1___2__p019__7c02408b76a9.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 19
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "첨체(acrosome)는 난자를 뚫는 효소를 포함한다.",
+        "머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다.",
+        "머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다.",
+        "중간부분(middle piece)은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다.",
+        "고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다.",
+        "주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사를 포함한다.",
+        "머리의 영어 이름은 head이다.",
+        "머리-꼬리 연결장치의 영어 이름은 head-tail coupling apparatus이다.",
+        "세포막의 영어 이름은 plasma membrane이다.",
+        "정자의 영어 이름은 sperm이다.",
+        "원위중심립의 영어 이름은 distal centriole이다.",
+        "축사의 영어 이름은 axoneme이다.",
+        "핵의 영어 이름은 nucleus이다.",
+        "위의 영어 이름은 stomach이다.",
+        "중간부분의 영어 이름은 middle piece이다.",
+        "첨체의 영어 이름은 acrosome이다.",
+        "미토콘드리아집의 영어 이름은 mitochondrial sheath이다.",
+        "주부분의 영어 이름은 principal piece이다.",
+        "끝부분의 영어 이름은 end piece이다.",
+        "고리의 영어 이름은 annulus이다.",
+        "첨체-첨체판복합체의 영어 이름은 acrosome-acroplaxome complex이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "근위중심립의 영어 이름은 proximal centriole이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 43,
+          "text": "첨체(acrosome)는 난자를 뚫는 효소를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 45,
+          "text": "머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 50,
+          "text": "주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 52,
+          "text": "첨체(acrosome)는 난자를 뚫는 효소를 포함한다. 머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다. 머리-꼬리 연결장치(head-tail coupling apparatus)에는 근위중심립(proximal centriole)과 축사를 만드는 원위중심립(distal centriole)이 포함된다. 중간부분(middle piece)은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다. 중간부분(middle piece)의 중심에는 9+2 미세소관 축사(9+2 microtubular axoneme)가 있고, 그 둘레에는 9개의 바깥치밀섬유(outer dense fibers)가 있다. 중간부분(middle piece)은 미토콘드리아집(mitochondrial sheath)으로 둘러싸이며, 미토콘드리아집은 운동에 필요한 에너지를 공급한다. 고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다. 주부분(principal piece)은 고리(annulus) 아래로 이어지며, 미토콘드리아집은 없고 섬유집(fibrous sheath), 두 개의 세로기둥(longitudinal columns), 일곱 개의 바깥치밀섬유, 중심 축사를 포함한다. 끝부분(end piece)은 9+2 축사만 남고 섬유집(fibrous sheath)은 없으며, 세포막(plasma membrane)으로만 둘러싸인 말단부이다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 53,
+          "text": "필기본 페이지로, 정자(sperm)의 머리(head), 머리-꼬리 연결장치(head-tail coupling apparatus), 중간부분(middle piece), 주부분(principal piece), 끝부분(end piece)의 구조와 기능을 한 장에 정리한 그림이다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 57,
+          "text": "머리-꼬리 연결장치(head-tail coupling apparatus) contains 근위중심립(proximal centriole)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 58,
+          "text": "머리-꼬리 연결장치(head-tail coupling apparatus) contains 원위중심립(distal centriole)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "The head-tail coupling apparatus (develeping The head consists of two Plasma membrane Microtubules of",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "lieodomneol 앞부분물 덮고 앞움 distal centriole that generates the axoneme The sperm head is surrounded tya",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "acrosome은 분해름 소홀 가지고 있어 수정 시 도움 여할 Nucleus plasma membrane.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "[middle piece] [Head",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "중앙 : 9+2 구조의 axonerne Acrosome",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "(1상의 central rnicrotubule + 9쌍의 peripheral doublet) Proximal Nucleus",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "M[principal piece] Axoneme apparatus tail extends trom the head to the end",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "mitochondrial sheath는 없음 [End piece Middle piece mitochondrial sheath The9 + 2",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "'바깥쪽은 f brous로 되어있는 fibrous sheath 으로 물러생안Plasma membrane 'Mtochondrial",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "중앙 : 9+2 axoneme만 존재 mitochondrial helical sheath and tne",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "ofthe fibrous sheath exlending beyond the annulus lacks",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "spermatid) comprises tne proximmal centriole components: (1) the nucleus and (2) the axoneme",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "allached to the nucleus (implantation fossa) and the the acrosome-acroplaxome complex helix",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "centriole [Head-tail coupling The middle piece o the sperm",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "The end piece includes S Principal piece",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "Concentric ribs The principal piece,",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "fiber (1) concentrically oriented ribs o",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "tnhe fibrous sheath anchoredto to",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "outer dense fibers; and (3) tne Principal piece 이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "dense fibers, circumferential ribs, The annulus, a dense ring subjacent",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "Longitudinal thinner and disappear a short isthe ste where the middle piece changes",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "Plasma membrane column ofthe distance trom the tip (the end piece intothe principal piece Septin 4 is a",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "머리(head)는 핵(nucleus)과 첨체-첨체판복합체(acrosome-acroplaxome complex)로 구성되며, 바깥은 세포막(plasma membrane)으로 둘러싸인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 46,
+          "text": "중간부분(middle piece)은 머리에서 시작하여 미토콘드리아집(mitochondrial sheath)이 끝나는 지점까지 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 47,
+          "text": "중간부분(middle piece)의 중심에는 9+2 미세소관 축사(9+2 microtubular axoneme)가 있고, 그 둘레에는 9개의 바깥치밀섬유(outer dense fibers)가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 48,
+          "text": "중간부분(middle piece)은 미토콘드리아집(mitochondrial sheath)으로 둘러싸이며, 미토콘드리아집은 운동에 필요한 에너지를 공급한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 49,
+          "text": "고리(annulus)는 미토콘드리아집의 마지막 회전 바로 아래에 있는 치밀한 고리로, 중간부분이 주부분으로 바뀌는 경계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 51,
+          "text": "끝부분(end piece)은 9+2 축사만 남고 섬유집(fibrous sheath)은 없으며, 세포막(plasma membrane)으로만 둘러싸인 말단부이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 54,
+          "text": "머리(head) consists_of 핵(nucleus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 55,
+          "text": "머리(head) consists_of 첨체-첨체판복합체(acrosome-acroplaxome complex)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 56,
+          "text": "머리(head) enclosed_by 세포막(plasma membrane)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 59,
+          "text": "원위중심립(distal centriole) forms 축사(axoneme)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 60,
+          "text": "중간부분(middle piece) enclosed_by 미토콘드리아집(mitochondrial sheath)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 61,
+          "text": "중간부분(middle piece) contains 9+2 미세소관 축사(9+2 microtubular axoneme)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 62,
+          "text": "중간부분(middle piece) contains 바깥치밀섬유(outer dense fibers)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 63,
+          "text": "고리(annulus) marks_transition_to 주부분(principal piece)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 64,
+          "text": "주부분(principal piece) contains 섬유집(fibrous sheath)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 65,
+          "text": "주부분(principal piece) lacks 미토콘드리아집(mitochondrial sheath)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 66,
+          "text": "끝부분(end piece) lacks 섬유집(fibrous sheath)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 67,
+          "text": "끝부분(end piece) enclosed_by 세포막(plasma membrane)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 24,
+        "accounted_term_count": 19,
+        "unresolved_term_count": 5,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.792,
+        "accounted_terms": [
+          "첨체(acrosome)",
+          "머리(head)",
+          "핵(nucleus)",
+          "첨체-첨체판복합체(acrosome-acroplaxome complex)",
+          "머리-꼬리 연결장치(head-tail coupling apparatus)",
+          "근위중심립(proximal centriole)",
+          "중간부분(middle piece)",
+          "미토콘드리아집(mitochondrial sheath)",
+          "고리(annulus)",
+          "주부분(principal piece)",
+          "끝부분(end piece)",
+          "축사만남고섬유집(fibrous sheath)",
+          "세포막(plasma membrane)",
+          "정자(sperm)",
+          "원위중심립(distal centriole)",
+          "축사(axoneme)",
+          "위(stomach)",
+          "갈비뼈(rib)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [
+          "2(the nucleus and)",
+          "1(fiber)",
+          "3(and)",
+          "미세소관축사(2 microtubular axoneme)",
+          "9개의바깥치밀섬유(outer dense fibers)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Sperm (Spermatozoon)",
+        "The head-tail coupling apparatus (develeping The head consists of two Plasma membrane Microtubules of",
+        "spermatid) comprises tne proximmal centriole components: (1) the nucleus and (2) the axoneme",
+        "allached to the nucleus (implantation fossa) and the the acrosome-acroplaxome complex helix",
+        "lieodomneol 앞부분물 덮고 앞움 distal centriole that generates the axoneme The sperm head is surrounded tya",
+        "acrosome은 분해름 소홀 가지고 있어 수정 시 도움 여할 Nucleus plasma membrane.",
+        "flagellurn 부위 Implantation Plasma membrane",
+        "[middle piece] [Head",
+        "중앙 : 9+2 구조의 axonerne Acrosome",
+        "(1상의 central rnicrotubule + 9쌍의 peripheral doublet) Proximal Nucleus",
+        "주번에 outer dense fiber 9개 버엽 cenlriole",
+        "mitochondrial sheath 형성 (mnitochondrial helix라고두 표현) Outer dense",
+        "에너지 공급히 고 운동에 기여 fbers (a totalot 9)",
+        "가장 바깥은 plasma membrane Distal",
+        "centriole [Head-tail coupling The middle piece o the sperm",
+        "M[principal piece] Axoneme apparatus tail extends trom the head to the end",
+        "중앙: 9+2 axonerne ofthe helically arranged",
+        "mitochondrial sheath는 없음 [End piece Middle piece mitochondrial sheath The9 + 2",
+        "'바깥쪽은 f brous로 되어있는 fibrous sheath 으로 물러생안Plasma membrane 'Mtochondrial",
+        "helix mnicrotubular axoneme cccupies the",
+        "#[end piece] 예너지 제공 center oflhetail Between the",
+        "중앙 : 9+2 axoneme만 존재 mitochondrial helical sheath and tne",
+        "'바깥쪽 plasma mernbrane만으로 구성원 단순한 구조 axonemo are nine outer dense",
+        "The end piece includes S Principal piece",
+        "the9 + 2 microtubular",
+        "axoneme; surtounded only",
+        "bythe plasma membrane.",
+        "Concentric ribs The principal piece,",
+        "ofthe fibrous sheath exlending beyond the annulus lacks",
+        "'mitochondnal helix k consists of",
+        "'Outer dense",
+        "fiber (1) concentrically oriented ribs o",
+        "tnhe fibrous sheath anchoredto to",
+        "longitudinal columns; (2) seven",
+        "outer dense fibers; and (3) tne Principal piece 이",
+        "cenlral axoneme. tnetal",
+        "Asthe sperm tail tapers outer",
+        "dense fibers, circumferential ribs, The annulus, a dense ring subjacent",
+        "and longitudinal columns become tothe last turn of the mitochondrial helix;",
+        "Longitudinal thinner and disappear a short isthe ste where the middle piece changes",
+        "Plasma membrane column ofthe distance trom the tip (the end piece intothe principal piece Septin 4 is a",
+        "fibrous shealh ofthe tail) component of the annulus."
+      ],
+      "supplemental_ocr_blocks": [
+        "Mitochondrial",
+        "'bssa",
+        "Acroplaxome",
+        "fibers.",
+        "[Annulus",
+        "Mitochondria",
+        "Annulus"
+      ],
+      "corrected_page_text": "Sperm (Spermatozoon)\nThe head-tail coupling apparatus (develeping The head consists of two Plasma membrane Microtubules of\nspermatid) comprises tne proximmal centriole components: (1) the nucleus and (2) the axoneme\nallached to the nucleus (implantation fossa) and the the acrosome-acroplaxome complex helix\nlieodomneol 앞부분물 덮고 앞움 distal centriole that generates the axoneme The sperm head is surrounded tya\nacrosome은 분해름 소홀 가지고 있어 수정 시 도움 여할 Nucleus plasma membrane.\nflagellurn 부위 Implantation Plasma membrane\n[middle piece] [Head\n중앙 : 9+2 구조의 axonerne Acrosome\n(1상의 central rnicrotubule + 9쌍의 peripheral doublet) Proximal Nucleus\n주번에 outer dense fiber 9개 버엽 cenlriole\nmitochondrial sheath 형성 (mnitochondrial helix라고두 표현) Outer dense\n에너지 공급히 고 운동에 기여 fbers (a totalot 9)\n가장 바깥은 plasma membrane Distal\ncentriole [Head-tail coupling The middle piece o the sperm\nM[principal piece] Axoneme apparatus tail extends trom the head to the end\n중앙: 9+2 axonerne ofthe helically arranged\nmitochondrial sheath는 없음 [End piece Middle piece mitochondrial sheath The9 + 2\n'바깥쪽은 f brous로 되어있는 fibrous sheath 으로 물러생안Plasma membrane 'Mtochondrial\nhelix mnicrotubular axoneme cccupies the\n#[end piece] 예너지 제공 center oflhetail Between the\n중앙 : 9+2 axoneme만 존재 mitochondrial helical sheath and tne\n'바깥쪽 plasma mernbrane만으로 구성원 단순한 구조 axonemo are nine outer dense\nThe end piece includes S Principal piece\nthe9 + 2 microtubular\naxoneme; surtounded only\nbythe plasma membrane.\nConcentric ribs The principal piece,\nofthe fibrous sheath exlending beyond the annulus lacks\n'mitochondnal helix k consists of\n'Outer dense\nfiber (1) concentrically oriented ribs o\ntnhe fibrous sheath anchoredto to\nlongitudinal columns; (2) seven\nouter dense fibers; and (3) tne Principal piece 이\ncenlral axoneme. tnetal\nAsthe sperm tail tapers outer\ndense fibers, circumferential ribs, The annulus, a dense ring subjacent\nand longitudinal columns become tothe last turn of the mitochondrial helix;\nLongitudinal thinner and disappear a short isthe ste where the middle piece changes\nPlasma membrane column ofthe distance trom the tip (the end piece intothe principal piece Septin 4 is a\nfibrous shealh ofthe tail) component of the annulus.",
+      "quality_audit": {
+        "pdf_char_count": 19,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 100,
+        "pdf_line_count": 1,
+        "ocr_line_count": 49,
+        "merged_line_count": 49,
+        "pdf_only_count": 0,
+        "ocr_only_count": 48,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 48,
+        "pdf_alpha_count": 17,
+        "ocr_alpha_count": 1819,
+        "promoted_ocr_only_count": 41
+      }
+    }
+  }
+}

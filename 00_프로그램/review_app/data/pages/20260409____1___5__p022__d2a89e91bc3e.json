@@ -1,0 +1,590 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 22
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_001"
+      ],
+      "prompt": "혈액(blood)은 _____ 쪽으로 흐른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "_____은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고전간소엽(classic hepatic lobule)",
+        "accepted_answers": [
+          "고전간소엽(classic hepatic lobule)",
+          "classic hepatic lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고전간소엽(classic hepatic lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "고전간소엽(classic hepatic lobule)은 혈류가 _____ 쪽으로 모이는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "_____은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥소엽(portal lobule)",
+        "accepted_answers": [
+          "문맥소엽(portal lobule)",
+          "portal lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥소엽(portal lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "문맥소엽(portal lobule)은 _____이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_003"
+      ],
+      "prompt": "문맥소엽(portal lobule)은 담즙(bile)이 _____ 쪽으로 배출되는 개념을 강조한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관(bile duct)",
+        "accepted_answers": [
+          "담관(bile duct)",
+          "bile duct",
+          "bile ducts"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관(bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_004"
+      ],
+      "prompt": "_____은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간선포(hepatic acinus)",
+        "accepted_answers": [
+          "간선포(hepatic acinus)",
+          "hepatic acinus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간선포(hepatic acinus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p022_course_배_필기본_022_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_004"
+      ],
+      "prompt": "간선포(hepatic acinus)은 _____에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥삼합(portal triad)",
+        "accepted_answers": [
+          "간문맥삼합(portal triad)",
+          "portal triad",
+          "hepatic triad"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥삼합(portal triad)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 8,
+    "question_type_count": {
+      "fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json",
+        "review_image_url": "./data/images/20260409____1___5__p022__d2a89e91bc3e.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 21,
+    "previous_page": 21,
+    "next_page": 23
+  },
+  "review_image_url": "./data/images/20260409____1___5__p022__d2a89e91bc3e.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 22
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다.",
+        "고전간소엽(classic hepatic lobule)은 혈류가 중심정맥(central vein) 쪽으로 모이는 개념을 강조한다.",
+        "문맥소엽(portal lobule)은 담즙(bile)이 담관(bile duct) 쪽으로 배출되는 개념을 강조한다.",
+        "간선포(hepatic acinus)은 간문맥삼합(portal triad)에서 공급되는 산소와 영양분의 차이를 강조하는 개념이다.",
+        "영역 I(Zone I)은 가장 산소가 풍부한 영역이다.",
+        "영역 III(Zone III)은 가장 산소가 적은 영역이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "간소엽의 영어 이름은 hepatic lobule이다.",
+        "중심정맥의 영어 이름은 central vein이다.",
+        "고전간소엽의 영어 이름은 classic hepatic lobule이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "문맥소엽의 영어 이름은 portal lobule이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "간선포의 영어 이름은 hepatic acinus이다.",
+        "영역 I의 영어 이름은 Zone I이다.",
+        "영역 III의 영어 이름은 Zone III이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간문맥삼합(portal triad)",
+          "담즙(bile)",
+          "간소엽(hepatic lobule)",
+          "중심정맥(central vein)",
+          "고전간소엽(classic hepatic lobule)",
+          "담관(bile duct)",
+          "문맥소엽(portal lobule)",
+          "간세포(hepatocyte)",
+          "간선포(hepatic acinus)",
+          "영역 I(Zone I)",
+          "영역 III(Zone III)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "portal triad",
+        "혈액",
+        "bile",
+        "그림 16-18 간의 구조와 기능간의 개념",
+        "(a) 고전간소염(classic hepatic (b) 문맥소염(portal (c) 간파리hepatic acinus)",
+        "lobulel은 문맥정맥과 간동백에서 lobule)은 간세포에서 산소함량이 높은 혈액올",
+        "간정맥 또는 중심정맥으로 혈액올 쓸개관으로 쓸개중올 간세포에 공급하다:",
+        "간세동맥 중심정맥(Ccntral vcin)",
+        "(Hepatic arteriole) 'portal triad",
+        "영역Zone IIl)",
+        "쓸개관 혈액 산도포화도가 낮음",
+        "(Bile duct) '(least oxygenated)",
+        "=맵 vein) 영역IZone Il)",
+        "중심정팩 또는 간세정팩 영역I(Zone 1)",
+        "(Central 산포포화도가 높음",
+        "(or hepatic) venule) bile ^ (most oxygenated)",
+        "간의 조직학 생리학 병리학연구는 간구성체름 이해하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함광의 혈액올 강조하다: 이것은 2개 이상의 고",
+        "법으로 이해하게 되엇으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간",
+        "(a) 고전간소염(classic hepatic lobule)개넘은 간구성체에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정h다: 영",
+        "관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세도틀 지난 중심정팩 '역의 문맥주위 세포들은 더 많은 산소와 영양부올 공급발고 낮은 산소와",
+        "으로향하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 l의 중심정맥주위 간세포까지 서로 다른 대",
+        "(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소염 사활동올 보인다 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해",
+        "영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개증의 흐름올 강 가잘 된다",
+        "조한다: (Boron WF Boulpaep EL Medical Physiology: A Cellular and Molec-",
+        "ular Approach Philadelphia PA: Saunders Elsevier 2005. 제공)",
+        "(c) 간과리hepatic acinus)개넘은 국로세혈관올 따라 서로 다른 거리에"
+      ],
+      "supplemental_ocr_blocks": [
+        "배출하다 배출하다:"
+      ],
+      "corrected_page_text": "portal triad\n혈액\nbile\n그림 16-18 간의 구조와 기능간의 개념\n(a) 고전간소염(classic hepatic (b) 문맥소염(portal (c) 간파리hepatic acinus)\nlobulel은 문맥정맥과 간동백에서 lobule)은 간세포에서 산소함량이 높은 혈액올\n간정맥 또는 중심정맥으로 혈액올 쓸개관으로 쓸개중올 간세포에 공급하다:\n간세동맥 중심정맥(Ccntral vcin)\n(Hepatic arteriole) 'portal triad\n영역Zone IIl)\n쓸개관 혈액 산도포화도가 낮음\n(Bile duct) '(least oxygenated)\n=맵 vein) 영역IZone Il)\n중심정팩 또는 간세정팩 영역I(Zone 1)\n(Central 산포포화도가 높음\n(or hepatic) venule) bile ^ (most oxygenated)\n간의 조직학 생리학 병리학연구는 간구성체름 이해하기 위해 3가지 관련 방 있는 다른 산소와 영양분 함광의 혈액올 강조하다: 이것은 2개 이상의 고\n법으로 이해하게 되엇으며 간 활동의 서로 다른 면올 강조하게 되없다: 유간소염에서 각 문맥지역올 공급하는 세포의 혈액공급올 말한다: 각 간\n(a) 고전간소염(classic hepatic lobule)개넘은 간구성체에서 구조-기능 세포의 주요 활동은 산쇠영양분 기울기에 따른 위치에 의해 결정h다: 영\n관계의 기본 이해도틀 제공하다: 이것은 혈액이 간세도틀 지난 중심정팩 '역의 문맥주위 세포들은 더 많은 산소와 영양부올 공급발고 낮은 산소와\n으로향하는 간세포의 내분비기능올 강조하다: 영양분 농도에 노출된 영역 l의 중심정맥주위 간세포까지 서로 다른 대\n(b) 문맥소염portal lobule)은 간세포의 외분비기능과 3개의 고유간소염 사활동올 보인다 많은 간의 병리학적 변화는 간과리 개념에서 가장 이해\n영역에서 이것의 중심인 간세동이에 있는 쓸개관으로 쓸개증의 흐름올 강 가잘 된다\n조한다: (Boron WF Boulpaep EL Medical Physiology: A Cellular and Molec-\nular Approach Philadelphia PA: Saunders Elsevier 2005. 제공)\n(c) 간과리hepatic acinus)개넘은 국로세혈관올 따라 서로 다른 거리에",
+      "quality_audit": {
+        "pdf_char_count": 17,
+        "pdf_span_count": 3,
+        "pdf_word_count": 4,
+        "ocr_fragment_count": 49,
+        "pdf_line_count": 3,
+        "ocr_line_count": 24,
+        "merged_line_count": 27,
+        "pdf_only_count": 3,
+        "ocr_only_count": 24,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 3,
+        "ocr_only_line_count": 24,
+        "pdf_alpha_count": 17,
+        "ocr_alpha_count": 830,
+        "promoted_ocr_only_count": 23
+      }
+    }
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 14
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_001"
+      ],
+      "prompt": "_____의 내장면(visceral surface)은 다른 내장과 접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_001"
+      ],
+      "prompt": "지라(spleen)의 _____은 다른 내장과 접한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "내장면(visceral surface)",
+        "accepted_answers": [
+          "내장면(visceral surface)",
+          "visceral surface"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "내장면(visceral surface)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_002"
+      ],
+      "prompt": "_____는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽(right lobe of liver)과 왼엽(left lobe of liver)의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "겸상인대(falciform ligament)",
+        "accepted_answers": [
+          "겸상인대(falciform ligament)",
+          "falciform ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "겸상인대(falciform ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_002"
+      ],
+      "prompt": "겸상인대(falciform ligament)는 _____을 앞배벽에 연결하며 해부학적 오른엽(right lobe of liver)과 왼엽(left lobe of liver)의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_002"
+      ],
+      "prompt": "겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 _____과 왼엽(left lobe of liver)의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른엽(right lobe of liver)",
+        "accepted_answers": [
+          "오른엽(right lobe of liver)",
+          "right lobe of liver",
+          "right lobe"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른엽(right lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_002"
+      ],
+      "prompt": "겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽(right lobe of liver)과 _____의 경계 기준이 된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼엽(left lobe of liver)",
+        "accepted_answers": [
+          "왼엽(left lobe of liver)",
+          "left lobe of liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼엽(left lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_003"
+      ],
+      "prompt": "해부학적 _____과 오른엽(right lobe of liver)의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면(visceral surface)에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼엽(left lobe of liver)",
+        "accepted_answers": [
+          "왼엽(left lobe of liver)",
+          "left lobe of liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼엽(left lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 해부학적 왼엽과 오른엽의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_003"
+      ],
+      "prompt": "해부학적 왼엽(left lobe of liver)과 _____의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면(visceral surface)에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른엽(right lobe of liver)",
+        "accepted_answers": [
+          "오른엽(right lobe of liver)",
+          "right lobe of liver",
+          "right lobe"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른엽(right lobe of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 해부학적 왼엽과 오른엽의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_003"
+      ],
+      "prompt": "해부학적 왼엽(left lobe of liver)과 오른엽(right lobe of liver)의 경계는 앞쪽에서 _____, 내장면(visceral surface)에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "겸상인대(falciform ligament)",
+        "accepted_answers": [
+          "겸상인대(falciform ligament)",
+          "falciform ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "겸상인대(falciform ligament)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 해부학적 왼엽과 오른엽의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_003"
+      ],
+      "prompt": "해부학적 왼엽(left lobe of liver)과 오른엽(right lobe of liver)의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면(visceral surface)에서는 _____를 기준으로 본다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼시상틈새(left sagittal fissure)",
+        "accepted_answers": [
+          "왼시상틈새(left sagittal fissure)",
+          "left sagittal fissure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼시상틈새(left sagittal fissure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 해부학적 왼엽과 오른엽의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_005"
+      ],
+      "prompt": "_____은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담낭오목(gallbladder fossa)",
+        "accepted_answers": [
+          "담낭오목(gallbladder fossa)",
+          "gallbladder fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담낭오목(gallbladder fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_005"
+      ],
+      "prompt": "담낭오목(gallbladder fossa)은 _____가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니(gallbladder)",
+        "accepted_answers": [
+          "쓸개주머니(gallbladder)",
+          "gallbladder"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니(gallbladder)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_006"
+      ],
+      "prompt": "_____는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 아래대정맥(inferior vena cava)고랑을 잇는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른시상틈새(right sagittal fissure)",
+        "accepted_answers": [
+          "오른시상틈새(right sagittal fissure)",
+          "right sagittal fissure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른시상틈새(right sagittal fissure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른시상틈새(right sagittal fissure)는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 아래대정맥고랑을 잇는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_006"
+      ],
+      "prompt": "오른시상틈새(right sagittal fissure)는 앞쪽의 _____과 뒤쪽의 아래대정맥(inferior vena cava)고랑을 잇는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담낭오목(gallbladder fossa)",
+        "accepted_answers": [
+          "담낭오목(gallbladder fossa)",
+          "gallbladder fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담낭오목(gallbladder fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른시상틈새(right sagittal fissure)는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 아래대정맥고랑을 잇는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_006"
+      ],
+      "prompt": "오른시상틈새(right sagittal fissure)는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 _____고랑을 잇는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)",
+          "inferior vena cava",
+          "IVC"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른시상틈새(right sagittal fissure)는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 아래대정맥고랑을 잇는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_007"
+      ],
+      "prompt": "_____의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼시상틈새(left sagittal fissure)",
+        "accepted_answers": [
+          "왼시상틈새(left sagittal fissure)",
+          "left sagittal fissure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼시상틈새(left sagittal fissure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼시상틈새(left sagittal fissure)의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_007"
+      ],
+      "prompt": "왼시상틈새(left sagittal fissure)의 앞쪽에는 _____, 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "원간인대(round ligament of liver)",
+        "accepted_answers": [
+          "원간인대(round ligament of liver)",
+          "round ligament of liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "원간인대(round ligament of liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼시상틈새(left sagittal fissure)의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_007"
+      ],
+      "prompt": "왼시상틈새(left sagittal fissure)의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 _____가 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정맥관인대(ligamentum venosum)",
+        "accepted_answers": [
+          "정맥관인대(ligamentum venosum)",
+          "ligamentum venosum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정맥관인대(ligamentum venosum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼시상틈새(left sagittal fissure)의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p014_course_배_필기본_014_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_014_course_008"
+      ],
+      "prompt": "_____는 태아기의 정맥관(ductus venosus)의 흔적이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정맥관인대(ligamentum venosum)",
+        "accepted_answers": [
+          "정맥관인대(ligamentum venosum)",
+          "ligamentum venosum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정맥관인대(ligamentum venosum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 정맥관인대(ligamentum venosum)는 태아기의 정맥관(ductus venosus)의 흔적이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 19,
+    "question_type_count": {
+      "fill_blank": 19
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 19
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 13,
+    "previous_page": 13,
+    "next_page": 15
+  },
+  "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 14
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "지라(spleen)의 내장면(visceral surface)은 다른 내장과 접한다.",
+        "겸상인대(falciform ligament)는 간(liver)을 앞배벽에 연결하며 해부학적 오른엽과 왼엽의 경계 기준이 된다.",
+        "해부학적 왼엽과 오른엽의 경계는 앞쪽에서 겸상인대(falciform ligament), 내장면에서는 왼시상틈새(left sagittal fissure)를 기준으로 본다.",
+        "오른엽(right lobe of liver)은 오른시상틈새(right sagittal fissure)와 간문(porta hepatis)을 기준으로 미상엽(caudate lobe)과 네모엽(quadrate lobe)으로 더 나뉜다.",
+        "담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+        "오른시상틈새(right sagittal fissure)는 앞쪽의 담낭오목(gallbladder fossa)과 뒤쪽의 아래대정맥고랑을 잇는다.",
+        "왼시상틈새(left sagittal fissure)의 앞쪽에는 원간인대(round ligament of liver), 뒤쪽에는 정맥관인대(ligamentum venosum)가 놓인다.",
+        "정맥관인대(ligamentum venosum)는 태아기의 정맥관(ductus venosus)의 흔적이다.",
+        "간의 영어 이름은 liver이다.",
+        "내장면의 영어 이름은 visceral surface이다.",
+        "네모엽의 영어 이름은 quadrate lobe이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "겸상인대의 영어 이름은 falciform ligament이다.",
+        "왼시상틈새의 영어 이름은 left sagittal fissure이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "오른시상틈새의 영어 이름은 right sagittal fissure이다.",
+        "오른엽의 영어 이름은 right lobe of liver이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "담낭오목의 영어 이름은 gallbladder fossa이다.",
+        "정맥관인대의 영어 이름은 ligamentum venosum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "# () 기능적구분간구역",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 3,
+          "text": "- , 혈관분포분비기능에따라구분()뒤에서다룰것",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 5,
+          "text": "# () 해부학적구분외형으로구분",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "- , 기능구분간구역과는불일치",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 19,
+          "text": "(태아예서 umbilical V과 inferior vena cava 연결하는",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 15,
+          "text": "inferior vena cava 뒤쪽고랑",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 18,
+        "accounted_term_count": 18,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간(liver)",
+          "내장면(visceral surface)",
+          "네모엽(quadrate lobe)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "겸상인대(falciform ligament)",
+          "왼시상틈새(left sagittal fissure)",
+          "간문(porta hepatis)",
+          "오른시상틈새(right sagittal fissure)",
+          "오른엽(right lobe of liver)",
+          "쓸개주머니(gallbladder)",
+          "담낭오목(gallbladder fossa)",
+          "정맥관인대(ligamentum venosum)",
+          "지라(spleen)",
+          "왼엽(left lobe of liver)",
+          "미상엽(caudate lobe)",
+          "원간인대(round ligament of liver)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "# () 기능적구분간구역",
+        "()/ 해부학적으로외형적으로기능적으로나눌수있음",
+        "- , 혈관분포분비기능에따라구분( )뒤에서다룰것",
+        "Lobe of liver",
+        "# ( ) 해부학적구분외형으로구분",
+        "- , 기능구분간구역과는불일치",
+        "선이있는것이아니라",
+        "- Lt./Rt. 로나눔",
+        "fossa 구조물때문에생긴것을기준으로함",
+        "-> : falciform lig. 기준앞쪽에서는",
+        "visceral surface left sagittal ﬁssure 에서는",
+        "- Rt. lobe caudate/quadrate lobe 를로나눔",
+        "-> : right sagittal ﬁssure, portahepatis 기준",
+        "gall bladder fossa 앞쪽",
+        "inferior vena cava 뒤쪽고랑",
+        "P",
+        "round lig. 앞쪽",
+        "ligamentum vanosum 뒤쪽",
+        "(태아예서 umbilical V과 inferior vena cava 연결하는",
+        "ductus venosus )가퇴화한것"
+      ],
+      "supplemental_ocr_blocks": [
+        "LtlRt 로 나늄 선이 있는 것이 아니라",
+        "-> 기준: 앞쪽에서논 falciform lig. 구조물 때문에 fossa 생긴 것올 기준으로 함",
+        "Rt lobe틀 caudatelquadrate lobe 로 나늄",
+        "뒤쪽 inferior vena cava 고랑 @래j정말",
+        "vena cava,",
+        "꼬리엽caudate lobe) 요류 G하 대정맥고랑에 위치함",
+        "fissure) 꼬리돌기",
+        "왼간업 (caudate",
+        "(left lobe) process)",
+        "정매관인대",
+        "왼시상들새 venosum,",
+        "(left sagittal lgarentums ductus venosus)",
+        "fissure)",
+        "(portahepaig 관몇]-jandligarem",
+        "네모염 간문맥",
+        "(quadrate lobe) vein)",
+        "A 간문으로 옆료통입 표동 B",
+        "(rig류롭ne) 하두3세동이 lapatic artery) 슬개요렉에학다하",
+        "앞쪽 round lig: 위치함",
+        "(bile passages)",
+        "ductus venosus 가 퇴화한 것)"
+      ],
+      "corrected_page_text": "# () 기능적구분간구역\n()/ 해부학적으로외형적으로기능적으로나눌수있음\n- , 혈관분포분비기능에따라구분( )뒤에서다룰것\nLobe of liver\n# ( ) 해부학적구분외형으로구분\n- , 기능구분간구역과는불일치\n선이있는것이아니라\n- Lt./Rt. 로나눔\nfossa 구조물때문에생긴것을기준으로함\n-> : falciform lig. 기준앞쪽에서는\nvisceral surface left sagittal ﬁssure 에서는\n- Rt. lobe caudate/quadrate lobe 를로나눔\n-> : right sagittal ﬁssure, portahepatis 기준\ngall bladder fossa 앞쪽\ninferior vena cava 뒤쪽고랑\nP\nround lig. 앞쪽\nligamentum vanosum 뒤쪽\n(태아예서 umbilical V과 inferior vena cava 연결하는\nductus venosus )가퇴화한것",
+      "quality_audit": {
+        "pdf_char_count": 391,
+        "pdf_span_count": 91,
+        "pdf_word_count": 94,
+        "ocr_fragment_count": 57,
+        "pdf_line_count": 20,
+        "ocr_line_count": 32,
+        "merged_line_count": 41,
+        "pdf_only_count": 9,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 20,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 357,
+        "ocr_alpha_count": 374,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

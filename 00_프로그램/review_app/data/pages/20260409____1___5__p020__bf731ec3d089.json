@@ -1,0 +1,973 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 20
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "_____과 오른간관(right hepatic duct)은 합쳐져 온간관(common hepatic duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼간관(left hepatic duct)",
+        "accepted_answers": [
+          "왼간관(left hepatic duct)",
+          "left hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼간관(left hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼간관(left hepatic duct)과 오른간관(right hepatic duct)은 합쳐져 온간관(common hepatic duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "왼간관(left hepatic duct)과 _____은 합쳐져 온간관(common hepatic duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른간관(right hepatic duct)",
+        "accepted_answers": [
+          "오른간관(right hepatic duct)",
+          "right hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른간관(right hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼간관(left hepatic duct)과 오른간관(right hepatic duct)은 합쳐져 온간관(common hepatic duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "왼간관(left hepatic duct)과 오른간관(right hepatic duct)은 합쳐져 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간관(common hepatic duct)",
+        "accepted_answers": [
+          "온간관(common hepatic duct)",
+          "common hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간관(common hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 왼간관(left hepatic duct)과 오른간관(right hepatic duct)은 합쳐져 온간관(common hepatic duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_002"
+      ],
+      "prompt": "온간관(common hepatic duct)(온간관(common hepatic duct))과 _____은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니관(cystic duct)",
+        "accepted_answers": [
+          "쓸개주머니관(cystic duct)",
+          "cystic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니관(cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_002"
+      ],
+      "prompt": "온간관(common hepatic duct)(온간관(common hepatic duct))과 쓸개주머니관(cystic duct)은 합쳐져 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_003"
+      ],
+      "prompt": "_____과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온간관(common hepatic duct)",
+        "accepted_answers": [
+          "온간관(common hepatic duct)",
+          "common hepatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온간관(common hepatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_003"
+      ],
+      "prompt": "온간관(common hepatic duct)과 _____은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니관(cystic duct)",
+        "accepted_answers": [
+          "쓸개주머니관(cystic duct)",
+          "cystic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니관(cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_003"
+      ],
+      "prompt": "온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 _____을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "_____과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 _____은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자관(pancreatic duct)",
+        "accepted_answers": [
+          "이자관(pancreatic duct)",
+          "pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자관(pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 _____를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간췌팽대(hepatopancreatic ampulla)",
+        "accepted_answers": [
+          "간췌팽대(hepatopancreatic ampulla)",
+          "hepatopancreatic ampulla",
+          "ampulla of Vater"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간췌팽대(hepatopancreatic ampulla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_005"
+      ],
+      "prompt": "_____은 쓸개주머니관(cystic duct)의 내강을 열린 상태로 유지하지만 조임근(sphincter)은 아니다.",
+      "answer": {
+        "format": "single_text",
+        "value": "나선주름(spiral fold of cystic duct)",
+        "accepted_answers": [
+          "나선주름(spiral fold of cystic duct)",
+          "spiral fold of cystic duct",
+          "spiral folds of cystic duct",
+          "spiral fold"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "나선주름(spiral fold of cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 나선주름(spiral fold of cystic duct)은 쓸개주머니관(cystic duct)의 내강을 열린 상태로 유지하지만 조임근(sphincter)은 아니다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_005"
+      ],
+      "prompt": "나선주름(spiral fold of cystic duct)은 _____의 내강을 열린 상태로 유지하지만 조임근(sphincter)은 아니다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니관(cystic duct)",
+        "accepted_answers": [
+          "쓸개주머니관(cystic duct)",
+          "cystic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니관(cystic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 나선주름(spiral fold of cystic duct)은 쓸개주머니관(cystic duct)의 내강을 열린 상태로 유지하지만 조임근(sphincter)은 아니다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_006"
+      ],
+      "prompt": "_____은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담낭오목(gallbladder fossa)",
+        "accepted_answers": [
+          "담낭오목(gallbladder fossa)",
+          "gallbladder fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담낭오목(gallbladder fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_006"
+      ],
+      "prompt": "담낭오목(gallbladder fossa)은 _____가 놓이는 자리이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니(gallbladder)",
+        "accepted_answers": [
+          "쓸개주머니(gallbladder)",
+          "gallbladder"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니(gallbladder)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_007"
+      ],
+      "prompt": "_____은 간(liver)의 담낭오목(gallbladder fossa)에 맞닿아 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개몸통(body of gallbladder)",
+        "accepted_answers": [
+          "쓸개몸통(body of gallbladder)",
+          "body of gallbladder",
+          "gallbladder body"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개몸통(body of gallbladder)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쓸개몸통(body of gallbladder)은 간(liver)의 담낭오목(gallbladder fossa)에 맞닿아 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_007"
+      ],
+      "prompt": "쓸개몸통(body of gallbladder)은 _____의 담낭오목(gallbladder fossa)에 맞닿아 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쓸개몸통(body of gallbladder)은 간(liver)의 담낭오목(gallbladder fossa)에 맞닿아 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_007"
+      ],
+      "prompt": "쓸개몸통(body of gallbladder)은 간(liver)의 _____에 맞닿아 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담낭오목(gallbladder fossa)",
+        "accepted_answers": [
+          "담낭오목(gallbladder fossa)",
+          "gallbladder fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담낭오목(gallbladder fossa)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쓸개몸통(body of gallbladder)은 간(liver)의 담낭오목(gallbladder fossa)에 맞닿아 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_009"
+      ],
+      "prompt": "_____은 쓸개바닥(fundus of gallbladder)에 잘 생길 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개돌(gallstone)",
+        "accepted_answers": [
+          "쓸개돌(gallstone)",
+          "gallstone",
+          "gallstones"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개돌(gallstone)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쓸개돌(gallstone)은 쓸개바닥(fundus of gallbladder)에 잘 생길 수 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p020_course_배_필기본_020_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_009"
+      ],
+      "prompt": "쓸개돌(gallstone)은 _____에 잘 생길 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개바닥(fundus of gallbladder)",
+        "accepted_answers": [
+          "쓸개바닥(fundus of gallbladder)",
+          "fundus of gallbladder",
+          "gallbladder fundus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개바닥(fundus of gallbladder)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쓸개돌(gallstone)은 쓸개바닥(fundus of gallbladder)에 잘 생길 수 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 20,
+    "question_type_count": {
+      "fill_blank": 20
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 20
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 19,
+    "previous_page": 19,
+    "next_page": 21
+  },
+  "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 20
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "왼간관(left hepatic duct)과 오른간관(right hepatic duct)은 합쳐져 온간관(common hepatic duct)을 이룬다.",
+        "총간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+        "온간관(common hepatic duct)과 쓸개주머니관(cystic duct)은 합쳐져 온쓸개관(common bile duct)을 이룬다.",
+        "온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+        "나선주름(spiral fold of cystic duct)은 쓸개주머니관(cystic duct)의 내강을 열린 상태로 유지하지만 조임근(sphincter)은 아니다.",
+        "담낭오목(gallbladder fossa)은 쓸개주머니(gallbladder)가 놓이는 자리이다.",
+        "쓸개몸통(body of gallbladder)은 간(liver)의 담낭오목(gallbladder fossa)에 맞닿아 있다.",
+        "쓸개돌(gallstone)은 콜레스테롤 결정으로 이루어질 수 있다.",
+        "쓸개돌(gallstone)은 쓸개바닥(fundus of gallbladder)에 잘 생길 수 있다.",
+        "쓸개주머니관의 영어 이름은 cystic duct이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "간의 영어 이름은 liver이다.",
+        "온간관의 영어 이름은 common hepatic duct이다.",
+        "오른간관의 영어 이름은 right hepatic duct이다.",
+        "온쓸개관의 영어 이름은 common bile duct이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "쓸개돌의 영어 이름은 gallstone이다.",
+        "이자관의 영어 이름은 pancreatic duct이다.",
+        "간췌팽대의 영어 이름은 hepatopancreatic ampulla이다.",
+        "위의 영어 이름은 stomach이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "이자염의 영어 이름은 pancreatitis이다.",
+        "왼간관의 영어 이름은 left hepatic duct이다.",
+        "나선주름의 영어 이름은 spiral fold of cystic duct이다.",
+        "담낭오목의 영어 이름은 gallbladder fossa이다.",
+        "쓸개몸통의 영어 이름은 body of gallbladder이다.",
+        "쓸개바닥의 영어 이름은 fundus of gallbladder이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "cystic duct 와연결",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "- left, right hepatic duct -> common hepatic duct 에모임합쳐지면",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "-> cystic duct common bile duct 과만나면",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "-> pancreatic duct hepatopancreatic ampulla 와합해져서형성",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "2) common bile duct 에도잘걸림",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 20,
+        "accounted_term_count": 20,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "쓸개주머니관(cystic duct)",
+          "담즙(bile)",
+          "쓸개주머니(gallbladder)",
+          "간(liver)",
+          "온간관(common hepatic duct)",
+          "오른간관(right hepatic duct)",
+          "온쓸개관(common bile duct)",
+          "담관(bile duct)",
+          "쓸개돌(gallstone)",
+          "이자관(pancreatic duct)",
+          "간췌팽대(hepatopancreatic ampulla)",
+          "위(stomach)",
+          "이자(pancreas)",
+          "이자염(pancreatitis)",
+          "왼간관(left hepatic duct)",
+          "나선주름(spiral fold of cystic duct)",
+          "담낭오목(gallbladder fossa)",
+          "쓸개몸통(body of gallbladder)",
+          "쓸개바닥(fundus of gallbladder)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "- 나선형의주름",
+        "cystic duct 와연결",
+        "- sphincter.bile 아님 항상열리게해서이이동가능하도록",
+        "-?gallbladder 나가는걸누가조절필요하면가수축하거나",
+        "common bile ductsphincter m.의이수축",
+        "자S",
+        "liver fossa body 에가면함",
+        "<bile > 의경로",
+        "- bile 은간에서생성",
+        "- left, right hepatic duct -> common hepatic duct 에모임합쳐지면",
+        "-> cystic duct common bile duct 과만나면",
+        "# gallstone 쓸개돌",
+        "-> pancreatic duct hepatopancreatic ampulla 와합해져서형성",
+        "- 콜레스테롤의결정체",
+        "쓸개 gallbladder",
+        "1) fundus 부위",
+        "2) common bile duct 에도잘걸림",
+        "3) hepatopancreatic ampulla 에제일잘생김",
+        "-> , 쓸개염이자염유발가능"
+      ],
+      "supplemental_ocr_blocks": [
+        "나가는길 누가 조절? 필요하면 gallbladder가 수축하거나 원간관",
+        "common bile duct의 'sphinctep목이수출 S자 left hepatic duct",
+        "용료D끗aic duct",
+        "온간관",
+        "liver fossa에 body가 면함 common hepatic",
+        "duct",
+        "fundus of gallbladder 온쓸개관",
+        "생장차 내림부둑 part \"용쓸개관주임금",
+        "of duodenum m of",
+        "common bile duct `",
+        "이자관",
+        "n개이자-대장g m of pancreatic duct",
+        "<bile의 경로> \"3기이자노불다c",
+        "bile은 간에서 생성",
+        "-> cystic duct과 만나면 common bile duct 콤어롭장유뇨 sduodensane 쓸개들",
+        "> pancreatic duct와 합해저서 hepatopancreatic ampulla 형성 콜레스데물의 결정체",
+        "많이 생기논 부위",
+        "그림 6-71. 쓸개, 쓸개길, 근심창자유두 1) fundus 부위",
+        "2) common bile duct에도 잘 걸림",
+        "3) hepatopancreatic ampulla에l 제일 잘 생김",
+        "> 쓸개염, 이자염 유발 가능"
+      ],
+      "corrected_page_text": "- 나선형의주름\ncystic duct 와연결\n- sphincter.bile 아님 항상열리게해서이이동가능하도록\n-?gallbladder 나가는걸누가조절필요하면가수축하거나\ncommon bile ductsphincter m.의이수축\n자S\nliver fossa body 에가면함\n<bile > 의경로\n- bile 은간에서생성\n- left, right hepatic duct -> common hepatic duct 에모임합쳐지면\n-> cystic duct common bile duct 과만나면\n# gallstone 쓸개돌\n-> pancreatic duct hepatopancreatic ampulla 와합해져서형성\n- 콜레스테롤의결정체\n쓸개 gallbladder\n1) fundus 부위\n2) common bile duct 에도잘걸림\n3) hepatopancreatic ampulla 에제일잘생김\n-> , 쓸개염이자염유발가능",
+      "quality_audit": {
+        "pdf_char_count": 382,
+        "pdf_span_count": 77,
+        "pdf_word_count": 81,
+        "ocr_fragment_count": 52,
+        "pdf_line_count": 19,
+        "ocr_line_count": 30,
+        "merged_line_count": 40,
+        "pdf_only_count": 10,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 19,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 359,
+        "ocr_alpha_count": 433,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

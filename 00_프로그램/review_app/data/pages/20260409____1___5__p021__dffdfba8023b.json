@@ -1,0 +1,771 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 21
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_003"
+      ],
+      "prompt": "_____은 간(liver)의 모세혈관이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간굴모세혈관(hepatic sinusoid)",
+        "accepted_answers": [
+          "간굴모세혈관(hepatic sinusoid)",
+          "hepatic sinusoid",
+          "hepatic sinusoids",
+          "liver sinusoid",
+          "sinusoid"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간굴모세혈관(hepatic sinusoid)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간굴모세혈관(hepatic sinusoid)은 간(liver)의 모세혈관이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_003"
+      ],
+      "prompt": "간굴모세혈관(hepatic sinusoid)은 _____의 모세혈관이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간굴모세혈관(hepatic sinusoid)은 간(liver)의 모세혈관이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_004"
+      ],
+      "prompt": "_____은 바닥막(basement membrane)이 없다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간굴모세혈관(hepatic sinusoid)",
+        "accepted_answers": [
+          "간굴모세혈관(hepatic sinusoid)",
+          "hepatic sinusoid",
+          "hepatic sinusoids",
+          "liver sinusoid",
+          "sinusoid"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간굴모세혈관(hepatic sinusoid)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간굴모세혈관(hepatic sinusoid)은 바닥막(basement membrane)이 없다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_005"
+      ],
+      "prompt": "_____은 간(liver)의 대식세포(macrophage)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쿠퍼세포(Kupffer cell)",
+        "accepted_answers": [
+          "쿠퍼세포(Kupffer cell)",
+          "Kupffer cell",
+          "Kupffer cells"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쿠퍼세포(Kupffer cell)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쿠퍼세포(Kupffer cell)은 간(liver)의 대식세포(macrophage)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_005"
+      ],
+      "prompt": "쿠퍼세포(Kupffer cell)은 _____의 대식세포(macrophage)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 쿠퍼세포(Kupffer cell)은 간(liver)의 대식세포(macrophage)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_006"
+      ],
+      "prompt": "_____은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_006"
+      ],
+      "prompt": "담즙(bile)은 _____을 거쳐 담관(bile duct)로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담세관(bile canaliculus)",
+        "accepted_answers": [
+          "담세관(bile canaliculus)",
+          "bile canaliculus",
+          "bile canaliculi"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담세관(bile canaliculus)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_006"
+      ],
+      "prompt": "담즙(bile)은 담세관(bile canaliculus)을 거쳐 _____로 이동한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담관(bile duct)",
+        "accepted_answers": [
+          "담관(bile duct)",
+          "bile duct",
+          "bile ducts"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담관(bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_007"
+      ],
+      "prompt": "혈액(blood)은 _____ 쪽으로 흐른다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중심정맥(central vein)",
+        "accepted_answers": [
+          "중심정맥(central vein)",
+          "central vein",
+          "terminal hepatic venule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중심정맥(central vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_008"
+      ],
+      "prompt": "_____의 흐름과 혈액(blood)의 흐름은 서로 반대 방향이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "담즙(bile)",
+        "accepted_answers": [
+          "담즙(bile)",
+          "bile"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "담즙(bile)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙(bile)의 흐름과 혈액(blood)의 흐름은 서로 반대 방향이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_009"
+      ],
+      "prompt": "_____은 안으로 결합조직 격막을 보내 간(liver)을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간피막(liver capsule)",
+        "accepted_answers": [
+          "간피막(liver capsule)",
+          "liver capsule",
+          "hepatic capsule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간피막(liver capsule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간피막(liver capsule)은 안으로 결합조직 격막을 보내 간(liver)을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_009"
+      ],
+      "prompt": "간피막(liver capsule)은 안으로 결합조직 격막을 보내 _____을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간피막(liver capsule)은 안으로 결합조직 격막을 보내 간(liver)을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p021_course_배_필기본_021_course_009_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_009"
+      ],
+      "prompt": "간피막(liver capsule)은 안으로 결합조직 격막을 보내 간(liver)을 여러 _____로 나누는 틀을 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간소엽(hepatic lobule)",
+        "accepted_answers": [
+          "간소엽(hepatic lobule)",
+          "hepatic lobule",
+          "hepatic lobules",
+          "liver lobule"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간소엽(hepatic lobule)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간피막(liver capsule)은 안으로 결합조직 격막을 보내 간(liver)을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 13,
+    "question_type_count": {
+      "fill_blank": 13
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 13
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json",
+        "review_image_url": "./data/images/20260409____1___5__p008__169e0e048569.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json",
+        "review_image_url": "./data/images/20260409____1___5__p009__5180b50b29f1.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json",
+        "review_image_url": "./data/images/20260409____1___5__p010__d30b39c41e7f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json",
+        "review_image_url": "./data/images/20260409____1___5__p011__cdedf1ce74e5.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json",
+        "review_image_url": "./data/images/20260409____1___5__p012__85240dc96ffe.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p013__460c2719023b.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json",
+        "review_image_url": "./data/images/20260409____1___5__p014__37e5fb0077eb.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json",
+        "review_image_url": "./data/images/20260409____1___5__p015__15d5d6ee94ac.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json",
+        "review_image_url": "./data/images/20260409____1___5__p016__6a14bf9ce437.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json",
+        "review_image_url": "./data/images/20260409____1___5__p017__e73d19c6fa20.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json",
+        "review_image_url": "./data/images/20260409____1___5__p018__264c3b5919fe.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json",
+        "review_image_url": "./data/images/20260409____1___5__p019__016683ee7455.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json",
+        "review_image_url": "./data/images/20260409____1___5__p020__bf731ec3d089.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json",
+        "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 20,
+    "previous_page": 20,
+    "next_page": 22
+  },
+  "review_image_url": "./data/images/20260409____1___5__p021__dffdfba8023b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 21
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "간(liver)은 인체에서 가장 큰 샘이다.",
+        "간세포(hepatocyte)는 외분비와 내분비 기능을 모두 수행한다.",
+        "간굴모세혈관(hepatic sinusoid)은 간(liver)의 모세혈관이다.",
+        "간굴모세혈관(hepatic sinusoid)은 바닥막(basement membrane)이 없다.",
+        "쿠퍼세포(Kupffer cell)은 간(liver)의 대식세포(macrophage)이다.",
+        "담즙(bile)은 담세관(bile canaliculus)을 거쳐 담관(bile duct)로 이동한다.",
+        "혈액(blood)은 중심정맥(central vein) 쪽으로 흐른다.",
+        "담즙(bile)의 흐름과 혈액(blood)의 흐름은 서로 반대 방향이다.",
+        "간피막(liver capsule)은 안으로 결합조직 격막을 보내 간(liver)을 여러 간소엽(hepatic lobule)로 나누는 틀을 만든다.",
+        "간의 영어 이름은 liver이다.",
+        "간세포의 영어 이름은 hepatocyte이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "간굴모세혈관의 영어 이름은 hepatic sinusoid이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "간문맥삼합의 영어 이름은 portal triad이다.",
+        "쿠퍼세포의 영어 이름은 Kupffer cell이다.",
+        "중심정맥의 영어 이름은 central vein이다.",
+        "담세관의 영어 이름은 bile canaliculus이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "간피막의 영어 이름은 liver capsule이다.",
+        "간소엽의 영어 이름은 hepatic lobule이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 6,
+          "text": "septum lobe -> lobule 캡슐이들어가서에의해여러개의로나뉘어짐",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "#sinusoid-liver capillary 의",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 13,
+        "accounted_term_count": 13,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간(liver)",
+          "간세포(hepatocyte)",
+          "담즙(bile)",
+          "상피(epithelium)",
+          "간굴모세혈관(hepatic sinusoid)",
+          "기관(trachea)",
+          "간문맥삼합(portal triad)",
+          "쿠퍼세포(Kupffer cell)",
+          "중심정맥(central vein)",
+          "담세관(bile canaliculus)",
+          "담관(bile duct)",
+          "간피막(liver capsule)",
+          "간소엽(hepatic lobule)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "- 생체내가장큰샘",
+        "Histology of liver",
+        "- hepatocyte , 가외분비내분비다함",
+        ": bile 외분비",
+        ": (, ) 내분비혈장단백질프로트롬빈알부민혈중으로유리",
+        "septum lobe -> lobule 캡슐이들어가서에의해여러개의로나뉘어짐",
+        "- basement membrane epithelium 없고도듬성듬성",
+        "#sinusoid-liver capillary 의",
+        "- (bone marrow ) 조혈기관에발달등",
+        "macrophage간의",
+        "bile: canaliculi bile duct통해로",
+        "반대방향으로흐름",
+        ": central vein혈액으로",
+        "bileblood",
+        "portal triad"
+      ],
+      "supplemental_ocr_blocks": [
+        "(Hepatic sinusoid) basement membrane 없고 epithelium도 등성등성",
+        "(Hepatocytes) 간소염 jro '쏟#로세관cui)",
+        "lobule) @jD ) 불콤숙세품 cell) '간의 macrophage",
+        "중심정댁 C",
+        "(Bile canaliculi) 50n @@@0 간세되Hepatocyte)",
+        "(Central vein) 간국되세야관",
+        "@ooc0 (Hepatic sinusoid)",
+        "쏟개모세관",
+        "중 @@89",
+        "8 간세동oPortal triad)",
+        "8 @@@@ 킬콤렉기장 hepatic {반대방황으로 흐흡",
+        "#콜규장 bile duct) bile: canaliculi 통해 bile duct로",
+        "(a) 간소없Hepatic lobules)",
+        "portal vein)",
+        "궁]히 of",
+        "혈액: central vein으로",
+        "Ule",
+        "artery)",
+        "PV",
+        "H 0ee",
+        "portal triad (b) 간세포와 물로세결관",
+        "(Hepatocytes and sinusoids)",
+        "B",
+        "HA",
+        "(c) 간세동이와 간소업",
+        "(Portal triad and hepatic lobule)",
+        "간(iver)은 가로막 바로 아래 배의 위오른사분면에 위치하는 근 장기이자 세동oportal triad) 물 포함하다:",
+        "간의 기본 기능적인 단위인 간소염(hepatic lobule)ol 수천 개의 다각형 (b) 간세동이의 간문렉과 간동맥의 혈액은 간세포판plate of hepato-",
+        "'구조로 구성되다. cyte} 사이의 물모세혈관(sinusoids)올 지나 중심정맥으로 배출되다:",
+        "(a) 그림어는 간소염의 중심에 작은 중심정맥(central vein)과 주변부에 (c) 간소염의 현미경 사진에는 중심정률C 간세포판H; 문맥구역의 작",
+        "위치한 여러 개의 혈관들이 관찰되다: 결합조직 속에 모여 있는 주변부 혈 은 림프관니 간세동이가 관찰되다: 간문렉(PV), 간동렉(HA) , 쓸가관B)",
+        "관들은 간문먹가지인 문맥관(portal tracts) 간동맥가지 쓸개관가지인 간 (X220; H8E)"
+      ],
+      "corrected_page_text": "- 생체내가장큰샘\nHistology of liver\n- hepatocyte , 가외분비내분비다함\n: bile 외분비\n: (, ) 내분비혈장단백질프로트롬빈알부민혈중으로유리\nseptum lobe -> lobule 캡슐이들어가서에의해여러개의로나뉘어짐\n- basement membrane epithelium 없고도듬성듬성\n#sinusoid-liver capillary 의\n- (bone marrow ) 조혈기관에발달등\nmacrophage간의\nbile: canaliculi bile duct통해로\n반대방향으로흐름\n: central vein혈액으로\nbileblood\nportal triad",
+      "quality_audit": {
+        "pdf_char_count": 278,
+        "pdf_span_count": 62,
+        "pdf_word_count": 59,
+        "ocr_fragment_count": 74,
+        "pdf_line_count": 15,
+        "ocr_line_count": 43,
+        "merged_line_count": 47,
+        "pdf_only_count": 4,
+        "ocr_only_count": 32,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 15,
+        "ocr_only_line_count": 32,
+        "pdf_alpha_count": 260,
+        "ocr_alpha_count": 709,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

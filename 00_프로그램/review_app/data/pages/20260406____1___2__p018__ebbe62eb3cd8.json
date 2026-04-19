@@ -1,0 +1,544 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 18
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_001"
+      ],
+      "prompt": "_____는 감수분열전기(prophase I)에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "일차정모세포(primary spermatocyte)",
+        "accepted_answers": [
+          "일차정모세포(primary spermatocyte)",
+          "primary spermatocyte"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "일차정모세포(primary spermatocyte)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 일차정모세포(primary spermatocyte)는 감수분열 전기(prophase I)에 해당한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_001"
+      ],
+      "prompt": "일차정모세포(primary spermatocyte)는 _____에 해당한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "감수분열전기(prophase I)",
+        "accepted_answers": [
+          "감수분열전기(prophase I)",
+          "prophase I"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "감수분열전기(prophase I)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 일차정모세포(primary spermatocyte)는 감수분열 전기(prophase I)에 해당한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "_____는 정자(sperm)로 성숙한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "후기정자세포(late spermatid)",
+        "accepted_answers": [
+          "후기정자세포(late spermatid)",
+          "late spermatid"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "후기정자세포(late spermatid)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 후기 정자세포(late spermatid)는 정자(sperm)로 성숙한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_002"
+      ],
+      "prompt": "후기정자세포(late spermatid)는 _____로 성숙한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정자(sperm)",
+        "accepted_answers": [
+          "정자(sperm)",
+          "sperm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정자(sperm)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 후기 정자세포(late spermatid)는 정자(sperm)로 성숙한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_005"
+      ],
+      "prompt": "_____는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "섬유모세포(fibroblast)",
+        "accepted_answers": [
+          "섬유모세포(fibroblast)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "섬유모세포(fibroblast)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 섬유모세포(fibroblast)는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p018_course_배_필기본_018_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_005"
+      ],
+      "prompt": "섬유모세포(fibroblast)는 정세관 사이 결합_____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "조직(interstitial connective tissue)",
+        "accepted_answers": [
+          "조직(interstitial connective tissue)",
+          "interstitial connective tissue"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "조직(interstitial connective tissue)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 섬유모세포(fibroblast)는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 6,
+    "question_type_count": {
+      "fill_blank": 6
+    },
+    "question_focus_count": {
+      "course_exam_style": 6
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json",
+        "review_image_url": "./data/images/20260406____1___2__p010__ed284d878b85.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json",
+        "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json",
+        "review_image_url": "./data/images/20260406____1___2__p012__a83a57b19eaa.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json",
+        "review_image_url": "./data/images/20260406____1___2__p013__e55fd5c955c7.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json",
+        "review_image_url": "./data/images/20260406____1___2__p014__e878c085ff03.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json",
+        "review_image_url": "./data/images/20260406____1___2__p015__fe3349b2ee43.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json",
+        "review_image_url": "./data/images/20260406____1___2__p016__3eb28b9b950d.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json",
+        "review_image_url": "./data/images/20260406____1___2__p017__c7a9aeaf3d39.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json",
+        "review_image_url": "./data/images/20260406____1___2__p018__ebbe62eb3cd8.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 17,
+    "previous_page": 17,
+    "next_page": 19
+  },
+  "review_image_url": "./data/images/20260406____1___2__p018__ebbe62eb3cd8.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 18
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "일차정모세포(primary spermatocyte)는 감수분열 전기(prophase I)에 해당한다.",
+        "후기 정자세포(late spermatid)는 정자(sperm)로 성숙한다.",
+        "버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다.",
+        "근육모양세포(myoid cell)는 정세관 바깥쪽에 위치한다.",
+        "섬유모세포(fibroblast)는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다.",
+        "핵의 영어 이름은 nucleus이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "정자의 영어 이름은 sperm이다.",
+        "간의 영어 이름은 liver이다.",
+        "꼬불정세관의 영어 이름은 convoluted seminiferous tubules이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "세관의 바깥쪽에는 근육모양세모(M)와 섬유모세포(F)가 있다: 내부의 바 하느데; 이차감수분열이 즉각적으로 진행되어 두 개의 정자세포가 형성되",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "그림 21-6 정세관: 버팀세포와 정자발생",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "(ab) 이런 정세관의 가로절단면에서 대부분의 세포형태가 관찰되다: 정 공간까지에서 가장 숫자가 많다: 각각은 분열하여 이차정모세포름 형성",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "일차정모세포(primary spermatocyte)는 감수분열 전기(prophase I)에 해당한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "후기 정자세포(late spermatid)는 정자(sperm)로 성숙해 가는 단계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "근육모양세포(myoid cell)는 정세관 바깥쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "섬유모세포(fibroblast)는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "정조세포(spermatogonium), 일차정모세포(primary spermatocyte), 초기 정자세포(early spermatid), 후기 정자세포(late spermatid), 정자(sperm)는 바닥쪽에서 내강(lumen)쪽으로 배열된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "일차정모세포(primary spermatocyte)는 감수분열 전기(prophase I)에 해당한다. 후기 정자세포(late spermatid)는 정자(sperm)로 성숙해 가는 단계이다. 버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다. 근육모양세포(myoid cell)는 정세관 바깥쪽에 위치한다. 섬유모세포(fibroblast)는 정세관 사이 결합조직(interstitial connective tissue)에 위치한다. 정조세포(spermatogonium), 일차정모세포(primary spermatocyte), 초기 정자세포(early spermatid), 후기 정자세포(late spermatid), 정자(sperm)는 바닥쪽에서 내강(lumen)쪽으로 배열된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "정세관 조직학 사진에 감수분열 전기, 후기 정자세포의 성숙, 핵 염색 경향을 강조한 필기가 추가된 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "일차정모세포(primary spermatocyte) 해당한다 감수분열 전기(prophase I)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "후기 정자세포(late spermatid) 성숙한다 정자(sperm)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "근육모양세포(myoid cell) 위치한다 정세관 바깥쪽",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "섬유모세포(fibroblast) 위치한다 정세관 사이 결합조직(interstitial connective tissue)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 14,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.875,
+        "accounted_terms": [
+          "섬유모세포(F)",
+          "일차정모세포(primary spermatocyte)",
+          "감수분열전기(prophase I)",
+          "후기정자세포(late spermatid)",
+          "정자(sperm)",
+          "버팀세포(Sertoli cell)",
+          "근육모양세포(myoid cell)",
+          "섬유모세포(fibroblast)",
+          "핵(nucleus)",
+          "근육(muscles)",
+          "간(liver)",
+          "꼬불정세관(convoluted seminiferous tubules)",
+          "위(stomach)",
+          "배(abdominal region)"
+        ],
+        "unresolved_terms": [
+          "정조세포(spermatogonium)",
+          "초기정자세포(early spermatid)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "그림 21-6 정세관: 버팀세포와 정자발생",
+        "의로 갈수록 핵이 빠주함",
+        "'early stale spermatid",
+        "sertolicell SG",
+        "(ab) 이런 정세관의 가로절단면에서 대부분의 세포형태가 관찰되다: 정 공간까지에서 가장 숫자가 많다: 각각은 분열하여 이차정모세포름 형성",
+        "세관의 바깥쪽에는 근육모양세모(M)와 섬유모세포(F)가 있다: 내부의 바 하느데; 이차감수분열이 즉각적으로 진행되어 두 개의 정자세포가 형성되",
+        "닥막 근처예는 많은 수의 두드러저 보이는 정조세되SG)가 보이고 감수 눈 관계로 드물게 관찰되다: 새로이 형성된 둥근 조기정자세되ES)논 분",
+        "분열로 들어가는 세포트 만들어내는 하지만 아직까지논 유사분열올 하는 화되고 크기가 작아저서 후기정자세되LS)가 되고 최종적으로 고도로 특",
+        "작은 세포도 보인다 일차정도세포(PS)는 첫 감수분열의 전기prophase) 화된 정자세포가 된다: 정자발생과 정자완성의 각 단계에서 정자발생세포",
+        "에 3주간 머무르는데; 이 시기에 재조합recombination)o| 일어난다 일 논 인접한 버팀세포(SC 여러 가지 지지기능올 하느)와 밀접하게 관련되",
+        "차정모세포는 정자발생세포 중에서 가장 크고 모든 레텔(바닥막부터 속 어 있다 (모두 X750; H&E)"
+      ],
+      "supplemental_ocr_blocks": [
+        "sC",
+        "ES",
+        "SG LS",
+        "M",
+        "PS",
+        "sC",
+        "LS",
+        "PS PS+",
+        "~sC",
+        "나중예 sperum",
+        "SG",
+        "M",
+        "F PS +",
+        "M"
+      ],
+      "corrected_page_text": "그림 21-6 정세관: 버팀세포와 정자발생\n의로 갈수록 핵이 빠주함\n'early stale spermatid\nsertolicell SG\n(ab) 이런 정세관의 가로절단면에서 대부분의 세포형태가 관찰되다: 정 공간까지에서 가장 숫자가 많다: 각각은 분열하여 이차정모세포름 형성\n세관의 바깥쪽에는 근육모양세모(M)와 섬유모세포(F)가 있다: 내부의 바 하느데; 이차감수분열이 즉각적으로 진행되어 두 개의 정자세포가 형성되\n닥막 근처예는 많은 수의 두드러저 보이는 정조세되SG)가 보이고 감수 눈 관계로 드물게 관찰되다: 새로이 형성된 둥근 조기정자세되ES)논 분\n분열로 들어가는 세포트 만들어내는 하지만 아직까지논 유사분열올 하는 화되고 크기가 작아저서 후기정자세되LS)가 되고 최종적으로 고도로 특\n작은 세포도 보인다 일차정도세포(PS)는 첫 감수분열의 전기prophase) 화된 정자세포가 된다: 정자발생과 정자완성의 각 단계에서 정자발생세포\n에 3주간 머무르는데; 이 시기에 재조합recombination)o| 일어난다 일 논 인접한 버팀세포(SC 여러 가지 지지기능올 하느)와 밀접하게 관련되\n차정모세포는 정자발생세포 중에서 가장 크고 모든 레텔(바닥막부터 속 어 있다 (모두 X750; H&E)",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 36,
+        "pdf_line_count": 0,
+        "ocr_line_count": 25,
+        "merged_line_count": 25,
+        "pdf_only_count": 0,
+        "ocr_only_count": 25,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 25,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 491,
+        "promoted_ocr_only_count": 11
+      }
+    }
+  }
+}

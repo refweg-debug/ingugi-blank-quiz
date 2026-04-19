@@ -1,0 +1,474 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 23
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p023_course_배_필기본_023_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_023_course_004"
+      ],
+      "prompt": "깊은림프(deep lymphatics)는 허리림프절(lumbar nodes)과 _____로 간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온엉덩림프절(common iliac lymph nodes)",
+        "accepted_answers": [
+          "온엉덩림프절(common iliac lymph nodes)",
+          "commoniliaclymphnodes",
+          "common iliac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온엉덩림프절(common iliac lymph nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은림프(deep lymphatics)는 허리림프절(lumbar nodes)과 온엉덩림프절(common iliac lymph nodes)로 간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p023_course_배_필기본_023_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_023_ai_corrected_003"
+      ],
+      "prompt": "앞가쪽배벽의 깊은림프(deep lymphatics)는 깊은정맥(deep veins)과 함께 주행하며 lumbar lymph nodes와 _____ 쪽으로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온엉덩림프절(common iliac lymph nodes)",
+        "accepted_answers": [
+          "온엉덩림프절(common iliac lymph nodes)",
+          "commoniliaclymphnodes",
+          "common iliac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온엉덩림프절(common iliac lymph nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞가쪽배벽의 심부림프(deep lymph)는 심부정맥(deep veins)과 함께 주행하며 lumbar lymph nodes와 common iliac lymph nodes 쪽으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p023_course_배_필기본_023_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_023_ai_corrected_004"
+      ],
+      "prompt": "_____과 복장옆림프절(parasternal nodes)은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "겨드랑림프절(axillary nodes)",
+        "accepted_answers": [
+          "겨드랑림프절(axillary nodes)",
+          "axillarynodes",
+          "axillary nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "겨드랑림프절(axillary nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p023_course_배_필기본_023_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_023_ai_corrected_004"
+      ],
+      "prompt": "겨드랑림프절(axillary nodes)과 _____은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복장옆림프절(parasternal nodes)",
+        "accepted_answers": [
+          "복장옆림프절(parasternal nodes)",
+          "parasternalnodes",
+          "parasternal nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복장옆림프절(parasternal nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 4,
+    "question_type_count": {
+      "fill_blank": 4
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 1,
+      "course_exam_style": 3
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json",
+        "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json",
+        "review_image_url": "./data/images/20260402____1___1__p018__db7b5344243b.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json",
+        "review_image_url": "./data/images/20260402____1___1__p019__0d6463f04db3.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json",
+        "review_image_url": "./data/images/20260402____1___1__p020__35904206cd64.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json",
+        "review_image_url": "./data/images/20260402____1___1__p021__2666c0fd5b09.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json",
+        "review_image_url": "./data/images/20260402____1___1__p022__a6e1999d24d2.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json",
+        "review_image_url": "./data/images/20260402____1___1__p023__2f99d87d2a87.webp"
+      }
+    ],
+    "current_index": 22,
+    "previous_page": 22
+  },
+  "review_image_url": "./data/images/20260402____1___1__p023__2f99d87d2a87.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 23
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "깊은림프(deep lymphatics)는 깊은정맥(deep veins)과 함께 주행한다.",
+        "얕은림프(superficial lymphatics)는 겨드랑림프절(axillary nodes), 복장옆림프절(parasternal nodes), 얕은고샅림프절(superficial inguinal nodes)로 간다.",
+        "깊은림프(deep lymphatics)는 허리림프절(lumbar nodes)과 온엉덩림프절(common iliac lymph nodes)로 간다.",
+        "앞가쪽배벽의 표재림프(superficial lymph)는 배꼽(umbilicus)을 기준으로 위쪽은 주로 겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)로, 아래쪽은 얕은고샅림프절(superficial inguinal nodes)로 배액된다.",
+        "배꼽(umbilicus)은 앞가쪽배벽의 표재림프 배액 방향을 나누는 기준선 역할을 한다.",
+        "앞가쪽배벽의 심부림프(deep lymph)는 심부정맥(deep veins)과 함께 주행하며 lumbar lymph nodes와 common iliac lymph nodes 쪽으로 배액된다.",
+        "겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+        "얕은고샅림프절(superficial inguinal nodes)은 배꼽보다 아래쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "겨드랑림프절의 영어 이름은 axillary nodes이다.",
+        "복장옆림프절의 영어 이름은 parasternal nodes이다.",
+        "얕은고샅림프절의 영어 이름은 superficial inguinal nodes이다.",
+        "얕은림프의 영어 이름은 superficial lymphatics이다.",
+        "위의 영어 이름은 stomach이다.",
+        "온엉덩림프절의 영어 이름은 common iliac lymph nodes이다.",
+        "깊은림프의 영어 이름은 deep lymphatics이다.",
+        "깊은정맥의 영어 이름은 deep veins이다.",
+        "허리림프절의 영어 이름은 lumbar nodes이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 7,
+          "text": "배꼽(umbilicus)은 앞가쪽배벽의 표재림프 배액 방향을 나누는 기준선 역할을 한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 9,
+          "text": "겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)은 배꼽보다 위쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "얕은고샅림프절(superficial inguinal nodes)은 배꼽보다 아래쪽 앞가쪽배벽 표재림프 배액과 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "앞가쪽배벽의 림프흐름을 보여주는 페이지로, 표재림프의 기준선과 심부림프 배액 경로에 대한 필기가 추가되어 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "표재림프(superficial lymph) drains_above_umbilicus_to 겨드랑림프절(axillary nodes)과 복장옆림프절(parasternal nodes)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "표재림프(superficial lymph) drains_below_umbilicus_to 얕은고샅림프절(superficial inguinal nodes)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "배꼽(umbilicus) is_boundary_for 앞가쪽배벽 표재림프 배액 방향",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "deep lymph versus superficial lymph",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 14,
+        "accounted_term_count": 14,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배꼽(umbilicus)",
+          "복장옆림프절(parasternal nodes)",
+          "깊은정맥(deep veins)",
+          "겨드랑림프절(axillary nodes)",
+          "얕은고샅림프절(superficial inguinal nodes)",
+          "얕은림프(superficial lymphatics)",
+          "깊은림프(deep lymphatics)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "샅(perineum)",
+          "위(stomach)",
+          "온엉덩림프절(common iliac lymph nodes)",
+          "허리림프절(lumbar nodes)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "superﬁcial vs deep",
+        "deep lymph는",
+        "deep lymph는 deep vein과 함께 감",
+        "lumbar common iliac lymph node 등으로",
+        "얘가 기준선이 된다"
+      ],
+      "supplemental_ocr_blocks": [
+        "superficialvs deep",
+        "'겨드랑림프절",
+        "axillary nodes)",
+        "목장옆림프절",
+        "parasternal nodes",
+        "함은고살림프절",
+        "superficial inguina)",
+        "nodes",
+        "그림 6-12 앞가쪽배벽의 림프흐름"
+      ],
+      "corrected_page_text": "superﬁcial vs deep\ndeep lymph는\ndeep lymph는 deep vein과 함께 감\nlumbar common iliac lymph node 등으로\n얘가 기준선이 된다",
+      "quality_audit": {
+        "pdf_char_count": 87,
+        "pdf_span_count": 25,
+        "pdf_word_count": 20,
+        "ocr_fragment_count": 14,
+        "pdf_line_count": 5,
+        "ocr_line_count": 13,
+        "merged_line_count": 14,
+        "pdf_only_count": 1,
+        "ocr_only_count": 9,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 5,
+        "ocr_only_line_count": 9,
+        "pdf_alpha_count": 85,
+        "ocr_alpha_count": 100,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

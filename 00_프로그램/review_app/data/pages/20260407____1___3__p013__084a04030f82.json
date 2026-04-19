@@ -1,0 +1,1351 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 13
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_001"
+      ],
+      "prompt": "_____의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도(esophagus)",
+        "accepted_answers": [
+          "식도(esophagus)",
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도(esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_001_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_001"
+      ],
+      "prompt": "_____의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도(esophagus)",
+        "accepted_answers": [
+          "식도(esophagus)",
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도(esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_001"
+      ],
+      "prompt": "식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), _____으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥막(adventitia)",
+        "accepted_answers": [
+          "바깥막(adventitia)",
+          "adventitia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥막(adventitia)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_001_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_001"
+      ],
+      "prompt": "식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), _____으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥막(adventitia)",
+        "accepted_answers": [
+          "바깥막(adventitia)",
+          "adventitia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥막(adventitia)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_002"
+      ],
+      "prompt": "_____은 점막(mucosa)의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고유판(lamina propria)",
+        "accepted_answers": [
+          "고유판(lamina propria)",
+          "laminapropria",
+          "lamina propria"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고유판(lamina propria)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고유판(lamina propria)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_002_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_002"
+      ],
+      "prompt": "_____은 점막(mucosa)의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고유판(lamina propria)",
+        "accepted_answers": [
+          "고유판(lamina propria)",
+          "laminapropria",
+          "lamina propria"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고유판(lamina propria)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_002",
+        "component_type": "histology_zoom"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고유판(lamina propria)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_002"
+      ],
+      "prompt": "고유판(lamina propria)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고유판(lamina propria)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_002_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_002"
+      ],
+      "prompt": "고유판(lamina propria)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고유판(lamina propria)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_003"
+      ],
+      "prompt": "_____은 점막(mucosa)의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막근육판(muscularis mucosae)",
+        "accepted_answers": [
+          "점막근육판(muscularis mucosae)",
+          "muscularismucosae",
+          "muscularis mucosae"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막근육판(muscularis mucosae)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_003_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_003"
+      ],
+      "prompt": "_____은 점막(mucosa)의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막근육판(muscularis mucosae)",
+        "accepted_answers": [
+          "점막근육판(muscularis mucosae)",
+          "muscularismucosae",
+          "muscularis mucosae"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막근육판(muscularis mucosae)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_002",
+        "component_type": "histology_zoom"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_003"
+      ],
+      "prompt": "점막근육판(muscularis mucosae)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_003_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_003"
+      ],
+      "prompt": "점막근육판(muscularis mucosae)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_004"
+      ],
+      "prompt": "샘(gland)은 _____에 예외적으로 존재할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘(gland)은 점막밑층(submucosa)에 예외적으로 존재할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_004_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_004"
+      ],
+      "prompt": "샘(gland)은 _____에 예외적으로 존재할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘(gland)은 점막밑층(submucosa)에 예외적으로 존재할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_005"
+      ],
+      "prompt": "_____는 점막밑층(submucosa)에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑신경얼기(submucosal nerve plexus)",
+        "accepted_answers": [
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "submucosalnerveplexus",
+          "submucosal nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑신경얼기(submucosal nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_005_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_005"
+      ],
+      "prompt": "_____는 점막밑층(submucosa)에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑신경얼기(submucosal nerve plexus)",
+        "accepted_answers": [
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "submucosalnerveplexus",
+          "submucosal nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑신경얼기(submucosal nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_003",
+        "component_type": "histology_zoom"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_005"
+      ],
+      "prompt": "점막밑신경얼기(submucosal nerve plexus)는 _____에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_005_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_005"
+      ],
+      "prompt": "점막밑신경얼기(submucosal nerve plexus)는 _____에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_006"
+      ],
+      "prompt": "_____은 근육층(muscularis)의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속둘레층(inner circular)",
+        "accepted_answers": [
+          "속둘레층(inner circular)",
+          "innercircular",
+          "inner circular"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속둘레층(inner circular)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_006"
+      ],
+      "prompt": "속둘레층(inner circular)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_006_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_006"
+      ],
+      "prompt": "속둘레층(inner circular)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_007"
+      ],
+      "prompt": "바깥세로층(outer longitudinal)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 바깥세로층(outer longitudinal)은 근육층(muscularis)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_007"
+      ],
+      "prompt": "바깥세로층(outer longitudinal)은 _____의 구성요소이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 바깥세로층(outer longitudinal)은 근육층(muscularis)의 구성요소이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_008"
+      ],
+      "prompt": "_____는 근육층(muscularis) 사이에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층신경얼기(myenteric nerve plexus)",
+        "accepted_answers": [
+          "근육층신경얼기(myenteric nerve plexus)",
+          "myentericnerveplexus",
+          "myenteric nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층신경얼기(myenteric nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_008_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_008"
+      ],
+      "prompt": "_____는 근육층(muscularis) 사이에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층신경얼기(myenteric nerve plexus)",
+        "accepted_answers": [
+          "근육층신경얼기(myenteric nerve plexus)",
+          "myentericnerveplexus",
+          "myenteric nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층신경얼기(myenteric nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_003",
+        "component_type": "histology_zoom"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_008"
+      ],
+      "prompt": "근육층신경얼기(myenteric nerve plexus)는 _____ 사이에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_008_004",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_008"
+      ],
+      "prompt": "근육층신경얼기(myenteric nerve plexus)는 _____ 사이에 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육층(muscularis)",
+        "accepted_answers": [
+          "근육층(muscularis)",
+          "muscularis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육층(muscularis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p013_ai_page_read::figure_001",
+        "component_type": "histology_cross_section"
+      },
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p013_course_배_필기본_013_ai_corrected_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_013_ai_corrected_009"
+      ],
+      "prompt": "식도의 중간 1/3은 가로무늬근(skeletal muscle)과 _____이 함께 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "민무늬근(smooth muscle)",
+        "accepted_answers": [
+          "민무늬근(smooth muscle)",
+          "smoothmuscle",
+          "smooth muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "민무늬근(smooth muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도의 중간 1/3은 가로무늬근(skeletal muscle)과 민무늬근(smooth muscle)이 함께 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 28,
+    "question_type_count": {
+      "fill_blank": 15,
+      "image_grounded_fill_blank": 13
+    },
+    "question_focus_count": {
+      "course_exam_style": 28
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__de0709e4e21e.json",
+        "review_image_url": "./data/images/20260407____1___3__p001__de0709e4e21e.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__e4a8dd59101a.json",
+        "review_image_url": "./data/images/20260407____1___3__p002__e4a8dd59101a.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__cf41b584bf74.json",
+        "review_image_url": "./data/images/20260407____1___3__p003__cf41b584bf74.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__9f4000acfc67.json",
+        "review_image_url": "./data/images/20260407____1___3__p004__9f4000acfc67.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__232cf053c92d.json",
+        "review_image_url": "./data/images/20260407____1___3__p005__232cf053c92d.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 31,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__54093efa185f.json",
+        "review_image_url": "./data/images/20260407____1___3__p006__54093efa185f.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__a70a40625276.json",
+        "review_image_url": "./data/images/20260407____1___3__p007__a70a40625276.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__d6f8d7e95b67.json",
+        "review_image_url": "./data/images/20260407____1___3__p008__d6f8d7e95b67.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 34,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__23c8755e9e36.json",
+        "review_image_url": "./data/images/20260407____1___3__p009__23c8755e9e36.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__0937ba3eb753.json",
+        "review_image_url": "./data/images/20260407____1___3__p010__0937ba3eb753.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p011__02b6aaed2df9.json",
+        "review_image_url": "./data/images/20260407____1___3__p011__02b6aaed2df9.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__b0e8e790c345.json",
+        "review_image_url": "./data/images/20260407____1___3__p012__b0e8e790c345.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 28,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__084a04030f82.json",
+        "review_image_url": "./data/images/20260407____1___3__p013__084a04030f82.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__56b1e637760c.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__305c7bf2e716.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__2caf5b0ef729.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 43,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__48d0502928ee.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__d42f2c88fe50.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__948068c61e82.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__19681aeccb32.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__512643396465.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__c5d8c9b00c71.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__2fdf7a99f97e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__c15c08ca2099.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__636f700e4408.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4fef9b65f4a6.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__d65f63ee10db.json"
+      }
+    ],
+    "current_index": 12,
+    "previous_page": 12,
+    "next_page": 14
+  },
+  "review_image_url": "./data/images/20260407____1___3__p013__084a04030f82.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 13
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다.",
+        "고유판(lamina propria)은 점막층(mucosa)의 구성요소이다.",
+        "점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다.",
+        "샘(gland)은 점막밑층(submucosa)에 예외적으로 존재할 수 있다.",
+        "점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다.",
+        "속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다.",
+        "바깥세로층(outer longitudinal)은 근육층(muscularis)의 구성요소이다.",
+        "근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다.",
+        "식도의 중간 1/3은 가로무늬근(skeletal muscle)과 민무늬근(smooth muscle)이 함께 존재한다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "점막밑층의 영어 이름은 submucosa이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "간의 영어 이름은 liver이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "점액의 영어 이름은 mucin이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "점막근육층의 영어 이름은 muscularis mucosae이다.",
+        "바깥세로층의 영어 이름은 outer longitudinal layer이다.",
+        "위의 영어 이름은 stomach이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 25,
+          "text": "식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 39,
+          "text": "식도(esophagus)의 벽은 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 바깥막(adventitia)으로 구분된다. 식도의 점막(epithelium of esophagus)은 비각질중층편평상피(stratified squamous non-keratinized epithelium)이다. 고유판(lamina propria)은 점막층(mucosa)의 구성요소이다. 점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다. 점막근육판(muscularis mucosae)은 세로방향(longitudinal)으로 배열된 한 층의 민무늬근(smooth muscle)이다. 샘(gland)은 점막밑층(submucosa)에 예외적으로 존재할 수 있다. 점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다. 속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다. 바깥세로층(outer longitudinal)은 근육층(muscularis)의 구성요소이다. 근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다. 식도의 위쪽 1/3은 가로무늬근(skeletal muscle)으로 이루어진다. 식도의 중간 1/3은 가로무늬근(skeletal muscle)과 민무늬근(smooth muscle)이 함께 존재한다. 식도의 아래쪽 1/3은 민무늬근(smooth muscle)으로 이루어진다. 바깥막(adventitia)은 식도(esophagus)의 바깥층이다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "<식도의 점막층 특징>",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "stratified squamous non-keratinized epithelium",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "lamnina propria예l서 다양한 gland 관찰 가능 점막(Mucosa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "'muscularis mucosae논 longitudinal 한 총의",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "inner circular outer longitudinal 바e막(Adventitia)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "'식도는 길이가 긴 기관으로 첫 1/3 지점은 skeletal",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "muscle 그다음 1/3은 skeletal과 smooth muscle 혼재",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "'myenteric nerve plexus 존재 (a) 절단면에서 소화관의 4개의 주요 총이 명확히 보인다: 식도의 점막은 (b) 고내움 현미경상에서 점막은 중중편평상페터로 되어 있음올 불수 잎",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "세로로 주름이 집혀 있으머 속공간율 크게 차지하고 있다: (X1O; H:E) 으려, 흩어진 림프구들 가진 고유프LP)과 점막근육관(MM) 의 민무늬근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "(a) 식도의 세로절단면에서 비각질중증편평상피Ss)와 고유프LP} , 점막 (b) 식도틀 따라 중간의 근육충올 보여주는 가로절단면에서는 바깥증 속",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "근육-MM의 민무늬근육은 관찰활 수 있다: 점막 아래는 속공간의 표면 의 민무늬근육-성유의Sm)와 커다란 빼다근육 혹은 가로무늬근-St의",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "식도의 점막(epithelium of esophagus)은 비각질중층편평상피(stratified squamous non-keratinized epithelium)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "고유판(lamina propria)은 점막층(mucosa)의 구성요소이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "점막근육판(muscularis mucosae)은 점막층(mucosa)의 구성요소이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "점막근육판(muscularis mucosae)은 세로방향(longitudinal)으로 배열된 한 층의 민무늬근(smooth muscle)이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "점막밑신경얼기(submucosal nerve plexus)는 점막밑층(submucosa)에 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "속둘레층(inner circular)은 근육층(muscularis)의 구성요소이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "바깥세로층(outer longitudinal)은 근육층(muscularis)의 구성요소이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "근육층신경얼기(myenteric nerve plexus)는 근육층(muscularis) 사이에 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "식도의 위쪽 1/3은 가로무늬근(skeletal muscle)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "식도의 중간 1/3은 가로무늬근(skeletal muscle)과 민무늬근(smooth muscle)이 함께 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "식도의 아래쪽 1/3은 민무늬근(smooth muscle)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "바깥막(adventitia)은 식도(esophagus)의 바깥층이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "식도(esophagus)의 조직학과 벽층 구조를 설명하는 페이지로, 필기본에는 점막의 상피 유형, 점막근육판의 배열, 점막밑층의 샘과 신경얼기, 근육층의 층과 위쪽·중간·아래쪽 1/3의 근육 종류가 보강되어 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 41,
+          "text": "점막근육판(muscularis mucosae) is_oriented_as 세로방향(longitudinal)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 42,
+          "text": "점막밑신경얼기(submucosal nerve plexus) is_located_in 점막밑층(submucosa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "근육층신경얼기(myenteric nerve plexus) is_located_between 근육층(muscularis)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 28,
+        "accounted_term_count": 26,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.929,
+        "accounted_terms": [
+          "존재(a)",
+          "점막(b)",
+          "식도(esophagus)",
+          "점막(mucosa)",
+          "점막밑층(submucosa)",
+          "근육층(muscularis)",
+          "바깥막(adventitia)",
+          "점막고유층(lamina propria)",
+          "점막근육층(muscularis mucosae)",
+          "세로방향(longitudinal)",
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "속둘레층(inner circular)",
+          "바깥세로층(outer longitudinal)",
+          "근육층신경얼기(myenteric nerve plexus)",
+          "민무늬근(smooth muscle)",
+          "상피(epithelium)",
+          "근육(muscles)",
+          "복막(peritoneum)",
+          "기관(trachea)",
+          "신경(nerves)",
+          "간(liver)",
+          "배(abdominal region)",
+          "점액(mucin)",
+          "근육층(muscularis externa)",
+          "바깥세로층(outer longitudinal layer)",
+          "위(stomach)"
+        ],
+        "unresolved_terms": [
+          "점막근육관(MM)",
+          "비각질중층편평상피(stratified squamous non-keratinized epithelium)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "<식도의 점막층 특징>",
+        "stratified squamous non-keratinized epithelium",
+        "(대표적 예시 여성의 질도 해당)",
+        "lamnina propria예l서 다양한 gland 관찰 가능 점막(Mucosa)",
+        "'muscularis mucosae논 longitudinal 한 총의",
+        "smooth muscle로 되어 있음(inner circular 형태 X)",
+        "<점막믿종> (Submucosa)",
+        "'예외적으로 gland가 존재",
+        "'submucosal plexus 관찰 가능 근육형Muscularis)",
+        "두껍게 구성 '복막 안이 아니므로 adventiiy",
+        "inner circular outer longitudinal 바e막(Adventitia)",
+        "'식도는 길이가 긴 기관으로 첫 1/3 지점은 skeletal",
+        "muscle 그다음 1/3은 skeletal과 smooth muscle 혼재",
+        "마지막 1/3은 smooth muscle로 이루어짐",
+        "'myenteric nerve plexus 존재 (a) 절단면에서 소화관의 4개의 주요 총이 명확히 보인다: 식도의 점막은 (b) 고내움 현미경상에서 점막은 중중편평상페터로 되어 있음올 불수 잎",
+        "세로로 주름이 집혀 있으머 속공간율 크게 차지하고 있다: (X1O; H:E) 으려, 흩어진 림프구들 가진 고유프LP)과 점막근육관(MM) 의 민무늬근",
+        "<바깥막> 육 배열올 관찰할 수 있다 (X65; H8E)",
+        "별로 중요하지 않음",
+        "'GL: St Sm",
+        "(a) 식도의 세로절단면에서 비각질중증편평상피Ss)와 고유프LP} , 점막 (b) 식도틀 따라 중간의 근육충올 보여주는 가로절단면에서는 바깥증 속",
+        "근육-MM의 민무늬근육은 관찰활 수 있다: 점막 아래는 속공간의 표면 의 민무늬근육-성유의Sm)와 커다란 빼다근육 혹은 가로무늬근-St의",
+        "으로 분비괜이을 통해 점액올 분비하는 식도점액셈G니올 가진 점막밑 조합율 본 수 있는데; 여기서느 가로로 잘려 있다; 수의적인 조절이 가능",
+        "종이다: (X4O; HBE) 한 근육으로부터 지율적인 조절이 되는 형태의 이러한 버이는 삼림 기전",
+        "(swallowing rnechanismnj에 있어 중요하다: (X200; H8E)"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 15-12 식도",
+        "점악믿층",
+        "<근육종>",
+        "그림 15-13 식도",
+        "ss",
+        "LP St",
+        "MM",
+        "Sm",
+        "MM"
+      ],
+      "corrected_page_text": "<식도의 점막층 특징>\nstratified squamous non-keratinized epithelium\n(대표적 예시 여성의 질도 해당)\nlamnina propria예l서 다양한 gland 관찰 가능 점막(Mucosa)\n'muscularis mucosae논 longitudinal 한 총의\nsmooth muscle로 되어 있음(inner circular 형태 X)\n<점막믿종> (Submucosa)\n'예외적으로 gland가 존재\n'submucosal plexus 관찰 가능 근육형Muscularis)\n두껍게 구성 '복막 안이 아니므로 adventiiy\ninner circular outer longitudinal 바e막(Adventitia)\n'식도는 길이가 긴 기관으로 첫 1/3 지점은 skeletal\nmuscle 그다음 1/3은 skeletal과 smooth muscle 혼재\n마지막 1/3은 smooth muscle로 이루어짐\n'myenteric nerve plexus 존재 (a) 절단면에서 소화관의 4개의 주요 총이 명확히 보인다: 식도의 점막은 (b) 고내움 현미경상에서 점막은 중중편평상페터로 되어 있음올 불수 잎\n세로로 주름이 집혀 있으머 속공간율 크게 차지하고 있다: (X1O; H:E) 으려, 흩어진 림프구들 가진 고유프LP)과 점막근육관(MM) 의 민무늬근\n<바깥막> 육 배열올 관찰할 수 있다 (X65; H8E)\n별로 중요하지 않음\n'GL: St Sm\n(a) 식도의 세로절단면에서 비각질중증편평상피Ss)와 고유프LP} , 점막 (b) 식도틀 따라 중간의 근육충올 보여주는 가로절단면에서는 바깥증 속\n근육-MM의 민무늬근육은 관찰활 수 있다: 점막 아래는 속공간의 표면 의 민무늬근육-성유의Sm)와 커다란 빼다근육 혹은 가로무늬근-St의\n으로 분비괜이을 통해 점액올 분비하는 식도점액셈G니올 가진 점막밑 조합율 본 수 있는데; 여기서느 가로로 잘려 있다; 수의적인 조절이 가능\n종이다: (X4O; HBE) 한 근육으로부터 지율적인 조절이 되는 형태의 이러한 버이는 삼림 기전\n(swallowing rnechanismnj에 있어 중요하다: (X200; H8E)",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 48,
+        "pdf_line_count": 0,
+        "ocr_line_count": 33,
+        "merged_line_count": 33,
+        "pdf_only_count": 0,
+        "ocr_only_count": 33,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 33,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 800,
+        "promoted_ocr_only_count": 24
+      }
+    }
+  }
+}

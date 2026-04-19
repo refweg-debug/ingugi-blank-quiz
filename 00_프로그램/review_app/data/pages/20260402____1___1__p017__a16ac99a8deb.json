@@ -1,0 +1,951 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 17
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_001"
+      ],
+      "prompt": "_____의 식스팩 모양은 나눔힘줄(tendinous intersections) 때문에 나타난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은근(rectus abdominis)의 식스팩 모양은 나눔힘줄(tendinous intersections) 때문에 나타난다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_001"
+      ],
+      "prompt": "배곧은근(rectus abdominis)의 식스팩 모양은 _____ 때문에 나타난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "나눔힘줄(tendinous intersections)",
+        "accepted_answers": [
+          "나눔힘줄(tendinous intersections)",
+          "tendinous intersections"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "나눔힘줄(tendinous intersections)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은근(rectus abdominis)의 식스팩 모양은 나눔힘줄(tendinous intersections) 때문에 나타난다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_002"
+      ],
+      "prompt": "_____은 앞톱니근(serratus anterior muscle)과 맞물린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥배빗근(external abdominal oblique muscle)",
+        "accepted_answers": [
+          "바깥배빗근(external abdominal oblique muscle)",
+          "external abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥배빗근(external abdominal oblique muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 바깥배빗근(external abdominal oblique muscle)은 앞톱니근(serratus anterior muscle)과 맞물린다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_002"
+      ],
+      "prompt": "바깥배빗근(external abdominal oblique muscle)은 _____과 맞물린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞톱니근(serratus anterior muscle)",
+        "accepted_answers": [
+          "앞톱니근(serratus anterior muscle)",
+          "serratus anterior muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞톱니근(serratus anterior muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 바깥배빗근(external abdominal oblique muscle)은 앞톱니근(serratus anterior muscle)과 맞물린다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_003"
+      ],
+      "prompt": "_____과 바깥배빗근(external abdominal oblique muscle)의 맞물림은 톱니 모양 경계를 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞톱니근(serratus anterior muscle)",
+        "accepted_answers": [
+          "앞톱니근(serratus anterior muscle)",
+          "serratus anterior muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞톱니근(serratus anterior muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞톱니근(serratus anterior muscle)과 바깥배빗근(external abdominal oblique muscle)의 맞물림은 톱니 모양 경계를 만든다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_003"
+      ],
+      "prompt": "앞톱니근(serratus anterior muscle)과 _____의 맞물림은 톱니 모양 경계를 만든다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥배빗근(external abdominal oblique muscle)",
+        "accepted_answers": [
+          "바깥배빗근(external abdominal oblique muscle)",
+          "external abdominal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥배빗근(external abdominal oblique muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞톱니근(serratus anterior muscle)과 바깥배빗근(external abdominal oblique muscle)의 맞물림은 톱니 모양 경계를 만든다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_004"
+      ],
+      "prompt": "_____은 백색선(linea alba)을 긴장시킨다.",
+      "answer": {
+        "format": "single_text",
+        "value": "피라미드근(pyramidalis)",
+        "accepted_answers": [
+          "피라미드근(pyramidalis)",
+          "pyramidalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "피라미드근(pyramidalis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 피라미드근(pyramidalis)은 백색선(linea alba)을 긴장시킨다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_004"
+      ],
+      "prompt": "피라미드근(pyramidalis)은 _____을 긴장시킨다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 피라미드근(pyramidalis)은 백색선(linea alba)을 긴장시킨다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_005"
+      ],
+      "prompt": "_____은 사람의 약 20%에서는 없을 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "피라미드근(pyramidalis)",
+        "accepted_answers": [
+          "피라미드근(pyramidalis)",
+          "pyramidalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "피라미드근(pyramidalis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 피라미드근(pyramidalis)은 사람의 약 20%에서는 없을 수 있다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_006"
+      ],
+      "prompt": "_____은 배곧은근(rectus abdominis)을 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은집(rectus sheath)은 배곧은근(rectus abdominis)을 포함한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_006"
+      ],
+      "prompt": "배곧은집(rectus sheath)은 _____을 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은근(rectus abdominis)",
+        "accepted_answers": [
+          "배곧은근(rectus abdominis)",
+          "rectus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은근(rectus abdominis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은집(rectus sheath)은 배곧은근(rectus abdominis)을 포함한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_007"
+      ],
+      "prompt": "_____은 피라미드근(pyramidalis)을 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)",
+          "rectus sheath"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은집(rectus sheath)은 피라미드근(pyramidalis)을 포함한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_course_배_필기본_017_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_017_ai_corrected_007"
+      ],
+      "prompt": "배곧은집(rectus sheath)은 _____을 포함한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "피라미드근(pyramidalis)",
+        "accepted_answers": [
+          "피라미드근(pyramidalis)",
+          "pyramidalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "피라미드근(pyramidalis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배곧은집(rectus sheath)은 피라미드근(pyramidalis)을 포함한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_001_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배곧은근(rectus abdominis)을 여러 구획으로 나누는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "나눔힘줄(tendinous intersections)",
+        "accepted_answers": [
+          "나눔힘줄(tendinous intersections)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "나눔힘줄(tendinous intersections)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 나눔힘줄(tendinous intersections) / predicate: divides / object: 배곧은근(rectus abdominis)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배곧은근(rectus abdominis)을 둘러싸는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배곧은근(rectus abdominis) / predicate: enclosed_by / object: 배곧은집(rectus sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "앞톱니근(serratus anterior muscle)과 맞물리는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥배빗근(external abdominal oblique muscle)",
+        "accepted_answers": [
+          "바깥배빗근(external abdominal oblique muscle)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥배빗근(external abdominal oblique muscle)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 바깥배빗근(external abdominal oblique muscle) / predicate: interdigitates_with / object: 앞톱니근(serratus anterior muscle)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "피라미드근(pyramidalis)이 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 피라미드근(pyramidalis) / predicate: lies_within / object: 배곧은집(rectus sheath)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "피라미드근(pyramidalis)을 긴장시키는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 피라미드근(pyramidalis) / predicate: tightens / object: 백색선(linea alba)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배곧은근(rectus abdominis)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배곧은집(rectus sheath) / predicate: contains / object: 배곧은근(rectus abdominis)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "피라미드근(pyramidalis)를 포함하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배곧은집(rectus sheath)",
+        "accepted_answers": [
+          "배곧은집(rectus sheath)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배곧은집(rectus sheath)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배곧은집(rectus sheath) / predicate: contains / object: 피라미드근(pyramidalis)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p017_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "식스팩 모양(six-pack appearance)을 형성하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "나눔힘줄(tendinous intersections)",
+        "accepted_answers": [
+          "나눔힘줄(tendinous intersections)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "나눔힘줄(tendinous intersections)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p017_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 나눔힘줄(tendinous intersections) / predicate: forms / object: 식스팩 모양(six-pack appearance)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 21,
+    "question_type_count": {
+      "fill_blank": 13,
+      "image_grounded_fill_blank": 8
+    },
+    "question_focus_count": {
+      "course_exam_style": 13,
+      "visual_relation_understanding": 8
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json",
+        "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 16,
+    "previous_page": 16,
+    "next_page": 18
+  },
+  "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 17
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배곧은근(rectus abdominis)의 식스팩 모양은 나눔힘줄(tendinous intersections) 때문에 나타난다.",
+        "바깥배빗근(external abdominal oblique muscle)은 앞톱니근(serratus anterior muscle)과 맞물린다.",
+        "앞톱니근(serratus anterior muscle)과 바깥배빗근(external abdominal oblique muscle)의 맞물림은 톱니 모양 경계를 만든다.",
+        "피라미드근(pyramidalis)은 백색선(linea alba)을 긴장시킨다.",
+        "피라미드근(pyramidalis)은 사람의 약 20%에서는 없을 수 있다.",
+        "배곧은집(rectus sheath)은 배곧은근(rectus abdominis)을 포함한다.",
+        "배곧은집(rectus sheath)은 피라미드근(pyramidalis)을 포함한다.",
+        "피라미드근(pyramidalis)은 약 20%의 사람에게는 없을 수 있다.",
+        "배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+        "배곧은집(rectus sheath) 안에는 피라미드근(pyramidalis)이 들어 있다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "피라미드근의 영어 이름은 pyramidalis이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "나눔힘줄의 영어 이름은 tendinous intersections이다.",
+        "배곧은집의 영어 이름은 rectus sheath이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 6,
+          "text": "2096 사람에계는 pyramidalis 근육 없다:",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "external abdominal oblique m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "나눔힘줄(tendinous intersections)은 배곧은근(rectus abdominis)을 여러 구획으로 나눈다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "바깥배빗근(external abdominal oblique muscle)은 앞톱니근(serratus anterior muscle)과 맞물린다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "앞톱니근(serratus anterior muscle)과 바깥배빗근(external abdominal oblique muscle)의 맞물림은 톱니 모양 경계를 만든다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "피라미드근(pyramidalis)은 백색선(linea alba)을 긴장시킨다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "나눔힘줄(tendinous intersections) divides 배곧은근(rectus abdominis)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "바깥배빗근(external abdominal oblique muscle) interdigitates_with 앞톱니근(serratus anterior muscle)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "피라미드근(pyramidalis) tightens 백색선(linea alba)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 13,
+        "accounted_term_count": 12,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.923,
+        "accounted_terms": [
+          "배곧은근(rectus abdominis)",
+          "나눔힘줄(tendinous intersections)",
+          "배곧은집(rectus sheath)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "앞톱니근(serratus anterior muscle)",
+          "피라미드근(pyramidalis)",
+          "백색선(linea alba)",
+          "바깥빗근(external oblique muscle)",
+          "근육(muscles)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "식스팩모양(six-pack appearance)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "external oblique muscle이깍지끼듯맞물림",
+        "식스팩",
+        "20% 사람에게는 pyramidalis 근육 없다",
+        "linea alba 잡아땡겨주는 역할",
+        "latissimus dorsi m",
+        "나눈힘줄 external oblique muscleol 깎지끼듯 맞물림",
+        "tendinous intersections",
+        "rectus sheath (cut edges)",
+        "rectus sheath",
+        "external abdominal oblique m",
+        "2096 사람에계는 pyramidalis 근육 없다:",
+        "그림 6-7. 앞가쪽배벽올 구성하는 근육들",
+        "왼쪽 배곧은근집올 열어서 배곧은근올 노출하없다."
+      ],
+      "supplemental_ocr_blocks": [
+        "넓은등근",
+        "앞톱니근",
+        "배곧은근집잘린 면)",
+        "배곧은근집",
+        "배바깥빗근",
+        "'식스팩"
+      ],
+      "corrected_page_text": "external oblique muscle이깍지끼듯맞물림\n식스팩\n20% 사람에게는 pyramidalis 근육 없다\nlinea alba 잡아땡겨주는 역할\nlatissimus dorsi m\n나눈힘줄 external oblique muscleol 깎지끼듯 맞물림\ntendinous intersections\nrectus sheath (cut edges)\nrectus sheath\nexternal abdominal oblique m\n2096 사람에계는 pyramidalis 근육 없다:\n그림 6-7. 앞가쪽배벽올 구성하는 근육들\n왼쪽 배곧은근집올 열어서 배곧은근올 노출하없다.",
+      "quality_audit": {
+        "pdf_char_count": 73,
+        "pdf_span_count": 25,
+        "pdf_word_count": 13,
+        "ocr_fragment_count": 18,
+        "pdf_line_count": 4,
+        "ocr_line_count": 17,
+        "merged_line_count": 19,
+        "pdf_only_count": 2,
+        "ocr_only_count": 15,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 4,
+        "ocr_only_line_count": 15,
+        "pdf_alpha_count": 69,
+        "ocr_alpha_count": 214,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

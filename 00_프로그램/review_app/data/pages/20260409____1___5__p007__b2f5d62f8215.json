@@ -1,0 +1,683 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 7
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "_____과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "온쓸개관(common bile duct)",
+        "accepted_answers": [
+          "온쓸개관(common bile duct)",
+          "common bile duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "온쓸개관(common bile duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 _____은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자관(pancreatic duct)",
+        "accepted_answers": [
+          "이자관(pancreatic duct)",
+          "pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자관(pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 _____를 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간췌팽대(hepatopancreatic ampulla)",
+        "accepted_answers": [
+          "간췌팽대(hepatopancreatic ampulla)",
+          "hepatopancreatic ampulla",
+          "ampulla of Vater"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간췌팽대(hepatopancreatic ampulla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_002"
+      ],
+      "prompt": "_____는 샘창자 둘째부분(descending part of duodenum)의 큰샘창자유두(major duodenal papilla)로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간췌팽대(hepatopancreatic ampulla)",
+        "accepted_answers": [
+          "간췌팽대(hepatopancreatic ampulla)",
+          "hepatopancreatic ampulla",
+          "ampulla of Vater"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간췌팽대(hepatopancreatic ampulla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간췌팽대(hepatopancreatic ampulla)는 샘창자 둘째부분(descending part of duodenum)의 큰샘창자유두(major duodenal papilla)로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_002"
+      ],
+      "prompt": "간췌팽대(hepatopancreatic ampulla)는 _____의 큰샘창자유두(major duodenal papilla)로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간췌팽대(hepatopancreatic ampulla)는 샘창자 둘째부분(descending part of duodenum)의 큰샘창자유두(major duodenal papilla)로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_002"
+      ],
+      "prompt": "간췌팽대(hepatopancreatic ampulla)는 샘창자 둘째부분(descending part of duodenum)의 _____로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰샘창자유두(major duodenal papilla)",
+        "accepted_answers": [
+          "큰샘창자유두(major duodenal papilla)",
+          "major duodenal papilla"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰샘창자유두(major duodenal papilla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 간췌팽대(hepatopancreatic ampulla)는 샘창자 둘째부분(descending part of duodenum)의 큰샘창자유두(major duodenal papilla)로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_003"
+      ],
+      "prompt": "_____은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부이자관(accessory pancreatic duct)",
+        "accepted_answers": [
+          "부이자관(accessory pancreatic duct)",
+          "accessory pancreatic duct",
+          "minor pancreatic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부이자관(accessory pancreatic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_003"
+      ],
+      "prompt": "부이자관(accessory pancreatic duct)은 _____를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은샘창자유두(minor duodenal papilla)",
+        "accepted_answers": [
+          "작은샘창자유두(minor duodenal papilla)",
+          "minor duodenal papilla"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은샘창자유두(minor duodenal papilla)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_003"
+      ],
+      "prompt": "부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 _____으로 열린다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자 둘째부분(descending part of duodenum)",
+        "accepted_answers": [
+          "샘창자 둘째부분(descending part of duodenum)",
+          "descending part",
+          "descending part of duodenum",
+          "2nd part",
+          "2nd part of duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자 둘째부분(descending part of duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p007_course_배_필기본_007_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_004"
+      ],
+      "prompt": "담즙(bile)이나 이자액(pancreatic juice)의 배출이 막혀 역류하면 _____이 생길 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자염(pancreatitis)",
+        "accepted_answers": [
+          "이자염(pancreatitis)",
+          "pancreatitis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자염(pancreatitis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 담즙이나 이자액의 배출이 막혀 역류하면 이자염(pancreatitis)이 생길 수 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 10,
+    "question_type_count": {
+      "fill_blank": 10
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 10
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json",
+        "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 6,
+    "next_page": 8
+  },
+  "review_image_url": "./data/images/20260409____1___5__p007__b2f5d62f8215.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 7
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "온쓸개관(common bile duct)과 이자관(pancreatic duct)은 합쳐져 간췌팽대(hepatopancreatic ampulla)를 이룬다.",
+        "간췌팽대(hepatopancreatic ampulla)는 샘창자 둘째부분(descending part of duodenum)의 큰샘창자유두(major duodenal papilla)로 열린다.",
+        "부이자관(accessory pancreatic duct)은 작은샘창자유두(minor duodenal papilla)를 통해 샘창자 둘째부분(descending part of duodenum)으로 열린다.",
+        "담즙이나 이자액의 배출이 막혀 역류하면 이자염(pancreatitis)이 생길 수 있다.",
+        "이자관의 영어 이름은 pancreatic duct이다.",
+        "작은샘창자유두의 영어 이름은 minor duodenal papilla이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "담즙의 영어 이름은 bile이다.",
+        "온쓸개관의 영어 이름은 common bile duct이다.",
+        "주이자관의 영어 이름은 major pancreatic duct이다.",
+        "담관의 영어 이름은 bile duct이다.",
+        "간췌팽대의 영어 이름은 hepatopancreatic ampulla이다.",
+        "심장의 영어 이름은 heart이다.",
+        "이자염의 영어 이름은 pancreatitis이다.",
+        "쓸개돌의 영어 이름은 gallstone이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "이자액의 영어 이름은 pancreatic juice이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "샘창자 둘째부분의 영어 이름은 descending part of duodenum이다.",
+        "큰샘창자유두의 영어 이름은 major duodenal papilla이다.",
+        "부이자관의 영어 이름은 accessory pancreatic duct이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 7,
+          "text": "=> main pancreatic duct, common bile duct 합해진것이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "main pancreatic duct 의조임근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "-> pancreatic juice, bile 모두 여기로 배출",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "the flow of pancreatic juice and bile is regulated near the pancreatic duct opening and ampulla",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 18,
+        "accounted_term_count": 18,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "이자관(pancreatic duct)",
+          "작은샘창자유두(minor duodenal papilla)",
+          "이자(pancreas)",
+          "담즙(bile)",
+          "온쓸개관(common bile duct)",
+          "주이자관(major pancreatic duct)",
+          "담관(bile duct)",
+          "간췌팽대(hepatopancreatic ampulla)",
+          "심장(heart)",
+          "이자염(pancreatitis)",
+          "쓸개돌(gallstone)",
+          "배(abdominal region)",
+          "이자액(pancreatic juice)",
+          "샘창자(duodenum)",
+          "샘창자 둘째부분(descending part of duodenum)",
+          "큰샘창자유두(major duodenal papilla)",
+          "부이자관(accessory pancreatic duct)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Pancreatic duct system",
+        "- 머리쪽에서생성되는관",
+        "- minor duodenal papilla 에서열림",
+        "o",
+        "tail에서시작해서이자실질따라서",
+        "headcommon bile duct까지가서관이아래쪽으로꺾이면서와합해짐",
+        "=> main pancreatic duct, common bile duct 합해진것이",
+        "hepatopancreatic ampulla",
+        "hepatopancreatic ampulladuodenumdescending part는의에있는",
+        "major duodenal papilla에열림",
+        "작은심장자유두 주이자관main pancreatic duct)",
+        "main pancreatic duct 의조임근",
+        "# pancreatitis 이자염",
+        "ampulla 합해진에서도조절",
+        "- 자기의소화액에의해염증생김",
+        "- gallstone(, ) 담석쓸개돌이잘생기는데특히여기에잘낌",
+        "- 소화액이못나가고역류해서생기는게이자염",
+        "- bile 이가서염증일으키기도",
+        "-> pancreatic juice, bile 모두 여기로 배출",
+        "- , steroid , , 대개과음남용감염외상에의해발병"
+      ],
+      "supplemental_ocr_blocks": [
+        "온쓸개관bile duct)",
+        "'머리쪽에서 생성되논 관",
+        "(minor duodenal papilla)",
+        "tail예서 시작해서 이자 실질 따라서",
+        "온쓸개이자관광대 head까지 가서 관이 아래쪽으로 꺾이면서 common bile duct와 합해짐",
+        "(hepatopancreatic ampulla) => main pancreatic duct; common bile duct 합해진 것이",
+        "근심창자유두 hepatopancreatic ampulla눈duodenum의 descending part에 있는",
+        "(major duodenal papilla) Jhajor duodenal papilla에 열림",
+        "온쓸개관조임근",
+        "sphincter of",
+        "common bile duct main pancreatic duct의 조임근",
+        "이자관조임근 (일정치 안음)",
+        "sphincter Of pancreatic",
+        "duct",
+        "쓸개이자관광대조임근",
+        "sphincter m of ampulla",
+        "(sphincter m o Oddi)",
+        "# pancreatitis 이자염 합해진 ampulla에l서도 조절",
+        "자기의 소화액에 의해 염종 생김 \"@생장자운도e)",
+        "gallstone(담석, 쓸개돌)이 잘 생기논데 특히여-에 잘 낌 duodenal papilla",
+        "소화액이 못나가고 억류해서 생기논게 이자염",
+        "bileol 가서 염종 일으키기도 조임근에 의해 pancreatic juice, bile의 양조절",
+        "대개 과음, steroid 남용, 감염, 외상에 의해 발병",
+        "그림 6-62. 쓸개관과 이자관의 배열"
+      ],
+      "corrected_page_text": "Pancreatic duct system\n- 머리쪽에서생성되는관\n- minor duodenal papilla 에서열림\no\ntail에서시작해서이자실질따라서\nheadcommon bile duct까지가서관이아래쪽으로꺾이면서와합해짐\n=> main pancreatic duct, common bile duct 합해진것이\nhepatopancreatic ampulla\nhepatopancreatic ampulladuodenumdescending part는의에있는\nmajor duodenal papilla에열림\n작은심장자유두 주이자관main pancreatic duct)\nmain pancreatic duct 의조임근\n# pancreatitis 이자염\nampulla 합해진에서도조절\n- 자기의소화액에의해염증생김\n- gallstone(, ) 담석쓸개돌이잘생기는데특히여기에잘낌\n- 소화액이못나가고역류해서생기는게이자염\n- bile 이가서염증일으키기도\n-> pancreatic juice, bile 모두 여기로 배출\n- , steroid , , 대개과음남용감염외상에의해발병",
+      "quality_audit": {
+        "pdf_char_count": 466,
+        "pdf_span_count": 82,
+        "pdf_word_count": 89,
+        "ocr_fragment_count": 44,
+        "pdf_line_count": 20,
+        "ocr_line_count": 32,
+        "merged_line_count": 44,
+        "pdf_only_count": 12,
+        "ocr_only_count": 24,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 20,
+        "ocr_only_line_count": 24,
+        "pdf_alpha_count": 444,
+        "ocr_alpha_count": 586,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

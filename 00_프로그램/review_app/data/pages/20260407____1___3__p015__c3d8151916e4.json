@@ -1,0 +1,1257 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 15,
+    "note_page_number": 15,
+    "source_page_number": 59,
+    "original_page_number": 59,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "_____은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위바닥(fundus of stomach)",
+        "accepted_answers": [
+          "위바닥(fundus of stomach)",
+          "fundus of stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위바닥(fundus of stomach)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_002"
+      ],
+      "prompt": "위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 _____ 뒤에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비뼈(rib)",
+        "accepted_answers": [
+          "갈비뼈(rib)",
+          "rib",
+          "ribs"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비뼈(rib)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_003"
+      ],
+      "prompt": "_____은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "들문구멍(cardial orifice)",
+        "accepted_answers": [
+          "들문구멍(cardial orifice)",
+          "cardial orifice"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "들문구멍(cardial orifice)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 들문구멍(cardial orifice)은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_003"
+      ],
+      "prompt": "들문구멍(cardial orifice)은 왼쪽 6번째 _____ 뒤에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "갈비연골(costal cartilage)",
+        "accepted_answers": [
+          "갈비연골(costal cartilage)",
+          "costal cartilage"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "갈비연골(costal cartilage)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 들문구멍(cardial orifice)은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_004"
+      ],
+      "prompt": "_____는 들문구멍(cardial orifice)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배부분식도(abdominal part of esophagus)",
+        "accepted_answers": [
+          "배부분식도(abdominal part of esophagus)",
+          "abdominal part of esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배부분식도(abdominal part of esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_004"
+      ],
+      "prompt": "배부분식도(abdominal part of esophagus)는 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "들문구멍(cardial orifice)",
+        "accepted_answers": [
+          "들문구멍(cardial orifice)",
+          "cardial orifice"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "들문구멍(cardial orifice)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_005"
+      ],
+      "prompt": "_____은 샘창자(duodenum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "유문(pylorus)",
+        "accepted_answers": [
+          "유문(pylorus)",
+          "pylorus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "유문(pylorus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 유문(pylorus)은 샘창자(duodenum)로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_005"
+      ],
+      "prompt": "유문(pylorus)은 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 유문(pylorus)은 샘창자(duodenum)로 이어진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_006"
+      ],
+      "prompt": "_____는 위(stomach)의 안쪽 오목한 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은굽이(lesser curvature)",
+        "accepted_answers": [
+          "작은굽이(lesser curvature)",
+          "lesser curvature"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은굽이(lesser curvature)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 작은굽이(lesser curvature)는 위(stomach)의 안쪽 오목한 경계이다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_필기본_015_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_015_ai_corrected_007"
+      ],
+      "prompt": "_____는 위(stomach)의 바깥쪽 볼록한 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰굽이(greater curvature)",
+        "accepted_answers": [
+          "큰굽이(greater curvature)",
+          "greater curvature"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰굽이(greater curvature)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 큰굽이(greater curvature)는 위(stomach)의 바깥쪽 볼록한 경계이다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_course_배_강의원본_059_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_059_ai_corrected_005"
+      ],
+      "prompt": "_____은 들문구멍(cardial orifice)보다 위쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위바닥(fundus of stomach)",
+        "accepted_answers": [
+          "위바닥(fundus of stomach)",
+          "fundus of stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위바닥(fundus of stomach)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 위바닥(fundus of stomach)은 들문구멍(cardial orifice)보다 위쪽에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "surface anatomy of the stomach diagram",
+        "accepted_answers": [
+          "surface anatomy of the stomach diagram"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "surface anatomy of the stomach diagram",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::stomach_surface_diagram"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::stomach_surface_diagram",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 遺꾨쪟???쒓컖 援ъ꽦?붿냼瑜?吏곸젒 ?뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "?쒓컖 援ъ꽦?붿냼 ?먮Ц: surface anatomy of the stomach diagram"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위바닥(fundus of stomach)의 기준으로 사용되는 수직면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼쪽중간빗장선(left midclavicular line)",
+        "accepted_answers": [
+          "왼쪽중간빗장선(left midclavicular line)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼쪽중간빗장선(left midclavicular line)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r2"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r2"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위바닥(fundus of stomach) / predicate: uses_vertical_planes / object: 왼쪽중간빗장선(left midclavicular line)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_003_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼쪽 중간빗장선(left midclavicular line)을 기준으로 사용하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위바닥(fundus of stomach)",
+        "accepted_answers": [
+          "위바닥(fundus of stomach)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위바닥(fundus of stomach)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r2"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r2"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위바닥(fundus of stomach) / predicate: uses_vertical_planes / object: 왼쪽 중간빗장선(left midclavicular line)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "위바닥(fundus of stomach)가 지나는 기준 높이는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼쪽5번째갈비뼈(rib)",
+        "accepted_answers": [
+          "왼쪽5번째갈비뼈(rib)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼쪽5번째갈비뼈(rib)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r3"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r3"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위바닥(fundus of stomach) / predicate: passes_level / object: 왼쪽5번째갈비뼈(rib)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_004_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼쪽 5번째 갈비뼈(rib) 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위바닥(fundus of stomach)",
+        "accepted_answers": [
+          "위바닥(fundus of stomach)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위바닥(fundus of stomach)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r3"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r3"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 위바닥(fundus of stomach) / predicate: passes_level / object: 왼쪽 5번째 갈비뼈(rib)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "들문구멍(cardial orifice)가 지나는 기준 높이는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼쪽6번째갈비연골(costal cartilage)",
+        "accepted_answers": [
+          "왼쪽6번째갈비연골(costal cartilage)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼쪽6번째갈비연골(costal cartilage)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r4"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r4"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 들문구멍(cardial orifice) / predicate: passes_level / object: 왼쪽6번째갈비연골(costal cartilage)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_005_003",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼쪽 6번째 갈비연골(costal cartilage) 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "들문구멍(cardial orifice)",
+        "accepted_answers": [
+          "들문구멍(cardial orifice)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "들문구멍(cardial orifice)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r4"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r4"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 들문구멍(cardial orifice) / predicate: passes_level / object: 왼쪽 6번째 갈비연골(costal cartilage)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "T11 척추높이(vertebral level of T11) 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "들문구멍(cardial orifice)",
+        "accepted_answers": [
+          "들문구멍(cardial orifice)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "들문구멍(cardial orifice)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r5"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r5"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 들문구멍(cardial orifice) / predicate: passes_level / object: T11 척추높이(vertebral level of T11)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "유문(pylorus)의 기준으로 사용되는 수평면은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "날문가로면(transpyloric plane)",
+        "accepted_answers": [
+          "날문가로면(transpyloric plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "날문가로면(transpyloric plane)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r6"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r6"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 유문(pylorus) / predicate: uses_horizontal_planes / object: 날문가로면(transpyloric plane)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_007_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "날문가로면(transpyloric plane)을 기준으로 사용하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "유문(pylorus)",
+        "accepted_answers": [
+          "유문(pylorus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "유문(pylorus)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r6"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r6"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 유문(pylorus) / predicate: uses_horizontal_planes / object: 날문가로면(transpyloric plane)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "L1 척추높이(vertebral level of L1) 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "날문가로면(transpyloric plane)",
+        "accepted_answers": [
+          "날문가로면(transpyloric plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "날문가로면(transpyloric plane)",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r7"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p015_ai_page_read::r7"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 날문가로면(transpyloric plane) / predicate: passes_level / object: L1 척추높이(vertebral level of L1)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_009_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "들문구멍(cardial orifice)으로 이어지는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배부분식도(abdominal part of esophagus)",
+        "accepted_answers": [
+          "배부분식도(abdominal part of esophagus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배부분식도(abdominal part of esophagus)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r1"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r1"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배부분식도(abdominal part of esophagus) / predicate: 이어진다 / object: 들문구멍(cardial orifice)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_010_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "샘창자(duodenum)으로 이어지는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "유문(pylorus)",
+        "accepted_answers": [
+          "유문(pylorus)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "유문(pylorus)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r2"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r2"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 유문(pylorus) / predicate: 이어진다 / object: 샘창자(duodenum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_012_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "날문가로면(transpyloric plane)보다 아래쪽 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "결절사이면(transtubercular plane)",
+        "accepted_answers": [
+          "결절사이면(transtubercular plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "결절사이면(transtubercular plane)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r4"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r4"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 결절사이면(transtubercular plane) / predicate: passes_level / object: 날문가로면(transpyloric plane)보다 아래쪽"
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p015_visual_visual_relation_012_002",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "날문가로면(transpyloric plane)보다 아래쪽 높이에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "결절사이면(intertubercular plane)",
+        "accepted_answers": [
+          "결절사이면(intertubercular plane)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "결절사이면(intertubercular plane)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r4"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p059_ai_page_read::r4"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 결절사이면(intertubercular plane) / predicate: passes_level / object: 날문가로면(transpyloric plane)보다 아래쪽"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 26,
+    "question_type_count": {
+      "fill_blank": 11,
+      "image_grounded_fill_blank": 15
+    },
+    "question_focus_count": {
+      "course_exam_style": 11,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 14
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 14,
+    "previous_page": 14,
+    "next_page": 16
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 15
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "위(stomach)는 소화 상태에 따라 크기와 위치가 달라질 수 있어 표면 좌표는 개인차가 있다.",
+        "위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다.",
+        "들문구멍(cardial orifice)은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다.",
+        "배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다.",
+        "유문(pylorus)은 샘창자(duodenum)로 이어진다.",
+        "작은굽이(lesser curvature)는 위(stomach)의 안쪽 오목한 경계이다.",
+        "큰굽이(greater curvature)는 위(stomach)의 바깥쪽 볼록한 경계이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "빗장중간선의 영어 이름은 midclavicular line이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "끝부분의 영어 이름은 end piece이다.",
+        "간의 영어 이름은 liver이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "왼잘록창자굽이의 영어 이름은 left colic flexure이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "결절사이면의 영어 이름은 intertubercular plane이다.",
+        "갈비연골의 영어 이름은 costal cartilage이다.",
+        "유문의 영어 이름은 pylorus이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "위바닥(fundus of stomach)은 들문구멍(cardial orifice)보다 위쪽에 위치한다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "배부분(abdominal part) 왼쪽의 5th rib 뒤에 위치",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "midclavicular line 위에 있음",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "Surface anatomy of the stomach",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "식도(esophagus) 위바닥fundus of stomach)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "왼잘록창자굽이(eft colic flexure)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "결절사이면(transtubercular plane)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "위(stomach)는 소화 상태에 따라 크기와 위치가 달라질 수 있어 표면 좌표는 개인차가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "들문구멍(cardial orifice)은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "날문가로면(transpyloric plane)은 9번째 갈비연골(costal cartilage) 끝과 L1 척추높이(vertebral level of L1)와 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "유문(pylorus)은 샘창자(duodenum)로 이어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "작은굽이(lesser curvature)는 위(stomach)의 안쪽 오목한 경계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "큰굽이(greater curvature)는 위(stomach)의 바깥쪽 볼록한 경계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "위(stomach)는 소화 상태에 따라 크기와 위치가 달라질 수 있어 표면 좌표는 개인차가 있다. 위바닥(fundus of stomach)은 왼쪽 중간빗장선(left midclavicular line) 위에서 왼쪽 5번째 갈비뼈(rib) 뒤에 위치한다. 들문구멍(cardial orifice)은 왼쪽 6번째 갈비연골(costal cartilage) 뒤에 위치한다. 들문구멍(cardial orifice)의 높이는 대략 T11 수준이며 정중면(median plane)에서 2cm에서 4cm 왼쪽에 있다. 날문가로면(transpyloric plane)은 유문(pylorus)을 기준으로 하는 표면해부 기준선이다. 날문가로면(transpyloric plane)은 9번째 갈비연골(costal cartilage) 끝과 L1 척추높이(vertebral level of L1)와 관련된다. 배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다. 유문(pylorus)은 샘창자(duodenum)로 이어진다. 작은굽이(lesser curvature)는 위(stomach)의 안쪽 오목한 경계이다. 큰굽이(greater curvature)는 위(stomach)의 바깥쪽 볼록한 경계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "위의 표면해부를 보여주는 페이지로, 필기본에서는 위바닥·들문구멍·유문·기준선의 위치 기준을 파란 필기로 보강한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "위바닥(fundus of stomach) uses_vertical_planes 왼쪽 중간빗장선(left midclavicular line)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "위바닥(fundus of stomach) passes_level 왼쪽 5번째 갈비뼈(rib)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "들문구멍(cardial orifice) passes_level 왼쪽 6번째 갈비연골(costal cartilage)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "들문구멍(cardial orifice) passes_level T11 척추높이(vertebral level of T11)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "날문가로면(transpyloric plane) passes_level L1 척추높이(vertebral level of L1)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "배부분(abdominal part)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "위바닥(fundus of stomach)은 들문구멍(cardial orifice)보다 위쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "결절사이면(transtubercular plane)은 날문가로면(transpyloric plane)보다 아래쪽의 가로 기준선이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "배부분 식도(abdominal part of esophagus)는 들문구멍(cardial orifice)으로 이어진다. 유문(pylorus)은 샘창자(duodenum)로 이어진다. 작은굽이(lesser curvature)는 위(stomach)의 안쪽 오목한 경계이다. 큰굽이(greater curvature)는 위(stomach)의 바깥쪽 볼록한 경계이다. 위바닥(fundus of stomach)은 들문구멍(cardial orifice)보다 위쪽에 위치한다. 날문가로면(transpyloric plane)은 유문(pylorus)을 지나는 기준선으로 표시된다. 결절사이면(transtubercular plane)은 날문가로면(transpyloric plane)보다 아래쪽의 가로 기준선이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "위의 표면해부를 보여주는 강의원본 도식 페이지로, 위바닥·들문구멍·유문·작은굽이·큰굽이와 기준선들이 함께 표시된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "배부분 식도(abdominal part of esophagus) 이어진다 들문구멍(cardial orifice)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "유문(pylorus) 이어진다 샘창자(duodenum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "결절사이면(transtubercular plane) passes_level 날문가로면(transpyloric plane)보다 아래쪽",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 27,
+        "accounted_term_count": 25,
+        "unresolved_term_count": 2,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.926,
+        "accounted_terms": [
+          "배부분(abdominal part)",
+          "식도(esophagus)",
+          "왼잘록창자굽이(eft colic flexure)",
+          "결절사이면(transtubercular plane)",
+          "위바닥(fundus of stomach)",
+          "왼쪽중간빗장선(left midclavicular line)",
+          "갈비뼈(rib)",
+          "들문구멍(cardial orifice)",
+          "갈비연골(costal cartilage)",
+          "유문(pylorus)",
+          "배부분식도(abdominal part of esophagus)",
+          "샘창자(duodenum)",
+          "작은굽이(lesser curvature)",
+          "위(stomach)",
+          "큰굽이(greater curvature)",
+          "배(abdominal region)",
+          "빗장중간선(midclavicular line)",
+          "척주(vertebral column)",
+          "끝부분(end piece)",
+          "간(liver)",
+          "왼잘록창자굽이(left colic flexure)",
+          "오름잘록창자(ascending colon)",
+          "가로잘록창자(transverse colon)",
+          "결절사이면(intertubercular plane)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [
+          "척추높이(vertebral level of L1)",
+          "척추높이(vertebral level of T11)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Surface anatomy of the stomach",
+        "빗장중간센midclavicular line)",
+        "식도(esophagus) 위바닥fundus of stomach)",
+        "배부분(abdominal part)",
+        "둘문구멍cardial orifice)",
+        "왼잘록창자굽이(eft colic flexure)",
+        "날문가로면 transpyloric plane) 작은굽이esser curvature)",
+        "굳굽ogreater curvature)",
+        "셈장자duodenurn)",
+        "날문방pyloric antrum)",
+        "오름잘록창자ascending colon)",
+        "'가로잘록창자transverse colon)",
+        "결절사이면(transtubercular plane)",
+        "앞에서 본 모습"
+      ],
+      "supplemental_ocr_blocks": [
+        "간liver)",
+        "날문pylorus)",
+        "{0"
+      ],
+      "corrected_page_text": "Surface anatomy of the stomach\n빗장중간센midclavicular line)\n식도(esophagus) 위바닥fundus of stomach)\n배부분(abdominal part)\n둘문구멍cardial orifice)\n왼잘록창자굽이(eft colic flexure)\n날문가로면 transpyloric plane) 작은굽이esser curvature)\n굳굽ogreater curvature)\n셈장자duodenurn)\n날문방pyloric antrum)\n오름잘록창자ascending colon)\n'가로잘록창자transverse colon)\n결절사이면(transtubercular plane)\n앞에서 본 모습",
+      "quality_audit": {
+        "pdf_char_count": 26,
+        "pdf_span_count": 1,
+        "pdf_word_count": 5,
+        "ocr_fragment_count": 19,
+        "pdf_line_count": 1,
+        "ocr_line_count": 17,
+        "merged_line_count": 17,
+        "pdf_only_count": 0,
+        "ocr_only_count": 16,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 16,
+        "pdf_alpha_count": 26,
+        "ocr_alpha_count": 281,
+        "promoted_ocr_only_count": 13
+      }
+    }
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 4
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_001"
+      ],
+      "prompt": "_____의 가지가 공급하는 기관의 림프는 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk",
+          "celiac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)의 가지가 공급하는 기관의 림프는 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_001"
+      ],
+      "prompt": "복강동맥(celiac trunk)의 가지가 공급하는 기관의 림프는 _____로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강림프절(celiac lymph nodes)",
+        "accepted_answers": [
+          "복강림프절(celiac lymph nodes)",
+          "celiac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강림프절(celiac lymph nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복강동맥(celiac trunk)의 가지가 공급하는 기관의 림프는 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_005"
+      ],
+      "prompt": "_____의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_005"
+      ],
+      "prompt": "샘창자(duodenum)의 위쪽 혈액공급은 _____ 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk",
+          "celiac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_007"
+      ],
+      "prompt": "_____의 왼쪽에는 지라(spleen)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_004_course_007"
+      ],
+      "prompt": "이자(pancreas)의 왼쪽에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "_____, 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "쓸개주머니(gallbladder)",
+        "accepted_answers": [
+          "쓸개주머니(gallbladder)",
+          "gallbladder"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "쓸개주머니(gallbladder)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "쓸개주머니(gallbladder), 지라(spleen), _____의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 _____의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk",
+          "celiac"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_001_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_001"
+      ],
+      "prompt": "쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 _____로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강림프절(celiac lymph nodes)",
+        "accepted_answers": [
+          "복강림프절(celiac lymph nodes)",
+          "celiac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강림프절(celiac lymph nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_005"
+      ],
+      "prompt": "_____을 따라가는 림프는 위창자간막림프절(superior mesenteric nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)",
+        "accepted_answers": [
+          "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)",
+          "anterior superior pancreaticoduodenal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)을 따라가는 림프는 위창자간막림프절(superior mesenteric nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_005"
+      ],
+      "prompt": "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)을 따라가는 림프는 _____로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막림프절(superior mesenteric nodes)",
+        "accepted_answers": [
+          "위창자간막림프절(superior mesenteric nodes)",
+          "superior mesenteric nodes",
+          "superior mesenteric node"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막림프절(superior mesenteric nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)을 따라가는 림프는 위창자간막림프절(superior mesenteric nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_006"
+      ],
+      "prompt": "_____의 림프는 이자림프절(pancreatic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 이자(pancreas)의 림프는 이자림프절(pancreatic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_006"
+      ],
+      "prompt": "이자(pancreas)의 림프는 이자림프절(pancreatic nodes)을 거쳐 _____로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강림프절(celiac lymph nodes)",
+        "accepted_answers": [
+          "복강림프절(celiac lymph nodes)",
+          "celiac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강림프절(celiac lymph nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 이자(pancreas)의 림프는 이자림프절(pancreatic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_006_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_006"
+      ],
+      "prompt": "이자(pancreas)의 림프는 이자_____을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "림프절(pancreatic nodes)",
+        "accepted_answers": [
+          "림프절(pancreatic nodes)",
+          "pancreatic nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "림프절(pancreatic nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 이자(pancreas)의 림프는 이자림프절(pancreatic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_007"
+      ],
+      "prompt": "_____의 림프는 지라림프절(splenic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라(spleen)의 림프는 지라림프절(splenic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_007"
+      ],
+      "prompt": "지라(spleen)의 림프는 지라림프절(splenic nodes)을 거쳐 _____로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강림프절(celiac lymph nodes)",
+        "accepted_answers": [
+          "복강림프절(celiac lymph nodes)",
+          "celiac lymph nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강림프절(celiac lymph nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라(spleen)의 림프는 지라림프절(splenic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p004_course_배_필기본_004_ai_corrected_007_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_004_ai_corrected_007"
+      ],
+      "prompt": "지라(spleen)의 림프는 지라_____을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "림프절(splenic nodes)",
+        "accepted_answers": [
+          "림프절(splenic nodes)",
+          "splenic nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "림프절(splenic nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 지라(spleen)의 림프는 지라림프절(splenic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 18,
+    "question_type_count": {
+      "fill_blank": 18
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 6,
+      "course_exam_style": 12
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 3,
+    "previous_page": 3,
+    "next_page": 5
+  },
+  "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 4
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "복강동맥(celiac trunk)의 가지가 공급하는 기관의 림프는 복강림프절(celiac lymph nodes)로 모인다.",
+        "샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+        "이자(pancreas)의 왼쪽에는 지라(spleen)가 있다.",
+        "장의 림프관은 큰 혈관과 함께 주행한다.",
+        "쓸개주머니(gallbladder), 지라(spleen), 이자(pancreas)의 림프는 복강동맥(celiac trunk)의 가지를 따라 복강림프절(celiac lymph nodes)로 모인다.",
+        "위의 작은굽이 왼쪽 부위의 림프는 왼위림프절(left gastric nodes)로 모인다.",
+        "위의 큰굽이 오른쪽 부위의 림프는 오른위그물막림프절(right gastroomental nodes)로 모인다.",
+        "날문 부위의 림프는 날문림프절(pyloric nodes)로 모인다.",
+        "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)을 따라가는 림프는 위창자간막림프절(superior mesenteric nodes)로 모인다.",
+        "이자(pancreas)의 림프는 이자림프절(pancreatic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+        "지라(spleen)의 림프는 지라림프절(splenic nodes)을 거쳐 복강림프절(celiac lymph nodes)로 모인다.",
+        "지라의 영어 이름은 spleen이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "복강동맥의 영어 이름은 celiac trunk이다.",
+        "간의 영어 이름은 liver이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "복강림프절의 영어 이름은 celiac lymph nodes이다.",
+        "큰 혈관의 영어 이름은 great vessels이다.",
+        "왼위림프절의 영어 이름은 left gastric nodes이다.",
+        "위의 영어 이름은 stomach이다.",
+        "오른위그물막림프절의 영어 이름은 right gastroomental nodes이다.",
+        "날문림프절의 영어 이름은 pyloric nodes이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "앞위이자샘창자동맥의 영어 이름은 anterior superior pancreaticoduodenal artery이다.",
+        "창자간막림프절의 영어 이름은 mesenteric nodes이다.",
+        "위창자간막림프절의 영어 이름은 superior mesenteric nodes이다.",
+        "배의 영어 이름은 abdominal region이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "- gallbladder, spleen, pancreas 등이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "위의 작은굽이 왼쪽 부위의 림프는 왼위림프절(left gastric nodes)로 모인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "위의 큰굽이 오른쪽 부위의 림프는 오른위그물막림프절(right gastroomental nodes)로 모인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)을 따라가는 림프는 위창자간막림프절(superior mesenteric nodes)로 모인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "쓸개주머니, 위, 이자, 지라 주변의 림프 흐름을 보여 주는 그림에 필기 메모가 추가된 페이지다. 필기는 모든 림프가 큰 혈관을 따라 존재하고 쓸개주머니, 지라, 이자의 림프가 복강동맥 가지를 따라 복강림프절로 모인다는 점을 강조한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "organs supplied by branches of the celiac trunk drain to the celiac lymph nodes",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 18,
+        "accounted_term_count": 18,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "쓸개주머니(gallbladder)",
+          "지라(spleen)",
+          "이자(pancreas)",
+          "복강림프절(celiac lymph nodes)",
+          "복강동맥(celiac trunk)",
+          "간(liver)",
+          "배안(abdominal cavity)",
+          "큰 혈관(great vessels)",
+          "왼위림프절(left gastric nodes)",
+          "위(stomach)",
+          "오른위그물막림프절(right gastroomental nodes)",
+          "날문림프절(pyloric nodes)",
+          "샘창자(duodenum)",
+          "창자간막(mesentery)",
+          "앞위이자샘창자동맥(anterior superior pancreaticoduodenal artery)",
+          "창자간막림프절(mesenteric nodes)",
+          "위창자간막림프절(superior mesenteric nodes)",
+          "배(abdominal region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "- 모든림프는큰혈관따라존재",
+        "- gallbladder, spleen, pancreas 등이",
+        "celiac trunkbranch다의이므로",
+        "celiac lymph node이것들의림프들도모여서로간다"
+      ],
+      "supplemental_ocr_blocks": [
+        "원위림프절",
+        "left gastric nodes",
+        "용류위국몸광림교",
+        "gastroomental nodes",
+        "모든 림프는 근 혈관 따라 존재",
+        "다 celiac trunk의 branch이므로",
+        "복강림프절",
+        "celiac nodes '재랍림품점 nodes",
+        "앞워이자생창자동맥",
+        "anterior superior",
+        "pancreaticoduodenal a",
+        "위창자간막림프절",
+        "superior mesenteric nodes",
+        "날문림프절",
+        "pyloric nodes",
+        "이자림프절",
+        "pancreatic nodes",
+        "그림 6-60. 쓸개, 이자 지라의 림프흐름"
+      ],
+      "corrected_page_text": "- 모든림프는큰혈관따라존재\n- gallbladder, spleen, pancreas 등이\nceliac trunkbranch다의이므로\nceliac lymph node이것들의림프들도모여서로간다",
+      "quality_audit": {
+        "pdf_char_count": 94,
+        "pdf_span_count": 12,
+        "pdf_word_count": 12,
+        "ocr_fragment_count": 22,
+        "pdf_line_count": 4,
+        "ocr_line_count": 20,
+        "merged_line_count": 22,
+        "pdf_only_count": 2,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 4,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 90,
+        "ocr_alpha_count": 233,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

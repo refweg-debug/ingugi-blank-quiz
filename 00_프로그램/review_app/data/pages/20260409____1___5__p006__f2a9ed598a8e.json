@@ -1,0 +1,825 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+    "page_number": 6
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "_____은 이자(pancreas)의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "랑게르한스섬(islets of Langerhans)",
+        "accepted_answers": [
+          "랑게르한스섬(islets of Langerhans)",
+          "islets of Langerhans",
+          "islet of Langerhans",
+          "pancreatic islet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "랑게르한스섬(islets of Langerhans)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_001"
+      ],
+      "prompt": "랑게르한스섬(islets of Langerhans)은 _____의 내분비 부분이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_002"
+      ],
+      "prompt": "_____는 뒤복막기관(retroperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)는 뒤복막기관(retroperitoneal organs)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_002"
+      ],
+      "prompt": "이자(pancreas)는 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organs)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organs)",
+          "retroperitoneal organs",
+          "retroperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)는 뒤복막기관(retroperitoneal organs)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "_____의 앞쪽은 위(stomach)에 덮여 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 앞쪽은 위(stomach)에 덮여 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_003"
+      ],
+      "prompt": "이자(pancreas)의 앞쪽은 _____에 덮여 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 앞쪽은 위(stomach)에 덮여 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_004"
+      ],
+      "prompt": "_____는 샘창자(duodenum)에 둘러싸여 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자머리(head of pancreas)",
+        "accepted_answers": [
+          "이자머리(head of pancreas)",
+          "head of pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자머리(head of pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자머리(head of pancreas)는 샘창자(duodenum)에 둘러싸여 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_004"
+      ],
+      "prompt": "이자머리(head of pancreas)는 _____에 둘러싸여 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자머리(head of pancreas)는 샘창자(duodenum)에 둘러싸여 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_005"
+      ],
+      "prompt": "_____의 왼쪽에는 지라(spleen)가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자(pancreas)",
+        "accepted_answers": [
+          "이자(pancreas)",
+          "pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자(pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_005"
+      ],
+      "prompt": "이자(pancreas)의 왼쪽에는 _____가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자(pancreas)의 왼쪽에는 지라(spleen)가 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_007"
+      ],
+      "prompt": "_____은 샘창자(duodenum)로 분비된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자액(pancreatic juice)",
+        "accepted_answers": [
+          "이자액(pancreatic juice)",
+          "pancreatic juice"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자액(pancreatic juice)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자액(pancreatic juice)은 샘창자(duodenum)로 분비된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_007"
+      ],
+      "prompt": "이자액(pancreatic juice)은 _____로 분비된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자액(pancreatic juice)은 샘창자(duodenum)로 분비된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_010"
+      ],
+      "prompt": "_____는 지라문(splenic hilum)과 왼잘록창자굽이(left colic flexure) 부위와 가깝다.",
+      "answer": {
+        "format": "single_text",
+        "value": "이자꼬리(tail of pancreas)",
+        "accepted_answers": [
+          "이자꼬리(tail of pancreas)",
+          "tail of pancreas"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "이자꼬리(tail of pancreas)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자꼬리(tail of pancreas)는 지라문(splenic hilum)과 왼잘록창자굽이(left colic flexure) 부위와 가깝다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_010_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_010"
+      ],
+      "prompt": "이자꼬리(tail of pancreas)는 _____과 왼잘록창자굽이(left colic flexure) 부위와 가깝다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라문(splenic hilum)",
+        "accepted_answers": [
+          "지라문(splenic hilum)",
+          "splenic hilum",
+          "hilum of spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라문(splenic hilum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자꼬리(tail of pancreas)는 지라문(splenic hilum)과 왼잘록창자굽이(left colic flexure) 부위와 가깝다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연_p006_course_배_필기본_006_course_010_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_006_course_010"
+      ],
+      "prompt": "이자꼬리(tail of pancreas)는 지라문(splenic hilum)과 _____ 부위와 가깝다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼잘록창자굽이(left colic flexure)",
+        "accepted_answers": [
+          "왼잘록창자굽이(left colic flexure)",
+          "left colic flexure"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼잘록창자굽이(left colic flexure)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 이자꼬리(tail of pancreas)는 지라문(splenic hilum)과 왼잘록창자굽이(left colic flexure) 부위와 가깝다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 15,
+    "question_type_count": {
+      "fill_blank": 15
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 15
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p001__bcd3bfeabc52.json",
+        "review_image_url": "./data/images/20260409____1___5__p001__bcd3bfeabc52.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p002__1e954c1e0237.json",
+        "review_image_url": "./data/images/20260409____1___5__p002__1e954c1e0237.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p003__138a507a0470.json",
+        "review_image_url": "./data/images/20260409____1___5__p003__138a507a0470.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p004__691ea1a44e8b.json",
+        "review_image_url": "./data/images/20260409____1___5__p004__691ea1a44e8b.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p005__338b1546a1a4.json",
+        "review_image_url": "./data/images/20260409____1___5__p005__338b1546a1a4.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p006__f2a9ed598a8e.json",
+        "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p007__b2f5d62f8215.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p008__169e0e048569.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p009__5180b50b29f1.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p010__d30b39c41e7f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p011__cdedf1ce74e5.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p012__85240dc96ffe.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p013__460c2719023b.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p014__37e5fb0077eb.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p015__15d5d6ee94ac.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 7,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p016__6a14bf9ce437.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p017__e73d19c6fa20.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p018__264c3b5919fe.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 18,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p019__016683ee7455.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p020__bf731ec3d089.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p021__dffdfba8023b.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p022__d2a89e91bc3e.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p023__f0f568a9765e.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260409____1___5__p024__9a922fb440a2.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p025__7a88342dc4a5.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p026__14a9f4fad021.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p027__0fc7a3e668b4.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p028__c46eaa1f264a.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260409____1___5__p029__2f5e5fe14549.json"
+      }
+    ],
+    "current_index": 5,
+    "previous_page": 5,
+    "next_page": 7
+  },
+  "review_image_url": "./data/images/20260409____1___5__p006__f2a9ed598a8e.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260409_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)5_안소연",
+      "page_number": 6
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "랑게르한스섬(islets of Langerhans)은 이자(pancreas)의 내분비 부분이다.",
+        "이자(pancreas)는 뒤복막기관(retroperitoneal organs)에 속한다.",
+        "이자(pancreas)의 앞쪽은 위(stomach)에 덮여 있다.",
+        "이자머리(head of pancreas)는 샘창자(duodenum)에 둘러싸여 있다.",
+        "이자(pancreas)의 왼쪽에는 지라(spleen)가 있다.",
+        "이자(pancreas)는 외분비와 내분비 기능을 모두 가진다.",
+        "이자액(pancreatic juice)은 샘창자(duodenum)로 분비된다.",
+        "이자(pancreas)는 이자머리(head of pancreas), 갈고리돌기(uncinate process), 이자목(neck of pancreas), 이자몸통(body of pancreas), 이자꼬리(tail of pancreas)의 다섯 부분으로 나뉜다.",
+        "이자꼬리(tail of pancreas)는 지라문(splenic hilum)과 왼잘록창자굽이(left colic flexure) 부위와 가깝다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "뒤복막기관의 영어 이름은 retroperitoneal organs이다.",
+        "간의 영어 이름은 liver이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "이자액의 영어 이름은 pancreatic juice이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "랑게르한스섬의 영어 이름은 islets of Langerhans이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "샘창자 둘째부분의 영어 이름은 descending part of duodenum이다.",
+        "갈고리돌기의 영어 이름은 uncinate process이다.",
+        "이자머리의 영어 이름은 head of pancreas이다.",
+        "위창자간막동맥의 영어 이름은 superior mesenteric artery이다.",
+        "왼잘록창자굽이의 영어 이름은 left colic flexure이다.",
+        "지라문의 영어 이름은 splenic hilum이다.",
+        "이자꼬리의 영어 이름은 tail of pancreas이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 22,
+          "text": ": C, duodenum descending part 자형가싸고있음",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "uncinate process lies posterior to the superior mesenteric artery",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 24,
+        "accounted_term_count": 24,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "이자(pancreas)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "복막(peritoneum)",
+          "뒤복막기관(retroperitoneal organs)",
+          "간(liver)",
+          "지라(spleen)",
+          "이자액(pancreatic juice)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "랑게르한스섬(islets of Langerhans)",
+          "샘창자(duodenum)",
+          "샘창자 둘째부분(descending part of duodenum)",
+          "갈고리돌기(uncinate process)",
+          "이자머리(head of pancreas)",
+          "위창자간막동맥(superior mesenteric artery)",
+          "왼잘록창자굽이(left colic flexure)",
+          "지라문(splenic hilum)",
+          "이자꼬리(tail of pancreas)",
+          "이자목(neck of pancreas)",
+          "이자몸통(body of pancreas)",
+          "기관(trachea)",
+          "목(cervical region)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Pancreas",
+        "# 위치",
+        "- = retroperitoneal organ() 뒷배벽의복막뒤공간에가로로길쭉한장기후복막장기",
+        ", - 췌장이자소화관의부속샘",
+        "- stomach 앞쪽은에덮여가려짐",
+        "앞쪽은 stomach에 덮여 가려짐",
+        "- : spleen 왼쪽이위치함",
+        "# 기능",
+        "- + 외분비내분비",
+        "( duct , 관유무에따라있으면외분비없으면내분비",
+        "duct -> ( ))없으면혈관통해내보냄내분비주변부에혈관많음대부분호르몬",
+        "- pancreas : 의호르몬인슐린등",
+        "# 외분비",
+        "왼쪽",
+        "pancreatic juice duct 만들어서통해",
+        "외분비+내분비 아래대정맥",
+        "# 내분비",
+        "ex. islet of Langerhans- 인슐린글루카곤생성",
+        "오른쪽",
+        "오른 콩팔",
+        "1. head",
+        ": C, duodenum descending part 자형가싸고있음",
+        "2. uncinate process",
+        ": head 아래쪽에돌출된부분",
+        "superior mesenteric a. 뒤쪽에위치",
+        "3. neck",
+        "superior mesenteric a. 뒤쪽에 위치 (duo-",
+        "neck 뒤쪽에고랑있음",
+        "4. body",
+        "5. tail",
+        "hilum, left colic ﬂexure 와접함"
+      ],
+      "supplemental_ocr_blocks": [
+        "뒷배벽의 복막 뒤 공간에 가로로 길쭉한 장기 = retroperitoneal organ(후복막장기)",
+        "duct 없으면 혈관 통해 내보념--내분비 주변부에 혈관 많음(대부분 호르온)) 대동맥",
+        "pancreas의 호르온: 인술린 등 (aorta)",
+        "pancreatic juice 만들어서 duct 통해 왼쪽",
+        "duodenum쪽으로 보내는 것 꼬리",
+        "# 내문비 몸통",
+        "ex islet of Langerhans-인술린 글루가곧 생성 목 (body)",
+        "(neck)",
+        "머리",
+        "오른쪽 (head)",
+        "왼쪽 콩팔",
+        "# 5가지 부분 (left",
+        "1.head kidney)",
+        "C자형, duodenum descending part가 싸고 있음",
+        "2 uncinate process 반장자",
+        "head 아래쪽에 돌출된 부분 셈장자 (jejunum)",
+        "3.neck denum)",
+        "뒤쪽에 superior mesenteric a. 위창자간막동맥",
+        "neck 뒤쪽에 고랑 있음 갈고리돌기uncinate process) (superior mesenteric a)",
+        "4.body",
+        "5. tail 위창자간막정맥",
+        "hilum, left colic flexure와 접합 (superior mesenteric V."
+      ],
+      "corrected_page_text": "Pancreas\n# 위치\n- = retroperitoneal organ() 뒷배벽의복막뒤공간에가로로길쭉한장기후복막장기\n, - 췌장이자소화관의부속샘\n- stomach 앞쪽은에덮여가려짐\n앞쪽은 stomach에 덮여 가려짐\n- : spleen 왼쪽이위치함\n# 기능\n- + 외분비내분비\n( duct , 관유무에따라있으면외분비없으면내분비\nduct -> ( ))없으면혈관통해내보냄내분비주변부에혈관많음대부분호르몬\n- pancreas : 의호르몬인슐린등\n# 외분비\n왼쪽\npancreatic juice duct 만들어서통해\n외분비+내분비 아래대정맥\n# 내분비\nex. islet of Langerhans- 인슐린글루카곤생성\n오른쪽\n오른 콩팔\n1. head\n: C, duodenum descending part 자형가싸고있음\n2. uncinate process\n: head 아래쪽에돌출된부분\nsuperior mesenteric a. 뒤쪽에위치\n3. neck\nsuperior mesenteric a. 뒤쪽에 위치 (duo-\nneck 뒤쪽에고랑있음\n4. body\n5. tail\nhilum, left colic ﬂexure 와접함",
+      "quality_audit": {
+        "pdf_char_count": 472,
+        "pdf_span_count": 121,
+        "pdf_word_count": 124,
+        "ocr_fragment_count": 58,
+        "pdf_line_count": 31,
+        "ocr_line_count": 34,
+        "merged_line_count": 53,
+        "pdf_only_count": 19,
+        "ocr_only_count": 22,
+        "replaced_with_ocr_count": 4,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 31,
+        "ocr_only_line_count": 22,
+        "pdf_alpha_count": 423,
+        "ocr_alpha_count": 432,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 16
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_course_배_필기본_016_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_001"
+      ],
+      "prompt": "_____의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞가쪽배벽(anterolateral abdominal wall)",
+        "accepted_answers": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞가쪽배벽(anterolateral abdominal wall)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_course_배_필기본_016_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 _____에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "정중선(midline)",
+        "accepted_answers": [
+          "정중선(midline)",
+          "midline"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "정중선(midline)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_course_배_필기본_016_ai_corrected_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_001"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 _____을 형성한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)",
+          "linea alba"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_course_배_필기본_016_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_002"
+      ],
+      "prompt": "_____의 섬유는 오른쪽에서는 깊게, 왼쪽에서는 얕게 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른배바깥빗근널힘줄(right external oblique aponeurosis)",
+        "accepted_answers": [
+          "오른배바깥빗근널힘줄(right external oblique aponeurosis)",
+          "right external oblique aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른배바깥빗근널힘줄(right external oblique aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서는 깊게, 왼쪽에서는 얕게 지난다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_course_배_필기본_016_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_016_ai_corrected_003"
+      ],
+      "prompt": "_____의 섬유는 왼쪽에서는 깊게, 오른쪽에서는 얕게 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼배바깥빗근널힘줄(left external oblique aponeurosis)",
+        "accepted_answers": [
+          "왼배바깥빗근널힘줄(left external oblique aponeurosis)",
+          "left external oblique aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼배바깥빗근널힘줄(left external oblique aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서는 깊게, 오른쪽에서는 얕게 지난다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배꼽테(umbilical ring)",
+        "accepted_answers": [
+          "배꼽테(umbilical ring)"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "배꼽테(umbilical ring)",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::label_umbilical_ring"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::label_umbilical_ring",
+        "component_type": "labels"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 遺꾨쪟???쒓컖 援ъ꽦?붿냼瑜?吏곸젒 ?뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "?쒓컖 援ъ꽦?붿냼 ?먮Ц: 배꼽테(umbilical ring)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_002_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "백색선(linea alba)을 형성하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 널힘줄(aponeurosis) / predicate: forms / object: 백색선(linea alba)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "오른쪽 깊은 층 / 왼쪽 얕은 층로 주행하는 섬유를 가진 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른배바깥빗근널힘줄(right external oblique aponeurosis)",
+        "accepted_answers": [
+          "오른배바깥빗근널힘줄(right external oblique aponeurosis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른배바깥빗근널힘줄(right external oblique aponeurosis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 오른배바깥빗근널힘줄(right external oblique aponeurosis) / predicate: fiber_course / object: 오른쪽 깊은 층 / 왼쪽 얕은 층"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼쪽 깊은 층 / 오른쪽 얕은 층로 주행하는 섬유를 가진 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼배바깥빗근널힘줄(left external oblique aponeurosis)",
+        "accepted_answers": [
+          "왼배바깥빗근널힘줄(left external oblique aponeurosis)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼배바깥빗근널힘줄(left external oblique aponeurosis)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 왼배바깥빗근널힘줄(left external oblique aponeurosis) / predicate: fiber_course / object: 왼쪽 깊은 층 / 오른쪽 얕은 층"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "반대쪽 배바깥빗근 널힘줄에서 일어나는 현상은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육속맞교환(intramuscular fiber exchange)",
+        "accepted_answers": [
+          "근육속맞교환(intramuscular fiber exchange)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육속맞교환(intramuscular fiber exchange)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 ?쎌? ?쒓컖 愿怨??먯껜瑜??뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "subject: 반대쪽 배바깥빗근 널힘줄 / predicate: intramuscular_fiber_exchange / object: 얕은 섬유와 깊은 섬유 사이"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_006_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근 널힘줄 사이에서 일어나는 현상은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육사이맞교환(intermuscular fiber exchange)",
+        "accepted_answers": [
+          "근육사이맞교환(intermuscular fiber exchange)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육사이맞교환(intermuscular fiber exchange)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_005"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_005"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 ?쎌? ?쒓컖 愿怨??먯껜瑜??뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "subject: 반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근 널힘줄 / predicate: intermuscular_fiber_exchange / object: 널힘줄 사이"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_007_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "백색선(linea alba)에서 얕은 층(superficial layer)의 섬유가 교차하는 곳은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "층(deep layer)",
+        "accepted_answers": [
+          "층(deep layer)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "층(deep layer)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 백색선(linea alba) / predicate: shallow_fibers_cross_to / object: 층(deep layer)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_008_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "백색선(linea alba)에서 깊은 층(deep layer)의 섬유가 교차하는 곳은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "층(superficial layer)",
+        "accepted_answers": [
+          "층(superficial layer)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "층(superficial layer)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 백색선(linea alba) / predicate: deep_fibers_cross_to / object: 층(superficial layer)"
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p016_visual_visual_relation_009_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "배꼽테(umbilical ring)와 관련된 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "백색선(linea alba)",
+        "accepted_answers": [
+          "백색선(linea alba)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "백색선(linea alba)",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p016_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 배꼽테(umbilical ring) / predicate: associated_with / object: 백색선(linea alba)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 14,
+    "question_type_count": {
+      "fill_blank": 5,
+      "image_grounded_fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style": 5,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 8
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 15,
+    "previous_page": 15,
+    "next_page": 17
+  },
+  "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 16
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+        "오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서는 깊게, 왼쪽에서는 얕게 지난다.",
+        "왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서는 깊게, 오른쪽에서는 얕게 지난다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄 섬유는 정중선에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 백색선(linea alba)을 형성한다.",
+        "근육의 영어 이름은 muscles이다.",
+        "백색선의 영어 이름은 linea alba이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "간의 영어 이름은 liver이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "정중선의 영어 이름은 midline이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "바깥배빗근널힘줄의 영어 이름은 external oblique aponeurosis이다.",
+        "오른배바깥빗근널힘줄의 영어 이름은 right external oblique aponeurosis이다.",
+        "왼배바깥빗근널힘줄의 영어 이름은 left external oblique aponeurosis이다.",
+        "근육속맞교환의 영어 이름은 intramuscular fiber exchange이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "근육사이맞교환의 영어 이름은 intermuscular fiber exchange이다.",
+        "고리의 영어 이름은 annulus이다.",
+        "핵의 영어 이름은 nucleus이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "그림 참고하여서 각 근육의 주행방향 확인",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "유 간의 근육속 반대편 빨닷적런분히-스예서 알은심유와 김은심 반대편 험 째볕되렉근 널험줄과 동속 배속스근의 널힘줄 사이 근육사이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서 깊게 지나고 왼쪽에서 얕게 지난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서 깊게 지나고 오른쪽에서 얕게 지난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "반대쪽 배바깥빗근 널힘줄 안에서는 얕은 섬유와 깊은 섬유 사이에 근육속 맞교환(intramuscular fiber exchange)이 일어난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근(internal oblique muscle)의 널힘줄 사이에는 근육사이 맞교환(intermuscular fiber exchange)이 일어난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "백색선(linea alba)에서는 얕은 층의 섬유가 깊은 층으로, 깊은 층의 섬유가 얕은 층으로 서로 교차한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서는 깊게, 왼쪽에서는 얕게 지난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서는 깊게, 오른쪽에서는 얕게 지난다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "백색선(linea alba)에서는 얕은 층(superficial layer)의 섬유가 깊은 층(deep layer)으로 교차한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "백색선(linea alba)에서는 깊은 층(deep layer)의 섬유가 얕은 층(superficial layer)으로 교차한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "배꼽테(umbilical ring)는 백색선(linea alba) 부근에서 보이는 고리 모양 구조이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "앞가쪽배벽 널힘줄 섬유의 근육속 맞교환과 근육사이 맞교환을 보여 주는 그림 페이지로, 필기에서 백색선과 배꼽테를 중심으로 핵심 관계를 보강했다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "오른배바깥빗근 널힘줄(right external oblique aponeurosis) fiber_course 오른쪽 깊은 층 / 왼쪽 얕은 층",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "왼배바깥빗근 널힘줄(left external oblique aponeurosis) fiber_course 왼쪽 깊은 층 / 오른쪽 얕은 층",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "반대쪽 배바깥빗근 널힘줄 intramuscular_fiber_exchange 얕은 섬유와 깊은 섬유 사이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근 널힘줄 intermuscular_fiber_exchange 널힘줄 사이",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "백색선(linea alba) shallow_fibers_cross_to 깊은 층(deep layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "백색선(linea alba) deep_fibers_cross_to 얕은 층(superficial layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "배꼽테(umbilical ring) associated_with 백색선(linea alba)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 23,
+        "accounted_term_count": 20,
+        "unresolved_term_count": 3,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.87,
+        "accounted_terms": [
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "널힘줄(aponeurosis)",
+          "오른배바깥빗근널힘줄(right external oblique aponeurosis)",
+          "왼배바깥빗근널힘줄(left external oblique aponeurosis)",
+          "백색선(linea alba)",
+          "근육(muscles)",
+          "배(abdominal region)",
+          "간(liver)",
+          "배벽(abdominal wall)",
+          "정중선(midline)",
+          "바깥빗근(external oblique muscle)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "근육속맞교환(intramuscular fiber exchange)",
+          "속빗근(internal oblique muscle)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "근육사이맞교환(intermuscular fiber exchange)",
+          "고리(annulus)",
+          "핵(nucleus)",
+          "편평근(flat muscles)"
+        ],
+        "unresolved_terms": [
+          "배꼽테(umbilical ring)",
+          "깊은층(deep layer)",
+          "얕은층(superficial layer)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ai_page_read_manifest_primary",
+      "corrected_blocks": [
+        "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다.",
+        "오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서 깊게 지나고 왼쪽에서 얕게 지난다.",
+        "왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서 깊게 지나고 오른쪽에서 얕게 지난다.",
+        "반대쪽 배바깥빗근 널힘줄 안에서는 얕은 섬유와 깊은 섬유 사이에 근육속 맞교환(intramuscular fiber exchange)이 일어난다.",
+        "반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근(internal oblique muscle)의 널힘줄 사이에는 근육사이 맞교환(intermuscular fiber exchange)이 일어난다.",
+        "백색선(linea alba)에서는 얕은 층의 섬유가 깊은 층으로, 깊은 층의 섬유가 얕은 층으로 서로 교차한다."
+      ],
+      "supplemental_ocr_blocks": [],
+      "corrected_page_text": "앞가쪽배벽(anterolateral abdominal wall)의 널힘줄(aponeurosis) 섬유는 정중선(midline)에서 서로 교차하여 백색선(linea alba)을 형성한다.\n오른배바깥빗근 널힘줄(right external oblique aponeurosis)의 섬유는 오른쪽에서 깊게 지나고 왼쪽에서 얕게 지난다.\n왼배바깥빗근 널힘줄(left external oblique aponeurosis)의 섬유는 왼쪽에서 깊게 지나고 오른쪽에서 얕게 지난다.\n반대쪽 배바깥빗근 널힘줄 안에서는 얕은 섬유와 깊은 섬유 사이에 근육속 맞교환(intramuscular fiber exchange)이 일어난다.\n반대쪽 배바깥빗근 널힘줄과 같은 쪽 배속빗근(internal oblique muscle)의 널힘줄 사이에는 근육사이 맞교환(intermuscular fiber exchange)이 일어난다.\n백색선(linea alba)에서는 얕은 층의 섬유가 깊은 층으로, 깊은 층의 섬유가 얕은 층으로 서로 교차한다.",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 0,
+        "pdf_line_count": 0,
+        "ocr_line_count": 0,
+        "merged_line_count": 6,
+        "pdf_only_count": 0,
+        "ocr_only_count": 0,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 6,
+        "ocr_only_line_count": 0,
+        "pdf_alpha_count": 405,
+        "ocr_alpha_count": 0,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

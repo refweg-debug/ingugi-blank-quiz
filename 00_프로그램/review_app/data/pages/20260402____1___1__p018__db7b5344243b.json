@@ -1,0 +1,695 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 18
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_001"
+      ],
+      "prompt": "_____과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥빗근(external oblique muscle)",
+        "accepted_answers": [
+          "바깥빗근(external oblique muscle)",
+          "externalobliquemuscle",
+          "external oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥빗근(external oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_002"
+      ],
+      "prompt": "_____ 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+      "answer": {
+        "format": "single_text",
+        "value": "활꼴선(arcuate line)",
+        "accepted_answers": [
+          "활꼴선(arcuate line)",
+          "arcuateline",
+          "arcuate line"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "활꼴선(arcuate line)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_003"
+      ],
+      "prompt": "_____ 위에서는 속빗근(internal oblique muscle)의 널힘줄(aponeurosis)이 앞층과 뒤층으로 갈라진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "활꼴선(arcuate line)",
+        "accepted_answers": [
+          "활꼴선(arcuate line)",
+          "arcuateline",
+          "arcuate line"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "활꼴선(arcuate line)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 속빗근(internal oblique muscle)의 널힘줄(aponeurosis)이 앞층과 뒤층으로 갈라진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_003"
+      ],
+      "prompt": "활꼴선(arcuate line) 위에서는 속빗근(internal oblique muscle)의 _____이 앞층과 뒤층으로 갈라진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "널힘줄(aponeurosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 활꼴선(arcuate line) 위에서는 속빗근(internal oblique muscle)의 널힘줄(aponeurosis)이 앞층과 뒤층으로 갈라진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_004"
+      ],
+      "prompt": "앞가쪽배벽(anterolateral abdominal wall)의 _____은 세 층으로 배열된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "편평근(flat muscles)",
+        "accepted_answers": [
+          "편평근(flat muscles)",
+          "flatmuscles",
+          "flat muscles",
+          "flatmuscle",
+          "flat muscle",
+          "flat한근육",
+          "flat 한 근육"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "편평근(flat muscles)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_006"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_006"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceralperitoneum",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_007"
+      ],
+      "prompt": "_____은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복막(peritoneum)",
+        "accepted_answers": [
+          "복막(peritoneum)",
+          "peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복막(peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_018_course_007"
+      ],
+      "prompt": "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 _____으로 구분한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장쪽복막(visceral peritoneum)",
+        "accepted_answers": [
+          "장쪽복막(visceral peritoneum)",
+          "visceralperitoneum",
+          "visceral peritoneum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장쪽복막(visceral peritoneum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_course_배_필기본_018_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_018_ai_corrected_001"
+      ],
+      "prompt": "배곧은집(rectus sheath)은 _____이 합쳐져 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "세널힘줄(aponeurosis)",
+        "accepted_answers": [
+          "세널힘줄(aponeurosis)",
+          "세 널힘줄(aponeurosis)",
+          "aponeurosis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "세널힘줄(aponeurosis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 배곧은집(rectus sheath)은 세 널힘줄(aponeurosis)이 합쳐져 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p018_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지에서 표시된 핵심 용어는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "Rectus sheath와 활꼴선(arcuate line) 위아래 비교 그림",
+        "accepted_answers": [
+          "Rectus sheath와 활꼴선(arcuate line) 위아래 비교 그림"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "Rectus sheath와 활꼴선(arcuate line) 위아래 비교 그림",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p018_ai_page_read::main_text_001"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p018_ai_page_read::main_text_001",
+        "component_type": "main_text"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: Rectus sheath와 활꼴선(arcuate line) 위아래 비교 그림"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 10,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9,
+      "course_exam_style": 1,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json",
+        "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json",
+        "review_image_url": "./data/images/20260402____1___1__p018__db7b5344243b.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 17,
+    "previous_page": 17,
+    "next_page": 19
+  },
+  "review_image_url": "./data/images/20260402____1___1__p018__db7b5344243b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 18
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "바깥빗근(external oblique muscle)과 배곶은근(rectus abdominis)은 배 표면에서 확인될 수 있는 근육이다.",
+        "활꼴선(arcuate line) 위에서는 바깥빗근(external oblique muscle)의 널힘줄(aponeurosis)이 배곧은근(rectus abdominis) 앞쪽을 지난다.",
+        "활꼴선(arcuate line) 위에서는 속빗근(internal oblique muscle)의 널힘줄(aponeurosis)이 앞층과 뒤층으로 갈라진다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles)은 세 층으로 배열된다.",
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분된다.",
+        "복막(peritoneum)은 벽쪽복막(parietal peritoneum)과 장쪽복막(visceral peritoneum)으로 구분한다.",
+        "앞가쪽배벽(anterolateral abdominal wall)의 편평근(flat muscles) 널힘줄(aponeurosis)은 배곧은집(rectus sheath)을 형성한다.",
+        "배곧은집(rectus sheath) 안에는 배곧은근(rectus abdominis)이 들어 있다.",
+        "앞가쪽배벽(anterolateral abdominal wall)은 바깥빗근(external oblique muscle), 속빗근(internal oblique muscle), 배가로근(transversus abdominis muscle)의 세 층으로 이루어진다.",
+        "배곧은집(rectus sheath)은 세 널힘줄(aponeurosis)이 합쳐져 형성된다.",
+        "배곧은집(rectus sheath)은 배 위치에 따라 배곧은근(rectus abdominis)을 싸는 층이 달라진다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "위의 영어 이름은 stomach이다.",
+        "활꼴선의 영어 이름은 arcuate line이다.",
+        "간의 영어 이름은 liver이다.",
+        "배곧은집의 영어 이름은 rectus sheath이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "배곧은근의 영어 이름은 rectus abdominis이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "편평근의 영어 이름은 flat muscles이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "장쪽 가슴막의 영어 이름은 visceral pleura이다.",
+        "벽쪽 가슴막의 영어 이름은 parietal pleura이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "장쪽복막의 영어 이름은 visceral peritoneum이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "arcuate line 위",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "파란색은 배가로근(transversus abdominis muscle), 주황색은 속빗근(internal abdominal oblique muscle), 빨간색은 바깥빗근(external oblique muscle)을 뜻한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "활꼴선(arcuate line) 위 앞쪽을 지난다 바깥빗근의 널힘줄(aponeurosis)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "활꼴선(arcuate line) 위의 속빗근 널힘줄(aponeurosis) 갈라진다 앞층과 뒤층",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "활꼴선(arcuate line) 아래 모두 앞쪽을 지난다 세 널힘줄(aponeurosis)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 21,
+        "accounted_term_count": 21,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "활꼴선(arcuate line)",
+          "널힘줄(aponeurosis)",
+          "배곧은근(rectus abdominis)",
+          "배가로근(transversus abdominis muscle)",
+          "복막(peritoneum)",
+          "벽쪽복막(parietal peritoneum)",
+          "장쪽복막(visceral peritoneum)",
+          "배곧은집(rectus sheath)",
+          "배(abdominal region)",
+          "위(stomach)",
+          "간(liver)",
+          "근육(muscles)",
+          "바깥빗근(external oblique muscle)",
+          "속빗근(internal oblique muscle)",
+          "편평근(flat muscles)",
+          "배가로근막(transversalis fascia)",
+          "장쪽 가슴막(visceral pleura)",
+          "벽쪽 가슴막(parietal pleura)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "배벽(abdominal wall)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "복습",
+        "Rectus sheath",
+        "3개의 aponeurosis가 합쳐져서 생긴 것|",
+        "배 위치에 따라 싸고 있는 layer가 달라짐",
+        "arcuate line 기준으로|",
+        "arcuate line 위",
+        "external oblique가 앞쪽에 있다",
+        "internal oblique은 두갈래로 갈라짐",
+        "색 칠해준 것",
+        "파란색이 transversus",
+        "주황색이 internal",
+        "arcuate line 아래",
+        "빨간색이 external",
+        "각 aponeurosis가 어디로 가는지에 주의해서 공부"
+      ],
+      "supplemental_ocr_blocks": [
+        "배 위치에 따라 싸고 있는 layer가 달라짐; 배가로근막",
+        "arcuate line 기준으로! 뼈부만 peritoneum transversalis fascia",
+        "aponeurosis Of transversus",
+        "abdominis m 배속빗근",
+        "배곧은근 internal abdominal",
+        "arcuate line 위 rectus abdominis m oblique m",
+        "oblique m",
+        "external oblique가 앞쪽에 있다:",
+        "internal oblique은 두갈래로 갈라짐",
+        "뼈봉- peritoneum",
+        "배곧은근집",
+        "rectus sheath 배가로근막",
+        "transversalis fascia",
+        "파라색이 transversus",
+        "arcuate line 아래 주황색이 internal",
+        "'빨간색이 external",
+        "백색선 linea alba",
+        "그림 6-8. 배곧은근집과 활플선 각 aponeurosis가 어디로 가능지에 주의해서 공부",
+        "윗그림은 활출선 위쪽에서. 아랫그림은 활출선 아래쪽에",
+        "서 배곧은근집이 형성되는 모습올 나타난 것이다. 배곧",
+        "은근 아렉부분에서 배가로근 널힘줄이 근육 앞으로 지나",
+        "므로 활끌선이 생긴다."
+      ],
+      "corrected_page_text": "복습\nRectus sheath\n3개의 aponeurosis가 합쳐져서 생긴 것|\n배 위치에 따라 싸고 있는 layer가 달라짐\narcuate line 기준으로|\narcuate line 위\nexternal oblique가 앞쪽에 있다\ninternal oblique은 두갈래로 갈라짐\n색 칠해준 것\n파란색이 transversus\n주황색이 internal\narcuate line 아래\n빨간색이 external\n각 aponeurosis가 어디로 가는지에 주의해서 공부",
+      "quality_audit": {
+        "pdf_char_count": 213,
+        "pdf_span_count": 94,
+        "pdf_word_count": 47,
+        "ocr_fragment_count": 44,
+        "pdf_line_count": 14,
+        "ocr_line_count": 29,
+        "merged_line_count": 36,
+        "pdf_only_count": 7,
+        "ocr_only_count": 22,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 14,
+        "ocr_only_line_count": 22,
+        "pdf_alpha_count": 208,
+        "ocr_alpha_count": 449,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,936 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 11,
+    "note_page_number": 11,
+    "source_page_number": 55,
+    "original_page_number": 55,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "ai_page_read_needs_review",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "_____의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장융모(intestinal villi)",
+        "accepted_answers": [
+          "장융모(intestinal villi)",
+          "intestinal villi"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장융모(intestinal villi)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "암죽관(lacteal)",
+        "accepted_answers": [
+          "암죽관(lacteal)",
+          "lacteal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "암죽관(lacteal)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "_____은 상피(epithelium), 고유판(lamina propria), 점막근육층(muscularis mucosae)으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막(mucosa)",
+        "accepted_answers": [
+          "점막(mucosa)",
+          "mucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막(mucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막층(mucosa)은 상피(epithelium), 고유판(lamina propria), 점막근육판(muscularis mucosae)으로 구성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "점막(mucosa)은 상피(epithelium), 고유판(lamina propria), _____으로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막근육층(muscularis mucosae)",
+        "accepted_answers": [
+          "점막근육층(muscularis mucosae)",
+          "muscularis mucosae"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막근육층(muscularis mucosae)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막층(mucosa)은 상피(epithelium), 고유판(lamina propria), 점막근육판(muscularis mucosae)으로 구성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_002"
+      ],
+      "prompt": "_____은 느슨한 결합조직과 큰 혈관을 포함하고 점막밑신경얼기(submucosal nerve plexus)가 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑층(submucosa)은 느슨한 결합조직과 큰 혈관을 포함하고 점막밑신경얼기(submucosal nerve plexus)가 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_002"
+      ],
+      "prompt": "점막밑층(submucosa)은 느슨한 결합조직과 큰 혈관을 포함하고 _____가 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑신경얼기(submucosal nerve plexus)",
+        "accepted_answers": [
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "submucosal nerve plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑신경얼기(submucosal nerve plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑층(submucosa)은 느슨한 결합조직과 큰 혈관을 포함하고 점막밑신경얼기(submucosal nerve plexus)가 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_003"
+      ],
+      "prompt": "_____의 샘은 일반적으로 없지만 식도(esophagus)와 샘창자(duodenum)에는 예외적으로 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "점막밑층(submucosa)",
+        "accepted_answers": [
+          "점막밑층(submucosa)",
+          "submucosa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "점막밑층(submucosa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑층(submucosa)의 샘은 일반적으로 없지만 식도(esophagus)와 샘창자(duodenum)에는 예외적으로 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_003"
+      ],
+      "prompt": "점막밑층(submucosa)의 샘은 일반적으로 없지만 _____와 샘창자(duodenum)에는 예외적으로 존재한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도(esophagus)",
+        "accepted_answers": [
+          "식도(esophagus)",
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도(esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 점막밑층(submucosa)의 샘은 일반적으로 없지만 식도(esophagus)와 샘창자(duodenum)에는 예외적으로 존재한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_005"
+      ],
+      "prompt": "_____을 통해 혈관과 신경(nerves)이 소화관(alimentary canal)으로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 장간막(mesentery)을 통해 혈관과 신경이 소화관으로 분포한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_005"
+      ],
+      "prompt": "창자간막(mesentery)을 통해 혈관과 _____이 소화관(alimentary canal)으로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "신경(nerves)",
+        "accepted_answers": [
+          "신경(nerves)",
+          "nerves",
+          "nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "신경(nerves)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 장간막(mesentery)을 통해 혈관과 신경이 소화관으로 분포한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p011_course_배_필기본_011_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_005"
+      ],
+      "prompt": "창자간막(mesentery)을 통해 혈관과 신경(nerves)이 _____으로 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "소화관(alimentary canal)",
+        "accepted_answers": [
+          "소화관(alimentary canal)",
+          "alimentary canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "소화관(alimentary canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 장간막(mesentery)을 통해 혈관과 신경이 소화관으로 분포한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 11
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 2,
+      "course_exam_style": 9
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 10,
+    "previous_page": 10,
+    "next_page": 12
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 11
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "장융모(intestinal villi)의 점막고유층(lamina propria) 중심에는 암죽관(lacteal)이 있다.",
+        "창자간막(mesentery)은 장기를 뒤배벽에 연결한다.",
+        "점막층(mucosa)은 상피(epithelium), 고유판(lamina propria), 점막근육판(muscularis mucosae)으로 구성된다.",
+        "점막밑층(submucosa)은 느슨한 결합조직과 큰 혈관을 포함하고 점막밑신경얼기(submucosal nerve plexus)가 존재한다.",
+        "점막밑층(submucosa)의 샘은 일반적으로 없지만 식도(esophagus)와 샘창자(duodenum)에는 예외적으로 존재한다.",
+        "근육층(muscularis)에는 근육층신경얼기(myenteric nerve plexus)가 존재한다.",
+        "장간막(mesentery)을 통해 혈관과 신경이 소화관으로 분포한다.",
+        "복막 안쪽의 바깥층은 장막층(serosa)이라 부르고, 복막 바깥쪽에서는 외막(adventitia)이라 부른다.",
+        "창자신경계(enteric nervous system)에는 점막밑신경얼기(submucosal nerve plexus)와 근육층신경얼기(myenteric nerve plexus)가 포함된다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "점막밑층의 영어 이름은 submucosa이다.",
+        "장막의 영어 이름은 serosa이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "점막근육층의 영어 이름은 muscularis mucosae이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "간의 영어 이름은 liver이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "속원형층의 영어 이름은 inner circular layer이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "바깥세로층의 영어 이름은 outer longitudinal layer이다.",
+        "미주신경의 영어 이름은 vagus nerve이다.",
+        "위의 영어 이름은 stomach이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "큰 혈관의 영어 이름은 great vessels이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "고리의 영어 이름은 annulus이다.",
+        "근육층(muscularis) 사이에는 창자근육신경얼기(myenteric nerve plexus)가 존재한다.",
+        "복막 안쪽의 소화관 바깥층은 장막층(serosa)이고, 복막 밖에 위치한 부분은 바깥막(adventitia)이라 부른다.",
+        "창자신경계(enteric nervous system)는 점막밑신경얼기(submucosal nerve plexus)와 창자근육신경얼기(myenteric nerve plexus)를 포함한다.",
+        "암죽관의 영어 이름은 lacteal이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 28,
+          "text": "장막종(serosa) 작용활 수도 잇고 미주신경 같은 부교감 신경과 연결되기도 하고",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 41,
+          "text": "점막밑층(submucosa)은 느슨한 결합조직과 큰 혈관을 포함하고 점막밑신경얼기(submucosal nerve plexus)가 존재한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 48,
+          "text": "창자신경계(enteric nervous system)에는 점막밑신경얼기(submucosal nerve plexus)와 근육층신경얼기(myenteric nerve plexus)가 포함된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 53,
+          "text": "점막밑층(submucosa) 포함한다 점막밑신경얼기(submucosal nerve plexus)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 56,
+          "text": "창자신경계(enteric nervous system) 포함한다 점막밑신경얼기(submucosal nerve plexus)와 근육층신경얼기(myenteric nerve plexus)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "소화관은 안쪽부터 mucosa; submucosa muscularis; serosa 총 4개의 layer로 이루어저 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "1) epithelium ; 가장 안쪽 축축한 상태",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "2) lamina propria : loose connective tissue; glands가 잎고",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "모세훨관과 모세림프관 발달합 점막종(Mucosa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "3) muscularis mucosae ; 상피Epithelium)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "inner눈 circular; 고유판(Lamina propria)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "outer눈 longitudinalol 기본 점막근육판-",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "점막믿종 (submucosa) 'mnesentery물 동해 혈관; 신경 등이 분포팅",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "~근 혈관들이 있음 점막믿종(Submucosa) 동백 Artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "outer눈 longitudinalol 기본 (Inner circular layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "'실제 소화관의 연동운동(peristalsis)올",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "'myenteric nerve plexus (Outer longitudinal layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "'복막 안에 있으면 serosa; 바깥에 있으면 adventitia라고 부름 submucosal nerve plexus와 myenteric nerve plexus가",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "소화관의 작은창자구역의 구조v 나타내는 모식도로씨 4개의 주요 총과 혈관 및 림프관이 분포하는 창자간막(mesentry)에 의해 매달려 있다:",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "그림 15-2 소화관의 주요 총과 구조",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 35,
+          "text": "(Submucosal nerve plexus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "(Myenteric nerve plexus)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "주요 구성요소들이 왼쪽에 열거되어 있다: 위 작은창자 굳창자는 신경",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "소화관(alimentary canal)은 안쪽부터 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 장막층(serosa)의 4층으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "점막층(mucosa)은 상피(epithelium), 고유판(lamina propria), 점막근육판(muscularis mucosae)으로 구성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 42,
+          "text": "점막밑층(submucosa)의 샘은 일반적으로 없지만 식도(esophagus)와 샘창자(duodenum)에는 예외적으로 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "근육층(muscularis)은 안쪽고리층(inner circular layer)과 바깥세로층(outer longitudinal layer)으로 이루어진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "근육층(muscularis)은 연동운동(peristalsis)을 일으키는 층이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 45,
+          "text": "근육층(muscularis)에는 근육층신경얼기(myenteric nerve plexus)가 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 46,
+          "text": "장간막(mesentery)을 통해 혈관과 신경이 소화관으로 분포한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 47,
+          "text": "복막 안쪽의 바깥층은 장막층(serosa)이라 부르고, 복막 바깥쪽에서는 외막(adventitia)이라 부른다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 50,
+          "text": "소화관 벽의 단면 그림 위에 mucosa, submucosa, muscularis, serosa 4층과 lamina propria, muscularis mucosae, submucosal nerve plexus, myenteric nerve plexus, mesentery, serosa/adventitia 차이를 설명하는 파란 필기가 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 51,
+          "text": "소화관(alimentary canal) 이루어진다 점막층(mucosa), 점막밑층(submucosa), 근육층(muscularis), 장막층(serosa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 52,
+          "text": "점막층(mucosa) 구성된다 상피(epithelium), 고유판(lamina propria), 점막근육판(muscularis mucosae)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 54,
+          "text": "근육층(muscularis) 이루어진다 안쪽고리층(inner circular layer)과 바깥세로층(outer longitudinal layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 55,
+          "text": "근육층(muscularis) 일으킨다 연동운동(peristalsis)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "창자신경계(enteric nervous system)는 점막밑신경얼기(submucosal nerve plexus)와 창자근육신경얼기(myenteric nerve plexus)를 포함한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "고유판(Lamina propria)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "점막믿종(Submucosa) 동백 Artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "(Inner circular layer)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "소화관의 작은창자구역의 구조름 나타내는 모식도로씨 4개의 주요 총과 혈관 및 림프관이 분포하는 창자간막(mesentry)에 의해 매달려 있다:",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "근육층(muscularis)은 안쪽고리층(inner circular layer)과 바깥세로층(outer longitudinal layer)으로 이루어지고 연동운동(peristalsis)을 일으킨다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "근육층(muscularis) 사이에는 창자근육신경얼기(myenteric nerve plexus)가 존재한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "복막 안쪽의 소화관 바깥층은 장막층(serosa)이고, 복막 밖에 위치한 부분은 바깥막(adventitia)이라 부른다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "소화관 벽의 조직학적 층 구조와 신경얼기, 장간막/장막 차이를 보여 주는 강의원본 그림 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 40,
+        "accounted_term_count": 30,
+        "unresolved_term_count": 5,
+        "missing_term_count": 5,
+        "coverage_ratio": 0.75,
+        "accounted_terms": [
+          "점막고유층(lamina propria)",
+          "점막밑층(submucosa)",
+          "근육종(muscularis)",
+          "속원형층(inner circular layer)",
+          "장막(serosa)",
+          "소화관(alimentary canal)",
+          "점막(mucosa)",
+          "상피(epithelium)",
+          "점막근육층(muscularis mucosae)",
+          "샘창자(duodenum)",
+          "바깥세로층(outer longitudinal layer)",
+          "근육층신경얼기(myenteric nerve plexus)",
+          "창자간막(mesentery)",
+          "점막밑신경얼기(submucosal nerve plexus)",
+          "근육(muscles)",
+          "간(liver)",
+          "신경(nerves)",
+          "근육층(muscularis externa)",
+          "미주신경(vagus nerve)",
+          "위(stomach)",
+          "복막(peritoneum)",
+          "작은창자(small intestine)",
+          "식도(esophagus)",
+          "큰 혈관(great vessels)",
+          "고리(annulus)",
+          "장융모(intestinal villi)",
+          "암죽관(lacteal)",
+          "근육층(muscularis)",
+          "암죽관(lacteals)",
+          "창자근육신경얼기(myenteric nerve plexus)"
+        ],
+        "unresolved_terms": [
+          "느슨한결합조직(loose connective tissue)",
+          "루어지며샘(glands)",
+          "모세림프관(lacteals)",
+          "연동운동(peristalsis)",
+          "루어지고연동운동(peristalsis)"
+        ],
+        "missing_terms": [
+          "정매(Vein)",
+          "없으나(Submucosal gland)",
+          "속공간(Lumen)",
+          "모세혈관(capillaries)",
+          "점막밑생(Lymph vessel)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Histology of Alimentary canal",
+        "그림 15-2 소화관의 주요 총과 구조",
+        "상피Epithelium)",
+        "고유판(Lamina propria)",
+        "mucosae) -창자간막",
+        "점막믿종(Submucosa) 동백 Artery)",
+        "점막밑생 (Lymph vessel)",
+        "(Submucosal gland)",
+        "혈관Blood vessel) 속공간Lumen)",
+        "(Submucosal nerve plexus)",
+        "근육VMuscularis)",
+        "(Inner circular layer)",
+        "(Myenteric nerve plexus)",
+        "(Outer longitudinal layer)",
+        "소화관의 작은창자구역의 구조름 나타내는 모식도로씨 4개의 주요 총과 혈관 및 림프관이 분포하는 창자간막(mesentry)에 의해 매달려 있다:",
+        "주요 구성요소들이 왼쪽에 열거되어 있다: 위 작은창자 굳창자는 신경"
+      ],
+      "supplemental_ocr_blocks": [
+        "점막종(Mucosa)",
+        "점막근육판",
+        "(Muscularis",
+        ";",
+        "(Mesentery)",
+        "정매( Vein)",
+        "'림프관",
+        "점막믿신경얼기",
+        "안쪽돌림층",
+        "근육증신경얼기",
+        "바깥세로층",
+        "장막촌Serosa)-"
+      ],
+      "corrected_page_text": "Histology of Alimentary canal\n그림 15-2 소화관의 주요 총과 구조\n상피Epithelium)\n고유판(Lamina propria)\nmucosae) -창자간막\n점막믿종(Submucosa) 동백 Artery)\n점막밑생 (Lymph vessel)\n(Submucosal gland)\n혈관Blood vessel) 속공간Lumen)\n(Submucosal nerve plexus)\n근육VMuscularis)\n(Inner circular layer)\n(Myenteric nerve plexus)\n(Outer longitudinal layer)\n소화관의 작은창자구역의 구조름 나타내는 모식도로씨 4개의 주요 총과 혈관 및 림프관이 분포하는 창자간막(mesentry)에 의해 매달려 있다:\n주요 구성요소들이 왼쪽에 열거되어 있다: 위 작은창자 굳창자는 신경",
+      "quality_audit": {
+        "pdf_char_count": 26,
+        "pdf_span_count": 1,
+        "pdf_word_count": 4,
+        "ocr_fragment_count": 33,
+        "pdf_line_count": 1,
+        "ocr_line_count": 28,
+        "merged_line_count": 28,
+        "pdf_only_count": 0,
+        "ocr_only_count": 27,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 27,
+        "pdf_alpha_count": 26,
+        "ocr_alpha_count": 380,
+        "promoted_ocr_only_count": 15
+      }
+    }
+  }
+}

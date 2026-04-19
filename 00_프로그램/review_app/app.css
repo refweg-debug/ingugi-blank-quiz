@@ -1,0 +1,396 @@
+:root {
+  color-scheme: light;
+  --bg: #f3f0e8;
+  --panel: #fffdf8;
+  --panel-strong: #f8f4ea;
+  --line: #d8cfbf;
+  --text: #1b1b1b;
+  --muted: #665f52;
+  --accent: #1f5e4f;
+  --accent-soft: #d9ebe6;
+  --danger-soft: #f4dfd9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at top left, #faf6ec, var(--bg));
+  color: var(--text);
+  font-family: "Noto Sans KR", "Malgun Gothic", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  border-right: 1px solid var(--line);
+  background: rgba(255, 253, 248, 0.92);
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.sidebar-block + .sidebar-block {
+  margin-top: 20px;
+}
+
+.sidebar h1,
+.main h2,
+.main h3 {
+  margin: 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.controls {
+  display: grid;
+  gap: 12px;
+}
+
+label {
+  display: grid;
+  gap: 6px;
+}
+
+select,
+textarea,
+button {
+  font: inherit;
+}
+
+select,
+textarea {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: white;
+  padding: 10px 12px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  border: 0;
+  border-radius: 12px;
+  padding: 10px 14px;
+  background: var(--accent);
+  color: white;
+  cursor: pointer;
+}
+
+button.ghost {
+  background: var(--panel-strong);
+  color: var(--text);
+  border: 1px solid var(--line);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.page-list {
+  display: grid;
+  gap: 8px;
+}
+
+.page-list button {
+  text-align: left;
+  background: white;
+  color: var(--text);
+  border: 1px solid var(--line);
+}
+
+.page-list button.active {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.page-list button small {
+  display: block;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.main {
+  padding: 24px;
+  display: grid;
+  gap: 18px;
+}
+
+.source-top-card,
+.question-panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 10px 30px rgba(50, 40, 10, 0.06);
+}
+
+.source-top-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.nav-buttons,
+.footer-nav {
+  display: flex;
+  gap: 10px;
+}
+
+.source-top-labels {
+  min-width: 0;
+}
+
+.source-summary {
+  margin: 4px 0 0;
+  font-size: 14px;
+}
+
+.ghost-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  border-radius: 12px;
+  padding: 10px 14px;
+  background: var(--panel-strong);
+  color: var(--text);
+  border: 1px solid var(--line);
+}
+
+.section-title-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  margin-bottom: 12px;
+}
+
+.source-image-frame {
+  background: #f7f2e8;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  overflow: hidden;
+  min-height: 160px;
+  max-height: 28vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#reviewImage {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 28vh;
+  height: auto;
+}
+
+.question-panel-wide {
+  min-width: 0;
+}
+
+.question-list {
+  display: grid;
+  gap: 14px;
+}
+
+.analysis-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.analysis-card {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 14px;
+  background: linear-gradient(180deg, #fffdfa, #fbf7ef);
+  min-width: 0;
+}
+
+.analysis-card-wide {
+  grid-column: 1 / -1;
+}
+
+.analysis-card-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.analysis-card h4 {
+  margin: 0;
+}
+
+.analysis-pre {
+  margin: 0;
+  padding: 12px;
+  min-height: 120px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: #fff;
+  white-space: pre-wrap;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.analysis-subsection {
+  margin-top: 12px;
+  display: grid;
+  gap: 6px;
+}
+
+.analysis-list {
+  display: grid;
+  gap: 8px;
+}
+
+.analysis-item {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: #fff;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.analysis-item.empty {
+  color: var(--muted);
+}
+
+.question-card {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 14px;
+  background: linear-gradient(180deg, #fffdfa, #fbf7ef);
+}
+
+.question-card-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.question-badge {
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+
+.question-prompt {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0 0 12px;
+  white-space: pre-wrap;
+}
+
+.question-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.answer-panel {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 14px;
+  background: var(--panel-strong);
+  display: grid;
+  gap: 10px;
+}
+
+.answer-panel.hidden {
+  display: none;
+}
+
+.answer-value,
+.accepted-answer-value,
+.answer-explanation {
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.footer-nav {
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+@media (max-width: 1100px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .source-image-frame {
+    max-height: none;
+  }
+
+  #reviewImage {
+    max-height: none;
+  }
+
+  .analysis-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .main {
+    padding: 16px;
+  }
+
+  .source-top-head {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .nav-buttons,
+  .footer-nav {
+    width: 100%;
+  }
+
+  .nav-buttons button,
+  .nav-buttons .ghost-link,
+  .footer-nav button {
+    flex: 1;
+  }
+}

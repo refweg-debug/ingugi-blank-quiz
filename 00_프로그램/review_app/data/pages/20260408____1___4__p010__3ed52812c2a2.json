@@ -1,0 +1,638 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 10
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_001"
+      ],
+      "prompt": "_____는 젖미수조(cisterna chyli)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자림프줄기(intestinal lymphatic trunk)",
+        "accepted_answers": [
+          "창자림프줄기(intestinal lymphatic trunk)",
+          "intestinal lymphatic trunk",
+          "intestinal trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자림프줄기(intestinal lymphatic trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자림프줄기(intestinal lymphatic trunk)는 젖미수조(cisterna chyli)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_001"
+      ],
+      "prompt": "창자림프줄기(intestinal lymphatic trunk)는 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "젖미수조(cisterna chyli)",
+        "accepted_answers": [
+          "젖미수조(cisterna chyli)",
+          "cisterna chyli"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "젖미수조(cisterna chyli)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자림프줄기(intestinal lymphatic trunk)는 젖미수조(cisterna chyli)로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_002"
+      ],
+      "prompt": "_____는 가슴관(thoracic duct)으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "젖미수조(cisterna chyli)",
+        "accepted_answers": [
+          "젖미수조(cisterna chyli)",
+          "cisterna chyli"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "젖미수조(cisterna chyli)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 젖미수조(cisterna chyli)는 가슴관(thoracic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_002"
+      ],
+      "prompt": "젖미수조(cisterna chyli)는 _____으로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴관(thoracic duct)",
+        "accepted_answers": [
+          "가슴관(thoracic duct)",
+          "thoracic duct"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴관(thoracic duct)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 젖미수조(cisterna chyli)는 가슴관(thoracic duct)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "_____에서 모인 림프는 창자림프줄기(intestinal lymphatic trunk)로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막림프절(mesenteric nodes)",
+        "accepted_answers": [
+          "창자간막림프절(mesenteric nodes)",
+          "mesenteric nodes",
+          "mesenteric node"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막림프절(mesenteric nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자간막림프절(mesenteric nodes)에서 모인 림프는 창자림프줄기(intestinal lymphatic trunk)로 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_003"
+      ],
+      "prompt": "창자간막림프절(mesenteric nodes)에서 모인 림프는 _____로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자림프줄기(intestinal lymphatic trunk)",
+        "accepted_answers": [
+          "창자림프줄기(intestinal lymphatic trunk)",
+          "intestinal lymphatic trunk",
+          "intestinal trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자림프줄기(intestinal lymphatic trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 창자간막림프절(mesenteric nodes)에서 모인 림프는 창자림프줄기(intestinal lymphatic trunk)로 들어간다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "_____과 아래창자간막림프절(inferior mesenteric nodes)은 창자간막림프절(mesenteric nodes)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막림프절(superior mesenteric nodes)",
+        "accepted_answers": [
+          "위창자간막림프절(superior mesenteric nodes)",
+          "superior mesenteric nodes",
+          "superior mesenteric node"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막림프절(superior mesenteric nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막림프절(superior mesenteric nodes)과 아래창자간막림프절(inferior mesenteric nodes)은 창자간막림프절(mesenteric nodes)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "위창자간막림프절(superior mesenteric nodes)과 _____은 창자간막림프절(mesenteric nodes)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막림프절(inferior mesenteric nodes)",
+        "accepted_answers": [
+          "아래창자간막림프절(inferior mesenteric nodes)",
+          "inferior mesenteric nodes",
+          "inferior mesenteric node"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막림프절(inferior mesenteric nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막림프절(superior mesenteric nodes)과 아래창자간막림프절(inferior mesenteric nodes)은 창자간막림프절(mesenteric nodes)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p010_course_배_필기본_010_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_010_course_004"
+      ],
+      "prompt": "위창자간막림프절(superior mesenteric nodes)과 아래창자간막림프절(inferior mesenteric nodes)은 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막림프절(mesenteric nodes)",
+        "accepted_answers": [
+          "창자간막림프절(mesenteric nodes)",
+          "mesenteric nodes",
+          "mesenteric node"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막림프절(mesenteric nodes)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위창자간막림프절(superior mesenteric nodes)과 아래창자간막림프절(inferior mesenteric nodes)은 창자간막림프절(mesenteric nodes)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 9,
+    "question_type_count": {
+      "fill_blank": 9
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__1c9bf2b5e24b.json",
+        "review_image_url": "./data/images/20260408____1___4__p001__1c9bf2b5e24b.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__3c10b17efec0.json",
+        "review_image_url": "./data/images/20260408____1___4__p002__3c10b17efec0.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__b3a9f8007818.json",
+        "review_image_url": "./data/images/20260408____1___4__p003__b3a9f8007818.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 15,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__14b5f2000d36.json",
+        "review_image_url": "./data/images/20260408____1___4__p004__14b5f2000d36.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__176e537841fb.json",
+        "review_image_url": "./data/images/20260408____1___4__p005__176e537841fb.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__b23ed0ada0d3.json",
+        "review_image_url": "./data/images/20260408____1___4__p006__b23ed0ada0d3.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__d5fa6a9b8c01.json",
+        "review_image_url": "./data/images/20260408____1___4__p007__d5fa6a9b8c01.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__916dbe5cb8d4.json",
+        "review_image_url": "./data/images/20260408____1___4__p008__916dbe5cb8d4.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__76a8b4115b7b.json",
+        "review_image_url": "./data/images/20260408____1___4__p009__76a8b4115b7b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__3ed52812c2a2.json",
+        "review_image_url": "./data/images/20260408____1___4__p010__3ed52812c2a2.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__d794876b7892.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__207c1fa54313.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__2f3706809306.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__9a1488d0e654.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__1038f14a61f4.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__b81e29b09df3.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__5aced46f83fe.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__9732600e170b.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__aef147dc495e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__1793145b6582.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__88ba53328161.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__a2cdd2934fea.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__950e2401b2aa.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a27facf1f320.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__258631da83af.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e9103272684a.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__d1c94a211059.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__a213fa8cf394.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__e7cbf93cd867.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__b68a04721df8.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__072642e0086b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__18ac65d7f328.json"
+      }
+    ],
+    "current_index": 9,
+    "previous_page": 9,
+    "next_page": 11
+  },
+  "review_image_url": "./data/images/20260408____1___4__p010__3ed52812c2a2.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 10
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "창자림프줄기(intestinal lymphatic trunk)는 젖미수조(cisterna chyli)로 이어진다.",
+        "젖미수조(cisterna chyli)는 가슴관(thoracic duct)으로 이어진다.",
+        "창자간막림프절(mesenteric nodes)에서 모인 림프는 창자림프줄기(intestinal lymphatic trunk)로 들어간다.",
+        "위창자간막림프절(superior mesenteric nodes)과 아래창자간막림프절(inferior mesenteric nodes)은 창자간막림프절(mesenteric nodes)에 속한다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "창자간막림프절의 영어 이름은 mesenteric nodes이다.",
+        "위창자간막림프절의 영어 이름은 superior mesenteric nodes이다.",
+        "아래창자간막림프절의 영어 이름은 inferior mesenteric nodes이다.",
+        "창자림프줄기의 영어 이름은 intestinal lymphatic trunk이다.",
+        "젖미수조의 영어 이름은 cisterna chyli이다.",
+        "가슴관의 영어 이름은 thoracic duct이다.",
+        "위의 영어 이름은 stomach이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "superior mesenteric nodes 통해배출",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "→ inferior mesenteric node 통해배출",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "inferior mesenteric node",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배(abdominal region)",
+          "창자간막림프절(mesenteric nodes)",
+          "위창자간막림프절(superior mesenteric nodes)",
+          "아래창자간막림프절(inferior mesenteric nodes)",
+          "창자림프줄기(intestinal lymphatic trunk)",
+          "젖미수조(cisterna chyli)",
+          "가슴관(thoracic duct)",
+          "위(stomach)",
+          "창자간막(mesentery)",
+          "간(liver)",
+          "가슴(thorax)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "( )림프배출은대부분큰혈관과같이움직임하나하나할필요없음",
+        "superior mesenteric nodes 통해배출",
+        "→ inferior mesenteric node 통해배출",
+        "→→→ intestinal lymphatic trunk cisterna chyli thoracic duct 최종적으로다모여로감까지위쪽으로진행되어배출됨",
+        "inferior mesenteric node",
+        "아래창자간막림프절"
+      ],
+      "supplemental_ocr_blocks": [
+        "superior mesenteric nodes 통해 배출",
+        "~",
+        "-가슴림프관광대",
+        "cisterna chyli",
+        "그림 6-47. 위창자간막동맥의 혈관조영영상",
+        "1. 위창자간막동맥 2 . 중간잘록창자동맥 3 . 오른잘록창자",
+        "동맥 4. 돌잘록창자동맥 5 . 위창자간막동맥의 돌창자가",
+        "지 6. 위창자간막동백의 반창자가지",
+        "위창자간막림프절",
+        "superior mesenteric",
+        "nodes",
+        "~창장렬말림뚜다",
+        "nodes",
+        "도장@창장히질절",
+        "ileocolic",
+        "inferior mesenteric node",
+        "아래창자간막림프절",
+        "그림 6-46. 위창자간막동맥과 창자간막림프절"
+      ],
+      "corrected_page_text": "( )림프배출은대부분큰혈관과같이움직임하나하나할필요없음\nsuperior mesenteric nodes 통해배출\n→ inferior mesenteric node 통해배출\n→→→ intestinal lymphatic trunk cisterna chyli thoracic duct 최종적으로다모여로감까지위쪽으로진행되어배출됨\ninferior mesenteric node\n아래창자간막림프절",
+      "quality_audit": {
+        "pdf_char_count": 188,
+        "pdf_span_count": 35,
+        "pdf_word_count": 41,
+        "ocr_fragment_count": 24,
+        "pdf_line_count": 6,
+        "ocr_line_count": 23,
+        "merged_line_count": 24,
+        "pdf_only_count": 1,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 6,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 182,
+        "ocr_alpha_count": 226,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

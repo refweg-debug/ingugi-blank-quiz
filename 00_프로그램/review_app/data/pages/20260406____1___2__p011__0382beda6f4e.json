@@ -1,0 +1,845 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 11
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "_____에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "고환(testis)에서 형성된 림프는 _____을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환동맥(testicular artery)",
+        "accepted_answers": [
+          "고환동맥(testicular artery)",
+          "testicular artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환동맥(testicular artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 _____과 대동맥앞림프절(preaortic nodes)로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허리림프절(lumbar nodes)",
+        "accepted_answers": [
+          "허리림프절(lumbar nodes)",
+          "lumbar nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허리림프절(lumbar nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_001_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_001"
+      ],
+      "prompt": "고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 _____로 배액된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "대동맥앞림프절(preaortic nodes)",
+        "accepted_answers": [
+          "대동맥앞림프절(preaortic nodes)",
+          "preaortic nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "대동맥앞림프절(preaortic nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_002"
+      ],
+      "prompt": "_____의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_002"
+      ],
+      "prompt": "고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 _____과 대동맥앞림프절(preaortic nodes)로 향한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허리림프절(lumbar nodes)",
+        "accepted_answers": [
+          "허리림프절(lumbar nodes)",
+          "lumbar nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허리림프절(lumbar nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_002"
+      ],
+      "prompt": "고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 _____로 향한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "대동맥앞림프절(preaortic nodes)",
+        "accepted_answers": [
+          "대동맥앞림프절(preaortic nodes)",
+          "preaortic nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "대동맥앞림프절(preaortic nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_003"
+      ],
+      "prompt": "오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.)은 _____에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배대동맥(abdominal aorta)",
+        "accepted_answers": [
+          "배대동맥(abdominal aorta)",
+          "abdominal aorta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배대동맥(abdominal aorta)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.)은 배대동맥(abdominal aorta)에서 기시한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_003"
+      ],
+      "prompt": "_____과 왼고환동맥(left testicular a.)은 배대동맥(abdominal aorta)에서 기시한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른고환동맥(right testicular a.)",
+        "accepted_answers": [
+          "오른고환동맥(right testicular a.)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른고환동맥(right testicular a.)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.)은 배대동맥(abdominal aorta)에서 기시한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_004"
+      ],
+      "prompt": "_____은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "허리림프절(lumbar nodes)",
+        "accepted_answers": [
+          "허리림프절(lumbar nodes)",
+          "lumbar nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "허리림프절(lumbar nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_004"
+      ],
+      "prompt": "허리림프절(lumbar nodes)은 _____의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배대동맥(abdominal aorta)",
+        "accepted_answers": [
+          "배대동맥(abdominal aorta)",
+          "abdominal aorta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배대동맥(abdominal aorta)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_004_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_004"
+      ],
+      "prompt": "허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, _____은 배대동맥(abdominal aorta)의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "대동맥앞림프절(preaortic nodes)",
+        "accepted_answers": [
+          "대동맥앞림프절(preaortic nodes)",
+          "preaortic nodes"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "대동맥앞림프절(preaortic nodes)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_004_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_004"
+      ],
+      "prompt": "허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 _____의 앞쪽에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배대동맥(abdominal aorta)",
+        "accepted_answers": [
+          "배대동맥(abdominal aorta)",
+          "abdominal aorta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배대동맥(abdominal aorta)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_005"
+      ],
+      "prompt": "_____는 고환동맥(testicular artery) 주변에 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환얼기(testicular plexus)",
+        "accepted_answers": [
+          "고환얼기(testicular plexus)",
+          "testicular plexus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환얼기(testicular plexus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: testicular plexus는 고환동맥(testicular artery) 주변에 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_011_ai_corrected_005"
+      ],
+      "prompt": "고환얼기(testicular plexus)는 _____ 주변에 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환동맥(testicular artery)",
+        "accepted_answers": [
+          "고환동맥(testicular artery)",
+          "testicular artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환동맥(testicular artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: testicular plexus는 고환동맥(testicular artery) 주변에 형성된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "_____은 배대동맥(abdominal aorta)에서 직접 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환동맥(testicular artery)",
+        "accepted_answers": [
+          "고환동맥(testicular artery)",
+          "testicular artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환동맥(testicular artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환동맥(testicular artery)은 배대동맥(abdominal aorta)에서 직접 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p011_course_배_필기본_011_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_011_course_001"
+      ],
+      "prompt": "고환동맥(testicular artery)은 _____에서 직접 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배대동맥(abdominal aorta)",
+        "accepted_answers": [
+          "배대동맥(abdominal aorta)",
+          "abdominal aorta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배대동맥(abdominal aorta)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환동맥(testicular artery)은 배대동맥(abdominal aorta)에서 직접 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 17,
+    "question_type_count": {
+      "fill_blank": 17
+    },
+    "question_focus_count": {
+      "course_exam_style": 15,
+      "course_exam_style_provisional": 2
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json",
+        "review_image_url": "./data/images/20260406____1___2__p008__971810a2eca5.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json",
+        "review_image_url": "./data/images/20260406____1___2__p009__d8d6b3e97a31.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json",
+        "review_image_url": "./data/images/20260406____1___2__p010__ed284d878b85.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json",
+        "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 10,
+    "previous_page": 10,
+    "next_page": 12
+  },
+  "review_image_url": "./data/images/20260406____1___2__p011__0382beda6f4e.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 11
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다.",
+        "고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다.",
+        "오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.)은 배대동맥(abdominal aorta)에서 기시한다.",
+        "허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다.",
+        "testicular plexus는 고환동맥(testicular artery) 주변에 형성된다.",
+        "고환동맥(testicular artery)은 배대동맥(abdominal aorta)에서 직접 나온다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "허리림프절의 영어 이름은 lumbar nodes이다.",
+        "고환동맥의 영어 이름은 testicular artery이다.",
+        "고환의 영어 이름은 testis이다.",
+        "오른고환동맥의 영어 이름은 right testicular artery이다.",
+        "고환얼기의 영어 이름은 testicular plexus이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "위의 영어 이름은 stomach이다.",
+        "왼고환동맥의 영어 이름은 left testicular artery이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "신경] 오른고환동맥 허리림프절",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "'여기서부터는 내장 신경 나움 110-T1에서 기원하는 교감신경 right testicular a lumbar nodes",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "'모두 testicular artery 주변에서 testicular plexus 형성해서 원고환동백",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "abdominal aorta",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "그림 6-19. 고환의 림프흐름과 배안의 림프절",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "고환(testis)에서 형성된 림프는 고환동맥(testicular artery)을 따라 상행하여 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 배액된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "고환(testis)의 림프배액은 속엉덩림프절(internal iliac nodes)이나 바깥엉덩림프절(external iliac nodes)보다 위쪽의 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)로 향한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.)은 배대동맥(abdominal aorta)에서 기시한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "허리림프절(lumbar nodes)은 배대동맥(abdominal aorta)의 가쪽에, 대동맥앞림프절(preaortic nodes)은 배대동맥(abdominal aorta)의 앞쪽에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "testicular plexus는 고환동맥(testicular artery) 주변에 형성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "고환의 림프배액 그림에 필기본이 림프와 신경 요점을 추가한 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "고환(testis) 림프가 배액된다 허리림프절(lumbar nodes)과 대동맥앞림프절(preaortic nodes)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "오른고환동맥(right testicular a.)과 왼고환동맥(left testicular a.) 기시한다 배대동맥(abdominal aorta)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "허리림프절(lumbar nodes) 위치한다 배대동맥(abdominal aorta)의 가쪽",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "대동맥앞림프절(preaortic nodes) 위치한다 배대동맥(abdominal aorta)의 앞쪽",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "testicular plexus 형성된다 고환동맥(testicular artery) 주변",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 15,
+        "accounted_term_count": 15,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "고환(testis)",
+          "허리림프절(lumbar nodes)",
+          "대동맥앞림프절(preaortic nodes)",
+          "나바깥엉덩림프절(external iliac nodes)",
+          "오른고환동맥(right testicular a.)",
+          "왼고환동맥(left testicular a.)",
+          "배대동맥(abdominal aorta)",
+          "고환동맥(testicular artery)",
+          "배(abdominal region)",
+          "신경(nerves)",
+          "오른고환동맥(right testicular artery)",
+          "고환얼기(testicular plexus)",
+          "배안(abdominal cavity)",
+          "위(stomach)",
+          "왼고환동맥(left testicular artery)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "abdominal aorta",
+        "오른콩팔동맥 왼콩팔동맥",
+        "right renala left renal a.",
+        "testis예서 형성된 김프는 김프관올 따라 상행 preeortic nodes",
+        "lurbar lymph nodes preaortic lymph nodes로 배출",
+        "신경] 오른고환동맥 허리림프절",
+        "'여기서부터는 내장 신경 나움 110-T1에서 기원하는 교감신경 right testicular a lumbar nodes",
+        "vagus nerve에서 오는 부교감 신경 (다부분의 nerve)",
+        "'모두 testicular artery 주변에서 testicular plexus 형성해서 원고환동백",
+        "교감 부교감 기능울 함 left testicular a",
+        "오른온엉당동맥 common iliac nodes",
+        "right common iliac a",
+        "internal iliac a 속엉덩림프절",
+        "external iliac a 2 9",
+        "internal iliac nodes",
+        "external iliac nodes",
+        "그림 6-19. 고환의 림프흐름과 배안의 림프절"
+      ],
+      "supplemental_ocr_blocks": [
+        "배대동백",
+        "대동맥앞림프절",
+        "김프]",
+        "온엉덩림프절",
+        "속엉딩동맥",
+        "바깥엉당동맥",
+        "2",
+        "2 바깥엉덩림프절",
+        "고환",
+        "testis"
+      ],
+      "corrected_page_text": "abdominal aorta\n오른콩팔동맥 왼콩팔동맥\nright renala left renal a.\ntestis예서 형성된 김프는 김프관올 따라 상행 preeortic nodes\nlurbar lymph nodes preaortic lymph nodes로 배출\n신경] 오른고환동맥 허리림프절\n'여기서부터는 내장 신경 나움 110-T1에서 기원하는 교감신경 right testicular a lumbar nodes\nvagus nerve에서 오는 부교감 신경 (다부분의 nerve)\n'모두 testicular artery 주변에서 testicular plexus 형성해서 원고환동백\n교감 부교감 기능울 함 left testicular a\n오른온엉당동맥 common iliac nodes\nright common iliac a\ninternal iliac a 속엉덩림프절\nexternal iliac a 2 9\ninternal iliac nodes\nexternal iliac nodes\n그림 6-19. 고환의 림프흐름과 배안의 림프절",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 42,
+        "pdf_line_count": 0,
+        "ocr_line_count": 27,
+        "merged_line_count": 27,
+        "pdf_only_count": 0,
+        "ocr_only_count": 27,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 27,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 453,
+        "promoted_ocr_only_count": 17
+      }
+    }
+  }
+}

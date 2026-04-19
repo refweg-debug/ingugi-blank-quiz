@@ -1,0 +1,1261 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 20,
+    "note_page_number": 20,
+    "source_page_number": 90,
+    "original_page_number": 90,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_001"
+      ],
+      "prompt": "_____는 돌막창자이음부(ileocecal junction)보다 아래쪽에 있으며 오른엉덩뼈오목(right iliac fossa)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 막창자(cecum)는 돌막창자이음부(ileocecal junction)보다 아래쪽에 있으며 오른엉덩뼈오목(right iliac fossa)에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_001"
+      ],
+      "prompt": "막창자(cecum)는 돌막창자이음부(ileocecal junction)보다 아래쪽에 있으며 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오른엉덩뼈오목(right iliac fossa)",
+        "accepted_answers": [
+          "오른엉덩뼈오목(right iliac fossa)",
+          "right iliac fossa"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오른엉덩뼈오목(right iliac fossa)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 막창자(cecum)는 돌막창자이음부(ileocecal junction)보다 아래쪽에 있으며 오른엉덩뼈오목(right iliac fossa)에 위치한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "_____는 사선으로 주행하여 막창자(cecum)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 돌창자(ileum)는 사선으로 주행하여 막창자(cecum)에 연결된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "돌창자(ileum)는 사선으로 주행하여 _____에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 돌창자(ileum)는 사선으로 주행하여 막창자(cecum)에 연결된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "_____은 돌창자(ileum)가 막창자(cecum)와 연결되는 부위이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌막창자연결(ileocecal junction)",
+        "accepted_answers": [
+          "돌막창자연결(ileocecal junction)",
+          "ileocecal junction"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌막창자연결(ileocecal junction)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 돌막창자연결(ileocecal junction)은 돌창자(ileum)가 막창자(cecum)와 연결되는 부위이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "돌막창자연결(ileocecal junction)은 _____가 막창자(cecum)와 연결되는 부위이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 돌막창자연결(ileocecal junction)은 돌창자(ileum)가 막창자(cecum)와 연결되는 부위이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "돌막창자연결(ileocecal junction)은 돌창자(ileum)가 _____와 연결되는 부위이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 돌막창자연결(ileocecal junction)은 돌창자(ileum)가 막창자(cecum)와 연결되는 부위이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_course_007"
+      ],
+      "prompt": "_____은 막창자꼬리(vermiform appendix)에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리동맥(appendicular artery)",
+        "accepted_answers": [
+          "막창자꼬리동맥(appendicular artery)",
+          "appendicular artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리동맥(appendicular artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "일치하거나 충분히 가까운 canonical proposition을 찾지 못했다.",
+        "full": "?먮Ц 紐낆젣: 막창자꼬리동맥(appendicular artery)은 막창자꼬리(appendix)에 혈액을 공급한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_008"
+      ],
+      "prompt": "_____는 막창자꼬리(vermiform appendix)의 표면해부학적 기준점이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "McBurney's point",
+        "accepted_answers": [
+          "McBurney's point",
+          "McBurney point"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "McBurney's point"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 appendix의 표면해부학적 기준점이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_008_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_008"
+      ],
+      "prompt": "McBurney's point는 _____의 표면해부학적 기준점이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(vermiform appendix)",
+        "accepted_answers": [
+          "막창자꼬리(vermiform appendix)",
+          "vermiform appendix",
+          "appendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(vermiform appendix)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 appendix의 표면해부학적 기준점이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_009"
+      ],
+      "prompt": "_____는 ASIS(anterior superior iliac spine)와 배꼽(umbilicus)을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "McBurney's point",
+        "accepted_answers": [
+          "McBurney's point",
+          "McBurney point"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "McBurney's point"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: McBurney's point는 ASIS(anterior superior iliac spine)와 배꼽을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_필기본_020_course_015_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_015"
+      ],
+      "prompt": "돌막창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), _____ 일부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "오름잘록창자(ascending colon)",
+        "accepted_answers": [
+          "오름잘록창자(ascending colon)",
+          "ascending colon"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "오름잘록창자(ascending colon)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_강의원본_090_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_090_ai_corrected_001"
+      ],
+      "prompt": "_____은 돌창자구멍(ileal orifice)의 위입술과 아래입술을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌막창자입술(ileocolic lips)",
+        "accepted_answers": [
+          "돌막창자입술(ileocolic lips)",
+          "ileocolic lips"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌막창자입술(ileocolic lips)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 돌막창자입술(ileocecal lips)은 돌창자구멍(ileal orifice)의 위입술과 아래입술을 이룬다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_강의원본_090_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_090_ai_corrected_001"
+      ],
+      "prompt": "돌막창자입술(ileocolic lips)은 _____의 위입술과 아래입술을 이룬다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자구멍(ileal orifice)",
+        "accepted_answers": [
+          "돌창자구멍(ileal orifice)",
+          "ileal orifice"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자구멍(ileal orifice)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 돌막창자입술(ileocecal lips)은 돌창자구멍(ileal orifice)의 위입술과 아래입술을 이룬다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_강의원본_090_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_090_ai_corrected_002"
+      ],
+      "prompt": "_____은 막창자꼬리(vermiform appendix)를 지지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자간막(mesoappendix)",
+        "accepted_answers": [
+          "막창자간막(mesoappendix)",
+          "mesoappendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자간막(mesoappendix)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 막창자간막(mesoappendix)은 막창자꼬리(vermiform appendix)를 지지한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_course_배_강의원본_090_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_090_ai_corrected_002"
+      ],
+      "prompt": "막창자간막(mesoappendix)은 _____를 지지한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(vermiform appendix)",
+        "accepted_answers": [
+          "막창자꼬리(vermiform appendix)",
+          "vermiform appendix",
+          "appendix"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(vermiform appendix)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 막창자간막(mesoappendix)은 막창자꼬리(vermiform appendix)를 지지한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_010_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "돌창자구멍(ileal orifice)이 열리는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_001"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_001"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 돌창자구멍(ileal orifice) / predicate: opens_into / object: 막창자(cecum)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_011_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "돌막창자입술(ileocecal lips)이 둘러싸는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자구멍(ileal orifice)",
+        "accepted_answers": [
+          "돌창자구멍(ileal orifice)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자구멍(ileal orifice)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 돌막창자입술(ileocecal lips) / predicate: surrounds / object: 돌창자구멍(ileal orifice)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_012_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "막창자꼬리구멍(orifice of vermiform appendix)이 열리는 공간은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(vermiform appendix)",
+        "accepted_answers": [
+          "막창자꼬리(vermiform appendix)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(vermiform appendix)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 막창자꼬리구멍(orifice of vermiform appendix) / predicate: opens_to / object: 막창자꼬리(vermiform appendix)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_013_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "막창자간막(mesoappendix)이 지지하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자꼬리(vermiform appendix)",
+        "accepted_answers": [
+          "막창자꼬리(vermiform appendix)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자꼬리(vermiform appendix)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 막창자간막(mesoappendix) / predicate: supports / object: 막창자꼬리(vermiform appendix)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_015_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "돌막창자동맥(ileocolic artery)이 내는 가지는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "잘록창자가지(colic branch)",
+        "accepted_answers": [
+          "잘록창자가지(colic branch)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "잘록창자가지(colic branch)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_006"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_006"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 돌막창자동맥(ileocolic artery) / predicate: gives_branch / object: 잘록창자가지(colic branch)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_016_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "돌막창자동맥(ileocolic artery)이 내는 가지는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자가지(ileal branch)",
+        "accepted_answers": [
+          "돌창자가지(ileal branch)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자가지(ileal branch)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_007"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_007"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 돌막창자동맥(ileocolic artery) / predicate: gives_branch / object: 돌창자가지(ileal branch)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p020_visual_visual_relation_017_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "막창자(cecum)의 뒤쪽에 위치하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤막창자오목(retrocecal recess)",
+        "accepted_answers": [
+          "뒤막창자오목(retrocecal recess)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤막창자오목(retrocecal recess)",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_008"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "2026년 배(소화계통 비뇨계통)__p090_ai_page_read::rel_008"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 뒤막창자오목(retrocecal recess) / predicate: is_posterior_to / object: 막창자(cecum)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 23,
+    "question_type_count": {
+      "fill_blank": 16,
+      "image_grounded_fill_blank": 7
+    },
+    "question_focus_count": {
+      "course_exam_style": 9,
+      "course_exam_style_provisional": 7,
+      "visual_relation_understanding": 7
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__4dc434a3e59d.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__5edeab61f8f7.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__f4158e5297cf.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__a7b5eae69295.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__502c297bb727.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__3451ed70af73.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__90f87a5ee280.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__1575caa2932f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__af8cf76e3174.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__7ffb96a1af24.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__ec5f5d70c5af.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__b2fa3565ffa1.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__1d1d8cea5cd8.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__d3d14b1f527b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__3acaeed6337b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__d195ca83326d.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__f29baac7e42d.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__0bb2b9abc052.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__ee6f5492aea9.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__44db7b2c1695.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__7b969a75e30e.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__2e94c7100c4b.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__3b60d8389744.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a757750919ce.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__f11240973ddf.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e76fcb3aa838.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__90ad0554ff58.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__6ad75ef23808.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__7e5f0d9d201a.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__6ab655ae4965.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__89721a7d934d.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__fb461517236c.json"
+      }
+    ],
+    "current_index": 19,
+    "previous_page": 19,
+    "next_page": 21
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 20
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "막창자(cecum)는 돌막창자이음부(ileocecal junction)보다 아래쪽에 있으며 오른엉덩뼈오목(right iliac fossa)에 위치한다.",
+        "돌창자(ileum)는 사선으로 주행하여 막창자(cecum)에 연결된다.",
+        "McBurney point는 앞위엉덩뼈가시(anterior superior iliac spine)와 배꼽(umbilicus)을 잇는 선 위의 기준점으로 막창자꼬리(vermiform appendix) 위치를 찾을 때 사용한다.",
+        "돌막창자연결(ileocecal junction)은 돌창자(ileum)가 막창자(cecum)와 연결되는 부위이다.",
+        "McBurney 절개(gridiron incision)는 McBurney's point 부근에 둔다.",
+        "막창자꼬리동맥(appendicular artery)은 막창자꼬리(appendix)에 혈액을 공급한다.",
+        "McBurney's point는 appendix의 표면해부학적 기준점이다.",
+        "McBurney's point는 ASIS(anterior superior iliac spine)와 배꼽을 잇는 spinoumbilical line의 가쪽 1/3 지점에 있다.",
+        "돌잘록창자동맥(ileocolic artery)은 돌창자(ileum) 일부와 막창자(cecum), 오름잘록창자(ascending colon) 일부에 혈액을 공급한다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "돌막창자연결의 영어 이름은 ileocecal junction이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "위의 영어 이름은 stomach이다.",
+        "오른아래사분구역의 영어 이름은 right lower quadrant이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "위창자간막동맥의 영어 이름은 superior mesenteric artery이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "척수신경의 영어 이름은 spinal nerve이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "간의 영어 이름은 liver이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "돌막창자입술(ileocecal lips)은 돌창자구멍(ileal orifice)의 위입술과 아래입술을 이룬다.",
+        "막창자간막(mesoappendix)은 막창자꼬리(vermiform appendix)를 지지한다.",
+        "끝부분의 영어 이름은 end piece이다.",
+        "고리의 영어 이름은 annulus이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 11,
+          "text": "ileum cecum 부분이사선으로배열되어에연결됨",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 12,
+          "text": "appendix (mesoappendix)가달려있다에의해부착되어짐",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 21,
+          "text": "mesoappendix 에의해부착되어짐",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 24,
+          "text": "umbilicus 을연결하는",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 41,
+          "text": "돌창자(ileum)는 사선으로 주행하여 막창자(cecum)에 연결된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 42,
+          "text": "막창자꼬리(vermiform appendix)는 막창자(cecum)에 달려 있으며 막창자간막(mesoappendix)에 의해 부착된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 38,
+          "text": "돌막창자입술(ileocolic lips)은 돌막창자이음부(ileocecal junction)를 통과하는 내용물의 흐름을 조절한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "막창자(cecum)는 큰창자(large intestine)의 시작 부위이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "막창자꼬리동맥(appendicular artery)은 돌막창자동맥(ileocolic artery)의 가지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 45,
+          "text": "돌막창자동맥(ileocolic artery)은 위창자간막동맥(superior mesenteric artery)의 가지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 51,
+          "text": "돌막창자입술(ileocolic lips) regulates_passage_through 돌막창자이음부(ileocecal junction)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 52,
+          "text": "막창자(cecum) located_in 오른엉덩뼈오목(right iliac fossa)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 53,
+          "text": "막창자꼬리(vermiform appendix) attached_by 막창자간막(mesoappendix)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 55,
+          "text": "막창자꼬리동맥(appendicular artery) branch_of 돌막창자동맥(ileocolic artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 56,
+          "text": "돌막창자동맥(ileocolic artery) branch_of 위창자간막동맥(superior mesenteric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "그림 6-50. 막창자와 막창자꼬리 '",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "vermiform appendix",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "그림 6-51. 막창자 주위의 구조와 혈관분포",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "돌창자구멍(ileal orifice)은 막창자(cecum)의 안쪽으로 열리는 입구이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "돌막창자입술(ileocecal lips)은 돌창자구멍(ileal orifice)의 위입술과 아래입술을 이룬다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "돌창자구멍굴띠(frenulum of ileal orifice)는 돌창자구멍(ileal orifice)과 관련된 주름이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "막창자꼬리구멍(orifice of vermiform appendix)은 막창자(cecum) 안쪽에서 막창자꼬리(vermiform appendix)로 통한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "막창자꼬리(vermiform appendix)는 막창자(cecum)에 달려 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "막창자간막(mesoappendix)은 막창자꼬리(vermiform appendix)를 지지한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "막창자앞동맥(anterior cecal artery)과 막창자뒤동맥(posterior cecal artery)은 막창자(cecum)와 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "돌막창자동맥(ileocolic artery)은 잘록창자가지(colic branch)와 돌창자가지(ileal branch)를 낸다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "뒤막창자오목(retrocecal recess)은 막창자(cecum)의 뒤쪽 오목이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 36,
+          "text": "막창자(cecum)와 막창자꼬리(vermiform appendix), 돌창자구멍(ileal orifice), 돌막창자입술(ileocecal lips), 돌막창자동맥(ileocolic artery) 분지들을 보여 주는 강의원본 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 37,
+          "text": "돌창자구멍(ileal orifice) opens_into 막창자(cecum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 38,
+          "text": "돌막창자입술(ileocecal lips) surrounds 돌창자구멍(ileal orifice)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 39,
+          "text": "막창자꼬리구멍(orifice of vermiform appendix) opens_to 막창자꼬리(vermiform appendix)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 40,
+          "text": "막창자간막(mesoappendix) supports 막창자꼬리(vermiform appendix)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 42,
+          "text": "돌막창자동맥(ileocolic artery) gives_branch 잘록창자가지(colic branch)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 43,
+          "text": "돌막창자동맥(ileocolic artery) gives_branch 돌창자가지(ileal branch)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 44,
+          "text": "뒤막창자오목(retrocecal recess) is_posterior_to 막창자(cecum)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 38,
+        "accounted_term_count": 30,
+        "unresolved_term_count": 7,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.789,
+        "accounted_terms": [
+          "돌창자(ileum)",
+          "막창자(cecum)",
+          "오름잘록창자(ascending colon)",
+          "돌막창자입술(ileocolic lips)",
+          "큰창자(large intestine)",
+          "막창자꼬리(vermiform appendix)",
+          "막창자꼬리동맥(appendicular artery)",
+          "돌막창자동맥(ileocolic artery)",
+          "위창자간막동맥(superior mesenteric artery)",
+          "앞위엉덩뼈가시(anterior superior iliac spine)",
+          "배꼽(umbilicus)",
+          "막창자간막(mesoappendix)",
+          "오른엉덩뼈오목(right iliac fossa)",
+          "돌막창자연결(ileocecal junction)",
+          "위(stomach)",
+          "오른아래사분구역(right lower quadrant)",
+          "배(abdominal region)",
+          "신경(nerves)",
+          "척수신경(spinal nerve)",
+          "목(cervical region)",
+          "창자간막(mesentery)",
+          "간(liver)",
+          "척주(vertebral column)",
+          "McBurney's point",
+          "절개(gridiron incision)",
+          "돌창자구멍(ileal orifice)",
+          "돌막창자입술(ileocecal lips)",
+          "서막창자꼬리(vermiform appendix)",
+          "끝부분(end piece)",
+          "고리(annulus)"
+        ],
+        "unresolved_terms": [
+          "돌창자구멍굴띠(frenulum of ileal orifice)",
+          "막창자꼬리구멍(orifice of vermiform appendix)",
+          "막창자앞동맥(anterior cecal artery)",
+          "막창자뒤동맥(posterior cecal artery)",
+          "잘록창자가지(colic branch)",
+          "돌창자가지(ileal branch)",
+          "뒤막창자오목(retrocecal recess)"
+        ],
+        "missing_terms": [
+          "막창자꼬리염(appendicitis)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "오름장유창장on Cecum and appendix",
+        "~i장피창자임-(원임숙p",
+        "Ileocolic lip lip)",
+        "돌창자구멍주름때 ~i망창자임숙아래임속 Ileocecal Tip)",
+        "frenulum ol",
+        "ileal orifice",
+        "과창장-교리a멍 of vermiform",
+        "그림 6-50. 막창자와 막창자꼬리 '",
+        "vermiform appendix",
+        "막창자루 절개하여 속올 노출한 상태 돌잘록창자동맥",
+        "ileocolic a",
+        "돌잘록창자동맥 잘록창자가지",
+        "colic branch Of ileocolic a",
+        "앞막창자동맥 뒤막창자동맥",
+        "anterior cecal a posterior cecala",
+        "돌잘록창자동맥 돌창자가지",
+        "ileal branch of ileocolic a",
+        "ileocecal fold 돌창자끝부분",
+        "(bloodless fold of Treves) terminal ileum",
+        "retrocecal recess (fossa) 막창자고리간막",
+        "바깥엉당혈관 mesoappendix",
+        "external iliac vessels",
+        "그림 6-51. 막창자 주위의 구조와 혈관분포"
+      ],
+      "supplemental_ocr_blocks": [
+        "막창자 cecum",
+        "다",
+        "appendix",
+        "막창자꼬리",
+        "돌막창자주름",
+        "(트리브스 무혈관주름)",
+        "막창자꼬리동맥",
+        "appendiculara",
+        "막창자뒤오목"
+      ],
+      "corrected_page_text": "오름장유창장on Cecum and appendix\n~i장피창자임-(원임숙p\nIleocolic lip lip)\n돌창자구멍주름때 ~i망창자임숙아래임속 Ileocecal Tip)\nfrenulum ol\nileal orifice\n과창장-교리a멍 of vermiform\n그림 6-50. 막창자와 막창자꼬리 '\nvermiform appendix\n막창자루 절개하여 속올 노출한 상태 돌잘록창자동맥\nileocolic a\n돌잘록창자동맥 잘록창자가지\ncolic branch Of ileocolic a\n앞막창자동맥 뒤막창자동맥\nanterior cecal a posterior cecala\n돌잘록창자동맥 돌창자가지\nileal branch of ileocolic a\nileocecal fold 돌창자끝부분\n(bloodless fold of Treves) terminal ileum\nretrocecal recess (fossa) 막창자고리간막\n바깥엉당혈관 mesoappendix\nexternal iliac vessels\n그림 6-51. 막창자 주위의 구조와 혈관분포",
+      "quality_audit": {
+        "pdf_char_count": 16,
+        "pdf_span_count": 1,
+        "pdf_word_count": 3,
+        "ocr_fragment_count": 46,
+        "pdf_line_count": 1,
+        "ocr_line_count": 32,
+        "merged_line_count": 32,
+        "pdf_only_count": 0,
+        "ocr_only_count": 31,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 31,
+        "pdf_alpha_count": 24,
+        "ocr_alpha_count": 464,
+        "promoted_ocr_only_count": 22
+      }
+    }
+  }
+}

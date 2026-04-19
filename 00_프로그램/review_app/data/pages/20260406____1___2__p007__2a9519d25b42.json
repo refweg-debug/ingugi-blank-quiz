@@ -1,0 +1,675 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+    "page_number": 7
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "_____은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "배가로근막(transversalis fascia)은 _____의 깊은쪽에 놓인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle",
+          "transversus abdominis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_002"
+      ],
+      "prompt": "_____은 바깥배빗근널힘줄(external oblique aponeurosis)에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥정삭근막(external spermatic fascia)",
+        "accepted_answers": [
+          "바깥정삭근막(external spermatic fascia)",
+          "external spermatic fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥정삭근막(external spermatic fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 바깥정삭근막(external spermatic fascia)은 바깥배빗근널힘줄(external oblique aponeurosis)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_002"
+      ],
+      "prompt": "바깥정삭근막(external spermatic fascia)은 _____에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥배빗근널힘줄(external oblique aponeurosis)",
+        "accepted_answers": [
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "external oblique aponeurosis",
+          "aponeurosis of external oblique"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥배빗근널힘줄(external oblique aponeurosis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 바깥정삭근막(external spermatic fascia)은 바깥배빗근널힘줄(external oblique aponeurosis)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_003"
+      ],
+      "prompt": "_____은 속배빗근(internal abdominal oblique muscle)에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환올림근막(cremaster fascia)",
+        "accepted_answers": [
+          "고환올림근막(cremaster fascia)",
+          "cremaster fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환올림근막(cremaster fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환올림근막(cremaster fascia)은 속배빗근(internal abdominal oblique muscle)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_003"
+      ],
+      "prompt": "고환올림근막(cremaster fascia)은 _____에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속배빗근(internal abdominal oblique muscle)",
+        "accepted_answers": [
+          "속배빗근(internal abdominal oblique muscle)",
+          "internal abdominal oblique muscle",
+          "internal abdominal oblique"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속배빗근(internal abdominal oblique muscle)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환올림근막(cremaster fascia)은 속배빗근(internal abdominal oblique muscle)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_004"
+      ],
+      "prompt": "_____은 배가로근막(transversalis fascia)에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속정삭근막(internal spermatic fascia)",
+        "accepted_answers": [
+          "속정삭근막(internal spermatic fascia)",
+          "internal spermatic fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속정삭근막(internal spermatic fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 속정삭근막(internal spermatic fascia)은 배가로근막(transversalis fascia)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_004"
+      ],
+      "prompt": "속정삭근막(internal spermatic fascia)은 _____에서 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근막(transversalis fascia)",
+        "accepted_answers": [
+          "배가로근막(transversalis fascia)",
+          "transversalis fascia"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근막(transversalis fascia)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 속정삭근막(internal spermatic fascia)은 배가로근막(transversalis fascia)에서 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_006"
+      ],
+      "prompt": "_____은 벽쪽층(parietal layer)과 장쪽층(visceral layer)으로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환집막(tunica vaginalis)",
+        "accepted_answers": [
+          "고환집막(tunica vaginalis)",
+          "tunica vaginalis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환집막(tunica vaginalis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환집막(tunica vaginalis)은 벽쪽층(parietal layer)과 장쪽층(visceral layer)으로 이루어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_007"
+      ],
+      "prompt": "_____과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고환(testis)",
+        "accepted_answers": [
+          "고환(testis)",
+          "testis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고환(testis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_007"
+      ],
+      "prompt": "고환(testis)과 _____은 음낭(scrotum) 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "부고환(epididymis)",
+        "accepted_answers": [
+          "부고환(epididymis)",
+          "epididymis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "부고환(epididymis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p007_course_배_필기본_007_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_007"
+      ],
+      "prompt": "고환(testis)과 부고환(epididymis)은 _____ 안에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음낭(scrotum)",
+        "accepted_answers": [
+          "음낭(scrotum)",
+          "scrotum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음낭(scrotum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 12,
+    "question_type_count": {
+      "fill_blank": 12
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 12
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 54,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
+        "review_image_url": "./data/images/20260406____1___2__p001__3a371af559c6.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
+        "review_image_url": "./data/images/20260406____1___2__p002__b2f68ef3df1d.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p003__25620b46de83.json",
+        "review_image_url": "./data/images/20260406____1___2__p003__25620b46de83.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 24,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p004__d3a24c7e3e53.json",
+        "review_image_url": "./data/images/20260406____1___2__p004__d3a24c7e3e53.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p005__7e673ccf7ce6.json",
+        "review_image_url": "./data/images/20260406____1___2__p005__7e673ccf7ce6.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p006__848608f49222.json",
+        "review_image_url": "./data/images/20260406____1___2__p006__848608f49222.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 12,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p007__2a9519d25b42.json",
+        "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p008__971810a2eca5.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260406____1___2__p009__d8d6b3e97a31.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p010__ed284d878b85.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p011__0382beda6f4e.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 32,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p013__e55fd5c955c7.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p016__3eb28b9b950d.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p017__c7a9aeaf3d39.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p018__ebbe62eb3cd8.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 27,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p019__7c02408b76a9.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 22,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p020__ea1162d15f54.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260406____1___2__p021__c7cc4db30706.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 6,
+    "next_page": 8
+  },
+  "review_image_url": "./data/images/20260406____1___2__p007__2a9519d25b42.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진",
+      "page_number": 7
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "배가로근막(transversalis fascia)은 배가로근(transversus abdominis muscle)의 깊은쪽에 놓인다.",
+        "바깥정삭근막(external spermatic fascia)은 바깥배빗근널힘줄(external oblique aponeurosis)에서 이어진다.",
+        "고환올림근막(cremaster fascia)은 속배빗근(internal abdominal oblique muscle)에서 이어진다.",
+        "속정삭근막(internal spermatic fascia)은 배가로근막(transversalis fascia)에서 이어진다.",
+        "고환집막(tunica vaginalis)은 벽쪽층(parietal layer)과 장쪽층(visceral layer)으로 이루어진다.",
+        "고환(testis)과 부고환(epididymis)은 음낭(scrotum) 안에 위치한다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "배가로근막의 영어 이름은 transversalis fascia이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "배막바깥지방의 영어 이름은 extraperitoneal fat이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "정관의 영어 이름은 ductus deferens이다.",
+        "고환집돌기 흔적의 영어 이름은 vestige of vaginal process이다.",
+        "속정삭근막의 영어 이름은 internal spermatic fascia이다.",
+        "고환올림근의 영어 이름은 cremaster muscle이다.",
+        "고환의 영어 이름은 testis이다.",
+        "바깥정삭근막의 영어 이름은 external spermatic fascia이다.",
+        "부고환의 영어 이름은 epididymis이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞벽의 영어 이름은 anterior wall이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "음낭의 영어 이름은 scrotum이다.",
+        "널힘줄의 영어 이름은 aponeurosis이다.",
+        "바깥빗근의 영어 이름은 external oblique muscle이다.",
+        "바깥배빗근널힘줄의 영어 이름은 external oblique aponeurosis이다.",
+        "고환올림근막의 영어 이름은 cremaster fascia이다.",
+        "고환집막의 영어 이름은 tunica vaginalis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "배속빗근 복막바깥지방. 복막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "intenal abdominal oblique m extraperitoneal fat or peritoneum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "external abdominal oblique m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "internal spermatic fascia 고환올림근",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "그림 6-16. 앞배벽, 음낭, 정식, 고환의 충올 보여주는 모식도",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 25,
+        "accounted_term_count": 25,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배가로근(transversus abdominis muscle)",
+          "배가로근막(transversalis fascia)",
+          "배(abdominal region)",
+          "복막(peritoneum)",
+          "속빗근(internal oblique muscle)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "배막바깥지방(extraperitoneal fat)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "정관(ductus deferens)",
+          "고환집돌기 흔적(vestige of vaginal process)",
+          "속정삭근막(internal spermatic fascia)",
+          "고환올림근(cremaster muscle)",
+          "고환(testis)",
+          "바깥정삭근막(external spermatic fascia)",
+          "부고환(epididymis)",
+          "배벽(abdominal wall)",
+          "앞벽(anterior wall)",
+          "식도(esophagus)",
+          "음낭(scrotum)",
+          "널힘줄(aponeurosis)",
+          "바깥빗근(external oblique muscle)",
+          "바깥배빗근널힘줄(external oblique aponeurosis)",
+          "고환올림근막(cremaster fascia)",
+          "고환집막(tunica vaginalis)",
+          "근육(muscles)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "transversus abdominis m transversalis fascia",
+        "배속빗근 복막바깥지방. 복막",
+        "intenal abdominal oblique m extraperitoneal fat or peritoneum",
+        "external abdominal oblique m",
+        "정관 ductus deferens",
+        "vestige of vaginal process",
+        "internal spermatic fascia 고환올림근",
+        "cremaster m",
+        "external spermatic fascia",
+        "부고환 epididymis layer",
+        "vaginalis testis",
+        "고환 testis visceral layer",
+        "scrotal lig.",
+        "그림 6-16. 앞배벽, 음낭, 정식, 고환의 충올 보여주는 모식도"
+      ],
+      "supplemental_ocr_blocks": [
+        "배가로근 배가로근막",
+        "'배바깥빗근",
+        "피부 skin",
+        "고환집돌기 흔적",
+        "속정삭근막",
+        "바깥정삭근막",
+        "변퓨ea",
+        "고환층 [균환집말",
+        "음낭인대"
+      ],
+      "corrected_page_text": "transversus abdominis m transversalis fascia\n배속빗근 복막바깥지방. 복막\nintenal abdominal oblique m extraperitoneal fat or peritoneum\nexternal abdominal oblique m\n정관 ductus deferens\nvestige of vaginal process\ninternal spermatic fascia 고환올림근\ncremaster m\nexternal spermatic fascia\n부고환 epididymis layer\nvaginalis testis\n고환 testis visceral layer\nscrotal lig.\n그림 6-16. 앞배벽, 음낭, 정식, 고환의 충올 보여주는 모식도",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 32,
+        "pdf_line_count": 0,
+        "ocr_line_count": 23,
+        "merged_line_count": 23,
+        "pdf_only_count": 0,
+        "ocr_only_count": 23,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 23,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 369,
+        "promoted_ocr_only_count": 14
+      }
+    }
+  }
+}

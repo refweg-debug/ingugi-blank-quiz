@@ -1,0 +1,1061 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 20
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "verified_but_requires_reference_ai_page_read",
+  "questions": [
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "_____은 앞피부가지(anterior cutaneous branch)와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴배신경(thoracoabdominal nerves)",
+        "accepted_answers": [
+          "가슴배신경(thoracoabdominal nerves)",
+          "thoracoabdominal nerves",
+          "thoracoabdominal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴배신경(thoracoabdominal nerves)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배신경(thoracoabdominal nerves)은 앞피부가지(anterior cutaneous branch)와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "가슴배신경(thoracoabdominal nerves)은 _____와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞피부가지(anterior cutaneous branch)",
+        "accepted_answers": [
+          "앞피부가지(anterior cutaneous branch)",
+          "anterior cutaneous branch"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞피부가지(anterior cutaneous branch)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배신경(thoracoabdominal nerves)은 앞피부가지(anterior cutaneous branch)와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_001"
+      ],
+      "prompt": "가슴배신경(thoracoabdominal nerves)은 앞피부가지(anterior cutaneous branch)와 _____로 나뉜다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가쪽배피부가지(lateral abdominal cutaneous branch)",
+        "accepted_answers": [
+          "가쪽배피부가지(lateral abdominal cutaneous branch)",
+          "lateral abdominal cutaneous branch",
+          "lateral cutaneous branch"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가쪽배피부가지(lateral abdominal cutaneous branch)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 가슴배신경(thoracoabdominal nerves)은 앞피부가지(anterior cutaneous branch)와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_003"
+      ],
+      "prompt": "_____은 두덩부위(pubic region)의 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩아랫배신경(iliohypogastric nerve)",
+        "accepted_answers": [
+          "엉덩아랫배신경(iliohypogastric nerve)",
+          "iliohypogastric nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩아랫배신경(iliohypogastric nerve)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 두덩부위(pubic region)의 피부를 지배한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_003"
+      ],
+      "prompt": "엉덩아랫배신경(iliohypogastric nerve)은 _____의 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩부위(pubic region)",
+        "accepted_answers": [
+          "두덩부위(pubic region)",
+          "pubic region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩부위(pubic region)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 두덩부위(pubic region)의 피부를 지배한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "_____은 안쪽넙다리(medial thigh)와 음경(penis) 쪽 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩고샅신경(ilioinguinal nerve)",
+        "accepted_answers": [
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "ilioinguinal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩고샅신경(ilioinguinal nerve)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 안쪽넙다리(medial thigh)와 음경(penis) 쪽 피부를 지배한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "엉덩고샅신경(ilioinguinal nerve)은 _____와 음경(penis) 쪽 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "안쪽넙다리(medial thigh)",
+        "accepted_answers": [
+          "안쪽넙다리(medial thigh)",
+          "medial thigh"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "안쪽넙다리(medial thigh)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 안쪽넙다리(medial thigh)와 음경(penis) 쪽 피부를 지배한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_020_course_004"
+      ],
+      "prompt": "엉덩고샅신경(ilioinguinal nerve)은 안쪽넙다리(medial thigh)와 _____ 쪽 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음경(penis)",
+        "accepted_answers": [
+          "음경(penis)",
+          "penis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음경(penis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 안쪽넙다리(medial thigh)와 음경(penis) 쪽 피부를 지배한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_001"
+      ],
+      "prompt": "_____과 엉덩고샅신경(ilioinguinal nerve)은 L1의 앞가지(anterior ramus of L1)와 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩아랫배신경(iliohypogastric nerve)",
+        "accepted_answers": [
+          "엉덩아랫배신경(iliohypogastric nerve)",
+          "iliohypogastric nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩아랫배신경(iliohypogastric nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)과 엉덩고샅신경(ilioinguinal nerve)은 L1의 앞가지(anterior ramus of L1)와 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_001"
+      ],
+      "prompt": "엉덩아랫배신경(iliohypogastric nerve)과 _____은 L1의 앞가지(anterior ramus of L1)와 관련된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩고샅신경(ilioinguinal nerve)",
+        "accepted_answers": [
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "ilioinguinal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩고샅신경(ilioinguinal nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)과 엉덩고샅신경(ilioinguinal nerve)은 L1의 앞가지(anterior ramus of L1)와 관련된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "_____은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩아랫배신경(iliohypogastric nerve)",
+        "accepted_answers": [
+          "엉덩아랫배신경(iliohypogastric nerve)",
+          "iliohypogastric nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩아랫배신경(iliohypogastric nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "엉덩아랫배신경(iliohypogastric nerve)은 _____과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속빗근(internal oblique muscle)",
+        "accepted_answers": [
+          "속빗근(internal oblique muscle)",
+          "internal oblique muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속빗근(internal oblique muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 _____에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배가로근(transversus abdominis muscle)",
+        "accepted_answers": [
+          "배가로근(transversus abdominis muscle)",
+          "transversus abdominis muscle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배가로근(transversus abdominis muscle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_002"
+      ],
+      "prompt": "엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 _____ 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "두덩부위(pubic region)",
+        "accepted_answers": [
+          "두덩부위(pubic region)",
+          "pubic region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "두덩부위(pubic region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_003"
+      ],
+      "prompt": "_____은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩고샅신경(ilioinguinal nerve)",
+        "accepted_answers": [
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "ilioinguinal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩고샅신경(ilioinguinal nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_003_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_003"
+      ],
+      "prompt": "엉덩고샅신경(ilioinguinal nerve)은 _____을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샅굴(inguinal canal)",
+        "accepted_answers": [
+          "샅굴(inguinal canal)",
+          "inguinal canal"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샅굴(inguinal canal)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_003"
+      ],
+      "prompt": "엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 _____으로 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은고샅구멍(superficial inguinal ring)",
+        "accepted_answers": [
+          "얕은고샅구멍(superficial inguinal ring)",
+          "superficial inguinal ring"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은고샅구멍(superficial inguinal ring)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_004"
+      ],
+      "prompt": "_____은 넓적다리 안쪽 위부분과 앞음낭(anterior scrotum) 또는 음경뿌리(root of penis) 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "엉덩고샅신경(ilioinguinal nerve)",
+        "accepted_answers": [
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "ilioinguinal nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "엉덩고샅신경(ilioinguinal nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 넓적다리 안쪽 위부분과 앞음낭(anterior scrotum) 또는 음경뿌리(root of penis) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_004_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_004"
+      ],
+      "prompt": "엉덩고샅신경(ilioinguinal nerve)은 넓적다리 안쪽 위부분과 앞음낭(anterior scrotum) 또는 _____ 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음경뿌리(root of penis)",
+        "accepted_answers": [
+          "음경뿌리(root of penis)",
+          "root of penis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음경뿌리(root of penis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 엉덩고샅신경(ilioinguinal nerve)은 넓적다리 안쪽 위부분과 앞음낭(anterior scrotum) 또는 음경뿌리(root of penis) 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_005"
+      ],
+      "prompt": "_____의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "음부넙다리신경(genitofemoral nerve)",
+        "accepted_answers": [
+          "음부넙다리신경(genitofemoral nerve)",
+          "genitofemoral nerve"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "음부넙다리신경(genitofemoral nerve)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_005"
+      ],
+      "prompt": "음부넙다리신경(genitofemoral nerve)의 _____는 넙다리삼각(femoral triangle) 부위 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넓적다리가지(femoral branch)",
+        "accepted_answers": [
+          "넓적다리가지(femoral branch)",
+          "femoral branch"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넓적다리가지(femoral branch)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_course_배_필기본_020_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_020_ai_corrected_005"
+      ],
+      "prompt": "음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 _____ 부위 피부를 지배한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리삼각(femoral triangle)",
+        "accepted_answers": [
+          "넙다리삼각(femoral triangle)",
+          "femoral triangle"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리삼각(femoral triangle)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_필기본_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p020_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "nerves of anterolateral abdominal wall",
+        "accepted_answers": [
+          "nerves of anterolateral abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "nerves of anterolateral abdominal wall",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p020_ai_page_read::abdominal_wall_nerves"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호__p020_ai_page_read::abdominal_wall_nerves",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 분류된 시각 구성요소를 직접 회상하는 빈칸문제다.",
+        "full": "시각 구성요소 원문: nerves of anterolateral abdominal wall"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 23,
+    "question_type_count": {
+      "fill_blank": 22,
+      "image_grounded_fill_blank": 1
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 8,
+      "course_exam_style": 14,
+      "visual_component_identification": 1
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__2dc62e42e855.json",
+        "review_image_url": "./data/images/20260402____1___1__p001__2dc62e42e855.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__9d3f8f0da89b.json",
+        "review_image_url": "./data/images/20260402____1___1__p002__9d3f8f0da89b.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__a31c1006cec1.json",
+        "review_image_url": "./data/images/20260402____1___1__p003__a31c1006cec1.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__5d5cb917ea47.json",
+        "review_image_url": "./data/images/20260402____1___1__p004__5d5cb917ea47.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__c5961f38e80f.json",
+        "review_image_url": "./data/images/20260402____1___1__p005__c5961f38e80f.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 17,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__d4c7d358e870.json",
+        "review_image_url": "./data/images/20260402____1___1__p006__d4c7d358e870.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__d44a3b72397c.json",
+        "review_image_url": "./data/images/20260402____1___1__p007__d44a3b72397c.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__4a0ed7fd647b.json",
+        "review_image_url": "./data/images/20260402____1___1__p008__4a0ed7fd647b.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__2055751728db.json",
+        "review_image_url": "./data/images/20260402____1___1__p009__2055751728db.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__e9f6ccd291da.json",
+        "review_image_url": "./data/images/20260402____1___1__p010__e9f6ccd291da.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__9e07f9ef5d59.json",
+        "review_image_url": "./data/images/20260402____1___1__p011__9e07f9ef5d59.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__de481b2b5d5a.json",
+        "review_image_url": "./data/images/20260402____1___1__p012__de481b2b5d5a.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__02432023974f.json",
+        "review_image_url": "./data/images/20260402____1___1__p013__02432023974f.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__8526275b92e2.json",
+        "review_image_url": "./data/images/20260402____1___1__p014__8526275b92e2.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__ddfbfc17623f.json",
+        "review_image_url": "./data/images/20260402____1___1__p015__ddfbfc17623f.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 14,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__75779e4993c2.json",
+        "review_image_url": "./data/images/20260402____1___1__p016__75779e4993c2.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__a16ac99a8deb.json",
+        "review_image_url": "./data/images/20260402____1___1__p017__a16ac99a8deb.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__db7b5344243b.json",
+        "review_image_url": "./data/images/20260402____1___1__p018__db7b5344243b.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 26,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__0d6463f04db3.json",
+        "review_image_url": "./data/images/20260402____1___1__p019__0d6463f04db3.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 23,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__35904206cd64.json",
+        "review_image_url": "./data/images/20260402____1___1__p020__35904206cd64.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__2666c0fd5b09.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 13,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__a6e1999d24d2.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__2f99d87d2a87.json"
+      }
+    ],
+    "current_index": 19,
+    "previous_page": 19,
+    "next_page": 21
+  },
+  "review_image_url": "./data/images/20260402____1___1__p020__35904206cd64.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 20
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_reference_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "verified_corrected_text_ready",
+      "course_propositions": [
+        "가슴배신경(thoracoabdominal nerves)은 앞피부가지(anterior cutaneous branch)와 가쪽배피부가지(lateral abdominal cutaneous branch)로 나뉜다.",
+        "엉덩아랫배신경(iliohypogastric nerve)은 두덩부위(pubic region)의 피부를 지배한다.",
+        "엉덩고샅신경(ilioinguinal nerve)은 안쪽넙다리(medial thigh)와 음경(penis) 쪽 피부를 지배한다.",
+        "엉덩아랫배신경(iliohypogastric nerve)과 엉덩고샅신경(ilioinguinal nerve)은 L1의 앞가지(anterior ramus of L1)와 관련된다.",
+        "엉덩아랫배신경(iliohypogastric nerve)은 속빗근(internal oblique muscle)과 배가로근(transversus abdominis muscle)에 분포한 뒤 엉덩이 가쪽과 두덩부위(pubic region) 피부를 지배한다.",
+        "엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다.",
+        "엉덩고샅신경(ilioinguinal nerve)은 넓적다리 안쪽 위부분과 앞음낭(anterior scrotum) 또는 음경뿌리(root of penis) 피부를 지배한다.",
+        "음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다.",
+        "근육의 영어 이름은 muscles이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "두덩부위의 영어 이름은 pubic region이다.",
+        "위의 영어 이름은 stomach이다.",
+        "샅굴의 영어 이름은 inguinal canal이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "가슴배신경의 영어 이름은 thoracoabdominal nerves이다.",
+        "앞피부가지의 영어 이름은 anterior cutaneous branch이다.",
+        "가쪽배피부가지의 영어 이름은 lateral abdominal cutaneous branch이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "엉덩아랫배신경의 영어 이름은 iliohypogastric nerve이다.",
+        "엉덩고샅신경의 영어 이름은 ilioinguinal nerve이다.",
+        "얕은고샅구멍의 영어 이름은 superficial inguinal ring이다.",
+        "음경의 영어 이름은 penis이다.",
+        "음낭의 영어 이름은 scrotum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 8,
+          "text": "transversus abdominis 지배",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "두덩부위 피부의 신경지배",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 14,
+          "text": "얘네는 넙다리 안쪽부분 penis쪽 신경지배",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 22,
+          "text": "음부넙다리신경(genitofemoral nerve)의 넓적다리가지(femoral branch)는 넙다리삼각(femoral triangle) 부위 피부를 지배한다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 7,
+          "text": "internal oblique muscle",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "Nerves of anterolateral abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "가슴배신경(thoracoabdominal nerves)은 T7부터 T11까지의 앞가지(anterior rami)의 연속이며, 갈비밑신경(subcostal nerve)이 T12를 이룬다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "엉덩아랫배신경(iliohypogastric nerve)과 엉덩고샅신경(ilioinguinal nerve)은 L1의 앞가지(anterior ramus of L1)와 관련된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "엉덩고샅신경(ilioinguinal nerve)은 샅굴(inguinal canal)을 지나 얕은고샅구멍(superficial inguinal ring)으로 나온다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "앞가쪽배벽의 신경 분포를 보여주는 페이지로, 가슴배신경의 분지, L1 계통 신경, 음부넙다리신경 넓적다리가지의 피부 분포를 필기로 보강한 페이지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "엉덩아랫배신경(iliohypogastric nerve) related_to L1의 앞가지(anterior ramus of L1)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "엉덩고샅신경(ilioinguinal nerve) passes_through 샅굴(inguinal canal)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "넓적다리가지(femoral branch of genitofemoral nerve) supplies_skin_of 넙다리삼각(femoral triangle)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 28,
+        "accounted_term_count": 27,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.964,
+        "accounted_terms": [
+          "가슴배신경(thoracoabdominal nerves)",
+          "가쪽배피부가지(lateral abdominal cutaneous branch)",
+          "앞피부가지(anterior cutaneous branch)",
+          "엉덩아랫배신경(iliohypogastric nerve)",
+          "엉덩고샅신경(ilioinguinal nerve)",
+          "1의앞가지(anterior ramus of L1)",
+          "속빗근(internal oblique muscle)",
+          "배가로근(transversus abdominis muscle)",
+          "샅굴(inguinal canal)",
+          "음경뿌리(root of penis)",
+          "음부넙다리신경(genitofemoral nerve)",
+          "넓적다리가지(femoral branch)",
+          "넙다리삼각(femoral triangle)",
+          "넓적다리가지(femoral branch of genitofemoral nerve)",
+          "근육(muscles)",
+          "배(abdominal region)",
+          "신경(nerves)",
+          "두덩부위(pubic region)",
+          "위(stomach)",
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "가슴(thorax)",
+          "샅(perineum)",
+          "얕은고샅구멍(superficial inguinal ring)",
+          "음경(penis)",
+          "음낭(scrotum)",
+          "안쪽넙다리(medial thigh)"
+        ],
+        "unresolved_terms": [
+          "갈비밑신경(subcostal nerve)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Nerves of anterolateral abdominal wall",
+        "T7 T12",
+        "origin은 thoracic이지만",
+        "아래로 가기때문에",
+        "thoracoabdominal이라함",
+        "anterior lateral cutaneous로",
+        "나눠지게 된다",
+        "internal oblique muscle",
+        "transversus abdominis 지배",
+        "이후내려와서엉덩이가쪽",
+        "두덩부위 피부의 신경지배",
+        "L1의 앞가지가",
+        "위 아래로 나누어진것",
+        "inguinal canal 통과, superifcial inguinal ring",
+        "얘네는 넙다리 안쪽부분 penis쪽 신경지배"
+      ],
+      "supplemental_ocr_blocks": [
+        "아래로 가기때문에",
+        "^",
+        "두덤부위 피부의 신경지배 저",
+        "internal oblique muscle cutaneous branch",
+        "transversus abdominis 지배 배곧은근집 앞종 배가로근",
+        "이후 내려와서 엉덩이 가족 anterior layer of rectus sheath transversus abdominis m",
+        "배바깥빗근 배곧은근집 뒤층",
+        "external abdominal oblique m posterior layer of rectus sheath",
+        "앞피부가지",
+        "anterior cutaneous branch 반달선",
+        "엉덩하터배신경 n J 백색선",
+        "linea semilunaris",
+        "알은고살구멍 linea alba",
+        "superficial inguinal ring 배곧은근",
+        "정식 rectus abdominis m",
+        "L의 앞가지가 spermatic cord 음경고리인대",
+        "fundiform lig. of penis",
+        "위l아래로 나누어진것 분다리정백 음부년다리신경 넘다리가지",
+        "근득령정맥 femoral branch of genitofemoral n",
+        "great saphenous V.",
+        "엉덩고살신경",
+        "ilioinguinal n",
+        "inguinal canal 통과, superifcial inguinal ring",
+        "그림 6-9. 앞가족배벽의 신경분포",
+        "'얘네는 넘다리 안쪽부분, penis쪽 신경지배"
+      ],
+      "corrected_page_text": "Nerves of anterolateral abdominal wall\nT7 T12\norigin은 thoracic이지만\n아래로 가기때문에\nthoracoabdominal이라함\nanterior lateral cutaneous로\n나눠지게 된다\ninternal oblique muscle\ntransversus abdominis 지배\n이후내려와서엉덩이가쪽\n두덩부위 피부의 신경지배\nL1의 앞가지가\n위 아래로 나누어진것\ninguinal canal 통과, superifcial inguinal ring\n얘네는 넙다리 안쪽부분 penis쪽 신경지배",
+      "quality_audit": {
+        "pdf_char_count": 261,
+        "pdf_span_count": 81,
+        "pdf_word_count": 40,
+        "ocr_fragment_count": 54,
+        "pdf_line_count": 15,
+        "ocr_line_count": 34,
+        "merged_line_count": 40,
+        "pdf_only_count": 6,
+        "ocr_only_count": 25,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 15,
+        "ocr_only_line_count": 25,
+        "pdf_alpha_count": 250,
+        "ocr_alpha_count": 541,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

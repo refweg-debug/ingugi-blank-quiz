@@ -1,0 +1,1189 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+    "page_number": 7,
+    "note_page_number": 7,
+    "source_page_number": 51,
+    "original_page_number": 51,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "_____는 큰골반(greater pelvis)에 의해 지지되고 보호받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래쪽배안장기(lower abdominal viscera)",
+        "accepted_answers": [
+          "아래쪽배안장기(lower abdominal viscera)",
+          "아래쪽 배안장기(lower abdominal viscera)",
+          "lower abdominal viscera"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래쪽배안장기(lower abdominal viscera)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호받는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_001"
+      ],
+      "prompt": "아래쪽배안장기(lower abdominal viscera)는 _____에 의해 지지되고 보호받는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호받는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_004"
+      ],
+      "prompt": "_____은 뒤복막기관(retroperitoneal organs)에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "콩팥(kidneys)",
+        "accepted_answers": [
+          "콩팥(kidneys)",
+          "kidneys"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "콩팥(kidneys)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 콩팥(kidneys)은 뒤복막기관(retroperitoneal organs)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_004"
+      ],
+      "prompt": "콩팥(kidneys)은 _____에 속한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤복막기관(retroperitoneal organs)",
+        "accepted_answers": [
+          "뒤복막기관(retroperitoneal organs)",
+          "retroperitoneal organs",
+          "retroperitoneal organ"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤복막기관(retroperitoneal organs)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 콩팥(kidneys)은 뒤복막기관(retroperitoneal organs)에 속한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_005"
+      ],
+      "prompt": "_____은 가짜골반(false pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_course_008_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_007_course_008"
+      ],
+      "prompt": "_____의 대부분은 뒤복막기관(retroperitoneal organs)이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 대부분은 뒤복막기관(retroperitoneal organs)이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "_____는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "식도(esophagus)",
+        "accepted_answers": [
+          "식도(esophagus)",
+          "esophagus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "식도(esophagus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "식도(esophagus)는 대부분 _____에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "thorax",
+          "chest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "식도(esophagus)는 대부분 가슴(thorax)에 있고, _____을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막(diaphragm)",
+        "accepted_answers": [
+          "가로막(diaphragm)",
+          "diaphragm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막(diaphragm)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_002_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_002"
+      ],
+      "prompt": "식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "_____ 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "샘창자(duodenum) 다음의 _____는 빈창자(jejunum)와 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은창자(small intestine)",
+        "accepted_answers": [
+          "작은창자(small intestine)",
+          "small intestine"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은창자(small intestine)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_004_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "샘창자(duodenum) 다음의 작은창자(small intestine)는 _____와 돌창자(ileum)로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_004_006",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_004"
+      ],
+      "prompt": "샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 _____로 이어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_005"
+      ],
+      "prompt": "_____는 막창자(cecum)로 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 돌창자(ileum)는 막창자(cecum)로 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_필기본_007_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_007_ai_corrected_005"
+      ],
+      "prompt": "돌창자(ileum)는 _____로 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "막창자(cecum)",
+        "accepted_answers": [
+          "막창자(cecum)",
+          "cecum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "막창자(cecum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 돌창자(ileum)는 막창자(cecum)로 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_051_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_051_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_course_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_051_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_051_ai_corrected_001"
+      ],
+      "prompt": "_____은 가슴(thorax)과 배를 가르는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가로막(diaphragm)",
+        "accepted_answers": [
+          "가로막(diaphragm)",
+          "diaphragm"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가로막(diaphragm)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로막(diaphragm)은 가슴과 배를 가르는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_051_ai_corrected_001"
+      ],
+      "prompt": "가로막(diaphragm)은 _____과 배를 가르는 경계이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "가슴(thorax)",
+        "accepted_answers": [
+          "가슴(thorax)",
+          "thorax",
+          "chest"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "가슴(thorax)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 가로막(diaphragm)은 가슴과 배를 가르는 경계이다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_051_ai_corrected_002"
+      ],
+      "prompt": "간(liver), 위(stomach), _____는 가로막(diaphragm) 바로 아래의 위쪽 배안(abdominal cavity)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간(liver), 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 배안에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_051_ai_corrected_002"
+      ],
+      "prompt": "간(liver), 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 _____에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간(liver), 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 배안에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p007_course_배_강의원본_051_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_051_ai_corrected_002"
+      ],
+      "prompt": "_____, 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 배안(abdominal cavity)에 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 간(liver), 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 배안에 위치한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 24,
+    "question_type_count": {
+      "fill_blank": 24
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 9,
+      "course_exam_style": 15
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 45,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p001__f3522fec06dd.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 46,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p002__f9728f241b36.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 47,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p003__f1df228e52dd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 48,
+        "question_count": 8,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p004__aafbc4cc87a3.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 49,
+        "question_count": 38,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p005__d77119362794.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 50,
+        "question_count": 28,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p006__bd87584c231f.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 51,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p007__8e168686fc26.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 52,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p008__b62d0be3650f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 53,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p009__ea1ca5928fde.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 54,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p010__1129ea09b6a3.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 55,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "ai_page_read_needs_review",
+        "static_page_file": "pages/20260407____1___3__p011__6db36616fc55.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 56,
+        "question_count": 39,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p012__8f266ce94476.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 57,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p013__64cc4784bc72.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 58,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p014__4cd1124aba10.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 59,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p015__c3d8151916e4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 60,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p016__9e02ef5e80e9.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 61,
+        "question_count": 48,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p017__2848d8e3e837.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 62,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p018__ca2ef3246600.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 63,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p019__57c93d4f6faf.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 64,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p020__239bd479e672.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 65,
+        "question_count": 10,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p021__bbffd4d80b2c.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 66,
+        "question_count": 12,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260407____1___3__p022__107a6d6b3b07.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 67,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p023__210a1de6bd0a.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 68,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p024__ae90c4ac6ff1.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 69,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p025__5af7816af5eb.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 70,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p026__4449a7cbcf28.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 71,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260407____1___3__p027__c242240bcf63.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 6,
+    "next_page": 8
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우",
+      "page_number": 7
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "아래쪽 배안장기(lower abdominal viscera)는 큰골반(greater pelvis)에 의해 지지되고 보호받는다.",
+        "작은창자(small intestine)는 샘창자(duodenum), 빈창자(jejunum), 돌창자(ileum)로 이어진다.",
+        "콩팥(kidneys)은 뒤복막기관(retroperitoneal organs)에 속한다.",
+        "큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다.",
+        "샘창자(duodenum)의 대부분은 뒤복막기관(retroperitoneal organs)이다.",
+        "식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다.",
+        "오른콩팥(right kidney)은 간(liver) 때문에 왼콩팥(left kidney)보다 더 아래에 위치한다.",
+        "샘창자(duodenum) 다음의 작은창자(small intestine)는 빈창자(jejunum)와 돌창자(ileum)로 이어진다.",
+        "돌창자(ileum)는 막창자(cecum)로 연결된다.",
+        "갈비뼈의 영어 이름은 rib이다.",
+        "위의 영어 이름은 stomach이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "엉덩뼈능선의 영어 이름은 iliac crest이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "간의 영어 이름은 liver이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "빈창자의 영어 이름은 jejunum이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "배속내장의 영어 이름은 abdominal viscera이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "오른콩팥의 영어 이름은 right kidney이다.",
+        "왼콩팥의 영어 이름은 left kidney이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "위쪽 배안장기의 영어 이름은 upper abdominal viscera이다.",
+        "가슴우리의 영어 이름은 thoracic cage이다.",
+        "큰골반의 영어 이름은 greater pelvis이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "아래쪽 배안장기의 영어 이름은 lower abdominal viscera이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "뒤복막기관의 영어 이름은 retroperitoneal organs이다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "가로막(diaphragm)은 가슴과 배를 가르는 경계이다.",
+        "간(liver), 위(stomach), 지라(spleen)는 가로막(diaphragm) 바로 아래의 위쪽 배안에 위치한다.",
+        "지라의 영어 이름은 spleen이다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "고리의 영어 이름은 annulus이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 9,
+          "text": "ileum은 cecum에l 연결되다",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 19,
+          "text": "위쪽 배안장기(upper abdominal viscera)는 가슴우리(rib cage)에 의해 보호받는다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 24,
+          "text": "돌창자(ileum)는 막창자(cecum)로 연결된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 28,
+          "text": "위쪽 배안장기(upper abdominal viscera) 보호받는다 가슴우리(rib cage)",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 5,
+          "text": "오름잘록창자 iliac crest iliac crest",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "dodenum부터 작은 창자 (jejunum; ileum) 그림 6-27. 배안 장기의 위치",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "Overview of thoracic and abdominal viscera",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "간 liver 위 stomach ~가로막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "gallbladder -가로잘록창자 요관 ureter 12th rib",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "셈장자 -반창자 jejunum left kidney right kidney",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "식도(esophagus)는 대부분 가슴(thorax)에 있고, 가로막(diaphragm)을 지난 뒤 일부만 배안(abdominal cavity)에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "오른콩팥(right kidney)은 간(liver) 때문에 왼콩팥(left kidney)보다 더 아래에 위치한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "가슴과 배 장기의 앞면/뒷면 위치를 보여 주는 overview 그림 위에 rib cage, greater pelvis, 식도, 콩팥, 작은창자 이동 경로에 대한 필기가 추가된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "오른콩팥(right kidney) 더 아래에 위치한다 왼콩팥(left kidney)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "transverse colon 왼콩팔 -오른콩팔",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "iliac crest iliac crest duodenum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "그림 6-27. 배안 장기의 위치",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "가로막(diaphragm)은 가슴과 배를 가르는 경계이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "가로잘록창자(transverse colon)는 위(stomach) 아래를 가로지르는 큰창자 구간이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "샘창자(duodenum)는 위(stomach) 아래에서 시작하는 작은창자의 첫 부분이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "오른콩팥(right kidney)은 간(liver) 때문에 왼콩팥(left kidney)보다 더 아래에 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "가로잘록창자(transverse colon) 아래에는 작은창자 고리들이 넓게 퍼져 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "가슴과 배 장기의 앞면/뒷면 위치를 보여 주는 강의원본 overview 그림 페이지로, 가로막을 경계로 위장과 지라가 가슴우리 아래에 놓이고 콩팥은 뒤쪽에서 보이는 뒤배장기임을 확인할 수 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "가로막(diaphragm) 경계가 된다 가슴(thorax)과 배(abdomen)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "오른콩팥(right kidney) 더 아래에 있다 왼콩팥(left kidney)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 38,
+        "accounted_term_count": 37,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.974,
+        "accounted_terms": [
+          "위쪽 배안장기(upper abdominal viscera)",
+          "슴우리(rib cage)",
+          "아래쪽 배안장기(lower abdominal viscera)",
+          "큰골반(greater pelvis)",
+          "식도(esophagus)",
+          "가슴(thorax)",
+          "가로막(diaphragm)",
+          "배안(abdominal cavity)",
+          "오른콩팥(right kidney)",
+          "간(liver)",
+          "샘창자(duodenum)",
+          "빈창자(jejunum)",
+          "돌창자(ileum)",
+          "막창자(cecum)",
+          "콩팥(kidneys)",
+          "갈비뼈(rib)",
+          "위(stomach)",
+          "엉덩뼈능선(iliac crest)",
+          "오름잘록창자(ascending colon)",
+          "배(abdominal region)",
+          "배속내장(abdominal viscera)",
+          "가로잘록창자(transverse colon)",
+          "쓸개주머니(gallbladder)",
+          "왼콩팥(left kidney)",
+          "척주(vertebral column)",
+          "가슴우리(thoracic cage)",
+          "골반(pelvis)",
+          "작은창자(small intestine)",
+          "뒤복막기관(retroperitoneal organs)",
+          "복막(peritoneum)",
+          "기관(trachea)",
+          "가짜골반(false pelvis)",
+          "지라(spleen)",
+          "큰창자(large intestine)",
+          "고리(annulus)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)"
+        ],
+        "unresolved_terms": [
+          "과배(abdomen)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Overview of thoracic and abdominal viscera",
+        "간 liver 위 stomach ~가로막",
+        "\"일장 gancreas ~열두째갈비뼈",
+        "gallbladder -가로잘록창자 요관 ureter 12th rib",
+        "transverse colon 왼콩팔 -오른콩팔",
+        "셈장자 -반창자 jejunum left kidney right kidney",
+        "엉덩버능선 엉덩버능선 -셈장자",
+        "iliac crest iliac crest duodenum",
+        "ascending colon 내j장창자 colon 엉덩뼈 ilium",
+        "돌창자 ileum 앞워엉덩뼈가시",
+        "anterior superior",
+        "iliac spine",
+        "urinary bladder",
+        "그림 6-27. 배안 장기의 위치"
+      ],
+      "supplemental_ocr_blocks": [
+        "가로막",
+        "diaphragm",
+        "diaphragm",
+        "~지라 spleen",
+        "위 stomach",
+        "-이자",
+        "쓸개",
+        "duodenum",
+        "오름잘록창자",
+        "방광"
+      ],
+      "corrected_page_text": "Overview of thoracic and abdominal viscera\n간 liver 위 stomach ~가로막\n\"일장 gancreas ~열두째갈비뼈\ngallbladder -가로잘록창자 요관 ureter 12th rib\ntransverse colon 왼콩팔 -오른콩팔\n셈장자 -반창자 jejunum left kidney right kidney\n엉덩버능선 엉덩버능선 -셈장자\niliac crest iliac crest duodenum\nascending colon 내j장창자 colon 엉덩뼈 ilium\n돌창자 ileum 앞워엉덩뼈가시\nanterior superior\niliac spine\nurinary bladder\n그림 6-27. 배안 장기의 위치",
+      "quality_audit": {
+        "pdf_char_count": 37,
+        "pdf_span_count": 1,
+        "pdf_word_count": 6,
+        "ocr_fragment_count": 43,
+        "pdf_line_count": 1,
+        "ocr_line_count": 24,
+        "merged_line_count": 24,
+        "pdf_only_count": 0,
+        "ocr_only_count": 23,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 23,
+        "pdf_alpha_count": 37,
+        "ocr_alpha_count": 313,
+        "promoted_ocr_only_count": 13
+      }
+    }
+  }
+}

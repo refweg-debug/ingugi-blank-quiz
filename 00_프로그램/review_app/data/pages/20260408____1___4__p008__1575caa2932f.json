@@ -1,0 +1,1308 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 8,
+    "note_page_number": 8,
+    "source_page_number": 78,
+    "original_page_number": 78,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_001_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_001"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_002"
+      ],
+      "prompt": "빈창자(jejunum)에서는 _____이 크고 촘촘하다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌림주름(circular folds)",
+        "accepted_answers": [
+          "돌림주름(circular folds)",
+          "circular folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌림주름(circular folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)에서는 돌림주름(circular folds)이 크고 촘촘하다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_003"
+      ],
+      "prompt": "돌창자(ileum)에서는 _____이 점점 작아지고 말단부에서는 거의 보이지 않는다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌림주름(circular folds)",
+        "accepted_answers": [
+          "돌림주름(circular folds)",
+          "circular folds"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌림주름(circular folds)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)에서는 돌림주름(circular folds)이 점점 작아지고 말단부에서는 거의 보이지 않는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_004"
+      ],
+      "prompt": "_____의 곧은혈관(vasa recta)은 길다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)의 곧은혈관(vasa recta)은 길다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_004"
+      ],
+      "prompt": "빈창자(jejunum)의 _____은 길다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곧은혈관(vasa recta)",
+        "accepted_answers": [
+          "곧은혈관(vasa recta)",
+          "vasa recta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곧은혈관(vasa recta)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)의 곧은혈관(vasa recta)은 길다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_005"
+      ],
+      "prompt": "_____의 곧은혈관(vasa recta)은 짧다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 곧은혈관(vasa recta)은 짧다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_005"
+      ],
+      "prompt": "돌창자(ileum)의 _____은 짧다.",
+      "answer": {
+        "format": "single_text",
+        "value": "곧은혈관(vasa recta)",
+        "accepted_answers": [
+          "곧은혈관(vasa recta)",
+          "vasa recta"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "곧은혈관(vasa recta)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 곧은혈관(vasa recta)은 짧다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_006"
+      ],
+      "prompt": "_____의 장융모(intestinal villi)는 짧다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 장융모(intestinal villi)는 짧다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_006"
+      ],
+      "prompt": "돌창자(ileum)의 _____는 짧다.",
+      "answer": {
+        "format": "single_text",
+        "value": "장융모(intestinal villi)",
+        "accepted_answers": [
+          "장융모(intestinal villi)",
+          "intestinal villi"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "장융모(intestinal villi)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 장융모(intestinal villi)는 짧다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_009_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_009"
+      ],
+      "prompt": "_____의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "샘창자(duodenum)",
+        "accepted_answers": [
+          "샘창자(duodenum)",
+          "duodenum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "샘창자(duodenum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_009_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_009"
+      ],
+      "prompt": "샘창자(duodenum)의 위쪽 혈액공급은 _____ 계통에서 온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "복강동맥(celiac trunk)",
+        "accepted_answers": [
+          "복강동맥(celiac trunk)",
+          "celiac trunk"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "복강동맥(celiac trunk)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_010_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_010"
+      ],
+      "prompt": "_____와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_010_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_010"
+      ],
+      "prompt": "빈창자(jejunum)와 _____는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_010_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_010"
+      ],
+      "prompt": "빈창자(jejunum)와 돌창자(ileum)는 _____으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "창자간막(mesentery)",
+        "accepted_answers": [
+          "창자간막(mesentery)",
+          "mesentery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "창자간막(mesentery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_010_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_010"
+      ],
+      "prompt": "빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 _____에 연결된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "뒤배벽(posterior abdominal wall)",
+        "accepted_answers": [
+          "뒤배벽(posterior abdominal wall)",
+          "posterior abdominal wall"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "뒤배벽(posterior abdominal wall)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_019_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_019"
+      ],
+      "prompt": "_____의 동맥활(arterial arcades)은 수가 적고 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)의 동맥활(arterial arcades)은 수가 적고 크다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_019_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_019"
+      ],
+      "prompt": "빈창자(jejunum)의 _____은 수가 적고 크다.",
+      "answer": {
+        "format": "single_text",
+        "value": "동맥활(arterial arcades)",
+        "accepted_answers": [
+          "동맥활(arterial arcades)",
+          "arterial arcades",
+          "arcade",
+          "arcades"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "동맥활(arterial arcades)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)의 동맥활(arterial arcades)은 수가 적고 크다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_022_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_022"
+      ],
+      "prompt": "_____는 돌창자(ileum)보다 벽이 더 두껍고 색이 더 짙다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 빈창자(jejunum)는 돌창자(ileum)보다 벽이 더 두껍고 색이 더 짙다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_필기본_008_course_023_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_008_course_023"
+      ],
+      "prompt": "_____는 빈창자(jejunum)보다 벽이 더 얇고 색이 더 옅다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)는 빈창자(jejunum)보다 벽이 더 얇고 색이 더 옅다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_강의원본_078_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_078_course_007"
+      ],
+      "prompt": "_____의 동맥활(arterial arcades)은 수가 많고 작다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 동맥활(arterial arcades)은 수가 많고 작다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_강의원본_078_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_강의원본_078_course_007"
+      ],
+      "prompt": "돌창자(ileum)의 _____은 수가 많고 작다.",
+      "answer": {
+        "format": "single_text",
+        "value": "동맥활(arterial arcades)",
+        "accepted_answers": [
+          "동맥활(arterial arcades)",
+          "arterial arcades",
+          "arcade",
+          "arcades"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "동맥활(arterial arcades)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 돌창자(ileum)의 동맥활(arterial arcades)은 수가 많고 작다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_강의원본_078_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_078_ai_corrected_001"
+      ],
+      "prompt": "_____와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "빈창자(jejunum)",
+        "accepted_answers": [
+          "빈창자(jejunum)",
+          "jejunum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "빈창자(jejunum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반창자(jejunum)와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_강의원본_078_ai_corrected_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_078_ai_corrected_001"
+      ],
+      "prompt": "빈창자(jejunum)와 _____는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌창자(ileum)",
+        "accepted_answers": [
+          "돌창자(ileum)",
+          "ileum"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌창자(ileum)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반창자(jejunum)와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p008_course_배_강의원본_078_ai_corrected_001_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_078_ai_corrected_001"
+      ],
+      "prompt": "빈창자(jejunum)와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), _____의 차이로 구별할 수 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "활꼴동맥(arcuate artery)",
+        "accepted_answers": [
+          "활꼴동맥(arcuate artery)",
+          "arcuate artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "활꼴동맥(arcuate artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 반창자(jejunum)와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 26,
+    "question_type_count": {
+      "fill_blank": 26
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 23,
+      "course_exam_style": 3
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__4dc434a3e59d.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__5edeab61f8f7.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__f4158e5297cf.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__a7b5eae69295.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__502c297bb727.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__3451ed70af73.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__90f87a5ee280.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__1575caa2932f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__af8cf76e3174.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__7ffb96a1af24.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__ec5f5d70c5af.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__b2fa3565ffa1.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__1d1d8cea5cd8.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__d3d14b1f527b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__3acaeed6337b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__d195ca83326d.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__f29baac7e42d.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__0bb2b9abc052.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__ee6f5492aea9.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__44db7b2c1695.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__7b969a75e30e.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__2e94c7100c4b.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__3b60d8389744.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a757750919ce.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__f11240973ddf.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e76fcb3aa838.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__90ad0554ff58.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__6ad75ef23808.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__7e5f0d9d201a.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__6ab655ae4965.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__89721a7d934d.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__fb461517236c.json"
+      }
+    ],
+    "current_index": 7,
+    "previous_page": 7,
+    "next_page": 9
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 8
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "빈창자(jejunum)에서는 돌림주름(circular folds)이 크고 촘촘하다.",
+        "돌창자(ileum)에서는 돌림주름(circular folds)이 점점 작아지고 말단부에서는 거의 보이지 않는다.",
+        "빈창자(jejunum)의 곧은혈관(vasa recta)은 길다.",
+        "돌창자(ileum)의 곧은혈관(vasa recta)은 짧다.",
+        "돌창자(ileum)의 장융모(intestinal villi)는 짧다.",
+        "샘창자(duodenum)의 위쪽 혈액공급은 복강동맥(celiac trunk) 계통에서 온다.",
+        "빈창자(jejunum)와 돌창자(ileum)는 창자간막(mesentery)으로 뒤배벽(posterior abdominal wall)에 연결된다.",
+        "빈창자(jejunum)의 동맥활(arterial arcades)은 수가 적고 크다.",
+        "빈창자(jejunum) 주위의 창자간막 지방은 적다.",
+        "돌창자(ileum) 주위의 창자간막 지방은 더 많고 두껍게 쌓여 있다.",
+        "빈창자(jejunum)는 돌창자(ileum)보다 벽이 더 두껍고 색이 더 짙다.",
+        "돌창자(ileum)는 빈창자(jejunum)보다 벽이 더 얇고 색이 더 옅다.",
+        "반창자(jejunum)는 혈관 분포가 많고 혈관이 많아 더 진한 적색을 띤다.",
+        "돌창자(ileum)는 혈관 분포가 비교적 적고 더 옅은 분홍색을 띤다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "복강동맥의 영어 이름은 celiac trunk이다.",
+        "간의 영어 이름은 liver이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "위의 영어 이름은 stomach이다.",
+        "위창자간막동맥의 영어 이름은 superior mesenteric artery이다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "아래창자간막동맥의 영어 이름은 inferior mesenteric artery이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "빈창자의 영어 이름은 jejunum이다.",
+        "돌창자의 영어 이름은 ileum이다.",
+        "돌림주름의 영어 이름은 circular folds이다.",
+        "곧은혈관의 영어 이름은 vasa recta이다.",
+        "동맥활의 영어 이름은 arterial arcades이다.",
+        "돌창자(ileum)의 동맥활(arterial arcades)은 수가 많고 작다.",
+        "반창자(jejunum)와 돌창자(ileum)는 살아있는 상태에서 창자간막(mesentery), 지방 분포, 곧은혈관(vasa recta), 활꼴동맥(arcuate artery)의 차이로 구별할 수 있다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "장쪽 가슴막의 영어 이름은 visceral pleura이다.",
+        "장쪽복막의 영어 이름은 visceral peritoneum이다.",
+        "장막의 영어 이름은 serosa이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "근육층의 영어 이름은 muscularis externa이다.",
+        "점막의 영어 이름은 mucosa이다.",
+        "점막밑층의 영어 이름은 submucosa이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "점막고유층의 영어 이름은 lamina propria이다.",
+        "상피의 영어 이름은 epithelium이다.",
+        "끝부분의 영어 이름은 end piece이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 22,
+          "text": "반창자(jejunum)와 돌창자(ileum)의 살아있는 상태 구분점을 표와 혈관 그림으로 정리한 필기 강화 페이지다. 주름, 혈관 분포, 색, 지방, 직경, 장벽, 창자간막 혈관 양상, 림프결절 차이가 비교되어 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 2,
+          "text": ", small intestine mesentery ★ 실습시꺼내서다분리하여혈관모두확인해야함",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 3,
+          "text": "abdominal aorta 의세가지분지",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 8,
+          "text": "반창자(jejunum)는 혈관 분포가 많고 혈관이 많아 더 진한 적색을 띤다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 10,
+          "text": "반창자(jejunum)의 창자간막(mesentery)에는 지방이 적다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 11,
+          "text": "돌창자(ileum)의 창자간막(mesentery)에는 지방이 많고 두껍게 쌓여 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "반창자(jejunum)의 직경은 돌창자(ileum)보다 약간 더 크다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "반창자(jejunum)의 장벽은 더 두껍고 무겁다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "돌창자(ileum)에는 림프결절(lymphoid nodules)이 더 많다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "위창자간막동맥(superior mesenteric artery)은 작은창자(small intestine)의 대부분을 담당한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "아래창자간막동맥(inferior mesenteric artery)은 대장의 왼쪽 절반과 직장을 담당한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "돌창자(ileum) has_more 활꼴동맥(arcuate arteries) and 림프결절(lymphoid nodules)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "위창자간막동맥(superior mesenteric artery) supplies 작은창자(small intestine)의 대부분",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "arterial arcades are more numerous and smaller in the ileum",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "반창자(jejunum)와 돌창자(ileum)의 살아있는 상태 구분점을 보여주는 강의원본 페이지다. 장벽 단면, 근위 반창자/돌창자 표면, 그리고 동맥 분포에서 창자간막, 지방 침윤, 곧은혈관, 활꼴동맥 차이를 보여준다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 1,
+          "text": "Distinguishing characteristics of the jejunum and ileum in the living body",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 2,
+          "text": "Mesentery 장막(내장쪽복막)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 6,
+          "text": "exlerna (proximal jejunum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "Lamina propria 점막",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "(E) 돌창자의 끝부분",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "둘창자 (ferminal ileum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "(arteries 01 jejunum and ileum)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 31,
+          "text": "반창자(jejunum) 쪽은 창자간막창(mesenteric windows)이 더 뚜렷하게 보인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 32,
+          "text": "말단 돌창자(terminal ileum)는 근위 반창자(proximal jejunum)보다 표면 주름이 덜 발달해 보인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 46,
+        "accounted_term_count": 39,
+        "unresolved_term_count": 6,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.848,
+        "accounted_terms": [
+          "빈창자(jejunum)",
+          "돌림주름(circular folds)",
+          "돌창자(ileum)",
+          "창자간막(mesentery)",
+          "위창자간막동맥(superior mesenteric artery)",
+          "작은창자(small intestine)",
+          "복강동맥(celiac trunk)",
+          "위(stomach)",
+          "지라(spleen)",
+          "아래창자간막동맥(inferior mesenteric artery)",
+          "곧은혈관(vasa recta)",
+          "배(abdominal region)",
+          "배대동맥(abdominal aorta)",
+          "배안(abdominal cavity)",
+          "간(liver)",
+          "큰창자(large intestine)",
+          "이자(pancreas)",
+          "곧창자(rectum)",
+          "동맥활(arterial arcades)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "장융모(intestinal villi)",
+          "샘창자(duodenum)",
+          "뒤배벽(posterior abdominal wall)",
+          "배벽(abdominal wall)",
+          "뒤배부분(posterior abdominal part)",
+          "활꼴동맥(arcuate artery)",
+          "복막(peritoneum)",
+          "장쪽 가슴막(visceral pleura)",
+          "장쪽복막(visceral peritoneum)",
+          "장막(serosa)",
+          "근육(muscles)",
+          "근육층(muscularis externa)",
+          "점막(mucosa)",
+          "점막밑층(submucosa)",
+          "신경(nerves)",
+          "점막고유층(lamina propria)",
+          "상피(epithelium)",
+          "끝부분(end piece)"
+        ],
+        "unresolved_terms": [
+          "길고활꼴동맥(arcuate arteries)",
+          "림프결절(lymphoid nodules)",
+          "둘창자(ferminal ileum)",
+          "쪽은창자간막창(mesenteric windows)",
+          "말단돌창자(terminal ileum)",
+          "근위반창자(proximal jejunum)"
+        ],
+        "missing_terms": [
+          "지방침윤(encroaching fat)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Distinguishing characteristics of the jejunum and ileum in the living body",
+        "Mesentery 장막(내장쪽복막)",
+        "Serosalvisceral",
+        "layer 바깥근육층",
+        "독림근육증 Muscularis (C) 반장자의 시작부문",
+        "exlerna (proximal jejunum)",
+        "Circular layer",
+        "점막민층 Submucosa",
+        "layer | 점막근유만",
+        "불랍픽t증 Muscularls mucosae",
+        "Circular layer",
+        "(D) 돌창자의 시작부분",
+        "(proximal ileum)",
+        "근육증신경얼기(Auerbach 신경업기)",
+        "Myenleric plexus(Auerbach plexus) 고유만",
+        "Lamina propria 점막",
+        "점다믿신경얼기 Meissner 신경얼기) 점막상피 Mucosa",
+        "Submucosal plexus(verssner plexus) Mucous",
+        "(A) Circular tolds",
+        "(E) 돌창자의 끝부분",
+        "둘창자 (ferminal ileum)",
+        "창자간막창 곧은현관 지방의 침습",
+        "Windows Vasa recta Encroaching lat 곧은히관",
+        "a. 반장자 Arcuale artery b. 돌창자 Arcuale arlery",
+        "(B) 반장자와 돌창자의 동맥",
+        "(arteries 01 jejunum and ileum)"
+      ],
+      "supplemental_ocr_blocks": [
+        "창자간막",
+        "peritoneum)",
+        "창막믿휘",
+        "Subserosa",
+        "-씨로근육히",
+        "세로근요총",
+        "epithelium",
+        "돌림수름",
+        "lleurl",
+        "반장자",
+        "Jejunumn",
+        "Vasa recla",
+        "'활플동맥 '활플동맥"
+      ],
+      "corrected_page_text": "Distinguishing characteristics of the jejunum and ileum in the living body\nMesentery 장막(내장쪽복막)\nSerosalvisceral\nlayer 바깥근육층\n독림근육증 Muscularis (C) 반장자의 시작부문\nexlerna (proximal jejunum)\nCircular layer\n점막민층 Submucosa\nlayer | 점막근유만\n불랍픽t증 Muscularls mucosae\nCircular layer\n(D) 돌창자의 시작부분\n(proximal ileum)\n근육증신경얼기(Auerbach 신경업기)\nMyenleric plexus(Auerbach plexus) 고유만\nLamina propria 점막\n점다믿신경얼기 Meissner 신경얼기) 점막상피 Mucosa\nSubmucosal plexus(verssner plexus) Mucous\n(A) Circular tolds\n(E) 돌창자의 끝부분\n둘창자 (ferminal ileum)\n창자간막창 곧은현관 지방의 침습\nWindows Vasa recta Encroaching lat 곧은히관\na. 반장자 Arcuale artery b. 돌창자 Arcuale arlery\n(B) 반장자와 돌창자의 동맥\n(arteries 01 jejunum and ileum)",
+      "quality_audit": {
+        "pdf_char_count": 64,
+        "pdf_span_count": 1,
+        "pdf_word_count": 11,
+        "ocr_fragment_count": 61,
+        "pdf_line_count": 1,
+        "ocr_line_count": 39,
+        "merged_line_count": 39,
+        "pdf_only_count": 0,
+        "ocr_only_count": 38,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 38,
+        "pdf_alpha_count": 64,
+        "ocr_alpha_count": 550,
+        "promoted_ocr_only_count": 25
+      }
+    }
+  }
+}

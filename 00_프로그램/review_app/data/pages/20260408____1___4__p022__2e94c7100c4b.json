@@ -1,0 +1,1355 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+    "page_number": 22,
+    "note_page_number": 22,
+    "source_page_number": 92,
+    "original_page_number": 92,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_001"
+      ],
+      "prompt": "지방을 제외한 소화관 흡수 물질은 _____을 통해 간(liver)으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "문맥(portal vein)",
+        "accepted_answers": [
+          "문맥(portal vein)",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "문맥(portal vein)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 지방을 제외한 소화관 흡수 물질은 문맥(portal vein)을 통해 간(liver)으로 들어간다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 _____이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라(spleen)",
+        "accepted_answers": [
+          "지라(spleen)",
+          "spleen"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라(spleen)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 _____가 위치하고, 왼위사분구역(left upper quadrant)에는 위(stomach)와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간(liver)",
+        "accepted_answers": [
+          "간(liver)",
+          "liver"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간(liver)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_course_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_022_course_002"
+      ],
+      "prompt": "오른위사분구역(right upper quadrant)에는 간(liver)가 위치하고, 왼위사분구역(left upper quadrant)에는 _____와 지라(spleen)이 위치한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위(stomach)",
+        "accepted_answers": [
+          "위(stomach)",
+          "stomach"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위(stomach)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_001"
+      ],
+      "prompt": "_____는 소화기관에서 흡수된 영양분과 독소를 간(liver)으로 운반하여 해독과 대사 과정을 거치게 하는 직통 수송 경로이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥계(portal venous system)",
+        "accepted_answers": [
+          "간문맥계(portal venous system)",
+          "portal venous system"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥계(portal venous system)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥계(portal venous system)는 소화기관에서 흡수된 영양분과 독소를 간(liver)으로 운반하여 해독과 대사 과정을 거치게 하는 직통 수송 경로이다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "소화기관 관련 정맥혈은 바로 _____으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥(inferior vena cava)으로 빠진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)",
+          "inferior vena cava",
+          "IVC"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥으로 빠진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, _____으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥(inferior vena cava)으로 빠진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepatic portal vein",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥으로 빠진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_002_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_002"
+      ],
+      "prompt": "소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 _____으로 빠진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래대정맥(inferior vena cava)",
+        "accepted_answers": [
+          "아래대정맥(inferior vena cava)",
+          "inferior vena cava",
+          "IVC"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래대정맥(inferior vena cava)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥으로 빠진다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_003"
+      ],
+      "prompt": "_____은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepatic portal vein",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_003"
+      ],
+      "prompt": "간문맥(hepatic portal vein)은 _____과 지라정맥(splenic vein)의 합류로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막정맥(superior mesenteric vein)",
+        "accepted_answers": [
+          "위창자간막정맥(superior mesenteric vein)",
+          "superior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막정맥(superior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_003_004",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_003"
+      ],
+      "prompt": "간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 _____의 합류로 형성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_004"
+      ],
+      "prompt": "_____은 간문(porta hepatis)을 통해 간 안으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepatic portal vein",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간 안으로 들어간다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_004"
+      ],
+      "prompt": "간문맥(hepatic portal vein)은 _____을 통해 간 안으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문(porta hepatis)",
+        "accepted_answers": [
+          "간문(porta hepatis)",
+          "porta hepatis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문(porta hepatis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간 안으로 들어간다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_005"
+      ],
+      "prompt": "_____은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 지라정맥(splenic vein)으로 합류한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 아래창자간막정맥(inferior mesenteric vein)은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 지라정맥(splenic vein)으로 합류한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_005_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_005"
+      ],
+      "prompt": "아래창자간막정맥(inferior mesenteric vein)은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 _____으로 합류한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 아래창자간막정맥(inferior mesenteric vein)은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 지라정맥(splenic vein)으로 합류한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_006_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "_____, 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "중간잘록창자정맥(middle colic vein)",
+        "accepted_answers": [
+          "중간잘록창자정맥(middle colic vein)",
+          "middle colic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "중간잘록창자정맥(middle colic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_006_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), _____은 위창자간막정맥(superior mesenteric vein)으로 유입된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "돌잘록창자정맥(ileocolic vein)",
+        "accepted_answers": [
+          "돌잘록창자정맥(ileocolic vein)",
+          "ileocolic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "돌잘록창자정맥(ileocolic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_006_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_006"
+      ],
+      "prompt": "중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 _____으로 유입된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막정맥(superior mesenteric vein)",
+        "accepted_answers": [
+          "위창자간막정맥(superior mesenteric vein)",
+          "superior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막정맥(superior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_007"
+      ],
+      "prompt": "_____과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "왼잘록창자정맥(left colic vein)",
+        "accepted_answers": [
+          "왼잘록창자정맥(left colic vein)",
+          "left colic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "왼잘록창자정맥(left colic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_007_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_007"
+      ],
+      "prompt": "왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 _____으로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_필기본_022_ai_corrected_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_022_ai_corrected_007"
+      ],
+      "prompt": "왼잘록창자정맥(left colic vein)과 _____은 아래창자간막정맥(inferior mesenteric vein)으로 모인다.",
+      "answer": {
+        "format": "single_text",
+        "value": "구불잘록창자정맥및구불곧창자정맥(sigmoid and rectosigmoid veins)",
+        "accepted_answers": [
+          "구불잘록창자정맥및구불곧창자정맥(sigmoid and rectosigmoid veins)",
+          "구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)",
+          "sigmoid and rectosigmoid veins"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "구불잘록창자정맥및구불곧창자정맥(sigmoid and rectosigmoid veins)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_강의원본_092_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_092_ai_corrected_002"
+      ],
+      "prompt": "_____은 보통 지라정맥(splenic vein)으로 합류한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "inferior mesenteric vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 아래창자간막정맥(inferior mesenteric vein)은 보통 지라정맥(splenic vein)으로 합류한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_강의원본_092_ai_corrected_002_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_092_ai_corrected_002"
+      ],
+      "prompt": "아래창자간막정맥(inferior mesenteric vein)은 보통 _____으로 합류한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)",
+          "splenic vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 아래창자간막정맥(inferior mesenteric vein)은 보통 지라정맥(splenic vein)으로 합류한다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_강의원본_092_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_092_ai_corrected_003"
+      ],
+      "prompt": "_____은 간문(porta hepatis)을 통해 간으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문맥(hepatic portal vein)",
+        "accepted_answers": [
+          "간문맥(hepatic portal vein)",
+          "hepatic portal vein",
+          "portal vein"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문맥(hepatic portal vein)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간으로 들어간다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_course_배_강의원본_092_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_강의원본_092_ai_corrected_003"
+      ],
+      "prompt": "간문맥(hepatic portal vein)은 _____을 통해 간으로 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "간문(porta hepatis)",
+        "accepted_answers": [
+          "간문(porta hepatis)",
+          "porta hepatis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "간문(porta hepatis)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "?먮Ц 紐낆젣: 간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간으로 들어간다. / 寃利?硫붾え: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_visual_visual_component_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_component_identification",
+      "proposition_refs": [],
+      "prompt": "제시된 이미지 영역의 이름은 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "portal venous system of large intestine and spleen",
+        "accepted_answers": [
+          "portal venous system of large intestine and spleen"
+        ]
+      },
+      "target": {
+        "kind": "visual_component",
+        "text": "portal venous system of large intestine and spleen",
+        "component_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::portal_system"
+      },
+      "verification_status": "visual_manifest_component",
+      "stimulus": {
+        "stimulus_type": "page_region",
+        "component_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::portal_system",
+        "component_type": "figure_regions"
+      },
+      "explanation": {
+        "short": "AI page-first ?먮룆?먯꽌 遺꾨쪟???쒓컖 援ъ꽦?붿냼瑜?吏곸젒 ?뚯긽?섎뒗 鍮덉뭏臾몄젣??",
+        "full": "?쒓컖 援ъ꽦?붿냼 ?먮Ц: portal venous system of large intestine and spleen"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_visual_visual_relation_003_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "아래창자간막정맥(inferior mesenteric vein)이 합류하는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "지라정맥(splenic vein)",
+        "accepted_answers": [
+          "지라정맥(splenic vein)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "지라정맥(splenic vein)",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_002"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_002"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 아래창자간막정맥(inferior mesenteric vein) / predicate: 합류한다 / object: 지라정맥(splenic vein)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_visual_visual_relation_004_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "중간/오른/돌잘록창자정맥이 유입되는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위창자간막정맥(superior mesenteric vein)",
+        "accepted_answers": [
+          "위창자간막정맥(superior mesenteric vein)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위창자간막정맥(superior mesenteric vein)",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_003"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_003"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 중간/오른/돌잘록창자정맥 / predicate: 유입된다 / object: 위창자간막정맥(superior mesenteric vein)"
+      }
+    },
+    {
+      "question_id": "배_통합_20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평_p022_visual_visual_relation_005_001",
+      "question_type": "image_grounded_fill_blank",
+      "blank_mode": "single",
+      "question_focus": "visual_relation_understanding",
+      "proposition_refs": [],
+      "prompt": "왼잘록창자정맥 및 구불잘록창자정맥이 모이는 구조는 _____이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래창자간막정맥(inferior mesenteric vein)",
+        "accepted_answers": [
+          "아래창자간막정맥(inferior mesenteric vein)"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래창자간막정맥(inferior mesenteric vein)",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_004"
+      },
+      "verification_status": "visual_manifest_relation",
+      "stimulus": {
+        "stimulus_type": "page_relation_label",
+        "relation_id": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평__p022_ai_page_read::rel_004"
+      },
+      "explanation": {
+        "short": "AI page-first 판독에서 읽은 시각 관계를 직접 평가하는 빈칸문제이다.",
+        "full": "subject: 왼잘록창자정맥 및 구불잘록창자정맥 / predicate: 모인다 / object: 아래창자간막정맥(inferior mesenteric vein)"
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 29,
+    "question_type_count": {
+      "fill_blank": 25,
+      "image_grounded_fill_blank": 4
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 4,
+      "course_exam_style": 21,
+      "visual_component_identification": 1,
+      "visual_relation_understanding": 3
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 71,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p001__4dc434a3e59d.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 72,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p002__5edeab61f8f7.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 73,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p003__f4158e5297cf.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 74,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p004__a7b5eae69295.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 75,
+        "question_count": 16,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p005__502c297bb727.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 76,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p006__3451ed70af73.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 77,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p007__90f87a5ee280.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 78,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p008__1575caa2932f.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 79,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p009__af8cf76e3174.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 80,
+        "question_count": 9,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p010__7ffb96a1af24.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 81,
+        "question_count": 19,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p011__ec5f5d70c5af.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 82,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p012__b2fa3565ffa1.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 83,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p013__1d1d8cea5cd8.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 84,
+        "question_count": 10,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p014__d3d14b1f527b.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 85,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p015__3acaeed6337b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 86,
+        "question_count": 11,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p016__d195ca83326d.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 87,
+        "question_count": 8,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p017__f29baac7e42d.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 88,
+        "question_count": 27,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p018__0bb2b9abc052.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 89,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p019__ee6f5492aea9.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 90,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p020__44db7b2c1695.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 91,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p021__7b969a75e30e.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 92,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260408____1___4__p022__2e94c7100c4b.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 93,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p023__3b60d8389744.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 94,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p024__a757750919ce.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 95,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p025__f11240973ddf.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 96,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p026__e76fcb3aa838.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 97,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p027__90ad0554ff58.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 98,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p028__6ad75ef23808.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 99,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p029__7e5f0d9d201a.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 100,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p030__6ab655ae4965.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 101,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p031__89721a7d934d.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 102,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260408____1___4__p032__fb461517236c.json"
+      }
+    ],
+    "current_index": 21,
+    "previous_page": 21,
+    "next_page": 23
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260408_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)4_김범평",
+      "page_number": 22
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "지방을 제외한 소화관 흡수 물질은 문맥(portal vein)을 통해 간(liver)으로 들어간다.",
+        "오른위사분구역(right upper quadrant)에는 liver가 위치하고, 왼위사분구역(left upper quadrant)에는 stomach와 spleen이 위치한다.",
+        "간문맥계(portal venous system)는 소화기관에서 흡수된 영양분과 독소를 간(liver)으로 운반하여 해독과 대사 과정을 거치게 하는 직통 수송 경로이다.",
+        "소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥으로 빠진다.",
+        "간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다.",
+        "간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간 안으로 들어간다.",
+        "아래창자간막정맥(inferior mesenteric vein)은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 지라정맥(splenic vein)으로 합류한다.",
+        "중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다.",
+        "왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다.",
+        "기관의 영어 이름은 trachea이다.",
+        "간문맥계의 영어 이름은 portal venous system이다.",
+        "간문맥의 영어 이름은 hepatic portal vein이다.",
+        "간의 영어 이름은 liver이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "큰창자의 영어 이름은 large intestine이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "문맥의 영어 이름은 portal vein이다.",
+        "간문의 영어 이름은 porta hepatis이다.",
+        "창자간막의 영어 이름은 mesentery이다.",
+        "위의 영어 이름은 stomach이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "아래창자간막정맥(inferior mesenteric vein)은 보통 지라정맥(splenic vein)으로 합류한다.",
+        "간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간으로 들어간다.",
+        "가로잘록창자의 영어 이름은 transverse colon이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다.",
+        "내림잘록창자의 영어 이름은 descending colon이다.",
+        "위곧창자정맥의 영어 이름은 superior rectal vein이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": ": systemic inferior vena cava , 소화기관련정맥은하게로가는게아닌",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 4,
+          "text": "1. Superior mesenteric vein(SMV)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "portal vein inferior vena cava .으로모여간을먼저거친뒤로빠지는것",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 7,
+          "text": "2. Splenic vein: (Spleen 에서파괴된적혈구산물등을실어옴",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "간문맥계(portal venous system)는 소화기관에서 흡수된 영양분과 독소를 간(liver)으로 운반하여 해독과 대사 과정을 거치게 하는 직통 수송 경로이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "소화기관 관련 정맥혈은 바로 아래대정맥(inferior vena cava)으로 가지 않고, 간문맥(hepatic portal vein)으로 모여 먼저 간(liver)을 거친 뒤 아래대정맥으로 빠진다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 15,
+          "text": "간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간 안으로 들어간다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "위창자간막정맥(superior mesenteric vein)은 작은창자와 큰창자의 상부에서 정맥혈을 실어 온다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "지라정맥(splenic vein)은 지라(spleen)와 위(stomach) 일부에서 온 정맥혈을 실어 온다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "아래창자간막정맥(inferior mesenteric vein)은 큰창자의 좌측 및 아래부분에서 온 정맥혈을 주로 받으며, 보통 지라정맥(splenic vein)으로 합류한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)으로 유입된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)으로 모인다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "간문맥계(portal venous system)의 형성과 각 정맥의 유입 관계를 그림과 필기로 설명한 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "간문맥(hepatic portal vein) 형성된다 위창자간막정맥 + 지라정맥",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 24,
+          "text": "아래창자간막정맥(inferior mesenteric vein) 합류한다 지라정맥(splenic vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 25,
+          "text": "중간/오른/돌잘록창자정맥 유입된다 위창자간막정맥(superior mesenteric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 26,
+          "text": "왼잘록창자정맥 및 구불잘록창자정맥 모인다 아래창자간막정맥(inferior mesenteric vein)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 5,
+          "text": "중간잘록창자정맥 아래창자간막정맥",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "그림 6-52. 굉창자의 정백과 간문맥의 형성",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "아래창자간막정맥(inferior mesenteric vein)은 보통 지라정맥(splenic vein)으로 합류한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간으로 들어간다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)의 가지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)의 가지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 22,
+          "text": "간문맥(hepatic portal vein)은 위창자간막정맥(superior mesenteric vein)과 지라정맥(splenic vein)의 합류로 형성된다. 아래창자간막정맥(inferior mesenteric vein)은 보통 지라정맥(splenic vein)으로 합류한다. 간문맥(hepatic portal vein)은 간문(porta hepatis)을 통해 간으로 들어간다. 중간잘록창자정맥(middle colic vein), 오른잘록창자정맥(right colic vein), 돌잘록창자정맥(ileocolic vein)은 위창자간막정맥(superior mesenteric vein)의 가지이다. 왼잘록창자정맥(left colic vein)과 구불잘록창자정맥 및 구불곧창자정맥(sigmoid and rectosigmoid veins)은 아래창자간막정맥(inferior mesenteric vein)의 가지이다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 23,
+          "text": "큰창자의 정맥과 간문맥 형성을 그림 라벨로 보여주는 강의원본 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 26,
+        "accounted_term_count": 26,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "간문맥계(portal venous system)",
+          "간문맥(hepatic portal vein)",
+          "간(liver)",
+          "위창자간막정맥(superior mesenteric vein)",
+          "지라정맥(splenic vein)",
+          "간문(porta hepatis)",
+          "지라(spleen)",
+          "위(stomach)",
+          "아래창자간막정맥(inferior mesenteric vein)",
+          "중간잘록창자정맥(middle colic vein)",
+          "오른잘록창자정맥(right colic vein)",
+          "돌잘록창자정맥(ileocolic vein)",
+          "왼잘록창자정맥(left colic vein)",
+          "기관(trachea)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "작은창자(small intestine)",
+          "큰창자(large intestine)",
+          "창자간막(mesentery)",
+          "곧창자(rectum)",
+          "오른위사분구역(right upper quadrant)",
+          "왼위사분구역(left upper quadrant)",
+          "가로잘록창자(transverse colon)",
+          "오름잘록창자(ascending colon)",
+          "내림잘록창자(descending colon)",
+          "위곧창자정맥(superior rectal vein)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "간문맥 hepatic portal V.",
+        "transverse colon",
+        "위창자간막정댁 지라정댁 splenic V.",
+        "superior mesenteric V.",
+        "중간잘록창자정맥 아래창자간막정맥",
+        "middle colic V inferior mesenteric V.",
+        "ascending colon",
+        "오른잘록창자정액 descending colon",
+        "right colic V.",
+        "둘잘록창자정맥 left colic V.",
+        "ileocolic V",
+        "훌평질결움장증p과",
+        "오른 . 원위곧창자정맥 sigmoid and rectosigmoid VV.",
+        "left and right superior rectal VV. 구물질록창자",
+        "sigmoid colon",
+        "그림 6-52. 굉창자의 정백과 간문맥의 형성"
+      ],
+      "supplemental_ocr_blocks": [
+        "가로잘록창자",
+        "지라 spleen",
+        "오름잘록창자",
+        "내림잘록창자",
+        "왼잘록창자정액"
+      ],
+      "corrected_page_text": "간문맥 hepatic portal V.\ntransverse colon\n위창자간막정댁 지라정댁 splenic V.\nsuperior mesenteric V.\n중간잘록창자정맥 아래창자간막정맥\nmiddle colic V inferior mesenteric V.\nascending colon\n오른잘록창자정액 descending colon\nright colic V.\n둘잘록창자정맥 left colic V.\nileocolic V\n훌평질결움장증p과\n오른 . 원위곧창자정맥 sigmoid and rectosigmoid VV.\nleft and right superior rectal VV. 구물질록창자\nsigmoid colon\n그림 6-52. 굉창자의 정백과 간문맥의 형성",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 28,
+        "pdf_line_count": 0,
+        "ocr_line_count": 21,
+        "merged_line_count": 21,
+        "pdf_only_count": 0,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 328,
+        "promoted_ocr_only_count": 16
+      }
+    }
+  }
+}

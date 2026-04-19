@@ -1,0 +1,1066 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+    "page_number": 21,
+    "note_page_number": 21,
+    "source_page_number": 21,
+    "original_page_number": 21,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_ready",
+  "page_read_status": "ai_page_read_complete",
+  "source_verified_status": "ready_for_question_generation",
+  "questions": [
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_001"
+      ],
+      "prompt": "_____은 속가슴동맥(internal thoracic artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위배벽동맥(superior epigastric artery)",
+        "accepted_answers": [
+          "위배벽동맥(superior epigastric artery)",
+          "superior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위배벽동맥(superior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_001"
+      ],
+      "prompt": "위배벽동맥(superior epigastric artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속가슴동맥(internal thoracic artery)",
+        "accepted_answers": [
+          "속가슴동맥(internal thoracic artery)",
+          "internal thoracic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속가슴동맥(internal thoracic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_002"
+      ],
+      "prompt": "_____은 속가슴동맥(internal thoracic artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "근육가로막동맥(musculophrenic artery)",
+        "accepted_answers": [
+          "근육가로막동맥(musculophrenic artery)",
+          "musculophrenic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "근육가로막동맥(musculophrenic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 근육가로막동맥(musculophrenic artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_002"
+      ],
+      "prompt": "근육가로막동맥(musculophrenic artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속가슴동맥(internal thoracic artery)",
+        "accepted_answers": [
+          "속가슴동맥(internal thoracic artery)",
+          "internal thoracic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속가슴동맥(internal thoracic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 근육가로막동맥(musculophrenic artery)은 속가슴동맥(internal thoracic artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_003"
+      ],
+      "prompt": "_____은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽동맥(inferior epigastric artery)",
+        "accepted_answers": [
+          "아래배벽동맥(inferior epigastric artery)",
+          "inferior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽동맥(inferior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_003"
+      ],
+      "prompt": "아래배벽동맥(inferior epigastric artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥엉덩동맥(external iliac artery)",
+        "accepted_answers": [
+          "바깥엉덩동맥(external iliac artery)",
+          "external iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥엉덩동맥(external iliac artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_004"
+      ],
+      "prompt": "_____은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+        "accepted_answers": [
+          "깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+          "deep circumflex iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_004"
+      ],
+      "prompt": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥엉덩동맥(external iliac artery)",
+        "accepted_answers": [
+          "바깥엉덩동맥(external iliac artery)",
+          "external iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥엉덩동맥(external iliac artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나온다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_007_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_007"
+      ],
+      "prompt": "_____과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "위배벽동맥(superior epigastric artery)",
+        "accepted_answers": [
+          "위배벽동맥(superior epigastric artery)",
+          "superior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "위배벽동맥(superior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_007_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_007"
+      ],
+      "prompt": "위배벽동맥(superior epigastric artery)과 _____은 서로 문합한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래배벽동맥(inferior epigastric artery)",
+        "accepted_answers": [
+          "아래배벽동맥(inferior epigastric artery)",
+          "inferior epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래배벽동맥(inferior epigastric artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_014_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_014"
+      ],
+      "prompt": "_____은 속가슴동맥(internal thoracic artery)의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞갈비사이동맥(anterior intercostal arteries)",
+        "accepted_answers": [
+          "앞갈비사이동맥(anterior intercostal arteries)",
+          "anterior intercostal arteries",
+          "anterior intercostal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞갈비사이동맥(anterior intercostal arteries)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞갈비사이동맥(anterior intercostal arteries)은 속가슴동맥(internal thoracic artery)의 가지이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_course_014_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "배_필기본_021_course_014"
+      ],
+      "prompt": "앞갈비사이동맥(anterior intercostal arteries)은 _____의 가지이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "속가슴동맥(internal thoracic artery)",
+        "accepted_answers": [
+          "속가슴동맥(internal thoracic artery)",
+          "internal thoracic artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "속가슴동맥(internal thoracic artery)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
+        "full": "원문 명제: 앞갈비사이동맥(anterior intercostal arteries)은 속가슴동맥(internal thoracic artery)의 가지이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_001"
+      ],
+      "prompt": "_____은 갈비사이공간의 앞쪽에 분포하며, 필기에서는 그 사이에 뒤갈비사이동맥(posterior intercostal arteries)이 있다고 메모되어 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "앞갈비사이동맥(anterior intercostal arteries)",
+        "accepted_answers": [
+          "앞갈비사이동맥(anterior intercostal arteries)",
+          "anterior intercostal arteries",
+          "anterior intercostal artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "앞갈비사이동맥(anterior intercostal arteries)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 앞갈비사이동맥(anterior intercostal arteries)은 갈비사이공간의 앞쪽에 분포하며, 필기에서는 그 사이에 뒤갈비사이동맥(posterior intercostal arteries)이 있다고 메모되어 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_002"
+      ],
+      "prompt": "_____은 바깥엉덩동맥(external iliac artery)에서 나오며, 아래쪽장골근(iliacus) 부근에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+        "accepted_answers": [
+          "깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+          "deep circumflex iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나오며, 아래쪽 장골근(iliacus) 부근에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_002_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_002"
+      ],
+      "prompt": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 _____에서 나오며, 아래쪽장골근(iliacus) 부근에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥엉덩동맥(external iliac artery)",
+        "accepted_answers": [
+          "바깥엉덩동맥(external iliac artery)",
+          "external iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥엉덩동맥(external iliac artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나오며, 아래쪽 장골근(iliacus) 부근에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_002_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_002"
+      ],
+      "prompt": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나오며, _____ 부근에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "아래쪽장골근(iliacus)",
+        "accepted_answers": [
+          "아래쪽장골근(iliacus)",
+          "iliacus"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "아래쪽장골근(iliacus)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나오며, 아래쪽 장골근(iliacus) 부근에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_003"
+      ],
+      "prompt": "_____은 넙다리동맥(femoral artery)에서 나오며 배꼽 아래 피부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은배벽동맥(superficial epigastric artery)",
+        "accepted_answers": [
+          "얕은배벽동맥(superficial epigastric artery)",
+          "superficial epigastric artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은배벽동맥(superficial epigastric artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은배벽동맥(superficial epigastric artery)은 넙다리동맥(femoral artery)에서 나오며 배꼽 아래 피부에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_003_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_003"
+      ],
+      "prompt": "얕은배벽동맥(superficial epigastric artery)은 _____에서 나오며 배꼽 아래 피부에 혈액을 공급한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리동맥(femoral artery)",
+        "accepted_answers": [
+          "넙다리동맥(femoral artery)",
+          "femoral artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리동맥(femoral artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은배벽동맥(superficial epigastric artery)은 넙다리동맥(femoral artery)에서 나오며 배꼽 아래 피부에 혈액을 공급한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_004_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_004"
+      ],
+      "prompt": "_____도 넙다리동맥(femoral artery)에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)",
+        "accepted_answers": [
+          "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)",
+          "superficial circumflex iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은엉덩휘돌이동맥(superficial circumflex iliac artery)도 넙다리동맥(femoral artery)에서 나온다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_004_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_004"
+      ],
+      "prompt": "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)도 _____에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리동맥(femoral artery)",
+        "accepted_answers": [
+          "넙다리동맥(femoral artery)",
+          "femoral artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리동맥(femoral artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 얕은엉덩휘돌이동맥(superficial circumflex iliac artery)도 넙다리동맥(femoral artery)에서 나온다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_005_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_005"
+      ],
+      "prompt": "_____를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 고샅구역(inguinal region)에 분포한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅인대(inguinal ligament)",
+        "accepted_answers": [
+          "고샅인대(inguinal ligament)",
+          "inguinal ligament"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅인대(inguinal ligament)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_005_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_005"
+      ],
+      "prompt": "고샅인대(inguinal ligament)를 기준으로 위쪽에서는 _____의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 고샅구역(inguinal region)에 분포한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "바깥엉덩동맥(external iliac artery)",
+        "accepted_answers": [
+          "바깥엉덩동맥(external iliac artery)",
+          "external iliac artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "바깥엉덩동맥(external iliac artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_005_005",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_005"
+      ],
+      "prompt": "고샅인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 _____의 가지가 앞가쪽배벽과 고샅구역(inguinal region)에 분포한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "넙다리동맥(femoral artery)",
+        "accepted_answers": [
+          "넙다리동맥(femoral artery)",
+          "femoral artery"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "넙다리동맥(femoral artery)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    },
+    {
+      "question_id": "배_통합_20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호_p021_course_배_필기본_021_ai_corrected_005_007",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style",
+      "proposition_refs": [
+        "배_필기본_021_ai_corrected_005"
+      ],
+      "prompt": "고샅인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 _____에 분포한다는 필기 메모가 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "고샅구역(inguinal region)",
+        "accepted_answers": [
+          "고샅구역(inguinal region)",
+          "inguinal region"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "고샅구역(inguinal region)"
+      },
+      "verification_status": "verified_by_ai_page_read",
+      "explanation": {
+        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
+        "full": "원문 명제: 샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 24,
+    "question_type_count": {
+      "fill_blank": 24
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 12,
+      "course_exam_style": 12
+    }
+  },
+  "blocked_image_question_reasons": [],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p001__21a24649b85f.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 31,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p002__6a5c4c49c1f2.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 16,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p003__f477c3aac9cd.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p004__955eb52e460f.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 14,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p005__afcf110a0b5b.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 18,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p006__2203f8357a8a.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p007__77493632634b.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 25,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p008__a6dc0a7c10f6.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p009__a2239bcf6f6d.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p010__6d362694e762.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p011__d7f6008f517d.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p012__00c1cb058ea0.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 20,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p013__14f73874f0f6.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 23,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p014__fdd189632937.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p015__4107fde4f74b.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 15,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p016__e3a9f01e2a33.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 21,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p017__089341e8fcfb.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p018__be505a5a6844.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 30,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p019__4a29d2f09b2a.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 29,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p020__7a7e617b7487.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 24,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p021__825d41c1d282.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 22,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p022__7fa11831b2d9.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 26,
+        "finalization_status": "question_set_ready",
+        "page_read_status": "ai_page_read_complete",
+        "static_page_file": "pages/20260402____1___1__p023__f34e22a92fdb.json"
+      }
+    ],
+    "current_index": 20,
+    "previous_page": 20,
+    "next_page": 22
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260402_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)1_강권호",
+      "page_number": 21
+    },
+    "propositions": {
+      "finalization_status": "ready_for_verification",
+      "course_propositions": [
+        "위배벽동맥(superior epigastric artery)은 속가슴동맥(internal thoracic artery)에서 나온다.",
+        "근육가로막동맥(musculophrenic artery)은 속가슴동맥(internal thoracic artery)에서 나온다.",
+        "아래배벽동맥(inferior epigastric artery)은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+        "깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나온다.",
+        "얕은배벽동맥(superficial epigastric artery)은 넙다리동맥(femoral artery)에서 나온다.",
+        "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)은 넙다리동맥(femoral artery)에서 나온다.",
+        "위배벽동맥(superior epigastric artery)과 아래배벽동맥(inferior epigastric artery)은 서로 문합한다.",
+        "앞갈비사이동맥(anterior intercostal arteries)은 속가슴동맥(internal thoracic artery)의 가지이다.",
+        "앞갈비사이동맥(anterior intercostal arteries)은 갈비사이공간의 앞쪽에 분포하며, 필기에서는 그 사이에 뒤갈비사이동맥(posterior intercostal arteries)이 있다고 메모되어 있다.",
+        "깊은엉덩휘돌이동맥(deep circumflex iliac artery)은 바깥엉덩동맥(external iliac artery)에서 나오며, 아래쪽 장골근(iliacus) 부근에 혈액을 공급한다.",
+        "얕은배벽동맥(superficial epigastric artery)은 넙다리동맥(femoral artery)에서 나오며 배꼽 아래 피부에 혈액을 공급한다.",
+        "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)도 넙다리동맥(femoral artery)에서 나온다.",
+        "샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "앞가쪽배벽의 영어 이름은 anterolateral abdominal wall이다.",
+        "가슴의 영어 이름은 thorax이다.",
+        "위배벽동맥의 영어 이름은 superior epigastric artery이다.",
+        "속가슴동맥의 영어 이름은 internal thoracic artery이다.",
+        "위의 영어 이름은 stomach이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "근육가로막동맥의 영어 이름은 musculophrenic artery이다.",
+        "앞갈비사이동맥의 영어 이름은 anterior intercostal arteries이다.",
+        "간의 영어 이름은 liver이다.",
+        "아래배벽동맥의 영어 이름은 inferior epigastric artery이다.",
+        "바깥엉덩동맥의 영어 이름은 external iliac artery이다.",
+        "깊은엉덩휘돌이동맥의 영어 이름은 deep circumflex iliac artery이다.",
+        "얕은배벽동맥의 영어 이름은 superficial epigastric artery이다.",
+        "넙다리동맥의 영어 이름은 femoral artery이다.",
+        "얕은엉덩휘돌이동맥의 영어 이름은 superficial circumflex iliac artery이다.",
+        "샅의 영어 이름은 perineum이다.",
+        "고샅인대의 영어 이름은 inguinal ligament이다.",
+        "고샅구역의 영어 이름은 inguinal region이다.",
+        "가쪽가슴동맥의 영어 이름은 lateral thoracic artery이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "iliacus 아랫부분에 혈액공급",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "Vessels of anterolateral abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "샅고랑인대(inguinal ligament)를 기준으로 위쪽에서는 바깥엉덩동맥(external iliac artery)의 가지가, 아래쪽에서는 넙다리동맥(femoral artery)의 가지가 앞가쪽배벽과 서혜부에 분포한다는 필기 메모가 있다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 27,
+          "text": "위배벽동맥(superior epigastric artery) anastomoses_with 아래배벽동맥(inferior epigastric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 28,
+          "text": "깊은엉덩휘돌이동맥(deep circumflex iliac artery) supplies 장골근(iliacus) 아래쪽 부위",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "위배벽동맥(superior epigastric artery)과 근육가로막동맥(musculophrenic artery)은 위쪽에서 내려와 앞가쪽배벽으로 분포한다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "깊은엉덩휘돌이동맥(deep circumflex iliac artery)과 아래배벽동맥(inferior epigastric artery)은 아래쪽 서혜부 근처에서 위로 올라오는 가지로 표시된다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 16,
+          "text": "앞가쪽배벽의 동맥 분포를 보여주는 강의원본 페이지로, 주요 동맥 이름과 위치가 그림 라벨로 제시된 페이지다.",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 17,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vessel 위배벽동맥(superior epigastric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 18,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vessel 아래배벽동맥(inferior epigastric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 19,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vessel 얕은배벽동맥(superficial epigastric artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vessel 얕은엉덩휘돌이동맥(superficial circumflex iliac artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 21,
+          "text": "앞가쪽배벽(anterolateral abdominal wall) has_vessel 깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 23,
+        "accounted_term_count": 23,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "위배벽동맥(superior epigastric artery)",
+          "속가슴동맥(internal thoracic artery)",
+          "아래배벽동맥(inferior epigastric artery)",
+          "바깥엉덩동맥(external iliac artery)",
+          "아래쪽장골근(iliacus)",
+          "얕은배벽동맥(superficial epigastric artery)",
+          "넙다리동맥(femoral artery)",
+          "고샅인대(inguinal ligament)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "앞가쪽배벽(anterolateral abdominal wall)",
+          "가슴(thorax)",
+          "위(stomach)",
+          "근육(muscles)",
+          "가로막(diaphragm)",
+          "근육가로막동맥(musculophrenic artery)",
+          "앞갈비사이동맥(anterior intercostal arteries)",
+          "간(liver)",
+          "깊은엉덩휘돌이동맥(deep circumflex iliac artery)",
+          "얕은엉덩휘돌이동맥(superficial circumflex iliac artery)",
+          "샅(perineum)",
+          "고샅구역(inguinal region)",
+          "가쪽가슴동맥(lateral thoracic artery)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Vessels of anterolateral abdominal wall",
+        "internal thoracic a",
+        "lateral thoracic a",
+        "anterior intercostal aa.",
+        "superior epigastric a",
+        "musculophrenic a",
+        "알은배벽동맥 deep circumflex iliac a",
+        "superficial epigastric a.",
+        "알은엉덩뤄돌이동백 inferior epigastric a",
+        "superficial Circumflex iliac a",
+        "그림 6-10. 앞가족배벽의 동맥분포"
+      ],
+      "supplemental_ocr_blocks": [
+        "속가슴동백",
+        "가족가슴동맥",
+        "앞갈비사이동맥",
+        "위배벽동맥",
+        "근육가로막동백",
+        "깊은엉당워돌이동맥",
+        "아래배벽동맥"
+      ],
+      "corrected_page_text": "Vessels of anterolateral abdominal wall\ninternal thoracic a\nlateral thoracic a\nanterior intercostal aa.\nsuperior epigastric a\nmusculophrenic a\n알은배벽동맥 deep circumflex iliac a\nsuperficial epigastric a.\n알은엉덩뤄돌이동백 inferior epigastric a\nsuperficial Circumflex iliac a\n그림 6-10. 앞가족배벽의 동맥분포",
+      "quality_audit": {
+        "pdf_char_count": 35,
+        "pdf_span_count": 1,
+        "pdf_word_count": 5,
+        "ocr_fragment_count": 20,
+        "pdf_line_count": 1,
+        "ocr_line_count": 18,
+        "merged_line_count": 18,
+        "pdf_only_count": 0,
+        "ocr_only_count": 17,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 17,
+        "pdf_alpha_count": 35,
+        "ocr_alpha_count": 248,
+        "promoted_ocr_only_count": 10
+      }
+    }
+  }
+}
