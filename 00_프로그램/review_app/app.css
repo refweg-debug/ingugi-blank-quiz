@@ -179,6 +179,7 @@ button:disabled {
 .page-list {
   display: grid;
   gap: 3px;
+  padding-bottom: max(0px, calc(100vh - 54px));
 }
 
 .page-list button {
@@ -307,6 +308,7 @@ button:disabled {
 .question-list {
   display: grid;
   gap: 5px;
+  padding-bottom: max(0px, calc(100vh - 72px));
 }
 
 .question-card {
