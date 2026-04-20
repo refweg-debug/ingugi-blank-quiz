@@ -39,39 +39,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_001_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_001"
-      ],
-      "prompt": "_____는 꼬불정세관(convoluted seminiferous tubules)의 바닥막부터 내강까지 뻗어 있다.",
-      "answer": {
-        "format": "single_text",
-        "value": "버팀세포(Sertoli cell)",
-        "accepted_answers": [
-          "버팀세포(Sertoli cell)",
-          "Sertolicell",
-          "Sertoli cell"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "버팀세포(Sertoli cell)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포(Sertoli cell)는 정세관의 바닥막부터 내강까지 뻗어 있다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_001_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -124,39 +91,6 @@
         "text": "버팀세포(Sertoli cell)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_002"
-      ],
-      "prompt": "_____ 사이의 복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) 상피(epithelium)를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다.",
-      "answer": {
-        "format": "single_text",
-        "value": "버팀세포(Sertoli cell)",
-        "accepted_answers": [
-          "버팀세포(Sertoli cell)",
-          "Sertolicell",
-          "Sertoli cell"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "버팀세포(Sertoli cell)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -248,39 +182,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_002_006",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_002"
-      ],
-      "prompt": "버팀세포(Sertoli cell) 사이의 복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) 상피(epithelium)를 _____과 바닥칸(basal compartment)으로 나눈다.",
-      "answer": {
-        "format": "single_text",
-        "value": "속공간쪽칸(adluminal compartment)",
-        "accepted_answers": [
-          "속공간쪽칸(adluminal compartment)",
-          "adluminalcompartment",
-          "adluminal compartment"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "속공간쪽칸(adluminal compartment)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_002_007",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -303,39 +204,6 @@
         "text": "바닥칸(basal compartment)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_002_008",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_002"
-      ],
-      "prompt": "버팀세포(Sertoli cell) 사이의 복합세포사이이음(compound intercellular junction)은 꼬불정세관(convoluted seminiferous tubules) 상피(epithelium)를 속공간쪽칸(adluminal compartment)과 _____으로 나눈다.",
-      "answer": {
-        "format": "single_text",
-        "value": "바닥칸(basal compartment)",
-        "accepted_answers": [
-          "바닥칸(basal compartment)",
-          "basalcompartment",
-          "basal compartment"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "바닥칸(basal compartment)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 버팀세포 사이의 복합세포사이이음(compound intercellular junction)은 정세관 상피를 속공간쪽칸(adluminal compartment)과 바닥칸(basal compartment)으로 나눈다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -369,38 +237,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_003_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_003"
-      ],
-      "prompt": "_____는 바닥칸(basal compartment)에 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정조세포(spermatogonium)",
-        "accepted_answers": [
-          "정조세포(spermatogonium)",
-          "spermatogonium"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정조세포(spermatogonium)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_003_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -423,39 +259,6 @@
         "text": "바닥칸(basal compartment)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_003_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_003"
-      ],
-      "prompt": "정조세포(spermatogonium)는 _____에 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "바닥칸(basal compartment)",
-        "accepted_answers": [
-          "바닥칸(basal compartment)",
-          "basalcompartment",
-          "basal compartment"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "바닥칸(basal compartment)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정조세포(spermatogonium)는 바닥칸(basal compartment)에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -567,39 +370,6 @@
         "text": "속공간쪽칸(adluminal compartment)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 일차정모세포(primary spermatocyte), 이차정모세포(secondary spermatocyte), 정자세포(spermatid)는 속공간쪽칸(adluminal compartment) 쪽으로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p038_course_배_강의원본_038_ai_corrected_004_005",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_038_ai_corrected_004"
-      ],
-      "prompt": "일차정모세포(primary spermatocyte), 이차정모세포(secondary spermatocyte), 정자세포(spermatid)는 _____ 쪽으로 이동한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "속공간쪽칸(adluminal compartment)",
-        "accepted_answers": [
-          "속공간쪽칸(adluminal compartment)",
-          "adluminalcompartment",
-          "adluminal compartment"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "속공간쪽칸(adluminal compartment)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p038_ai_page_read::seminiferous_tubule_diagram",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 일차정모세포(primary spermatocyte), 이차정모세포(secondary spermatocyte), 정자세포(spermatid)는 속공간쪽칸(adluminal compartment) 쪽으로 이동한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -936,7 +706,7 @@
     }
   ],
   "summary": {
-    "question_count": 30,
+    "question_count": 23,
     "question_type_count": {
       "fill_blank": 23,
       "image_grounded_fill_blank": 7
@@ -951,7 +721,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 6,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -959,7 +729,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 81,
+        "question_count": 74,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -967,7 +737,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 111,
+        "question_count": 97,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -975,7 +745,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 111,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -1007,7 +777,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 101,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -1023,7 +793,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 84,
+        "question_count": 83,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -1031,7 +801,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 44,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -1039,7 +809,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 72,
+        "question_count": 66,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -1079,7 +849,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 58,
+        "question_count": 45,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -1103,7 +873,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 38,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -1111,7 +881,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 16,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -1119,7 +889,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -1127,7 +897,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -1135,7 +905,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 16,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -1199,7 +969,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 64,
+        "question_count": 63,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -1215,7 +985,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 170,
+        "question_count": 158,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -1231,7 +1001,7 @@
       },
       {
         "page_number": 37,
-        "question_count": 22,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json",
@@ -1239,7 +1009,7 @@
       },
       {
         "page_number": 38,
-        "question_count": 30,
+        "question_count": 23,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json",
@@ -1275,7 +1045,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 88,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
@@ -1289,7 +1059,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 86,
+        "question_count": 80,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json"
@@ -1324,7 +1094,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 48,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
@@ -1345,28 +1115,28 @@
       },
       {
         "page_number": 55,
-        "question_count": 109,
+        "question_count": 106,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 58,
+        "question_count": 50,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 34,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 56,
+        "question_count": 51,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
@@ -1380,7 +1150,7 @@
       },
       {
         "page_number": 60,
-        "question_count": 42,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
@@ -1394,7 +1164,7 @@
       },
       {
         "page_number": 62,
-        "question_count": 42,
+        "question_count": 28,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
@@ -1408,7 +1178,7 @@
       },
       {
         "page_number": 64,
-        "question_count": 20,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
@@ -1471,7 +1241,7 @@
       },
       {
         "page_number": 73,
-        "question_count": 4,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -1506,7 +1276,7 @@
       },
       {
         "page_number": 78,
-        "question_count": 214,
+        "question_count": 212,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
@@ -1695,7 +1465,7 @@
       },
       {
         "page_number": 105,
-        "question_count": 109,
+        "question_count": 107,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
@@ -1842,7 +1612,7 @@
       },
       {
         "page_number": 126,
-        "question_count": 46,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
@@ -1996,7 +1766,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 15,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"

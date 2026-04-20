@@ -494,19 +494,20 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0008"
       ],
-      "prompt": "puborectalis(치골직장근)는 U자 모양의 _____ 고리를 형성한다.",
+      "prompt": "puborectalis(치골직장근)는 U자 모양의 _____을 형성한다.",
       "answer": {
         "format": "single_text",
-        "value": "muscle(근육)",
+        "value": "muscle sling(근육고리)",
         "accepted_answers": [
-          "muscle(근육)",
-          "muscle",
-          "근육"
+          "muscle sling(근육고리)",
+          "muscle sling",
+          "근육고리",
+          "sling"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "muscle(근육)"
+        "text": "muscle sling(근육고리)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -517,7 +518,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: puborectalis(치골직장근)는 U자 모양의 muscle(근육) 고리를 형성한다. / Original: angle(각)을 이루고 있어가지고 이것이 U자 모양으로 muscle(근육) 고리를 형성해 가지고 이렇게 하고 있습니다. / Evidence: puborectalis는 직장 뒤를 U자형으로 둘러 항문직장각을 만든다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: puborectalis(치골직장근)는 U자 모양의 muscle sling(근육고리)을 형성한다. / Original: angle(각)을 이루고 있어가지고 이것이 U자 모양으로 muscle(근육) 고리를 형성해 가지고 이렇게 하고 있습니다. / Evidence: puborectalis는 직장 뒤를 U자형으로 둘러 항문직장각을 만든다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -611,7 +612,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 33,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -651,7 +652,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 63,
+        "question_count": 61,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p012__3464e85a1843.json",
@@ -867,7 +868,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 13,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json"

@@ -1143,46 +1143,6 @@
       }
     },
     {
-      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p003_recording_20260416-1200_P0013_001",
-      "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "recording_proposition_review",
-      "proposition_refs": [
-        "골반_녹음파일_20260416-1200_P0013"
-      ],
-      "prompt": "_____는 L2-L4에서 나온다.",
-      "answer": {
-        "format": "single_text",
-        "value": "obturator nerve(폐쇄신경)",
-        "accepted_answers": [
-          "obturator nerve(폐쇄신경)",
-          "obturator nerve",
-          "폐쇄신경"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "obturator nerve(폐쇄신경)"
-      },
-      "verification_status": "recording_true_proposition_unverified_page_estimate",
-      "recording_source": {
-        "file": "20260416-1200.txt",
-        "prop_id": "P0013",
-        "confidence": "높음",
-        "page_match_score": 2.0
-      },
-      "explanation": {
-        "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: obturator nerve(폐쇄신경)는 L2-L4에서 나온다. / Original: obturator nerve(폐쇄신경)로 아까 얘기했듯이 L2, L4에서 오는, 그러니까 lumbar(허리)에서 오는 겁니다. / Evidence: obturator nerve(폐쇄신경)은 허리신경얼기에서 L2-L4 섬유를 받는다. / Page match: approximate keyword match against existing page text."
-      },
-      "page_reassignment": {
-        "from_page": 3,
-        "to_page": 4,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "direct_page"
-      }
-    },
-    {
       "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p003_recording_20260416-1200_P0021_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -1224,7 +1184,7 @@
     }
   ],
   "summary": {
-    "question_count": 33,
+    "question_count": 32,
     "question_type_count": {
       "fill_blank": 33
     },
@@ -1245,7 +1205,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 33,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -1281,7 +1241,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 63,
+        "question_count": 61,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p012__3464e85a1843.json"
@@ -1484,7 +1444,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 13,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json"

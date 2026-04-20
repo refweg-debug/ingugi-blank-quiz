@@ -39,39 +39,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_course_001_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_course_001"
-      ],
-      "prompt": "_____은 벽쪽가슴막(parietal pleura)층(parietal layer)과 장쪽가슴막(visceral pleura)층(visceral layer)으로 이루어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "고환집막(tunica vaginalis)",
-        "accepted_answers": [
-          "고환집막(tunica vaginalis)",
-          "tunicavaginalis",
-          "tunica vaginalis"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "고환집막(tunica vaginalis)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 고환집막(tunica vaginalis)은 벽쪽층(parietal layer)과 장쪽층(visceral layer)으로 이루어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_course_002_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -94,39 +61,6 @@
         "text": "정삭(spermatic cord)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정삭(spermatic cord)에는 정관(ductus deferens)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_course_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_course_002"
-      ],
-      "prompt": "_____에는 정관(ductus deferens)이 포함된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정삭(spermatic cord)",
-        "accepted_answers": [
-          "정삭(spermatic cord)",
-          "spermaticcord",
-          "spermatic cord"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정삭(spermatic cord)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정삭(spermatic cord)에는 정관(ductus deferens)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -161,39 +95,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_course_002_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_course_002"
-      ],
-      "prompt": "정삭(spermatic cord)에는 _____이 포함된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정관(ductus deferens)",
-        "accepted_answers": [
-          "정관(ductus deferens)",
-          "Ductusdeferens",
-          "Ductus deferens"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정관(ductus deferens)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정삭(spermatic cord)에는 정관(ductus deferens)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_001_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -215,38 +116,6 @@
         "text": "고환(testis)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 고환소엽(lobule)은 사이막(septum)에 의해 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_001_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_001"
-      ],
-      "prompt": "_____소엽(lobule)은 사이막(septum)에 의해 구분된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "고환(testis)",
-        "accepted_answers": [
-          "고환(testis)",
-          "testis"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "고환(testis)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 고환소엽(lobule)은 사이막(septum)에 의해 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -281,39 +150,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_002"
-      ],
-      "prompt": "_____은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 고환세로칸(mediastinum testis) 안의 고환그물(rete testis)로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정세관(seminiferous tubule)",
-        "accepted_answers": [
-          "정세관(seminiferous tubule)",
-          "seminiferoustubule",
-          "seminiferous tubule"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정세관(seminiferous tubule)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -336,39 +172,6 @@
         "text": "곧은세관(straight tubule)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_002"
-      ],
-      "prompt": "정세관(seminiferous tubule)은 _____으로 이어지고, 곧은세관(straight tubule)은 고환세로칸(mediastinum testis) 안의 고환그물(rete testis)로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "곧은세관(straight tubule)",
-        "accepted_answers": [
-          "곧은세관(straight tubule)",
-          "straighttubule",
-          "straight tubule"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "곧은세관(straight tubule)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -403,39 +206,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_006",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_002"
-      ],
-      "prompt": "정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, _____은 고환세로칸(mediastinum testis) 안의 고환그물(rete testis)로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "곧은세관(straight tubule)",
-        "accepted_answers": [
-          "곧은세관(straight tubule)",
-          "straighttubule",
-          "straight tubule"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "곧은세관(straight tubule)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_007",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -458,39 +228,6 @@
         "text": "고환세로칸(mediastinum testis)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_002_008",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_002"
-      ],
-      "prompt": "정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 _____ 안의 고환그물(rete testis)로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "고환세로칸(mediastinum testis)",
-        "accepted_answers": [
-          "고환세로칸(mediastinum testis)",
-          "mediastinumtestis",
-          "mediastinum testis"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "고환세로칸(mediastinum testis)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정세관(seminiferous tubule)은 곧은세관(straight tubule)으로 이어지고, 곧은세관(straight tubule)은 mediastinum testis 안의 rete testis로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -608,38 +345,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_003_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_003"
-      ],
-      "prompt": "고환날세관(efferent ductule)은 고환그물(rete testis)에서 _____ 머리(부고환머리(head of epididymis)) 쪽으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "부고환(epididymis)",
-        "accepted_answers": [
-          "부고환(epididymis)",
-          "epididymis"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "부고환(epididymis)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 고환날세관(efferent ductule)은 rete testis에서 부고환 머리(head of epididymis) 쪽으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_003_005",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -724,39 +429,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_004_003",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_004"
-      ],
-      "prompt": "부고환관(duct of epididymis)은 _____으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정관(ductus deferens)",
-        "accepted_answers": [
-          "정관(ductus deferens)",
-          "Ductusdeferens",
-          "Ductus deferens"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정관(ductus deferens)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 부고환관(duct of epididymis)은 정관(ductus deferens)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_005_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -785,39 +457,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_005_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_005"
-      ],
-      "prompt": "_____에는 혈관과 신경(blood vessels and 신경(nerves))이 포함된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "정삭(spermatic cord)",
-        "accepted_answers": [
-          "정삭(spermatic cord)",
-          "spermaticcord",
-          "spermatic cord"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "정삭(spermatic cord)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정삭(spermatic cord)에는 혈관과 신경(blood vessels and nerves)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_005_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -840,39 +479,6 @@
         "text": "신경(nerves)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정삭(spermatic cord)에는 혈관과 신경(blood vessels and nerves)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p035_course_배_강의원본_035_ai_corrected_005_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_강의원본_035_ai_corrected_005"
-      ],
-      "prompt": "정삭(spermatic cord)에는 혈관과 신경(blood vessels and _____)이 포함된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "신경(nerves)",
-        "accepted_answers": [
-          "신경(nerves)",
-          "nerves",
-          "nerve"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "신경(nerves)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p035_ai_page_read::gross_anatomy_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정삭(spermatic cord)에는 혈관과 신경(blood vessels and nerves)이 포함된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -5674,7 +5280,7 @@
     }
   ],
   "summary": {
-    "question_count": 170,
+    "question_count": 158,
     "question_type_count": {
       "fill_blank": 158,
       "image_grounded_fill_blank": 12
@@ -5689,7 +5295,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 6,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -5697,7 +5303,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 81,
+        "question_count": 74,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -5705,7 +5311,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 111,
+        "question_count": 97,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -5713,7 +5319,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 111,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -5745,7 +5351,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 101,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -5761,7 +5367,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 84,
+        "question_count": 83,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -5769,7 +5375,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 44,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -5777,7 +5383,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 72,
+        "question_count": 66,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -5817,7 +5423,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 58,
+        "question_count": 45,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -5841,7 +5447,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 38,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -5849,7 +5455,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 16,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -5857,7 +5463,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -5865,7 +5471,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -5873,7 +5479,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 16,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -5937,7 +5543,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 64,
+        "question_count": 63,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -5953,7 +5559,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 170,
+        "question_count": 158,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -5968,14 +5574,14 @@
       },
       {
         "page_number": 37,
-        "question_count": 22,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json"
       },
       {
         "page_number": 38,
-        "question_count": 30,
+        "question_count": 23,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json"
@@ -6010,7 +5616,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 88,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json"
@@ -6024,7 +5630,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 86,
+        "question_count": 80,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json"
@@ -6059,7 +5665,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 48,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json"
@@ -6080,28 +5686,28 @@
       },
       {
         "page_number": 55,
-        "question_count": 109,
+        "question_count": 106,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json"
       },
       {
         "page_number": 56,
-        "question_count": 58,
+        "question_count": 50,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json"
       },
       {
         "page_number": 57,
-        "question_count": 34,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json"
       },
       {
         "page_number": 58,
-        "question_count": 56,
+        "question_count": 51,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json"
@@ -6115,7 +5721,7 @@
       },
       {
         "page_number": 60,
-        "question_count": 42,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json"
@@ -6129,7 +5735,7 @@
       },
       {
         "page_number": 62,
-        "question_count": 42,
+        "question_count": 28,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json"
@@ -6143,7 +5749,7 @@
       },
       {
         "page_number": 64,
-        "question_count": 20,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
@@ -6206,7 +5812,7 @@
       },
       {
         "page_number": 73,
-        "question_count": 4,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -6241,7 +5847,7 @@
       },
       {
         "page_number": 78,
-        "question_count": 214,
+        "question_count": 212,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
@@ -6430,7 +6036,7 @@
       },
       {
         "page_number": 105,
-        "question_count": 109,
+        "question_count": 107,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
@@ -6577,7 +6183,7 @@
       },
       {
         "page_number": 126,
-        "question_count": 46,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
@@ -6731,7 +6337,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 15,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"

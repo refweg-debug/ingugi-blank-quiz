@@ -86,19 +86,20 @@
       "proposition_refs": [
         "골반_녹음파일_20260416-1200_P0025"
       ],
-      "prompt": "골반벽의 측벽에서 주된 _____은 obturator internus muscle(속폐쇄근)이다.",
+      "prompt": "골반벽의 측벽에서 주된 근육은 _____.",
       "answer": {
         "format": "single_text",
-        "value": "muscle(근육)",
+        "value": "obturator internus muscle(속폐쇄근)",
         "accepted_answers": [
-          "muscle(근육)",
-          "muscle",
-          "근육"
+          "obturator internus muscle(속폐쇄근)",
+          "obturator internus muscle",
+          "obturator internus",
+          "속폐쇄근"
         ]
       },
       "target": {
         "kind": "term",
-        "text": "muscle(근육)"
+        "text": "obturator internus muscle(속폐쇄근)"
       },
       "verification_status": "recording_true_proposition_unverified_page_estimate",
       "recording_source": {
@@ -109,7 +110,7 @@
       },
       "explanation": {
         "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: 골반벽의 측벽에서 주된 muscle(근육)은 obturator internus muscle(속폐쇄근)이다. / Original: 각쪽 같은 경우에 주된 muscle(근육)이 뭐라고 했냐고? obturator internus muscle(속폐쇄근)이라고 했어요. / Evidence: 골반벽의 측벽은 obturator internus muscle(속폐쇄근)이 큰 부분을 이룬다. / Page match: approximate keyword match against existing page text."
+        "full": "Recording proposition: 골반벽의 측벽에서 주된 근육은 obturator internus muscle(속폐쇄근). / Original: 각쪽 같은 경우에 주된 muscle(근육)이 뭐라고 했냐고? obturator internus muscle(속폐쇄근)이라고 했어요. / Evidence: 골반벽의 측벽은 obturator internus muscle(속폐쇄근)이 큰 부분을 이룬다. / Page match: approximate keyword match against existing page text."
       }
     },
     {
@@ -169,7 +170,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 33,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -209,7 +210,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 63,
+        "question_count": 61,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p012__3464e85a1843.json",
@@ -420,7 +421,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 13,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json"

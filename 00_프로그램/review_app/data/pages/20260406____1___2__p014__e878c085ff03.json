@@ -41,41 +41,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_001_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_001"
-      ],
-      "prompt": "_____과 꼬불정세관(convoluted seminiferous tubules) 사이 결합조직에 사이질세포(interstitial cell)가 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "꼬불정세관(convoluted seminiferous tubules)",
-        "accepted_answers": [
-          "꼬불정세관(convoluted seminiferous tubules)",
-          "convolutedseminiferoustubules",
-          "convoluted seminiferous tubules",
-          "seminiferoustubules",
-          "seminiferous tubules"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "꼬불정세관(convoluted seminiferous tubules)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관과 정세관 사이 결합조직에 사이질세포(interstitial cell)가 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_001_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -100,41 +65,6 @@
         "text": "꼬불정세관(convoluted seminiferous tubules)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관과 정세관 사이 결합조직에 사이질세포(interstitial cell)가 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_001_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_001"
-      ],
-      "prompt": "꼬불정세관(convoluted seminiferous tubules)과 _____ 사이 결합조직에 사이질세포(interstitial cell)가 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "꼬불정세관(convoluted seminiferous tubules)",
-        "accepted_answers": [
-          "꼬불정세관(convoluted seminiferous tubules)",
-          "convolutedseminiferoustubules",
-          "convoluted seminiferous tubules",
-          "seminiferoustubules",
-          "seminiferous tubules"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "꼬불정세관(convoluted seminiferous tubules)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 정세관과 정세관 사이 결합조직에 사이질세포(interstitial cell)가 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -169,39 +99,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_001_006",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_001"
-      ],
-      "prompt": "꼬불정세관(convoluted seminiferous tubules)과 꼬불정세관(convoluted seminiferous tubules) 사이 결합조직에 _____가 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "사이질세포(interstitial cell)",
-        "accepted_answers": [
-          "사이질세포(interstitial cell)",
-          "interstitialcell",
-          "interstitial cell"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "사이질세포(interstitial cell)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정세관과 정세관 사이 결합조직에 사이질세포(interstitial cell)가 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_002_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -224,39 +121,6 @@
         "text": "버팀세포(Sertoli cell)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_002"
-      ],
-      "prompt": "_____는 꼬불정세관(convoluted seminiferous tubules) 안에서 정자발생세포를 지지한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "버팀세포(Sertoli cell)",
-        "accepted_answers": [
-          "버팀세포(Sertoli cell)",
-          "Sertolicell",
-          "Sertoli cell"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "버팀세포(Sertoli cell)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -287,41 +151,6 @@
         "text": "꼬불정세관(convoluted seminiferous tubules)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_002_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_002"
-      ],
-      "prompt": "버팀세포(Sertoli cell)는 _____ 안에서 정자발생세포를 지지한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "꼬불정세관(convoluted seminiferous tubules)",
-        "accepted_answers": [
-          "꼬불정세관(convoluted seminiferous tubules)",
-          "convolutedseminiferoustubules",
-          "convoluted seminiferous tubules",
-          "seminiferoustubules",
-          "seminiferous tubules"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "꼬불정세관(convoluted seminiferous tubules)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 버팀세포(Sertoli cell)는 정세관 안에서 정자발생세포를 지지한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -384,45 +213,10 @@
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 근육모양세포(myoid cell)는 정세관 바깥 둘레에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
       }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p014_course_배_필기본_014_ai_corrected_003_003",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_014_ai_corrected_003"
-      ],
-      "prompt": "근육모양세포(myoid cell)는 _____ 바깥 둘레에 위치한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "꼬불정세관(convoluted seminiferous tubules)",
-        "accepted_answers": [
-          "꼬불정세관(convoluted seminiferous tubules)",
-          "convolutedseminiferoustubules",
-          "convoluted seminiferous tubules",
-          "seminiferoustubules",
-          "seminiferous tubules"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "꼬불정세관(convoluted seminiferous tubules)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p014_ai_page_read::histology_panel_a",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 근육모양세포(myoid cell)는 정세관 바깥 둘레에 위치한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
     }
   ],
   "summary": {
-    "question_count": 13,
+    "question_count": 7,
     "question_type_count": {
       "fill_blank": 7,
       "image_grounded_fill_blank": 6
@@ -436,7 +230,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 54,
+        "question_count": 29,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
@@ -444,7 +238,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 27,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
@@ -524,7 +318,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 32,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json",
@@ -540,7 +334,7 @@
       },
       {
         "page_number": 14,
-        "question_count": 13,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json",
@@ -548,7 +342,7 @@
       },
       {
         "page_number": 15,
-        "question_count": 11,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"

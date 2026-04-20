@@ -97,39 +97,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_002"
-      ],
-      "prompt": "_____은 배가로근막(transversalis fascia)에 있는 구멍이다.",
-      "answer": {
-        "format": "single_text",
-        "value": "깊은고샅구멍(deep inguinal ring)",
-        "accepted_answers": [
-          "깊은고샅구멍(deep inguinal ring)",
-          "deepinguinalring",
-          "deep inguinal ring"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "깊은고샅구멍(deep inguinal ring)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 깊은고샅구멍(deep inguinal ring)은 배가로근막(transversalis fascia)에 있는 구멍이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_002_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -186,39 +153,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_004_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_004"
-      ],
-      "prompt": "_____와 가쪽다리(lateral crus)는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다.",
-      "answer": {
-        "format": "single_text",
-        "value": "안쪽다리(medial crus)",
-        "accepted_answers": [
-          "안쪽다리(medial crus)",
-          "medialcrus",
-          "medial crus"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "안쪽다리(medial crus)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 안쪽다리(medial crus)와 가쪽다리(lateral crus)는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_004_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -247,39 +181,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_004_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_004"
-      ],
-      "prompt": "안쪽다리(medial crus)와 _____는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다.",
-      "answer": {
-        "format": "single_text",
-        "value": "가쪽다리(lateral crus)",
-        "accepted_answers": [
-          "가쪽다리(lateral crus)",
-          "lateralcrus",
-          "lateral crus"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "가쪽다리(lateral crus)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 안쪽다리(medial crus)와 가쪽다리(lateral crus)는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_004_005",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -302,39 +203,6 @@
         "text": "얕은고샅구멍(superficial inguinal ring)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 안쪽다리(medial crus)와 가쪽다리(lateral crus)는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_004_006",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_004"
-      ],
-      "prompt": "안쪽다리(medial crus)와 가쪽다리(lateral crus)는 _____의 경계를 이룬다.",
-      "answer": {
-        "format": "single_text",
-        "value": "얕은고샅구멍(superficial inguinal ring)",
-        "accepted_answers": [
-          "얕은고샅구멍(superficial inguinal ring)",
-          "superficialinguinalring",
-          "superficial inguinal ring"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "얕은고샅구멍(superficial inguinal ring)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 안쪽다리(medial crus)와 가쪽다리(lateral crus)는 얕은고샅구멍(superficial inguinal ring)의 경계를 이룬다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -371,41 +239,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_006_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_006"
-      ],
-      "prompt": "_____는 얕은고샅구멍(superficial inguinal ring)이 지나치게 벌어지는 것을 막는다.",
-      "answer": {
-        "format": "single_text",
-        "value": "다리사이섬유(intercrural fibers)",
-        "accepted_answers": [
-          "다리사이섬유(intercrural fibers)",
-          "intercruralfibers",
-          "intercrural fibers",
-          "intercruralfiber",
-          "intercrural fiber"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "다리사이섬유(intercrural fibers)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 다리사이섬유(intercrural fibers)는 얕은고샅구멍(superficial inguinal ring)이 지나치게 벌어지는 것을 막는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_006_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -428,39 +261,6 @@
         "text": "얕은고샅구멍(superficial inguinal ring)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 다리사이섬유(intercrural fibers)는 얕은고샅구멍(superficial inguinal ring)이 지나치게 벌어지는 것을 막는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_006_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_006"
-      ],
-      "prompt": "다리사이섬유(intercrural fibers)는 _____이 지나치게 벌어지는 것을 막는다.",
-      "answer": {
-        "format": "single_text",
-        "value": "얕은고샅구멍(superficial inguinal ring)",
-        "accepted_answers": [
-          "얕은고샅구멍(superficial inguinal ring)",
-          "superficialinguinalring",
-          "superficial inguinal ring"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "얕은고샅구멍(superficial inguinal ring)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 다리사이섬유(intercrural fibers)는 얕은고샅구멍(superficial inguinal ring)이 지나치게 벌어지는 것을 막는다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -523,39 +323,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_007_003",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_007"
-      ],
-      "prompt": "정삭(spermatic cord)은 _____을 통과한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "샅굴(inguinal canal)",
-        "accepted_answers": [
-          "샅굴(inguinal canal)",
-          "inguinalcanal",
-          "inguinal canal"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "샅굴(inguinal canal)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::main_text_001",
-        "component_type": "main_text"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 정삭(spermatic cord)은 샅굴(inguinal canal)을 통과한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_008_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -578,39 +345,6 @@
         "text": "샅굴(inguinal canal)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_008_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_008"
-      ],
-      "prompt": "_____은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "샅굴(inguinal canal)",
-        "accepted_answers": [
-          "샅굴(inguinal canal)",
-          "inguinalcanal",
-          "inguinal canal"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "샅굴(inguinal canal)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::main_text_001",
-        "component_type": "main_text"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -645,39 +379,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_008_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_008"
-      ],
-      "prompt": "샅굴(inguinal canal)은 _____에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "깊은고샅구멍(deep inguinal ring)",
-        "accepted_answers": [
-          "깊은고샅구멍(deep inguinal ring)",
-          "deepinguinalring",
-          "deep inguinal ring"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "깊은고샅구멍(deep inguinal ring)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_008_005",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -706,39 +407,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_008_006",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_008"
-      ],
-      "prompt": "샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 _____으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "얕은고샅구멍(superficial inguinal ring)",
-        "accepted_answers": [
-          "얕은고샅구멍(superficial inguinal ring)",
-          "superficialinguinalring",
-          "superficial inguinal ring"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "얕은고샅구멍(superficial inguinal ring)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::figure_001",
-        "component_type": "figure_regions"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 샅굴(inguinal canal)은 깊은고샅구멍(deep inguinal ring)에서 시작하여 얕은고샅구멍(superficial inguinal ring)으로 이어진다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_019_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -761,39 +429,6 @@
         "text": "샅굴(inguinal canal)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 샅굴(inguinal canal)은 앞가쪽배벽(anterolateral abdominal wall)을 비스듬히 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진_p002_course_배_필기본_002_course_019_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_019"
-      ],
-      "prompt": "_____은 앞가쪽배벽(anterolateral abdominal wall)을 비스듬히 지난다.",
-      "answer": {
-        "format": "single_text",
-        "value": "샅굴(inguinal canal)",
-        "accepted_answers": [
-          "샅굴(inguinal canal)",
-          "inguinalcanal",
-          "inguinal canal"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "샅굴(inguinal canal)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260406_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)2_이예진__p002_ai_page_read::main_text_001",
-        "component_type": "main_text"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 샅굴(inguinal canal)은 앞가쪽배벽(anterolateral abdominal wall)을 비스듬히 지난다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -829,7 +464,7 @@
     }
   ],
   "summary": {
-    "question_count": 27,
+    "question_count": 16,
     "question_type_count": {
       "fill_blank": 16,
       "image_grounded_fill_blank": 11
@@ -843,7 +478,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 54,
+        "question_count": 29,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p001__3a371af559c6.json",
@@ -851,7 +486,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 27,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p002__b2f68ef3df1d.json",
@@ -922,7 +557,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 32,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p012__a83a57b19eaa.json"
@@ -936,14 +571,14 @@
       },
       {
         "page_number": 14,
-        "question_count": 13,
+        "question_count": 7,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p014__e878c085ff03.json"
       },
       {
         "page_number": 15,
-        "question_count": 11,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260406____1___2__p015__fe3349b2ee43.json"

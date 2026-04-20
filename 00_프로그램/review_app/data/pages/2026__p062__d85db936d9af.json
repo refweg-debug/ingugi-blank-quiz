@@ -39,39 +39,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_001"
-      ],
-      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "왼위정맥(left gastric vein)",
-        "accepted_answers": [
-          "왼위정맥(left gastric vein)",
-          "leftgastricvein",
-          "left gastric vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "왼위정맥(left gastric vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -94,39 +61,6 @@
         "text": "간문맥(hepatic portal vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_001_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_001"
-      ],
-      "prompt": "왼위정맥(left gastric vein)은 _____으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "간문맥(hepatic portal vein)",
-        "accepted_answers": [
-          "간문맥(hepatic portal vein)",
-          "hepaticportalvein",
-          "hepatic portal vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "간문맥(hepatic portal vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 왼위정맥(left gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -161,39 +95,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_002"
-      ],
-      "prompt": "_____은 간문맥(hepatic portal vein)으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "오른위정맥(right gastric vein)",
-        "accepted_answers": [
-          "오른위정맥(right gastric vein)",
-          "rightgastricvein",
-          "right gastric vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "오른위정맥(right gastric vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_003",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -216,39 +117,6 @@
         "text": "간문맥(hepatic portal vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_002_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_002"
-      ],
-      "prompt": "오른위정맥(right gastric vein)은 _____으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "간문맥(hepatic portal vein)",
-        "accepted_answers": [
-          "간문맥(hepatic portal vein)",
-          "hepaticportalvein",
-          "hepatic portal vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "간문맥(hepatic portal vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 오른위정맥(right gastric vein)은 간문맥(hepatic portal vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -283,39 +151,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_003_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_003"
-      ],
-      "prompt": "짧은위정맥(short gastric vein)은 _____으로 배액된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "지라정맥(splenic vein)",
-        "accepted_answers": [
-          "지라정맥(splenic vein)",
-          "splenicvein",
-          "splenic vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "지라정맥(splenic vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 짧은위정맥(short gastric vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -338,39 +173,6 @@
         "text": "왼위그물막정맥(left gastroomental vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_004"
-      ],
-      "prompt": "_____은 지라정맥(splenic vein)으로 배액된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "왼위그물막정맥(left gastroomental vein)",
-        "accepted_answers": [
-          "왼위그물막정맥(left gastroomental vein)",
-          "leftgastroomentalvein",
-          "left gastroomental vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "왼위그물막정맥(left gastroomental vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -405,39 +207,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_004_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_004"
-      ],
-      "prompt": "왼위그물막정맥(left gastroomental vein)은 _____으로 배액된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "지라정맥(splenic vein)",
-        "accepted_answers": [
-          "지라정맥(splenic vein)",
-          "splenicvein",
-          "splenic vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "지라정맥(splenic vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 왼위그물막정맥(left gastroomental vein)은 지라정맥(splenic vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -460,39 +229,6 @@
         "text": "오른위그물막정맥(right gastroomental vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_005"
-      ],
-      "prompt": "_____은 위창자간막정맥(superior mesenteric vein)으로 배액된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "오른위그물막정맥(right gastroomental vein)",
-        "accepted_answers": [
-          "오른위그물막정맥(right gastroomental vein)",
-          "rightgastroomentalvein",
-          "right gastroomental vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "오른위그물막정맥(right gastroomental vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -527,39 +263,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_005_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_005"
-      ],
-      "prompt": "오른위그물막정맥(right gastroomental vein)은 _____으로 배액된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "위창자간막정맥(superior mesenteric vein)",
-        "accepted_answers": [
-          "위창자간막정맥(superior mesenteric vein)",
-          "superiormesentericvein",
-          "superior mesenteric vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "위창자간막정맥(superior mesenteric vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 오른위그물막정맥(right gastroomental vein)은 위창자간막정맥(superior mesenteric vein)으로 배액된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -582,39 +285,6 @@
         "text": "아래창자간막정맥(inferior mesenteric vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_006"
-      ],
-      "prompt": "_____은 지라정맥(splenic vein)으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "아래창자간막정맥(inferior mesenteric vein)",
-        "accepted_answers": [
-          "아래창자간막정맥(inferior mesenteric vein)",
-          "inferiormesentericvein",
-          "inferior mesenteric vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "아래창자간막정맥(inferior mesenteric vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -649,39 +319,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_006_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_006"
-      ],
-      "prompt": "아래창자간막정맥(inferior mesenteric vein)은 _____으로 이어진다.",
-      "answer": {
-        "format": "single_text",
-        "value": "지라정맥(splenic vein)",
-        "accepted_answers": [
-          "지라정맥(splenic vein)",
-          "splenicvein",
-          "splenic vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "지라정맥(splenic vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 아래창자간막정맥(inferior mesenteric vein)은 지라정맥(splenic vein)으로 이어진다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -704,39 +341,6 @@
         "text": "지라정맥(splenic vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_007"
-      ],
-      "prompt": "_____과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "지라정맥(splenic vein)",
-        "accepted_answers": [
-          "지라정맥(splenic vein)",
-          "splenicvein",
-          "splenic vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "지라정맥(splenic vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -771,39 +375,6 @@
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_007_004",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_007"
-      ],
-      "prompt": "지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 _____을 형성한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "간문맥(hepatic portal vein)",
-        "accepted_answers": [
-          "간문맥(hepatic portal vein)",
-          "hepaticportalvein",
-          "hepatic portal vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "간문맥(hepatic portal vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 지라정맥(splenic vein)과 위창자간막정맥(superior mesenteric vein)은 합쳐져 간문맥(hepatic portal vein)을 형성한다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_008_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -826,39 +397,6 @@
         "text": "왼위정맥(left gastric vein)"
       },
       "verification_status": "verified_by_ai_page_read",
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p062_course_배_강의원본_062_ai_corrected_008_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_062_ai_corrected_008"
-      ],
-      "prompt": "식도가지(esophageal branch)는 _____과 연결된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "왼위정맥(left gastric vein)",
-        "accepted_answers": [
-          "왼위정맥(left gastric vein)",
-          "leftgastricvein",
-          "left gastric vein"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "왼위정맥(left gastric vein)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "2026년 배(소화계통 비뇨계통)__p062_ai_page_read::labels_001",
-        "component_type": "labels"
-      },
       "explanation": {
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 식도가지(esophageal branch)는 왼위정맥(left gastric vein)과 연결된다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
@@ -1338,7 +876,7 @@
     }
   ],
   "summary": {
-    "question_count": 42,
+    "question_count": 28,
     "question_type_count": {
       "fill_blank": 27,
       "image_grounded_fill_blank": 15
@@ -1354,7 +892,7 @@
     "pages": [
       {
         "page_number": 1,
-        "question_count": 6,
+        "question_count": 5,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p001__d618bad7f2d9.json",
@@ -1362,7 +900,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 81,
+        "question_count": 74,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p002__9428e9ae6522.json",
@@ -1370,7 +908,7 @@
       },
       {
         "page_number": 3,
-        "question_count": 111,
+        "question_count": 97,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p003__630b63f969a5.json",
@@ -1378,7 +916,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 111,
+        "question_count": 101,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p005__f80a8587c53a.json",
@@ -1410,7 +948,7 @@
       },
       {
         "page_number": 9,
-        "question_count": 101,
+        "question_count": 98,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p009__b5aecc8d7d88.json",
@@ -1426,7 +964,7 @@
       },
       {
         "page_number": 11,
-        "question_count": 84,
+        "question_count": 83,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p011__534d3b415cf6.json",
@@ -1434,7 +972,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 44,
+        "question_count": 41,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p012__203c212c38bf.json",
@@ -1442,7 +980,7 @@
       },
       {
         "page_number": 13,
-        "question_count": 72,
+        "question_count": 66,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p013__3f022bc966ba.json",
@@ -1482,7 +1020,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 58,
+        "question_count": 45,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p018__f34c84987853.json",
@@ -1506,7 +1044,7 @@
       },
       {
         "page_number": 21,
-        "question_count": 38,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p021__0d353d0efbc9.json",
@@ -1514,7 +1052,7 @@
       },
       {
         "page_number": 22,
-        "question_count": 16,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p022__1c5dee3cd7b2.json",
@@ -1522,7 +1060,7 @@
       },
       {
         "page_number": 23,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p023__7c9c259960f5.json",
@@ -1530,7 +1068,7 @@
       },
       {
         "page_number": 24,
-        "question_count": 13,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p024__f0793a9374a0.json",
@@ -1538,7 +1076,7 @@
       },
       {
         "page_number": 25,
-        "question_count": 16,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p025__5d6aedccf680.json",
@@ -1602,7 +1140,7 @@
       },
       {
         "page_number": 33,
-        "question_count": 64,
+        "question_count": 63,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p033__42d8ce3d541e.json",
@@ -1618,7 +1156,7 @@
       },
       {
         "page_number": 35,
-        "question_count": 170,
+        "question_count": 158,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p035__ed8b07087961.json",
@@ -1634,7 +1172,7 @@
       },
       {
         "page_number": 37,
-        "question_count": 22,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p037__a31a7d47388b.json",
@@ -1642,7 +1180,7 @@
       },
       {
         "page_number": 38,
-        "question_count": 30,
+        "question_count": 23,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p038__5396488237ec.json",
@@ -1682,7 +1220,7 @@
       },
       {
         "page_number": 44,
-        "question_count": 88,
+        "question_count": 87,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p044__98b317a57e69.json",
@@ -1698,7 +1236,7 @@
       },
       {
         "page_number": 46,
-        "question_count": 86,
+        "question_count": 80,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p046__9e421b3739ed.json",
@@ -1738,7 +1276,7 @@
       },
       {
         "page_number": 51,
-        "question_count": 48,
+        "question_count": 46,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p051__b96f8982b511.json",
@@ -1762,7 +1300,7 @@
       },
       {
         "page_number": 55,
-        "question_count": 109,
+        "question_count": 106,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "ai_page_read_needs_review",
         "static_page_file": "pages/2026__p055__059aa40bc2ec.json",
@@ -1770,7 +1308,7 @@
       },
       {
         "page_number": 56,
-        "question_count": 58,
+        "question_count": 50,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p056__06a330b4a95c.json",
@@ -1778,7 +1316,7 @@
       },
       {
         "page_number": 57,
-        "question_count": 34,
+        "question_count": 25,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p057__0fbbe7ecf3d7.json",
@@ -1786,7 +1324,7 @@
       },
       {
         "page_number": 58,
-        "question_count": 56,
+        "question_count": 51,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p058__37f2f78de9a0.json",
@@ -1802,7 +1340,7 @@
       },
       {
         "page_number": 60,
-        "question_count": 42,
+        "question_count": 30,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p060__a1e2cf2a7c93.json",
@@ -1818,7 +1356,7 @@
       },
       {
         "page_number": 62,
-        "question_count": 42,
+        "question_count": 28,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p062__d85db936d9af.json",
@@ -1833,7 +1371,7 @@
       },
       {
         "page_number": 64,
-        "question_count": 20,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p064__3344aa9a316c.json"
@@ -1896,7 +1434,7 @@
       },
       {
         "page_number": 73,
-        "question_count": 4,
+        "question_count": 3,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p073__cfd1bd5bcdee.json"
@@ -1931,7 +1469,7 @@
       },
       {
         "page_number": 78,
-        "question_count": 214,
+        "question_count": 212,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p078__8d5415577a26.json"
@@ -2120,7 +1658,7 @@
       },
       {
         "page_number": 105,
-        "question_count": 109,
+        "question_count": 107,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p105__940eb46dbd36.json"
@@ -2267,7 +1805,7 @@
       },
       {
         "page_number": 126,
-        "question_count": 46,
+        "question_count": 44,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/2026__p126__1024d511a660.json"
@@ -2421,7 +1959,7 @@
       },
       {
         "page_number": 148,
-        "question_count": 15,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
         "page_read_status": "blocked_until_ai_page_read",
         "static_page_file": "pages/2026__p148__67d18648f006.json"

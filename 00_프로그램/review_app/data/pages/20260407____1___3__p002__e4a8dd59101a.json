@@ -67,39 +67,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_001_003",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_001"
-      ],
-      "prompt": "복막안(peritoneal cavity)은 큰주머니(greater sac)와 _____로 구분된다.",
-      "answer": {
-        "format": "single_text",
-        "value": "그물막주머니(omental bursa)",
-        "accepted_answers": [
-          "그물막주머니(omental bursa)",
-          "omentalbursa",
-          "omental bursa"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "그물막주머니(omental bursa)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 복막안(peritoneal cavity)은 큰주머니(greater sac)와 그물막주머니(omental bursa)로 구분된다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_003_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -128,39 +95,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_003_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_003"
-      ],
-      "prompt": "superior recess는 _____의 일부이다.",
-      "answer": {
-        "format": "single_text",
-        "value": "그물막주머니(omental bursa)",
-        "accepted_answers": [
-          "그물막주머니(omental bursa)",
-          "omentalbursa",
-          "omental bursa"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "그물막주머니(omental bursa)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: superior recess는 그물막주머니(omental bursa)의 일부이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_004_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -183,39 +117,6 @@
         "text": "그물막주머니(omental bursa)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: inferior recess는 그물막주머니(omental bursa)의 일부이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_004_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_004"
-      ],
-      "prompt": "inferior recess는 _____의 일부이다.",
-      "answer": {
-        "format": "single_text",
-        "value": "그물막주머니(omental bursa)",
-        "accepted_answers": [
-          "그물막주머니(omental bursa)",
-          "omentalbursa",
-          "omental bursa"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "그물막주머니(omental bursa)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: inferior recess는 그물막주머니(omental bursa)의 일부이다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -272,39 +173,6 @@
         "text": "그물막주머니(omental bursa)"
       },
       "verification_status": "unsupported_by_canonical",
-      "explanation": {
-        "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
-        "full": "원문 명제: 그물막구멍(omental foramen)은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
-      }
-    },
-    {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_course_005_003",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style_provisional",
-      "proposition_refs": [
-        "배_필기본_002_course_005"
-      ],
-      "prompt": "그물막구멍(omental foramen)은 큰주머니(greater sac)와 _____를 연결한다.",
-      "answer": {
-        "format": "single_text",
-        "value": "그물막주머니(omental bursa)",
-        "accepted_answers": [
-          "그물막주머니(omental bursa)",
-          "omentalbursa",
-          "omental bursa"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "그물막주머니(omental bursa)"
-      },
-      "verification_status": "unsupported_by_canonical",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
       "explanation": {
         "short": "canonical 근거 대기 중인 관계형 필기 명제를 점검용 임시 문항으로 생성했다.",
         "full": "원문 명제: 그물막구멍(omental foramen)은 큰주머니(greater sac)와 그물막주머니(omental bursa)를 연결한다. / 검증 메모: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
@@ -423,39 +291,6 @@
       }
     },
     {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_ai_corrected_002_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_필기본_002_ai_corrected_002"
-      ],
-      "prompt": "_____는 superior recess와 inferior recess로 나누어 볼 수 있다.",
-      "answer": {
-        "format": "single_text",
-        "value": "그물막주머니(omental bursa)",
-        "accepted_answers": [
-          "그물막주머니(omental bursa)",
-          "omentalbursa",
-          "omental bursa"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "그물막주머니(omental bursa)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 그물막주머니(omental bursa)는 superior recess와 inferior recess로 나누어 볼 수 있다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
-    },
-    {
       "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_ai_corrected_004_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -510,43 +345,10 @@
         "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
         "full": "원문 명제: 큰주머니(greater sac)는 가로잘록창자간막(transverse mesocolon)을 기준으로 위쪽과 아래쪽을 나누어 볼 수 있으나 중요도는 낮다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
       }
-    },
-    {
-      "question_id": "배_필기본_20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우_p002_course_배_필기본_002_ai_corrected_005_002",
-      "question_type": "image_grounded_fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_필기본_002_ai_corrected_005"
-      ],
-      "prompt": "_____는 가로잘록창자간막(transverse mesocolon)을 기준으로 위쪽과 아래쪽을 나누어 볼 수 있으나 중요도는 낮다.",
-      "answer": {
-        "format": "single_text",
-        "value": "큰주머니(greater sac)",
-        "accepted_answers": [
-          "큰주머니(greater sac)",
-          "greatersac",
-          "greater sac"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "큰주머니(greater sac)"
-      },
-      "verification_status": "verified_by_ai_page_read",
-      "stimulus": {
-        "stimulus_type": "page_region",
-        "component_id": "20260407_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)3_구목우__p002_ai_page_read::figure_001",
-        "component_type": "gross_anatomy_diagram"
-      },
-      "explanation": {
-        "short": "AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다.",
-        "full": "원문 명제: 큰주머니(greater sac)는 가로잘록창자간막(transverse mesocolon)을 기준으로 위쪽과 아래쪽을 나누어 볼 수 있으나 중요도는 낮다. / 검증 메모: AI page-read에서 직접 읽고 교정한 관계 문장을 provisional 명제로 유지한다."
-      }
     }
   ],
   "summary": {
-    "question_count": 18,
+    "question_count": 12,
     "question_type_count": {
       "fill_blank": 12,
       "image_grounded_fill_blank": 6
@@ -569,7 +371,7 @@
       },
       {
         "page_number": 2,
-        "question_count": 18,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p002__e4a8dd59101a.json",
@@ -591,7 +393,7 @@
       },
       {
         "page_number": 5,
-        "question_count": 28,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p005__232cf053c92d.json"
@@ -605,14 +407,14 @@
       },
       {
         "page_number": 7,
-        "question_count": 23,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p007__a70a40625276.json"
       },
       {
         "page_number": 9,
-        "question_count": 52,
+        "question_count": 37,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p009__23c8755e9e36.json"
@@ -626,28 +428,28 @@
       },
       {
         "page_number": 11,
-        "question_count": 16,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p011__02b6aaed2df9.json"
       },
       {
         "page_number": 12,
-        "question_count": 26,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p012__b0e8e790c345.json"
       },
       {
         "page_number": 13,
-        "question_count": 28,
+        "question_count": 15,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p013__084a04030f82.json"
       },
       {
         "page_number": 14,
-        "question_count": 15,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p014__56b1e637760c.json"
@@ -661,7 +463,7 @@
       },
       {
         "page_number": 16,
-        "question_count": 26,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p016__2caf5b0ef729.json"
@@ -675,7 +477,7 @@
       },
       {
         "page_number": 18,
-        "question_count": 17,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_reference_ai_page_read",
         "page_read_status": "ai_page_read_complete",
         "static_page_file": "pages/20260407____1___3__p018__d42f2c88fe50.json"

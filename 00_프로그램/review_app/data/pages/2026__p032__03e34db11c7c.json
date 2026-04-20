@@ -339,7 +339,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 33,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -379,7 +379,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 63,
+        "question_count": 61,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p012__3464e85a1843.json",
@@ -598,7 +598,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 13,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json"

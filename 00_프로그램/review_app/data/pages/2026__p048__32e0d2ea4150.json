@@ -405,46 +405,6 @@
       }
     },
     {
-      "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p046_recording_20260416-1200_P0004_002",
-      "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "recording_proposition_review",
-      "proposition_refs": [
-        "골반_녹음파일_20260416-1200_P0004"
-      ],
-      "prompt": "pudendal nerve(음부신경)는 회음에 분포하는 _____이다.",
-      "answer": {
-        "format": "single_text",
-        "value": "nerve(신경)",
-        "accepted_answers": [
-          "nerve(신경)",
-          "nerve",
-          "신경"
-        ]
-      },
-      "target": {
-        "kind": "term",
-        "text": "nerve(신경)"
-      },
-      "verification_status": "recording_true_proposition_unverified_page_estimate",
-      "recording_source": {
-        "file": "20260416-1200.txt",
-        "prop_id": "P0004",
-        "confidence": "중간",
-        "page_match_score": 1.0
-      },
-      "explanation": {
-        "short": "Generated from a verified true proposition in the recording text.",
-        "full": "Recording proposition: pudendal nerve(음부신경)는 회음에 분포하는 nerve(신경)이다. / Original: pudendal nerve(음부신경) 같은 경우에는 이게 아주 대표적인, 이 사면에 분포하는 그러한 nerve(신경) 부분입니다. / Evidence: 원문의 `사면`은 회음으로 해석되는 맥락이며, pudendal nerve(음부신경)은 회음부를 지배한다. / Page match: approximate keyword match against existing page text."
-      },
-      "page_reassignment": {
-        "from_page": 46,
-        "to_page": 48,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "direct_page"
-      }
-    },
-    {
       "question_id": "골반_강의원본_2026년 골반(여성 남성생식계통)_p046_recording_20260416-1200_P0019_001",
       "question_type": "fill_blank",
       "blank_mode": "single",
@@ -526,7 +486,7 @@
     }
   ],
   "summary": {
-    "question_count": 13,
+    "question_count": 12,
     "question_type_count": {
       "fill_blank": 13
     },
@@ -547,7 +507,7 @@
       },
       {
         "page_number": 4,
-        "question_count": 33,
+        "question_count": 32,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p004__7ed8bbf1cba5.json",
@@ -587,7 +547,7 @@
       },
       {
         "page_number": 12,
-        "question_count": 63,
+        "question_count": 61,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p012__3464e85a1843.json",
@@ -819,7 +779,7 @@
       },
       {
         "page_number": 48,
-        "question_count": 13,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_from_recording_propositions",
         "page_read_status": "recording_proposition_page_estimate",
         "static_page_file": "pages/2026__p048__32e0d2ea4150.json",
