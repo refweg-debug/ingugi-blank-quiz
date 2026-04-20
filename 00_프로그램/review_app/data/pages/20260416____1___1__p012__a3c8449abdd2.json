@@ -1,0 +1,388 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 12
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json",
+        "review_image_url": "./data/images/20260416____1___1__p006__b0c14145ac43.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json",
+        "review_image_url": "./data/images/20260416____1___1__p007__44b5d2f859e7.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json",
+        "review_image_url": "./data/images/20260416____1___1__p008__e4266bf19293.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json",
+        "review_image_url": "./data/images/20260416____1___1__p009__324aa668caa0.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json",
+        "review_image_url": "./data/images/20260416____1___1__p010__d2e99f5c3799.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json",
+        "review_image_url": "./data/images/20260416____1___1__p011__f965202680ec.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json",
+        "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json"
+      }
+    ],
+    "current_index": 11,
+    "previous_page": 11,
+    "next_page": 13
+  },
+  "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 12
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "샅(perineum)은 골반(pelvis) 아래에 위치한다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "간의 영어 이름은 liver이다.",
+        "샅의 영어 이름은 perineum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "연결하는 인대",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "이 구조물을 통해 골반에서 나오는 혈관, 신경이 다리로 갈 때",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 4,
+        "accounted_term_count": 4,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "골반(pelvis)",
+          "신경(nerves)",
+          "간(liver)",
+          "샅(perineum)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Sacroiliac joint",
+        "ischial spine과 sacrum, coccyx의 모서리",
+        "연결하는 인대",
+        "힘 완충 역할",
+        "-> 구멍 2개",
+        "ischial tuberosity와",
+        "sacrum & coccyx의 lateral surface를",
+        "연결하는 인대",
+        "이 구조물을 통해 골반에서 나오는 혈관, 신경이 다리로 갈 때",
+        "greater sciatic foramen을 통해 볼기쪽으로 간다.",
+        "일부는 볼기쪽으로 갔다가 샅으로 와야한다.",
+        "골반 -> 볼기 -> 샅 : 이 방향일 때는 lesser sciatic foramen을 통과해야 한다."
+      ],
+      "supplemental_ocr_blocks": [
+        "앞세로인대",
+        "anterior longitudinal lig.",
+        "다섯째히리뼈 가로물기",
+        "엉덩히리인대 iliolumbar lig.",
+        "앞영치엉덩인대 posterior sacroiliac lig",
+        "anterior sacroiliac lig.",
+        "엉치가시인대 엉치가시인대",
+        "sacrospinous sacrospinous lig.",
+        "및x리",
+        "j달하-만유. lsacrungg웅_드 -작은궁둥구멍",
+        "lesser sciatic foramen lesser sciatic foramen",
+        "힘 '확출원히 엉치결절인대 \"엉치경절안대 $ lig",
+        "sacrotuberous lig. 뒤엉치꼬리인대",
+        "앞영치꼬리인대 posterior sacrococcygeal lig.",
+        "anterior sacrococcygeal lig",
+        "그림 7-9. 엉치엉당관절과 골반의 인대 '",
+        "ischial {tubercsir의 ateral & surface틀",
+        "핸달하& 앞면 뒷면",
+        "sciatic \"름스부움히 싶중이 간다:",
+        "떠- 불 주운출 러다강 울하Eoge sciatic foramen올 통과해야하다:",
+        "->"
+      ],
+      "corrected_page_text": "Sacroiliac joint\nischial spine과 sacrum, coccyx의 모서리\n연결하는 인대\n힘 완충 역할\n-> 구멍 2개\nischial tuberosity와\nsacrum & coccyx의 lateral surface를\n연결하는 인대\n이 구조물을 통해 골반에서 나오는 혈관, 신경이 다리로 갈 때\ngreater sciatic foramen을 통해 볼기쪽으로 간다.\n일부는 볼기쪽으로 갔다가 샅으로 와야한다.\n골반 -> 볼기 -> 샅 : 이 방향일 때는 lesser sciatic foramen을 통과해야 한다.",
+      "quality_audit": {
+        "pdf_char_count": 235,
+        "pdf_span_count": 12,
+        "pdf_word_count": 59,
+        "ocr_fragment_count": 51,
+        "pdf_line_count": 12,
+        "ocr_line_count": 28,
+        "merged_line_count": 33,
+        "pdf_only_count": 5,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 12,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 221,
+        "ocr_alpha_count": 416,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 34
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json",
+        "review_image_url": "./data/images/20260416____1___1__p006__b0c14145ac43.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json",
+        "review_image_url": "./data/images/20260416____1___1__p007__44b5d2f859e7.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json",
+        "review_image_url": "./data/images/20260416____1___1__p008__e4266bf19293.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json",
+        "review_image_url": "./data/images/20260416____1___1__p009__324aa668caa0.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json",
+        "review_image_url": "./data/images/20260416____1___1__p010__d2e99f5c3799.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json",
+        "review_image_url": "./data/images/20260416____1___1__p011__f965202680ec.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json",
+        "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json",
+        "review_image_url": "./data/images/20260416____1___1__p013__872df30c5722.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json",
+        "review_image_url": "./data/images/20260416____1___1__p014__f2bd97d481d7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json",
+        "review_image_url": "./data/images/20260416____1___1__p015__a44d25d1c823.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json",
+        "review_image_url": "./data/images/20260416____1___1__p016__ab552fd20c0c.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json",
+        "review_image_url": "./data/images/20260416____1___1__p017__47445983428c.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json",
+        "review_image_url": "./data/images/20260416____1___1__p018__100712d0baeb.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json",
+        "review_image_url": "./data/images/20260416____1___1__p019__5d744f7f1273.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json",
+        "review_image_url": "./data/images/20260416____1___1__p020__76e2802a44a1.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json",
+        "review_image_url": "./data/images/20260416____1___1__p021__021a707b1341.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json",
+        "review_image_url": "./data/images/20260416____1___1__p022__6a2db0d3b7d8.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json",
+        "review_image_url": "./data/images/20260416____1___1__p023__0b070b284bf7.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json",
+        "review_image_url": "./data/images/20260416____1___1__p024__dd7630047095.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json",
+        "review_image_url": "./data/images/20260416____1___1__p025__46bfa8d9d001.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json",
+        "review_image_url": "./data/images/20260416____1___1__p026__8259a98dd2ef.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json",
+        "review_image_url": "./data/images/20260416____1___1__p027__b907a3899e1b.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json",
+        "review_image_url": "./data/images/20260416____1___1__p028__d6241de66359.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json",
+        "review_image_url": "./data/images/20260416____1___1__p029__049ba78b0776.webp"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json",
+        "review_image_url": "./data/images/20260416____1___1__p030__85b6e8ea1084.webp"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json",
+        "review_image_url": "./data/images/20260416____1___1__p031__a77bf11bd63b.webp"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json",
+        "review_image_url": "./data/images/20260416____1___1__p032__28d3c900eeee.webp"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json",
+        "review_image_url": "./data/images/20260416____1___1__p033__4bd729b5341f.webp"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json",
+        "review_image_url": "./data/images/20260416____1___1__p034__59ef42e93f90.webp"
+      }
+    ],
+    "current_index": 33,
+    "previous_page": 33
+  },
+  "review_image_url": "./data/images/20260416____1___1__p034__59ef42e93f90.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 34
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "골반의 영어 이름은 pelvis이다.",
+        "큰 혈관의 영어 이름은 great vessels이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "신경의 영어 이름은 nerves이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 2,
+          "text": "left/right hypogastric n.로 나뉘고 아래에서 다시 모인다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 4,
+        "accounted_term_count": 4,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "골반(pelvis)",
+          "큰 혈관(great vessels)",
+          "곧창자(rectum)",
+          "신경(nerves)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Autonomic nervous system in the pelvis",
+        "left/right hypogastric n.로 나뉘고 아래에서 다시 모인다.",
+        "inferior hypogastric plexus를 형성하고 있다.",
+        "대부분은 큰 혈관 주변에서 plexus를 형성하고 있다.",
+        "생식에 관련된 부분은 오히려",
+        "교감에 의해 더 활성화된다. 혈관은 수축하고,",
+        "rectum, bladder 운동은 저하된다.",
+        "남성의 사정도 교감신경의 기능이다.",
+        "부교감의 경우 혈관 확장, 대소변을 볼 때 rectum, bladder 자극을 해서 수축하게 하고,",
+        "남성의 발기는 부교감이다."
+      ],
+      "supplemental_ocr_blocks": [
+        "복강신경절",
+        "위창자간막신경얼기 superior mesenteric ganglion",
+        "superior mesenteric plexus",
+        "위아랫배신경얼기",
+        "superior hypogastric plexus",
+        "leftlright hypogastric n 로 나뉘고 inferior hypogastric plexus틀 분고어책려석다시 무뵈다 원",
+        "left and '7 hypogastric nn",
+        "대부분은 근 혈관 주변에서 plexus틀 형성하고 있다: [플m@ 올올다 수축하고",
+        "영웅고경심경퓨리ic irunk {ig의사표표 id운통의 문수",
+        "~골반내워B의사",
+        "아래아랫배신경얼기 pelvic splanchnic nn",
+        "inferior hypogastric plexus '궁둥신경 sciatic n.",
+        "음부신경 pudendal n",
+        "불공학일적운 부관하t대소번올 불때 rectum bladder 자극올-해서 수축하개하고",
+        "그림 7-22. 골반의 자율신경얼기"
+      ],
+      "corrected_page_text": "Autonomic nervous system in the pelvis\nleft/right hypogastric n.로 나뉘고 아래에서 다시 모인다.\ninferior hypogastric plexus를 형성하고 있다.\n대부분은 큰 혈관 주변에서 plexus를 형성하고 있다.\n생식에 관련된 부분은 오히려\n교감에 의해 더 활성화된다. 혈관은 수축하고,\nrectum, bladder 운동은 저하된다.\n남성의 사정도 교감신경의 기능이다.\n부교감의 경우 혈관 확장, 대소변을 볼 때 rectum, bladder 자극을 해서 수축하게 하고,\n남성의 발기는 부교감이다.",
+      "quality_audit": {
+        "pdf_char_count": 253,
+        "pdf_span_count": 10,
+        "pdf_word_count": 59,
+        "ocr_fragment_count": 35,
+        "pdf_line_count": 10,
+        "ocr_line_count": 21,
+        "merged_line_count": 25,
+        "pdf_only_count": 4,
+        "ocr_only_count": 15,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 10,
+        "ocr_only_line_count": 15,
+        "pdf_alpha_count": 239,
+        "ocr_alpha_count": 377,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

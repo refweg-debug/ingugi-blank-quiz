@@ -1,0 +1,303 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 4
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 3,
+    "previous_page": 3,
+    "next_page": 5
+  },
+  "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 4
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "갈비뼈의 영어 이름은 rib이다.",
+        "끝부분의 영어 이름은 end piece이다.",
+        "위의 영어 이름은 stomach이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 4,
+        "accounted_term_count": 4,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "갈비뼈(rib)",
+          "끝부분(end piece)",
+          "위(stomach)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Structures related to the posterior surface of each kidney",
+        "Posterior surface 와관련된구조물",
+        "12 rib 오른쪽끝부분이번에면함",
+        "11 rib 위쪽끝부분이번에면함",
+        "(Liver Left Right )때문에가보다위에존재",
+        "위쪽",
+        "안쪽",
+        "가쪽"
+      ],
+      "supplemental_ocr_blocks": [
+        "Posterior surface와 관련된 구조물",
+        "위쪽 끝부분이 11번 ribol 면합 (Liver 때문예 Left가 Right보다 위에 존재) 오른쪽 끝부분이 12번 rib에l 면합",
+        "왼쪽 콩팔(left Kidney) 오른쪽 콩팔(right kidney)",
+        "갈비뼈 XI",
+        "(rib XI)",
+        "위쪽",
+        "가로막",
+        "'(diaphragm)",
+        "금히리근",
+        "안쪽 (psoas major m)",
+        "갈비뼈 XII 갈비뼈 XII",
+        "(rib XII) 허리네모근 (rib XII)",
+        "(quadratus lum-",
+        "borum m)",
+        "배가로근",
+        "가쪽 (transversus abdominis m)"
+      ],
+      "corrected_page_text": "Structures related to the posterior surface of each kidney\nPosterior surface 와관련된구조물\n12 rib 오른쪽끝부분이번에면함\n11 rib 위쪽끝부분이번에면함\n(Liver Left Right )때문에가보다위에존재\n위쪽\n안쪽\n가쪽",
+      "quality_audit": {
+        "pdf_char_count": 136,
+        "pdf_span_count": 31,
+        "pdf_word_count": 32,
+        "ocr_fragment_count": 25,
+        "pdf_line_count": 8,
+        "ocr_line_count": 17,
+        "merged_line_count": 24,
+        "pdf_only_count": 7,
+        "ocr_only_count": 16,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 8,
+        "ocr_only_line_count": 16,
+        "pdf_alpha_count": 130,
+        "ocr_alpha_count": 221,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

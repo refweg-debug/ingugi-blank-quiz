@@ -1,0 +1,402 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 1
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 0,
+    "next_page": 2
+  },
+  "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 1
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "뒤복막기관의 영어 이름은 retroperitoneal organs이다.",
+        "기관의 영어 이름은 trachea이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "위의 영어 이름은 stomach이다.",
+        "오른콩팥의 영어 이름은 right kidney이다.",
+        "왼콩팥의 영어 이름은 left kidney이다.",
+        "간의 영어 이름은 liver이다.",
+        "근육의 영어 이름은 muscles이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "가쪽벽의 영어 이름은 lateral wall이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 36,
+          "text": "Common iliac a. Internal/External 이나뉘어짐",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 10,
+          "text": "-Liver Right kidney Left kidney 때문에가보다아래쪽에위치",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 12,
+          "text": "Renal v. Abdominal aorta 이통과",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 33,
+          "text": "Abdominal aorta Parietal peritoneum Common iliac a. 가따라내려가다가으로나눠지는것",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 34,
+          "text": "(Abdominal aorta bifurcation)의",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 15,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.938,
+        "accounted_terms": [
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "복막(peritoneum)",
+          "뒤복막기관(retroperitoneal organs)",
+          "기관(trachea)",
+          "척주(vertebral column)",
+          "위(stomach)",
+          "오른콩팥(right kidney)",
+          "왼콩팥(left kidney)",
+          "간(liver)",
+          "근육(muscles)",
+          "배대동맥(abdominal aorta)",
+          "골반(pelvis)",
+          "가쪽벽(lateral wall)",
+          "벽쪽복막(parietal peritoneum)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "벽쪽 가슴막(parietal pleura)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "• : (retroperitoneal organ)뒷배벽에있는장기복막뒤에있는장기",
+        "- : 기능여과",
+        "Kidney",
+        ", , 혈액으로부터여분의물전해질단백질을선택적으로제거하며몸에필요한물질을혈액으로내보냄",
+        "-kidney & suprarenal gland 볼것",
+        "Urine Kidney Ureter Urinary bladder 은에서여과가되고통해으로운반",
+        "-> : Urine기능수행으로나오는것",
+        "[Kidney]",
+        "- (T12-L3)척추좌우에위치하는비뇨기관",
+        "-Liver Right kidney Left kidney 때문에가보다아래쪽에위치",
+        "- (4)뒷배벽을구성하는근육가지",
+        "Renal v. Abdominal aorta 이통과",
+        ": Quadratus lumborum m. Iliacus m. Psoas major m. Psoas minor m.",
+        "-> Kidney Quadratus lumborum m. Psoas major m. 는과앞에위치함",
+        "-> Left renal v. Right renal v. 이보다더길고위쪽에위치함",
+        "- 강낭콩모양",
+        ": 10-13cm길이",
+        ": 5-6cm넓이",
+        "[Suprarenal gland]",
+        ": 150g무게",
+        "• Kidney 위안쪽붙어있지만별개",
+        "-Kidney : 여과",
+        "-Suprarenal gland : 내분비",
+        "• Steroid , Epinephrine,계열호르몬",
+        "Norepinephrine 등호르몬만든다",
+        "[N.]",
+        "Kidney 뒷면을따라",
+        "~Kidney : 여과",
+        "왼콩팔동 . 정팩",
+        "• 콩팥에서시작",
+        "• bifurcation 배벽을따라내려가다가통해골반들어감",
+        "• 골반가쪽벽따라주행방광으로들어감",
+        "Abdominal aorta Parietal peritoneum Common iliac a. 가따라내려가다가으로나눠지는것",
+        "(Abdominal aorta bifurcation)의",
+        "(Common iliac bifurcation)의",
+        "Common iliac a. Internal/External 이나뉘어짐",
+        "- : 위배",
+        "- : 아래골반"
+      ],
+      "supplemental_ocr_blocks": [
+        "~뒷배벽물 구성하는 근육(4가지) ~Liver 떠문에 Right kidney가 Left kidney보다 아래쪽에 위치",
+        "Quadratus lumborumn rrI Iliacus rr Psoas rnajor mi Psoas mninor mn Renal v이 Abdominal aorta 통과",
+        "Kidney논 Quadratus lurborurn rn 과 Psoas major rr. 앞에 위치다 rAtrenal VO Rightrenal V보다 더 더므무친동베 처합",
+        "~강남공 모양 superior suprarenala",
+        "길이 : 10-13cm",
+        "넘이 5-6crr 왼부신",
+        "무게 : 1509 가로막 'lelt suprareral gland [Suprarenal gland]",
+        "diaphragm Kidney 뭐 안쪽 붙어앗지만 별개",
+        "아래가로막동백 middle suprarenala",
+        "inlerior phrenic a ~Suprarenal gland : 내문비",
+        "아래부신동맥",
+        "복강동맥 inferior suprarenala Steroid 계얼 로로문 Epinephrine,",
+        "celiac trunk Norepinephrine 등 호로문 만듣다",
+        "위창자간막동맥 left renal a and V",
+        "superior mnesenteric a 원콩팔 left kidney",
+        "right kidney subcoslal n",
+        "요관 ureter 고환난소동 . 정백",
+        "배대동백 testicular (ovarian) a and V",
+        "abdomninal aorta '허리네모근 [N.]",
+        "아래창자간막동맥 quadralus lumborum m Kidney 뒷면블 따라",
+        "inferior mesenteric a 엉덩아랫배신경 iliohypogastric n 비스등하게 내려움",
+        "굳히리근과 작은히리근 엉덩고살신경 ilioinguinal n",
+        "가족덥다리피부신경",
+        "엉덩근",
+        "laleral cutaneous n Of thigh",
+        "iliacus m",
+        "[Ureter] 왼잘록창자동맥",
+        "온엉덩동맥 lelt colic a",
+        "H관에서 시작",
+        "배벽지 따리 '내려가다-RDifuccationc 흙 골반 둘어려",
+        "구물잘록창자동백",
+        "'골반 가족벽 따라 주행 방광으로 들어감 sigmoid a",
+        "정중엉치혈관",
+        "median sacral vessels '위곧창자동맥",
+        "superior rectala",
+        "Abdominal aorta가 Parietal peritoneum 따라 내려가다가 Commnon iliac a 으로 나뉘지는 것 방광",
+        "(Comnrnori iliac이 bifurcation) urinary bladder",
+        "~위: 배 그림 6-72. 뒤배벽 기관 근육, 혈관. 오른콩팔이 왼콩관보다 다소 낯계 위치한다.",
+        "~이래 : 글반"
+      ],
+      "corrected_page_text": "• : (retroperitoneal organ)뒷배벽에있는장기복막뒤에있는장기\n- : 기능여과\nKidney\n, , 혈액으로부터여분의물전해질단백질을선택적으로제거하며몸에필요한물질을혈액으로내보냄\n-kidney & suprarenal gland 볼것\nUrine Kidney Ureter Urinary bladder 은에서여과가되고통해으로운반\n-> : Urine기능수행으로나오는것\n[Kidney]\n- (T12-L3)척추좌우에위치하는비뇨기관\n-Liver Right kidney Left kidney 때문에가보다아래쪽에위치\n- (4)뒷배벽을구성하는근육가지\nRenal v. Abdominal aorta 이통과\n: Quadratus lumborum m. Iliacus m. Psoas major m. Psoas minor m.\n-> Kidney Quadratus lumborum m. Psoas major m. 는과앞에위치함\n-> Left renal v. Right renal v. 이보다더길고위쪽에위치함\n- 강낭콩모양\n: 10-13cm길이\n: 5-6cm넓이\n[Suprarenal gland]\n: 150g무게\n• Kidney 위안쪽붙어있지만별개\n-Kidney : 여과\n-Suprarenal gland : 내분비\n• Steroid , Epinephrine,계열호르몬\nNorepinephrine 등호르몬만든다\n[N.]\nKidney 뒷면을따라\n~Kidney : 여과\n왼콩팔동 . 정팩\n• 콩팥에서시작\n• bifurcation 배벽을따라내려가다가통해골반들어감\n• 골반가쪽벽따라주행방광으로들어감\nAbdominal aorta Parietal peritoneum Common iliac a. 가따라내려가다가으로나눠지는것\n(Abdominal aorta bifurcation)의\n(Common iliac bifurcation)의\nCommon iliac a. Internal/External 이나뉘어짐\n- : 위배\n- : 아래골반",
+      "quality_audit": {
+        "pdf_char_count": 812,
+        "pdf_span_count": 172,
+        "pdf_word_count": 190,
+        "ocr_fragment_count": 91,
+        "pdf_line_count": 38,
+        "ocr_line_count": 51,
+        "merged_line_count": 77,
+        "pdf_only_count": 26,
+        "ocr_only_count": 39,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 38,
+        "ocr_only_line_count": 39,
+        "pdf_alpha_count": 727,
+        "ocr_alpha_count": 1022,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

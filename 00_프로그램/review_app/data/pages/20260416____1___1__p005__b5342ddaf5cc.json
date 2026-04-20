@@ -1,0 +1,347 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 5
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json"
+      }
+    ],
+    "current_index": 4,
+    "previous_page": 4,
+    "next_page": 6
+  },
+  "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 5
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "15~17세까지는 triradiate cartilage에 의해 뼈가 연골로 연결되어 있다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "성인의 뼈에는 융합되어 구분되지 않는다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 0,
+        "accounted_term_count": 0,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.0,
+        "accounted_terms": [],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Hip bone",
+        "전체가 판 모양으로 되어 있는데, 8자 모양이다.",
+        "15~17세까지는 triradiate cartilage에 의해 뼈가 연골로 연결되어 있다.",
+        "성인의 뼈에는 융합되어 구분되지 않는다."
+      ],
+      "supplemental_ocr_blocks": [
+        "'",
+        "엉덩뼈 ilium",
+        "세갈래연골",
+        "triradiate cartilage",
+        "궁동뼈 ischium 두딩뼈 pubis 그림 7-4. 어린이의 불기뼈 방사선 영상",
+        "그림 7-5. 어린이의 불기뼈 가족 면 설정"
+      ],
+      "corrected_page_text": "Hip bone\n전체가 판 모양으로 되어 있는데, 8자 모양이다.\n15~17세까지는 triradiate cartilage에 의해 뼈가 연골로 연결되어 있다.\n성인의 뼈에는 융합되어 구분되지 않는다.",
+      "quality_audit": {
+        "pdf_char_count": 89,
+        "pdf_span_count": 4,
+        "pdf_word_count": 22,
+        "ocr_fragment_count": 15,
+        "pdf_line_count": 4,
+        "ocr_line_count": 9,
+        "merged_line_count": 10,
+        "pdf_only_count": 1,
+        "ocr_only_count": 6,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 4,
+        "ocr_only_line_count": 6,
+        "pdf_alpha_count": 79,
+        "ocr_alpha_count": 78,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 23
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json",
+        "review_image_url": "./data/images/20260416____1___1__p006__b0c14145ac43.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json",
+        "review_image_url": "./data/images/20260416____1___1__p007__44b5d2f859e7.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json",
+        "review_image_url": "./data/images/20260416____1___1__p008__e4266bf19293.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json",
+        "review_image_url": "./data/images/20260416____1___1__p009__324aa668caa0.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json",
+        "review_image_url": "./data/images/20260416____1___1__p010__d2e99f5c3799.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json",
+        "review_image_url": "./data/images/20260416____1___1__p011__f965202680ec.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json",
+        "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json",
+        "review_image_url": "./data/images/20260416____1___1__p013__872df30c5722.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json",
+        "review_image_url": "./data/images/20260416____1___1__p014__f2bd97d481d7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json",
+        "review_image_url": "./data/images/20260416____1___1__p015__a44d25d1c823.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json",
+        "review_image_url": "./data/images/20260416____1___1__p016__ab552fd20c0c.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json",
+        "review_image_url": "./data/images/20260416____1___1__p017__47445983428c.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json",
+        "review_image_url": "./data/images/20260416____1___1__p018__100712d0baeb.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json",
+        "review_image_url": "./data/images/20260416____1___1__p019__5d744f7f1273.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json",
+        "review_image_url": "./data/images/20260416____1___1__p020__76e2802a44a1.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json",
+        "review_image_url": "./data/images/20260416____1___1__p021__021a707b1341.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json",
+        "review_image_url": "./data/images/20260416____1___1__p022__6a2db0d3b7d8.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json",
+        "review_image_url": "./data/images/20260416____1___1__p023__0b070b284bf7.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json"
+      }
+    ],
+    "current_index": 22,
+    "previous_page": 22,
+    "next_page": 24
+  },
+  "review_image_url": "./data/images/20260416____1___1__p023__0b070b284bf7.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 23
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "근육의 영어 이름은 muscles이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "골반안의 영어 이름은 pelvic cavity이다.",
+        "고리의 영어 이름은 annulus이다.",
+        "곧창자의 영어 이름은 rectum이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "허파의 영어 이름은 lung이다.",
+        "머리의 영어 이름은 head이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 4,
+          "text": "근육 이논곳 당는곳 신경지배 작용",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "두명뼈몸통. 골반안 장기름 지지. 배안",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "근육(muscles)",
+          "골반(pelvis)",
+          "배(abdominal region)",
+          "신경(nerves)",
+          "배안(abdominal cavity)",
+          "골반안(pelvic cavity)",
+          "고리(annulus)",
+          "곧창자(rectum)",
+          "가로막(diaphragm)",
+          "허파(lung)",
+          "머리(head)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Muscles of the pelvic wall",
+        "세개로 나뉨",
+        "표 7-2. 골반벽의 근육",
+        "근육 이논곳 당는곳 신경지배 작용",
+        "살중심체 . 꼬리뼈. 항문올림근으로 가능 신경",
+        "두명뼈몸통. 골반안 장기름 지지. 배안",
+        "항문올림근 항문고리인대. 전립심 | (넷째엉치신경의 가지).",
+        "속페소근막힘줄 의 압력이 증가할 때 이에",
+        "(levator ani m 벽 또는 질 벽. 곧창자 | 아래곧창자신경 . 꼬리신경",
+        "'세개로나님 | 활. 궁동뼈가시 저향",
+        "벽 . 항문관 벽 얼기",
+        "골반가로막 일부름 이름.",
+        "꼬리근 궁동뼈가시 엉치뼈 아래 끝 넷째와 다m재엉치신경의 | 골반안 장기률 지지. 꼬리",
+        "(coccygeus m) 엉치가시인대 가지",
+        "속페쇄근 엉덩뼈 골반면. 넓적다리v 가족으로 돌림.",
+        "(obturator inter- 궁동뼈 골반면. 넘다리뼈 근돌기 볼기뼈 절구에 넘다리뼈머",
+        "nus m.) 폐소막 리블 고정하는 것올 도움",
+        "둘째~넷째엉치뼈 넓적다리름 가족으로 돌리",
+        "궁등구멍근 골반면 . 흔궁등파 첫째와 둘째엉치신경 앞 | 고 벌림 . 불기뼈 절구에 년",
+        "(piriformis m) 임 윗모서리. 가지 다리베머리블 고정하는 것",
+        "엉치결절인대 올 도움"
+      ],
+      "supplemental_ocr_blocks": [
+        "바닥",
+        "뼈름 급힘",
+        "가족벽",
+        "속페쇄근신경",
+        "(Ls. S1, S2)",
+        "뒤벽",
+        "넘다리뼈 근돌기"
+      ],
+      "corrected_page_text": "Muscles of the pelvic wall\n세개로 나뉨\n표 7-2. 골반벽의 근육\n근육 이논곳 당는곳 신경지배 작용\n살중심체 . 꼬리뼈. 항문올림근으로 가능 신경\n두명뼈몸통. 골반안 장기름 지지. 배안\n항문올림근 항문고리인대. 전립심 | (넷째엉치신경의 가지).\n속페소근막힘줄 의 압력이 증가할 때 이에\n(levator ani m 벽 또는 질 벽. 곧창자 | 아래곧창자신경 . 꼬리신경\n'세개로나님 | 활. 궁동뼈가시 저향\n벽 . 항문관 벽 얼기\n골반가로막 일부름 이름.\n꼬리근 궁동뼈가시 엉치뼈 아래 끝 넷째와 다m재엉치신경의 | 골반안 장기률 지지. 꼬리\n(coccygeus m) 엉치가시인대 가지\n속페쇄근 엉덩뼈 골반면. 넓적다리v 가족으로 돌림.\n(obturator inter- 궁동뼈 골반면. 넘다리뼈 근돌기 볼기뼈 절구에 넘다리뼈머\nnus m.) 폐소막 리블 고정하는 것올 도움\n둘째~넷째엉치뼈 넓적다리름 가족으로 돌리\n궁등구멍근 골반면 . 흔궁등파 첫째와 둘째엉치신경 앞 | 고 벌림 . 불기뼈 절구에 년\n(piriformis m) 임 윗모서리. 가지 다리베머리블 고정하는 것\n엉치결절인대 올 도움",
+      "quality_audit": {
+        "pdf_char_count": 27,
+        "pdf_span_count": 2,
+        "pdf_word_count": 7,
+        "ocr_fragment_count": 58,
+        "pdf_line_count": 2,
+        "ocr_line_count": 27,
+        "merged_line_count": 28,
+        "pdf_only_count": 1,
+        "ocr_only_count": 26,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 2,
+        "ocr_only_line_count": 26,
+        "pdf_alpha_count": 27,
+        "ocr_alpha_count": 399,
+        "promoted_ocr_only_count": 19
+      }
+    }
+  }
+}

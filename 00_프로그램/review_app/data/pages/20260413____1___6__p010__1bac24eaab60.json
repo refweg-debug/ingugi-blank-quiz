@@ -1,0 +1,375 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 10
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json",
+        "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 9,
+    "previous_page": 9,
+    "next_page": 11
+  },
+  "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 10
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "위의 영어 이름은 stomach이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "척주앞신경절의 영어 이름은 prevertebral ganglion이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 20,
+          "text": "-Stomach, Spleen, Pancreas 와연결",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 26,
+          "text": "-Middle suprarenal a. : Abdominal aorta 에서분지",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 29,
+          "text": "- : Left renal v. Inferior vena cava 왼쪽을통해로배출",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 30,
+          "text": "- : Inferior vena cava 오른쪽로직접배출",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 11,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "위(stomach)",
+          "신경(nerves)",
+          "배(abdominal region)",
+          "가로막(diaphragm)",
+          "척주앞신경절(prevertebral ganglion)",
+          "지라(spleen)",
+          "이자(pancreas)",
+          "배대동맥(abdominal aorta)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "척주(vertebral column)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "[]위치",
+        "[ & ]유래신경",
+        "Suprarenal glands",
+        "• Cortex & Medulla 발생학적기원다름",
+        "-Kidney 위안쪽",
+        "-Cortex : , Corticosteroid Androgen 중배엽유래분비",
+        "-Diaphragm Right crus Left crus올라가는다리",
+        "-Medulla : , Epinephrine Norepinephrine 신경조직덩어리라신경발생과비슷분비",
+        "• Medulla innervation *** 신경의예외사항",
+        "[ ]좌우형태비교",
+        "• 오른쪽",
+        "-Prevertebral ganglion Organ ,에서시냅스이루는보통의배과달리",
+        "- 세모모양",
+        "Presynaptic sympathetic nerve fiber Medulla innervation 가바로와서에함",
+        "-Diaphragm 앞에위치",
+        "- Inferior vena cava위안쪽에",
+        "- Liver앞가쪽에",
+        "• 왼쪽",
+        "- 반달모양",
+        "-Stomach, Spleen, Pancreas 와연결",
+        "- Left crus가로막의",
+        "왼쪽 부신",
+        "• 호르몬이혈관통해이동하기때문에내분비는혈관잘발달됨",
+        "-> Artery (Superior, Middle, Inferior) 3 개통해공급받음",
+        "-Superior suprarenal a. : Inferior phrenic a. , Branch 6-8에서분지개",
+        "-Middle suprarenal a. : Abdominal aorta 에서분지",
+        "-Inferior suprarenal a. : Renal a. 에서분지",
+        "• Vein Suprarenal vein 1 은개존재",
+        "- : Left renal v. Inferior vena cava 왼쪽을통해로배출",
+        "- : Inferior vena cava 오른쪽로직접배출"
+      ],
+      "supplemental_ocr_blocks": [
+        "[위치] [유래 & 신경]",
+        "~Diaphragm 올라가는 다리 Right crus Left crus ~Cortex : 중배업 유래 Corticosteroid Androgen 분비",
+        "[좌우 평태 비교] Medulla innervation *##신경의 예외사황",
+        "오른쪽 ~Prevertebral ganglionol서 시법스 이루는 보퉁이 배 Organ과 달리;",
+        "~세모 모양 (inferior phrenic a) Presynaptic sympathetic nerve fiber가 바로 와서 Medullao innervation 합",
+        "~Diaphragr 앞에 위치",
+        "~뭐 안쪽에 Inferior vena cava 위부신동맥",
+        "~앞 가속에 Liver (superior suprarenal aa)",
+        "왼쪽",
+        "반달 모양",
+        "~Stornach Spleer Pancreas와 연결",
+        "(middle",
+        "suprarenala)",
+        "아래부신동맥",
+        "(inferior",
+        "suprarenala)",
+        "[a & V]",
+        "효로문이 훨관 붐해 이동하기 때문예 내분비는 훨관 잘 발달팀",
+        "'Artery (Superior, Middle; Inferior) 3개 붐해 공급받용",
+        "~Superiof suprarenal a : Inferior phrenic a.에서 분지; Branch 6-8개",
+        "배대동백 ~Middle suprarenal a : Abdominal aorta에l서 분지",
+        "왼쪽 콩팔- nerior suprarenal a : Renal a 예서 분지",
+        "(abdominal",
+        "오른쪽 콩팔 aorta) (left 'kidney)ane",
+        "(right kidney) 아래대정맥 ~오른쪽 : Inferior vena Cava로 직접 배춘 Suprarenal vein 1개 존재",
+        "(inferior vena cava) ~왼쪽 : Left renal V물 뻗대 Inferior vena Cava로 배출"
+      ],
+      "corrected_page_text": "[]위치\n[ & ]유래신경\nSuprarenal glands\n• Cortex & Medulla 발생학적기원다름\n-Kidney 위안쪽\n-Cortex : , Corticosteroid Androgen 중배엽유래분비\n-Diaphragm Right crus Left crus올라가는다리\n-Medulla : , Epinephrine Norepinephrine 신경조직덩어리라신경발생과비슷분비\n• Medulla innervation *** 신경의예외사항\n[ ]좌우형태비교\n• 오른쪽\n-Prevertebral ganglion Organ ,에서시냅스이루는보통의배과달리\n- 세모모양\nPresynaptic sympathetic nerve fiber Medulla innervation 가바로와서에함\n-Diaphragm 앞에위치\n- Inferior vena cava위안쪽에\n- Liver앞가쪽에\n• 왼쪽\n- 반달모양\n-Stomach, Spleen, Pancreas 와연결\n- Left crus가로막의\n왼쪽 부신\n• 호르몬이혈관통해이동하기때문에내분비는혈관잘발달됨\n-> Artery (Superior, Middle, Inferior) 3 개통해공급받음\n-Superior suprarenal a. : Inferior phrenic a. , Branch 6-8에서분지개\n-Middle suprarenal a. : Abdominal aorta 에서분지\n-Inferior suprarenal a. : Renal a. 에서분지\n• Vein Suprarenal vein 1 은개존재\n- : Left renal v. Inferior vena cava 왼쪽을통해로배출\n- : Inferior vena cava 오른쪽로직접배출",
+      "quality_audit": {
+        "pdf_char_count": 708,
+        "pdf_span_count": 133,
+        "pdf_word_count": 158,
+        "ocr_fragment_count": 57,
+        "pdf_line_count": 30,
+        "ocr_line_count": 38,
+        "merged_line_count": 56,
+        "pdf_only_count": 18,
+        "ocr_only_count": 26,
+        "replaced_with_ocr_count": 1,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 30,
+        "ocr_only_line_count": 26,
+        "pdf_alpha_count": 641,
+        "ocr_alpha_count": 683,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

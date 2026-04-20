@@ -1,0 +1,403 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 29
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json",
+        "review_image_url": "./data/images/20260416____1___1__p006__b0c14145ac43.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json",
+        "review_image_url": "./data/images/20260416____1___1__p007__44b5d2f859e7.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json",
+        "review_image_url": "./data/images/20260416____1___1__p008__e4266bf19293.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json",
+        "review_image_url": "./data/images/20260416____1___1__p009__324aa668caa0.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json",
+        "review_image_url": "./data/images/20260416____1___1__p010__d2e99f5c3799.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json",
+        "review_image_url": "./data/images/20260416____1___1__p011__f965202680ec.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json",
+        "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json",
+        "review_image_url": "./data/images/20260416____1___1__p013__872df30c5722.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json",
+        "review_image_url": "./data/images/20260416____1___1__p014__f2bd97d481d7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json",
+        "review_image_url": "./data/images/20260416____1___1__p015__a44d25d1c823.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json",
+        "review_image_url": "./data/images/20260416____1___1__p016__ab552fd20c0c.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json",
+        "review_image_url": "./data/images/20260416____1___1__p017__47445983428c.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json",
+        "review_image_url": "./data/images/20260416____1___1__p018__100712d0baeb.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json",
+        "review_image_url": "./data/images/20260416____1___1__p019__5d744f7f1273.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json",
+        "review_image_url": "./data/images/20260416____1___1__p020__76e2802a44a1.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json",
+        "review_image_url": "./data/images/20260416____1___1__p021__021a707b1341.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json",
+        "review_image_url": "./data/images/20260416____1___1__p022__6a2db0d3b7d8.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json",
+        "review_image_url": "./data/images/20260416____1___1__p023__0b070b284bf7.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json",
+        "review_image_url": "./data/images/20260416____1___1__p024__dd7630047095.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json",
+        "review_image_url": "./data/images/20260416____1___1__p025__46bfa8d9d001.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json",
+        "review_image_url": "./data/images/20260416____1___1__p026__8259a98dd2ef.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json",
+        "review_image_url": "./data/images/20260416____1___1__p027__b907a3899e1b.webp"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json",
+        "review_image_url": "./data/images/20260416____1___1__p028__d6241de66359.webp"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json",
+        "review_image_url": "./data/images/20260416____1___1__p029__049ba78b0776.webp"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json"
+      }
+    ],
+    "current_index": 28,
+    "previous_page": 28,
+    "next_page": 30
+  },
+  "review_image_url": "./data/images/20260416____1___1__p029__049ba78b0776.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 29
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "가로막의 영어 이름은 diaphragm이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배안의 영어 이름은 abdominal cavity이다.",
+        "머리의 영어 이름은 head이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 8,
+          "text": "외음절개술(Episiotomy): 출산할 때 아기의 머리가",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 6,
+        "accounted_term_count": 5,
+        "unresolved_term_count": 1,
+        "missing_term_count": 0,
+        "coverage_ratio": 0.833,
+        "accounted_terms": [
+          "가로막(diaphragm)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "배안(abdominal cavity)",
+          "머리(head)"
+        ],
+        "unresolved_terms": [
+          "외음절개술(Episiotomy)"
+        ],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Injury to the pelvic floor",
+        "출산 시 가장 많이 손상받음",
+        "[상식]",
+        "출산의 영향으로 pelvic fascia 등이 늘어나거나 약해지면,",
+        "pelvic diaphragm 자체가 방광과 연관되어 있어서",
+        "방광의 neck과 요도의 위치가 변한다.",
+        "[상식]",
+        "그래서 기침을 하거나, 물건을 들 때 등 배안의 압력이 높아졌을 때",
+        "외음절개술(Episiotomy): 출산할 때 아기의 머리가",
+        "소변 조절을 못하고 방울이 지는 것을 요실금 중에서도, 복압요실금이라고 한다.",
+        "산도를 통해 밖으로 나올 때 질 입구,",
+        "항문의 외음부를 가위로 잘라준다.",
+        "한군데만 잘라졌기 때문에 봉합을 하며 여러 군데",
+        "손상을 막을 수 있다."
+      ],
+      "supplemental_ocr_blocks": [
+        "말은실가루근",
+        "Sugerlical lrarsverse",
+        "perireal muscle 특다교리렉당로올림근과",
+        "{Dart Dlevalorranrmuscle",
+        "and pelyiC Iloor)'",
+        "회음의 파열 항문 실중심체",
+        "(A) Teat Ulliperineum Anus Perineal body",
+        "올@",
+        "[#문 # #째",
+        "결석제거술자세",
+        "pelvic fascia",
+        "동움안일앞국액 -알표로하이라고하다:",
+        "틀 등 [상식]",
+        "[뼈i 닭 각#\"",
+        "소변 때 아기의 머리가",
+        "'하여 여러 군데",
+        "막울 수 있다:",
+        "(B) 두멍고리근의 파열",
+        "Tear a pubococcygeus rTuscle"
+      ],
+      "corrected_page_text": "Injury to the pelvic floor\n출산 시 가장 많이 손상받음\n[상식]\n출산의 영향으로 pelvic fascia 등이 늘어나거나 약해지면,\npelvic diaphragm 자체가 방광과 연관되어 있어서\n방광의 neck과 요도의 위치가 변한다.\n[상식]\n그래서 기침을 하거나, 물건을 들 때 등 배안의 압력이 높아졌을 때\n외음절개술(Episiotomy): 출산할 때 아기의 머리가\n소변 조절을 못하고 방울이 지는 것을 요실금 중에서도, 복압요실금이라고 한다.\n산도를 통해 밖으로 나올 때 질 입구,\n항문의 외음부를 가위로 잘라준다.\n한군데만 잘라졌기 때문에 봉합을 하며 여러 군데\n손상을 막을 수 있다.",
+      "quality_audit": {
+        "pdf_char_count": 266,
+        "pdf_span_count": 14,
+        "pdf_word_count": 78,
+        "ocr_fragment_count": 32,
+        "pdf_line_count": 14,
+        "ocr_line_count": 21,
+        "merged_line_count": 33,
+        "pdf_only_count": 12,
+        "ocr_only_count": 19,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 14,
+        "ocr_only_line_count": 19,
+        "pdf_alpha_count": 251,
+        "ocr_alpha_count": 231,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

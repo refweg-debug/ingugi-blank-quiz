@@ -1,0 +1,330 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 24
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json",
+        "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json",
+        "review_image_url": "./data/images/20260413____1___6__p011__d7e02126d855.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json",
+        "review_image_url": "./data/images/20260413____1___6__p012__f3788709daf3.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json",
+        "review_image_url": "./data/images/20260413____1___6__p013__9b71f56a1451.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json",
+        "review_image_url": "./data/images/20260413____1___6__p014__c4c4582717f7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json",
+        "review_image_url": "./data/images/20260413____1___6__p015__bca091970290.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json",
+        "review_image_url": "./data/images/20260413____1___6__p016__2d206b7538db.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json",
+        "review_image_url": "./data/images/20260413____1___6__p017__ff274a80b546.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json",
+        "review_image_url": "./data/images/20260413____1___6__p018__3ed1ebc10e4d.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json",
+        "review_image_url": "./data/images/20260413____1___6__p019__1d0006216018.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json",
+        "review_image_url": "./data/images/20260413____1___6__p020__0d2c3b8a9c80.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json",
+        "review_image_url": "./data/images/20260413____1___6__p021__f88f1eaee23a.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json",
+        "review_image_url": "./data/images/20260413____1___6__p022__4be9593acffe.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json",
+        "review_image_url": "./data/images/20260413____1___6__p023__1074d2d10b78.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json",
+        "review_image_url": "./data/images/20260413____1___6__p024__a5a0ea66e73a.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 23,
+    "previous_page": 23,
+    "next_page": 25
+  },
+  "review_image_url": "./data/images/20260413____1___6__p024__a5a0ea66e73a.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 24
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "신경의 영어 이름은 nerves이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 1,
+        "accounted_term_count": 1,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "신경(nerves)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Sympathetic nerve fibers reach the The macula densaisa Oistinct Components 이 the",
+        "alterent arleriole and innervale eplhelial region fourd al tne thick juxtaglomerular apparatus",
+        "juxlaglomorular colls ascenainalimb-distal conoluted",
+        "Anincrease in sympathetic tubule(DCT) junction The macula 0 Macula densa",
+        "'activity stimulates renin secretion densa laCes lhe Irangular area Q Extrag omerular resanglal Cells",
+        "lormed byihe alferent and ellarent Juxlaglomerular colls",
+        "arterioes 대 tha same nephron Tre 담 Allerent arloridle",
+        "cels olthe macula densa arein G Efferent arteridle",
+        "Juxtaglomerular contadt With extraglcmerular",
+        "cell (modified mesangial cells.",
+        "smooth muscla",
+        "Symnpathetic celis) Extraglomerular",
+        "nerve IAfferent arterlole mesangial cells",
+        "Macula densa Macula densa Ellerent arteriole",
+        "Alferent G손 9 Elferent arteriole 8",
+        "mesangial cells (",
+        "Extraglomerular",
+        "basemenl PCT",
+        "Urinary membrane",
+        "space GBM PCT Urinary rpole Urinary space Mesangaal|",
+        "Urinary pole Basal lamina O the Pareialcell Podlocyle Capillary",
+        "Mesimgial capsule 이 Bowman",
+        "The mesangium Glomerular capillary Prirnary cell process",
+        "consists 이 Iinedty lenestraled Pedicel Filtralion slit Cellbody c a pcdocyte",
+        "mesangial cells @rbtlelal calsand",
+        "embedded nthe Proxlmal covered by redicels",
+        "mesanglal convoluted tubule, Podocytes alivays 1",
+        "matrix PCT bulge into tha urinary"
+      ],
+      "supplemental_ocr_blocks": [
+        "fiber",
+        "DCT",
+        "몇 올",
+        "arteriole",
+        "pioaass {",
+        "PCT",
+        "Pedicel or",
+        "(Glomerular",
+        "cell"
+      ],
+      "corrected_page_text": "Sympathetic nerve fibers reach the The macula densaisa Oistinct Components 이 the\nalterent arleriole and innervale eplhelial region fourd al tne thick juxtaglomerular apparatus\njuxlaglomorular colls ascenainalimb-distal conoluted\nAnincrease in sympathetic tubule(DCT) junction The macula 0 Macula densa\n'activity stimulates renin secretion densa laCes lhe Irangular area Q Extrag omerular resanglal Cells\nlormed byihe alferent and ellarent Juxlaglomerular colls\narterioes 대 tha same nephron Tre 담 Allerent arloridle\ncels olthe macula densa arein G Efferent arteridle\nJuxtaglomerular contadt With extraglcmerular\ncell (modified mesangial cells.\nsmooth muscla\nSymnpathetic celis) Extraglomerular\nnerve IAfferent arterlole mesangial cells\nMacula densa Macula densa Ellerent arteriole\nAlferent G손 9 Elferent arteriole 8\nmesangial cells (\nExtraglomerular\nbasemenl PCT\nUrinary membrane\nspace GBM PCT Urinary rpole Urinary space Mesangaal|\nUrinary pole Basal lamina O the Pareialcell Podlocyle Capillary\nMesimgial capsule 이 Bowman\nThe mesangium Glomerular capillary Prirnary cell process\nconsists 이 Iinedty lenestraled Pedicel Filtralion slit Cellbody c a pcdocyte\nmesangial cells @rbtlelal calsand\nembedded nthe Proxlmal covered by redicels\nmesanglal convoluted tubule, Podocytes alivays 1\nmatrix PCT bulge into tha urinary",
+      "quality_audit": {
+        "pdf_char_count": 0,
+        "pdf_span_count": 0,
+        "pdf_word_count": 0,
+        "ocr_fragment_count": 90,
+        "pdf_line_count": 0,
+        "ocr_line_count": 37,
+        "merged_line_count": 37,
+        "pdf_only_count": 0,
+        "ocr_only_count": 37,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 0,
+        "ocr_only_line_count": 37,
+        "pdf_alpha_count": 0,
+        "ocr_alpha_count": 1179,
+        "promoted_ocr_only_count": 28
+      }
+    }
+  }
+}

@@ -4,356 +4,615 @@
     "category": "현재통합",
     "source_stem": "2026년 배(소화계통 비뇨계통)",
     "page_number": 160,
+    "note_page_number": 2,
     "source_page_number": 160,
     "original_page_number": 160,
-    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)",
+    "note_source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱"
   },
   "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
   "finalization_status": "question_set_provisional_requires_ai_page_read",
-  "page_read_status": "blocked_until_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
   "source_verified_status": "verified_but_requires_ai_page_read",
   "questions": [
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_001_001",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0011_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_001"
-      ],
-      "prompt": "_____의 영어 이름은 abdominal region이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____은 존재하는 구조이다.",
       "answer": {
         "format": "single_text",
-        "value": "배",
-        "accepted_answers": [
-          "배"
-        ]
+        "value": "lymph node(림프절)"
       },
-      "target": {
-        "kind": "term",
-        "text": "배"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0011"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0011",
+        "original": "방금 얘기했던 [불명], [불명] peritoneum(복막) 그리고 lymph node(림프절)",
+        "evidence": "lymph node(림프절)은 정상적인 림프계 구조이다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0011",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: lymph node(림프절)은 존재하는 구조이다. / Original: 방금 얘기했던 [불명], [불명] peritoneum(복막) 그리고 lymph node(림프절) / Evidence: lymph node(림프절)은 정상적인 림프계 구조이다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 배의 영어 이름은 abdominal region이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lymph node(림프절)은 존재하는 구조이다. / Original: 방금 얘기했던 [불명], [불명] peritoneum(복막) 그리고 lymph node(림프절) / Evidence: lymph node(림프절)은 정상적인 림프계 구조이다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_001_002",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0012_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_001"
-      ],
-      "prompt": "배의 영어 이름은 _____이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____은 둥근 지붕 모양이다.",
       "answer": {
         "format": "single_text",
-        "value": "abdominal region",
-        "accepted_answers": [
-          "abdominal region"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "abdominal region"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0012"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0012",
+        "original": "diaphragm(가로막)은 이거는 어떻게 생겼냐면 요게 둥근 지붕으로 되어 있습니다.",
+        "evidence": "diaphragm(가로막)은 양측 돔을 가진 돔형 구조로 설명된다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0012",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)은 둥근 지붕 모양이다. / Original: diaphragm(가로막)은 이거는 어떻게 생겼냐면 요게 둥근 지붕으로 되어 있습니다. / Evidence: diaphragm(가로막)은 양측 돔을 가진 돔형 구조로 설명된다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 배의 영어 이름은 abdominal region이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)은 둥근 지붕 모양이다. / Original: diaphragm(가로막)은 이거는 어떻게 생겼냐면 요게 둥근 지붕으로 되어 있습니다. / Evidence: diaphragm(가로막)은 양측 돔을 가진 돔형 구조로 설명된다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_002_001",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0014_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_002"
-      ],
-      "prompt": "_____의 영어 이름은 cervical region이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____의 중앙부는 tendon(힘줄)이다.",
       "answer": {
         "format": "single_text",
-        "value": "목",
-        "accepted_answers": [
-          "목"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "목"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0014"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0014",
+        "original": "이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다.",
+        "evidence": "가로막의 중심부는 central tendon(힘줄)이다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0014",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)의 중앙부는 tendon(힘줄)이다. / Original: 이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다. / Evidence: 가로막의 중심부는 central tendon(힘줄)이다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 중앙부는 tendon(힘줄)이다. / Original: 이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다. / Evidence: 가로막의 중심부는 central tendon(힘줄)이다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_002_002",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0014_002",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_002"
-      ],
-      "prompt": "목의 영어 이름은 _____이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "diaphragm(가로막)의 중앙부는 _____이다.",
       "answer": {
         "format": "single_text",
-        "value": "cervical region",
-        "accepted_answers": [
-          "cervical region"
-        ]
+        "value": "tendon(힘줄)"
       },
-      "target": {
-        "kind": "term",
-        "text": "cervical region"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0014"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0014",
+        "original": "이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다.",
+        "evidence": "가로막의 중심부는 central tendon(힘줄)이다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0014",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)의 중앙부는 tendon(힘줄)이다. / Original: 이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다. / Evidence: 가로막의 중심부는 central tendon(힘줄)이다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 목의 영어 이름은 cervical region이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 중앙부는 tendon(힘줄)이다. / Original: 이거는 가운데는 tendon(힘줄)로 되어 있는 그런 형태로 되어 있습니다. / Evidence: 가로막의 중심부는 central tendon(힘줄)이다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_003_001",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0015_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_003"
-      ],
-      "prompt": "_____의 영어 이름은 diaphragm이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____은 흉강과 복강을 분리한다.",
       "answer": {
         "format": "single_text",
-        "value": "가로막",
-        "accepted_answers": [
-          "가로막"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "가로막"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0015"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0015",
+        "original": "가슴하고 배 안을 나눠주는 역할입니다.",
+        "evidence": "가로막은 흉부와 복부 사이의 경계 구조이다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0015",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)은 흉강과 복강을 분리한다. / Original: 가슴하고 배 안을 나눠주는 역할입니다. / Evidence: 가로막은 흉부와 복부 사이의 경계 구조이다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 가로막의 영어 이름은 diaphragm이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)은 흉강과 복강을 분리한다. / Original: 가슴하고 배 안을 나눠주는 역할입니다. / Evidence: 가로막은 흉부와 복부 사이의 경계 구조이다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_003_002",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0016_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_003"
-      ],
-      "prompt": "가로막의 영어 이름은 _____이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____은 호흡에 중요한 역할을 한다.",
       "answer": {
         "format": "single_text",
-        "value": "diaphragm",
-        "accepted_answers": [
-          "diaphragm"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "diaphragm"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0016"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0016",
+        "original": "diaphragm(가로막)의 가장 큰 역할은 뭐냐면 호흡이에요.",
+        "evidence": "diaphragm(가로막)은 주요 호흡근이다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0016",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)은 호흡에 중요한 역할을 한다. / Original: diaphragm(가로막)의 가장 큰 역할은 뭐냐면 호흡이에요. / Evidence: diaphragm(가로막)은 주요 호흡근이다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 가로막의 영어 이름은 diaphragm이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)은 호흡에 중요한 역할을 한다. / Original: diaphragm(가로막)의 가장 큰 역할은 뭐냐면 호흡이에요. / Evidence: diaphragm(가로막)은 주요 호흡근이다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_004_001",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0017_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_004"
-      ],
-      "prompt": "_____의 영어 이름은 vena cava이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____의 주변부는 근육성이다.",
       "answer": {
         "format": "single_text",
-        "value": "대정맥",
-        "accepted_answers": [
-          "대정맥"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "대정맥"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0017"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0017",
+        "original": "얘가 지금 가장자리가 근육으로 되어 있으니까",
+        "evidence": "가로막은 주변부가 근육, 중심부가 건으로 이루어진다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0017",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: diaphragm(가로막)의 주변부는 근육성이다. / Original: 얘가 지금 가장자리가 근육으로 되어 있으니까 / Evidence: 가로막은 주변부가 근육, 중심부가 건으로 이루어진다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 대정맥의 영어 이름은 vena cava이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: diaphragm(가로막)의 주변부는 근육성이다. / Original: 얘가 지금 가장자리가 근육으로 되어 있으니까 / Evidence: 가로막은 주변부가 근육, 중심부가 건으로 이루어진다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_004_002",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0018_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_004"
-      ],
-      "prompt": "대정맥의 영어 이름은 _____이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "호흡 근육들은 _____에 부착한다.",
       "answer": {
         "format": "single_text",
-        "value": "vena cava",
-        "accepted_answers": [
-          "vena cava"
-        ]
+        "value": "thorax cage(가슴우리)"
       },
-      "target": {
-        "kind": "term",
-        "text": "vena cava"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0018"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0018",
+        "original": "주변의 호흡 근육들이 여기에 이제 thorax cage(가슴우리)하고 여기 넘버 [불명]에 [불명] 있는데 여기에 이렇게 부착을 하고 있어가지고",
+        "evidence": "호흡에 관여하는 여러 근육이 흉곽에 부착한다.",
+        "confidence": "중간",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0018",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 호흡 근육들은 thorax cage(가슴우리)에 부착한다. / Original: 주변의 호흡 근육들이 여기에 이제 thorax cage(가슴우리)하고 여기 넘버 [불명]에 [불명] 있는데 여기에 이렇게 부착을 하고 있어가지고 / Evidence: 호흡에 관여하는 여러 근육이 흉곽에 부착한다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 대정맥의 영어 이름은 vena cava이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 호흡 근육들은 thorax cage(가슴우리)에 부착한다. / Original: 주변의 호흡 근육들이 여기에 이제 thorax cage(가슴우리)하고 여기 넘버 [불명]에 [불명] 있는데 여기에 이렇게 부착을 하고 있어가지고 / Evidence: 호흡에 관여하는 여러 근육이 흉곽에 부착한다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_005_001",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1400_P0019_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_005"
-      ],
-      "prompt": "_____의 영어 이름은 thorax이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "들숨 시 _____은 아래쪽으로 내려간다.",
       "answer": {
         "format": "single_text",
-        "value": "가슴",
-        "accepted_answers": [
-          "가슴"
-        ]
+        "value": "diaphragm(가로막)"
       },
-      "target": {
-        "kind": "term",
-        "text": "가슴"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1400_P0019"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1400.txt",
+        "chunk": "20260415-1400_chunk_001",
+        "record_id": "P0019",
+        "original": "숨을 들이쉴 때 어떻게 되냐면 안쪽 있는 게 이렇게 아래쪽으로 내려옵니다.",
+        "evidence": "수축한 가로막은 하강한다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1400_P0019",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 들숨 시 diaphragm(가로막)은 아래쪽으로 내려간다. / Original: 숨을 들이쉴 때 어떻게 되냐면 안쪽 있는 게 이렇게 아래쪽으로 내려옵니다. / Evidence: 수축한 가로막은 하강한다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
-      },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 들숨 시 diaphragm(가로막)은 아래쪽으로 내려간다. / Original: 숨을 들이쉴 때 어떻게 되냐면 안쪽 있는 게 이렇게 아래쪽으로 내려옵니다. / Evidence: 수축한 가로막은 하강한다. / Page match: date-order estimate across the lecture page range."
       }
     },
     {
-      "question_id": "배_강의원본_2026년 배(소화계통 비뇨계통)_p159_course_배_강의원본_159_trans_005_002",
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0008_001",
       "question_type": "fill_blank",
-      "blank_mode": "single",
-      "question_focus": "course_exam_style",
-      "proposition_refs": [
-        "배_강의원본_159_trans_005"
-      ],
-      "prompt": "가슴의 영어 이름은 _____이다.",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____는 lateral arcuate ligament(바깥쪽활꼴인대) 뒤를 지나 복부로 내려온다.",
       "answer": {
         "format": "single_text",
-        "value": "thorax",
-        "accepted_answers": [
-          "thorax"
-        ]
+        "value": "subcostal nerve(갈비밑신경)"
       },
-      "target": {
-        "kind": "term",
-        "text": "thorax"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0008"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0008",
+        "original": "그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다.",
+        "evidence": "갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다.",
+        "confidence": "중간",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
       },
-      "verification_status": "verified_by_glossary",
+      "proposition_id": "배_녹음파일_20260415-1500_P0008",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: subcostal nerve(갈비밑신경)는 lateral arcuate ligament(바깥쪽활꼴인대) 뒤를 지나 복부로 내려온다. / Original: 그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다. / Evidence: 갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다. / Page match: date-order estimate across the lecture page range.",
       "explanation": {
-        "short": "용어 사전과 일치한다.",
-        "full": "원문 명제: 가슴의 영어 이름은 thorax이다. / 검증 메모: 용어 사전과 일치한다."
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal nerve(갈비밑신경)는 lateral arcuate ligament(바깥쪽활꼴인대) 뒤를 지나 복부로 내려온다. / Original: 그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다. / Evidence: 갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0008_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "subcostal nerve(갈비밑신경)는 _____ 뒤를 지나 복부로 내려온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lateral arcuate ligament(바깥쪽활꼴인대)"
       },
-      "page_reassignment": {
-        "from_page": 159,
-        "to_page": 160,
-        "reason": "source_page_is_learning_goal_or_contents",
-        "matched_bad_page_reason": "original_page"
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0008"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0008",
+        "original": "그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다.",
+        "evidence": "갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다.",
+        "confidence": "중간",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0008",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: subcostal nerve(갈비밑신경)는 lateral arcuate ligament(바깥쪽활꼴인대) 뒤를 지나 복부로 내려온다. / Original: 그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다. / Evidence: 갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal nerve(갈비밑신경)는 lateral arcuate ligament(바깥쪽활꼴인대) 뒤를 지나 복부로 내려온다. / Original: 그래서 요것이 바깥쪽에 lateral arcuate ligament(바깥쪽활꼴인대) 를 뒤를 지나가지고 배로 내려옵니다. / Evidence: 갈비밑신경은 12번 갈비뼈 아래에서 뒤배벽을 따라 주행한다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0009_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____는 transversus abdominis muscle(배속가로근)을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "subcostal nerve(갈비밑신경)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0009"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0009",
+        "original": "transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다.",
+        "evidence": "subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0009",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: subcostal nerve(갈비밑신경)는 transversus abdominis muscle(배속가로근)을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다. / Original: transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다. / Evidence: subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal nerve(갈비밑신경)는 transversus abdominis muscle(배속가로근)을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다. / Original: transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다. / Evidence: subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0009_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "subcostal nerve(갈비밑신경)는 _____을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "transversus abdominis muscle(배속가로근)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0009"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0009",
+        "original": "transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다.",
+        "evidence": "subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0009",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: subcostal nerve(갈비밑신경)는 transversus abdominis muscle(배속가로근)을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다. / Original: transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다. / Evidence: subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: subcostal nerve(갈비밑신경)는 transversus abdominis muscle(배속가로근)을 통과한 뒤 abdominal skin(배부위 피부)의 앞가쪽 부위에 분포한다. / Original: transversus abdominis muscle(배속가로근) 를 통과한 다음에 abdominal skin(배부위 피부)의 anterior/lateral 부분에 분포를 하는 게 subcostal nerve(갈비밑신경) 이 부분입니다. / Evidence: subcostal nerve(갈비밑신경)은 복벽 근육과 피부에 감각 가지를 준다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0010_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____는 L1에서 L4까지의 앞가지로 구성된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar plexus(허리신경얼기)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0010"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0010",
+        "original": "lumbar plexus(허리신경얼기) 같은 경우에는 L1에서 L4까지의 앞가지로 구성이 되어져 있습니다.",
+        "evidence": "요신경얼기는 L1-L4 전가지로 형성된다.",
+        "confidence": "높음",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0010",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: lumbar plexus(허리신경얼기)는 L1에서 L4까지의 앞가지로 구성된다. / Original: lumbar plexus(허리신경얼기) 같은 경우에는 L1에서 L4까지의 앞가지로 구성이 되어져 있습니다. / Evidence: 요신경얼기는 L1-L4 전가지로 형성된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lumbar plexus(허리신경얼기)는 L1에서 L4까지의 앞가지로 구성된다. / Original: lumbar plexus(허리신경얼기) 같은 경우에는 L1에서 L4까지의 앞가지로 구성이 되어져 있습니다. / Evidence: 요신경얼기는 L1-L4 전가지로 형성된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0011_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____는 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar plexus(허리신경얼기)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0011"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0011",
+        "original": "나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고",
+        "evidence": "요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다.",
+        "confidence": "중간",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0011",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: lumbar plexus(허리신경얼기)는 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽에서 나온다. / Original: 나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고 / Evidence: 요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lumbar plexus(허리신경얼기)는 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽에서 나온다. / Original: 나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고 / Evidence: 요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p160_recording_20260415-1500_P0011_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "lumbar plexus(허리신경얼기)는 _____의 transverse process(가로돌기) 앞쪽에서 나온다.",
+      "answer": {
+        "format": "single_text",
+        "value": "lumbar vertebrae(허리뼈)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260415-1500_P0011"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260415-1500.txt",
+        "chunk": "20260415-1500_chunk_001",
+        "record_id": "P0011",
+        "original": "나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고",
+        "evidence": "요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다.",
+        "confidence": "중간",
+        "estimated_page": 160,
+        "estimated_page_range": [
+          159,
+          180
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260415-1500_P0011",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: lumbar plexus(허리신경얼기)는 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽에서 나온다. / Original: 나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고 / Evidence: 요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: lumbar plexus(허리신경얼기)는 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽에서 나온다. / Original: 나올 때는 보면은 이 lumbar vertebrae(허리뼈)의 transverse process(가로돌기) 앞쪽을 해가지고 나오게 되고 / Evidence: 요신경얼기는 큰허리근의 안쪽, lumbar vertebrae(허리뼈) transverse process(가로돌기) 앞쪽에서 관찰된다. / Page match: date-order estimate across the lecture page range."
       }
     }
   ],
   "summary": {
-    "question_count": 10,
+    "question_count": 16,
     "question_type_count": {
-      "fill_blank": 10
+      "fill_blank": 16
     },
     "question_focus_count": {
-      "course_exam_style": 10
+      "recording_proposition_review": 16
     }
   },
   "blocked_image_question_reasons": [
     "ai_page_read_not_complete"
   ],
+  "recording_supplement_status": "recording_proposition_page_estimate_added",
   "navigation": {
     "pages": [
       {
         "page_number": 1,
         "source_page_number": 1,
         "question_count": 0,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p001__7d02aa4591e0.json",
         "review_image_url": "./data/images/2026__p001__7d02aa4591e0.webp"
       },
@@ -1512,417 +1771,559 @@
       {
         "page_number": 133,
         "source_page_number": 133,
-        "question_count": 2,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p133__cc21ff2f293d.json",
         "review_image_url": "./data/images/2026__p133__cc21ff2f293d.webp"
       },
       {
         "page_number": 134,
         "source_page_number": 134,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p134__ce27efb5ddc9.json",
         "review_image_url": "./data/images/2026__p134__ce27efb5ddc9.webp"
       },
       {
         "page_number": 135,
         "source_page_number": 135,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p135__ff75e9aff6d2.json",
         "review_image_url": "./data/images/2026__p135__ff75e9aff6d2.webp"
       },
       {
         "page_number": 136,
         "source_page_number": 136,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p136__cf13b94d79bc.json",
         "review_image_url": "./data/images/2026__p136__cf13b94d79bc.webp"
       },
       {
         "page_number": 137,
         "source_page_number": 137,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p137__eb261078966f.json",
         "review_image_url": "./data/images/2026__p137__eb261078966f.webp"
       },
       {
         "page_number": 138,
         "source_page_number": 138,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p138__9f320b74b076.json",
         "review_image_url": "./data/images/2026__p138__9f320b74b076.webp"
       },
       {
         "page_number": 139,
         "source_page_number": 139,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p139__d47d0fe66932.json",
         "review_image_url": "./data/images/2026__p139__d47d0fe66932.webp"
       },
       {
         "page_number": 140,
         "source_page_number": 140,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p140__79f42a795ba3.json",
         "review_image_url": "./data/images/2026__p140__79f42a795ba3.webp"
       },
       {
         "page_number": 141,
         "source_page_number": 141,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p141__ee9dc1b4c492.json",
         "review_image_url": "./data/images/2026__p141__ee9dc1b4c492.webp"
       },
       {
         "page_number": 142,
         "source_page_number": 142,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p142__d7ff520a84ce.json",
         "review_image_url": "./data/images/2026__p142__d7ff520a84ce.webp"
       },
       {
         "page_number": 143,
         "source_page_number": 143,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p143__bba0c0e54734.json",
         "review_image_url": "./data/images/2026__p143__bba0c0e54734.webp"
       },
       {
         "page_number": 144,
         "source_page_number": 144,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p144__e09461e45252.json",
         "review_image_url": "./data/images/2026__p144__e09461e45252.webp"
       },
       {
         "page_number": 145,
         "source_page_number": 145,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p145__d60d21bc2e4f.json",
         "review_image_url": "./data/images/2026__p145__d60d21bc2e4f.webp"
       },
       {
         "page_number": 146,
         "source_page_number": 146,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p146__5b44b967fe28.json",
         "review_image_url": "./data/images/2026__p146__5b44b967fe28.webp"
       },
       {
         "page_number": 147,
         "source_page_number": 147,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p147__c908a7a86116.json",
         "review_image_url": "./data/images/2026__p147__c908a7a86116.webp"
       },
       {
         "page_number": 148,
         "source_page_number": 148,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p148__a076836abe57.json",
         "review_image_url": "./data/images/2026__p148__a076836abe57.webp"
       },
       {
         "page_number": 149,
         "source_page_number": 149,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p149__e9059ad77a6e.json",
         "review_image_url": "./data/images/2026__p149__e9059ad77a6e.webp"
       },
       {
         "page_number": 150,
         "source_page_number": 150,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p150__bbfc81fbfb5b.json",
         "review_image_url": "./data/images/2026__p150__bbfc81fbfb5b.webp"
       },
       {
         "page_number": 151,
         "source_page_number": 151,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p151__b03393ac0cbd.json",
         "review_image_url": "./data/images/2026__p151__b03393ac0cbd.webp"
       },
       {
         "page_number": 152,
         "source_page_number": 152,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p152__9aaa4cd94d80.json",
         "review_image_url": "./data/images/2026__p152__9aaa4cd94d80.webp"
       },
       {
         "page_number": 153,
         "source_page_number": 153,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p153__5863176ca98e.json",
         "review_image_url": "./data/images/2026__p153__5863176ca98e.webp"
       },
       {
         "page_number": 154,
         "source_page_number": 154,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p154__2b2644fc87ed.json",
         "review_image_url": "./data/images/2026__p154__2b2644fc87ed.webp"
       },
       {
         "page_number": 155,
         "source_page_number": 155,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p155__2ccc358d8d84.json",
         "review_image_url": "./data/images/2026__p155__2ccc358d8d84.webp"
       },
       {
         "page_number": 156,
         "source_page_number": 156,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p156__d13be9bba555.json",
         "review_image_url": "./data/images/2026__p156__d13be9bba555.webp"
       },
       {
         "page_number": 157,
         "source_page_number": 157,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p157__ee5743ec8963.json",
         "review_image_url": "./data/images/2026__p157__ee5743ec8963.webp"
       },
       {
         "page_number": 158,
         "source_page_number": 158,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p158__cc2d54af62f1.json",
         "review_image_url": "./data/images/2026__p158__cc2d54af62f1.webp"
       },
       {
+        "page_number": 159,
+        "source_page_number": 159,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p159__0c6e52d518b9.json",
+        "review_image_url": "./data/images/2026__p159__0c6e52d518b9.webp"
+      },
+      {
         "page_number": 160,
         "source_page_number": 160,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p160__859e4a6bfe38.json",
         "review_image_url": "./data/images/2026__p160__859e4a6bfe38.webp"
       },
       {
         "page_number": 161,
         "source_page_number": 161,
-        "question_count": 2,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p161__7112bad577cb.json"
       },
       {
         "page_number": 162,
         "source_page_number": 162,
-        "question_count": 2,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p162__0265bbe77958.json"
       },
       {
         "page_number": 163,
         "source_page_number": 163,
-        "question_count": 2,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p163__4399fbe79248.json"
       },
       {
         "page_number": 164,
         "source_page_number": 164,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p164__2bd83160c97f.json"
       },
       {
         "page_number": 165,
         "source_page_number": 165,
-        "question_count": 2,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p165__2d0f049be45b.json"
       },
       {
         "page_number": 166,
         "source_page_number": 166,
-        "question_count": 0,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p166__bbb04033aa09.json"
       },
       {
         "page_number": 167,
         "source_page_number": 167,
-        "question_count": 2,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p167__5f2874b02c51.json"
       },
       {
         "page_number": 168,
         "source_page_number": 168,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p168__5451fbd69021.json"
       },
       {
         "page_number": 169,
         "source_page_number": 169,
-        "question_count": 0,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p169__457c2d79c040.json"
       },
       {
         "page_number": 170,
         "source_page_number": 170,
-        "question_count": 2,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p170__c7108b8e3192.json"
       },
       {
         "page_number": 171,
         "source_page_number": 171,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p171__ccc974035dca.json"
       },
       {
         "page_number": 172,
         "source_page_number": 172,
-        "question_count": 0,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p172__f3b565018b76.json"
       },
       {
         "page_number": 173,
         "source_page_number": 173,
-        "question_count": 0,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p173__983911075f0c.json"
       },
       {
         "page_number": 174,
         "source_page_number": 174,
-        "question_count": 0,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p174__01dd050154db.json"
       },
       {
         "page_number": 175,
         "source_page_number": 175,
-        "question_count": 0,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p175__fb504cf1d16a.json"
       },
       {
         "page_number": 176,
         "source_page_number": 176,
-        "question_count": 0,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p176__cc16cf0872af.json"
       },
       {
         "page_number": 177,
         "source_page_number": 177,
-        "question_count": 0,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p177__421cd19b1f94.json"
       },
       {
         "page_number": 178,
         "source_page_number": 178,
-        "question_count": 2,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p178__8c1736c14595.json"
       },
       {
         "page_number": 179,
         "source_page_number": 179,
-        "question_count": 2,
+        "question_count": 14,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p179__0dee003350b1.json"
       },
       {
         "page_number": 180,
         "source_page_number": 180,
-        "question_count": 0,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p180__efa698839d0e.json"
       }
     ],
-    "current_index": 155,
-    "previous_page": 158,
+    "current_index": 156,
+    "previous_page": 159,
     "next_page": 161
   },
   "review_image_url": "./data/images/2026__p160__859e4a6bfe38.webp",
   "analysis": {
     "analysis_ref": {
-      "category": "현재통합",
-      "source_stem": "2026년 배(소화계통 비뇨계통)",
-      "page_number": 160
+      "category": "필기본",
+      "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+      "page_number": 2
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "배의 영어 이름은 abdominal region이다.",
+        "속빗근의 영어 이름은 internal oblique muscle이다.",
+        "속배빗근의 영어 이름은 internal abdominal oblique muscle이다.",
+        "대정맥의 영어 이름은 vena cava이다.",
+        "아래대정맥의 영어 이름은 inferior vena cava이다.",
+        "식도의 영어 이름은 esophagus이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "배가로근의 영어 이름은 transversus abdominis muscle이다.",
+        "바깥배빗근의 영어 이름은 external abdominal oblique muscle이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 5,
+          "text": "inferior vena cava",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "abdominal aorta 안쪽활플인대",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 13,
+          "text": "internal abdominal oblique m L4 psoas minor m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 14,
+          "text": "external abdominal oblique m L5 psoas major m",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 20,
+          "text": "그림 6-82. 가로막과 뒤배벽",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 13,
+        "accounted_term_count": 13,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "배(abdominal region)",
+          "속빗근(internal oblique muscle)",
+          "속배빗근(internal abdominal oblique muscle)",
+          "대정맥(vena cava)",
+          "아래대정맥(inferior vena cava)",
+          "식도(esophagus)",
+          "가로막(diaphragm)",
+          "배대동맥(abdominal aorta)",
+          "배가로근(transversus abdominis muscle)",
+          "바깥배빗근(external abdominal oblique muscle)",
+          "배벽(abdominal wall)",
+          "뒤배부분(posterior abdominal part)",
+          "뒤배벽(posterior abdominal wall)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "뼈대 5개의 lumbar vertebrae 그 사이에 intervertebra disc 존재",
+        "\"",
+        "tendon이 긴 형태",
+        "inferior vena cava",
+        "식도 esophagus 정중화플요tae lg",
+        "right crus Of diaphragm",
+        "배대동백 left crus of diaphragm",
+        "abdominal aorta 안쪽활플인대",
+        "medial arcuate lig.",
+        "L2 lateral arcuate lig.",
+        "transversus abdominis m L3 quadratus lumborum m",
+        "배속빗근 작은히리근 tendonol 긴 형태",
+        "internal abdominal oblique m L4 psoas minor m",
+        "external abdominal oblique m L5 psoas major m",
+        "엉덩근 iliacus m",
+        "obturator foramen",
+        "방광 ischial tuberosity",
+        "urinary 두/경점_ tubercle",
+        "great saphenous V.",
+        "그림 6-82. 가로막과 뒤배벽"
+      ],
+      "supplemental_ocr_blocks": [
+        "아래대정백",
+        "가로막 오른다리",
+        "가족활플인대",
+        "배가로근 허리네모근",
+        "배바깥빗근 굳히리근",
+        "곧창자 rectum",
+        "폐쇄구멍",
+        "넘다리정맥",
+        "femoral V.",
+        "궁동뼈결절",
+        "bladder",
+        "굳두령정액"
+      ],
+      "corrected_page_text": "뼈대 5개의 lumbar vertebrae 그 사이에 intervertebra disc 존재\n\"\ntendon이 긴 형태\ninferior vena cava\n식도 esophagus 정중화플요tae lg\nright crus Of diaphragm\n배대동백 left crus of diaphragm\nabdominal aorta 안쪽활플인대\nmedial arcuate lig.\nL2 lateral arcuate lig.\ntransversus abdominis m L3 quadratus lumborum m\n배속빗근 작은히리근 tendonol 긴 형태\ninternal abdominal oblique m L4 psoas minor m\nexternal abdominal oblique m L5 psoas major m\n엉덩근 iliacus m\nobturator foramen\n방광 ischial tuberosity\nurinary 두/경점_ tubercle\ngreat saphenous V.\n그림 6-82. 가로막과 뒤배벽",
+      "quality_audit": {
+        "pdf_char_count": 54,
+        "pdf_span_count": 3,
+        "pdf_word_count": 13,
+        "ocr_fragment_count": 47,
+        "pdf_line_count": 3,
+        "ocr_line_count": 31,
+        "merged_line_count": 32,
+        "pdf_only_count": 1,
+        "ocr_only_count": 29,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 3,
+        "ocr_only_line_count": 29,
+        "pdf_alpha_count": 52,
+        "ocr_alpha_count": 435,
+        "promoted_ocr_only_count": 17
+      }
     },
     "lecture_exhaustive_text": {
       "extraction_status": "ocr_merged_candidate",

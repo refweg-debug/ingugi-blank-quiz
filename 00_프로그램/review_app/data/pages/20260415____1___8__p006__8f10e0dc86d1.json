@@ -1,0 +1,331 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+    "page_number": 6
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p001__a877ce13e0f8.json",
+        "review_image_url": "./data/images/20260415____1___8__p001__a877ce13e0f8.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p002__583dc38187be.json",
+        "review_image_url": "./data/images/20260415____1___8__p002__583dc38187be.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p003__8078f19aaaaf.json",
+        "review_image_url": "./data/images/20260415____1___8__p003__8078f19aaaaf.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p004__825cca322f90.json",
+        "review_image_url": "./data/images/20260415____1___8__p004__825cca322f90.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p005__4eff4bafa716.json",
+        "review_image_url": "./data/images/20260415____1___8__p005__4eff4bafa716.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p006__8f10e0dc86d1.json",
+        "review_image_url": "./data/images/20260415____1___8__p006__8f10e0dc86d1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p007__4c181abe3ca4.json"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p008__6dff5a67ca02.json"
+      },
+      {
+        "page_number": 9,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p009__1227df906300.json"
+      },
+      {
+        "page_number": 10,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p010__0463ae2c029f.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p011__3410e6773a20.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p012__f12956b802e8.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p013__ebe7c3f791c9.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p014__2adcbbc7e302.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p015__8d6cef1c698c.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p016__2df61ff1452b.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p017__e881ef973e0f.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p018__f4607e59abc9.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p019__88d14c70976e.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p020__e84e0b84e393.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p021__d6909e9cddbd.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p022__e086f0ef2e8c.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p023__9d67bd0e5106.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p024__74a6992fe479.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p025__ceb8c85dd3a8.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p026__d30b0c6589f0.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p027__4dbd6bb47e54.json"
+      }
+    ],
+    "current_index": 5,
+    "previous_page": 5,
+    "next_page": 7
+  },
+  "review_image_url": "./data/images/20260415____1___8__p006__8f10e0dc86d1.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+      "page_number": 6
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "가쪽으로는 thoracolumbar fascia의 anterior layer와 연결이 된다.",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 4,
+          "text": "[anterior layer] – quadratus lumborum 앞에 위치, transverse process와 부착",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 6,
+          "text": "transverse process와 연결",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 7,
+          "text": "[posterior layer] – erector spinae m. 뒤쪽에 위치, spinous process에 부착",
+          "reason": "relation_present_but_subject_or_target_is_not_fully_resolved"
+        },
+        {
+          "block_index": 8,
+          "text": "Posterio abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 3,
+        "accounted_term_count": 3,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "위(stomach)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Posterio abdominal wall",
+        "**psoas fascia 같은 경우 안쪽으로는 허리뼈 있는데에 붙고, 위쪽으로는 medial",
+        "arcuate lig.를 형성하게 된다.",
+        "가쪽으로는 thoracolumbar fascia의 anterior layer와 연결이 된다.",
+        "[anterior layer] – quadratus lumborum 앞에 위치, transverse process와 부착",
+        "[middle layer] – quadratus lumborum 뒤쪽에 위치, erector spinae m. 앞쪽에 위치,",
+        "transverse process와 연결",
+        "[posterior layer] – erector spinae m. 뒤쪽에 위치, spinous process에 부착"
+      ],
+      "supplemental_ocr_blocks": [
+        "굳히리근 psoas major m",
+        "배가로근막",
+        "transversalis fascia",
+        "허리네모근",
+        "앞층",
+        "anterior layer",
+        "중간층",
+        "middle layer",
+        "척주세움근",
+        "erector spinae m 뒤층",
+        "'\"그림 6-85. 등허리근막파라색의 모식도"
+      ],
+      "corrected_page_text": "Posterio abdominal wall\n**psoas fascia 같은 경우 안쪽으로는 허리뼈 있는데에 붙고, 위쪽으로는 medial\narcuate lig.를 형성하게 된다.\n가쪽으로는 thoracolumbar fascia의 anterior layer와 연결이 된다.\n[anterior layer] – quadratus lumborum 앞에 위치, transverse process와 부착\n[middle layer] – quadratus lumborum 뒤쪽에 위치, erector spinae m. 앞쪽에 위치,\ntransverse process와 연결\n[posterior layer] – erector spinae m. 뒤쪽에 위치, spinous process에 부착",
+      "quality_audit": {
+        "pdf_char_count": 319,
+        "pdf_span_count": 8,
+        "pdf_word_count": 60,
+        "ocr_fragment_count": 25,
+        "pdf_line_count": 8,
+        "ocr_line_count": 19,
+        "merged_line_count": 19,
+        "pdf_only_count": 0,
+        "ocr_only_count": 11,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 8,
+        "ocr_only_line_count": 11,
+        "pdf_alpha_count": 298,
+        "ocr_alpha_count": 108,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

@@ -4,31 +4,435 @@
     "category": "현재통합",
     "source_stem": "2026년 배(소화계통 비뇨계통)",
     "page_number": 148,
+    "note_page_number": 16,
     "source_page_number": 148,
     "original_page_number": 148,
-    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)",
+    "note_source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤"
   },
   "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
   "finalization_status": "question_set_provisional_requires_ai_page_read",
-  "page_read_status": "blocked_until_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
   "source_verified_status": "verified_but_requires_ai_page_read",
-  "questions": [],
+  "questions": [
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0013_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 _____에는 basement membrane(기저막)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "capillary(모세혈관)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0013"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0013",
+        "original": "구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠.",
+        "evidence": "사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0013",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 capillary(모세혈관)에는 basement membrane(기저막)이 있다. / Original: 구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠. / Evidence: 사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 capillary(모세혈관)에는 basement membrane(기저막)이 있다. / Original: 구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠. / Evidence: 사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0013_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 capillary(모세혈관)에는 _____이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "basement membrane(기저막)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0013"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0013",
+        "original": "구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠.",
+        "evidence": "사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0013",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 capillary(모세혈관)에는 basement membrane(기저막)이 있다. / Original: 구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠. / Evidence: 사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 capillary(모세혈관)에는 basement membrane(기저막)이 있다. / Original: 구멍 있는 capillary(모세혈관)는 basement membrane(기저막)이 완벽하게 있다고 했죠. / Evidence: 사구체 capillary(모세혈관)은 두꺼운 basement membrane(기저막)을 가진다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0014_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____ 사이의 틈에는 slit(틈새) diaphragm(틈새사이막)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pedicel(족돌기)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0014"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0014",
+        "original": "pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다.",
+        "evidence": "pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0014",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: pedicel(족돌기) 사이의 틈에는 slit(틈새) diaphragm(틈새사이막)이 있다. / Original: pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다. / Evidence: pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pedicel(족돌기) 사이의 틈에는 slit(틈새) diaphragm(틈새사이막)이 있다. / Original: pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다. / Evidence: pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0014_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "pedicel(족돌기) 사이의 틈에는 _____ diaphragm(틈새사이막)이 있다.",
+      "answer": {
+        "format": "single_text",
+        "value": "slit(틈새)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0014"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0014",
+        "original": "pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다.",
+        "evidence": "pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0014",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: pedicel(족돌기) 사이의 틈에는 slit(틈새) diaphragm(틈새사이막)이 있다. / Original: pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다. / Evidence: pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pedicel(족돌기) 사이의 틈에는 slit(틈새) diaphragm(틈새사이막)이 있다. / Original: pedicel(족돌기)하고 pedicel(족돌기) 사이의 이 틈, 이거를 filtration slit(여과틈새)이라고 얘기했고, 이 slit(틈새)에는 뭐가 있냐면 slit diaphragm(틈새사이막)이라는 membrane(막)이 있습니다. / Evidence: pedicel(족돌기) 사이 filtration slit(여과틈새)는 slit(틈새) diaphragm(틈새사이막)으로 덮인다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0015_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과에서 물질은 먼저 _____를, 그다음 basement membrane(기저막)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "endothelium(내피)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0015",
+        "original": "먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다.",
+        "evidence": "사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0015",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0015_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "basement membrane(기저막)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0015"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0015",
+        "original": "먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다.",
+        "evidence": "사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0015",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 먼저 endothelium(내피)를, 그다음 basement membrane(기저막)을 통과한다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, endothelium(내피) filtration을 통해서 요렇게 통과를 하겠죠. 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 순서로 구성된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0016_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과에서 물질은 _____ 사이의 filtration slit(여과틈새)을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pedicel(족돌기)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0016",
+        "original": "그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다.",
+        "evidence": "여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0016",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0016_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과에서 물질은 pedicel(족돌기) 사이의 _____을 통과한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "filtration slit(여과틈새)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0016"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0016",
+        "original": "그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다.",
+        "evidence": "여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0016",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과에서 물질은 pedicel(족돌기) 사이의 filtration slit(여과틈새)을 통과한다. / Original: 그 다음에 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데, 이 slit(틈새)에도 요기 있는 혈액 부분입니다. / Evidence: 여과는 pedicel(족돌기) 사이 filtration slit(여과틈새)를 거쳐 일어난다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0017_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과장벽은 _____, basement membrane(기저막), filtration slit(여과틈새) 관련 구조로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "endothelium(내피)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0017"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0017",
+        "original": "먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데",
+        "evidence": "사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0017",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과장벽은 endothelium(내피), basement membrane(기저막), filtration slit(여과틈새) 관련 구조로 이루어진다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데 / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과장벽은 endothelium(내피), basement membrane(기저막), filtration slit(여과틈새) 관련 구조로 이루어진다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데 / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0017_002",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "사구체 여과장벽은 endothelium(내피), _____, filtration slit(여과틈새) 관련 구조로 이루어진다.",
+      "answer": {
+        "format": "single_text",
+        "value": "basement membrane(기저막)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0017"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_005",
+        "record_id": "P0017",
+        "original": "먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데",
+        "evidence": "사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0017",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 사구체 여과장벽은 endothelium(내피), basement membrane(기저막), filtration slit(여과틈새) 관련 구조로 이루어진다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데 / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 사구체 여과장벽은 endothelium(내피), basement membrane(기저막), filtration slit(여과틈새) 관련 구조로 이루어진다. / Original: 먼저 뭐를 통과해야 합니까? endothelium(내피)을 통과해야 되는데, ... 그 다음에 basement membrane(기저막)을 통과를 해야 합니다. 자 그리고 pedicel(족돌기) 사이에 있는 filtration slit(여과틈새)을 통과해야 되는데 / Evidence: 사구체 여과장벽은 창내피, basement membrane(기저막), 족세포의 slit diaphragm으로 구성된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "배_현재통합_2026년_배_소화계통_비뇨계통_p148_recording_20260413-1200_P0001_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "어떤 물질은 _____ 장벽을 통과해야 filtration(여과)액에 들어간다.",
+      "answer": {
+        "format": "single_text",
+        "value": "filtration(여과)"
+      },
+      "source_proposition_ids": [
+        "배_녹음파일_20260413-1200_P0001"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260413-1200.txt",
+        "chunk": "20260413-1200_chunk_006",
+        "record_id": "P0001",
+        "original": "통과를 해야지 filtration(여과)액으로 들어가게 된다.",
+        "evidence": "사구체 filtration(여과)는 혈장 성분이 filtration(여과) 장벽을 통과해 여과액으로 들어가는 과정이다.",
+        "confidence": "높음",
+        "estimated_page": 148,
+        "estimated_page_range": [
+          133,
+          158
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "배_녹음파일_20260413-1200_P0001",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: 어떤 물질은 filtration(여과) 장벽을 통과해야 filtration(여과)액에 들어간다. / Original: 통과를 해야지 filtration(여과)액으로 들어가게 된다. / Evidence: 사구체 filtration(여과)는 혈장 성분이 filtration(여과) 장벽을 통과해 여과액으로 들어가는 과정이다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: 어떤 물질은 filtration(여과) 장벽을 통과해야 filtration(여과)액에 들어간다. / Original: 통과를 해야지 filtration(여과)액으로 들어가게 된다. / Evidence: 사구체 filtration(여과)는 혈장 성분이 filtration(여과) 장벽을 통과해 여과액으로 들어가는 과정이다. / Page match: date-order estimate across the lecture page range."
+      }
+    }
+  ],
   "summary": {
-    "question_count": 0,
-    "question_type_count": {},
-    "question_focus_count": {}
+    "question_count": 11,
+    "question_type_count": {
+      "fill_blank": 11
+    },
+    "question_focus_count": {
+      "recording_proposition_review": 11
+    }
   },
   "blocked_image_question_reasons": [
     "ai_page_read_not_complete"
   ],
+  "recording_supplement_status": "recording_proposition_page_estimate_added",
   "navigation": {
     "pages": [
       {
         "page_number": 1,
         "source_page_number": 1,
         "question_count": 0,
-        "finalization_status": "question_set_ready",
-        "page_read_status": "ai_page_read_complete",
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p001__7d02aa4591e0.json",
         "review_image_url": "./data/images/2026__p001__7d02aa4591e0.webp"
       },
@@ -1187,393 +1591,401 @@
       {
         "page_number": 133,
         "source_page_number": 133,
-        "question_count": 2,
+        "question_count": 13,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p133__cc21ff2f293d.json",
         "review_image_url": "./data/images/2026__p133__cc21ff2f293d.webp"
       },
       {
         "page_number": 134,
         "source_page_number": 134,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p134__ce27efb5ddc9.json",
         "review_image_url": "./data/images/2026__p134__ce27efb5ddc9.webp"
       },
       {
         "page_number": 135,
         "source_page_number": 135,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p135__ff75e9aff6d2.json",
         "review_image_url": "./data/images/2026__p135__ff75e9aff6d2.webp"
       },
       {
         "page_number": 136,
         "source_page_number": 136,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p136__cf13b94d79bc.json",
         "review_image_url": "./data/images/2026__p136__cf13b94d79bc.webp"
       },
       {
         "page_number": 137,
         "source_page_number": 137,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p137__eb261078966f.json",
         "review_image_url": "./data/images/2026__p137__eb261078966f.webp"
       },
       {
         "page_number": 138,
         "source_page_number": 138,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p138__9f320b74b076.json",
         "review_image_url": "./data/images/2026__p138__9f320b74b076.webp"
       },
       {
         "page_number": 139,
         "source_page_number": 139,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p139__d47d0fe66932.json",
         "review_image_url": "./data/images/2026__p139__d47d0fe66932.webp"
       },
       {
         "page_number": 140,
         "source_page_number": 140,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p140__79f42a795ba3.json",
         "review_image_url": "./data/images/2026__p140__79f42a795ba3.webp"
       },
       {
         "page_number": 141,
         "source_page_number": 141,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p141__ee9dc1b4c492.json",
         "review_image_url": "./data/images/2026__p141__ee9dc1b4c492.webp"
       },
       {
         "page_number": 142,
         "source_page_number": 142,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p142__d7ff520a84ce.json",
         "review_image_url": "./data/images/2026__p142__d7ff520a84ce.webp"
       },
       {
         "page_number": 143,
         "source_page_number": 143,
-        "question_count": 0,
+        "question_count": 8,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p143__bba0c0e54734.json",
         "review_image_url": "./data/images/2026__p143__bba0c0e54734.webp"
       },
       {
         "page_number": 144,
         "source_page_number": 144,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p144__e09461e45252.json",
         "review_image_url": "./data/images/2026__p144__e09461e45252.webp"
       },
       {
         "page_number": 145,
         "source_page_number": 145,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p145__d60d21bc2e4f.json",
         "review_image_url": "./data/images/2026__p145__d60d21bc2e4f.webp"
       },
       {
         "page_number": 146,
         "source_page_number": 146,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p146__5b44b967fe28.json",
         "review_image_url": "./data/images/2026__p146__5b44b967fe28.webp"
       },
       {
         "page_number": 147,
         "source_page_number": 147,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p147__c908a7a86116.json",
         "review_image_url": "./data/images/2026__p147__c908a7a86116.webp"
       },
       {
         "page_number": 148,
         "source_page_number": 148,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p148__a076836abe57.json",
         "review_image_url": "./data/images/2026__p148__a076836abe57.webp"
       },
       {
         "page_number": 149,
         "source_page_number": 149,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p149__e9059ad77a6e.json"
       },
       {
         "page_number": 150,
         "source_page_number": 150,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p150__bbfc81fbfb5b.json"
       },
       {
         "page_number": 151,
         "source_page_number": 151,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p151__b03393ac0cbd.json"
       },
       {
         "page_number": 152,
         "source_page_number": 152,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p152__9aaa4cd94d80.json"
       },
       {
         "page_number": 153,
         "source_page_number": 153,
-        "question_count": 0,
+        "question_count": 12,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p153__5863176ca98e.json"
       },
       {
         "page_number": 154,
         "source_page_number": 154,
-        "question_count": 0,
+        "question_count": 9,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p154__2b2644fc87ed.json"
       },
       {
         "page_number": 155,
         "source_page_number": 155,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p155__2ccc358d8d84.json"
       },
       {
         "page_number": 156,
         "source_page_number": 156,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p156__d13be9bba555.json"
       },
       {
         "page_number": 157,
         "source_page_number": 157,
-        "question_count": 0,
+        "question_count": 10,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p157__ee5743ec8963.json"
       },
       {
         "page_number": 158,
         "source_page_number": 158,
-        "question_count": 0,
+        "question_count": 11,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p158__cc2d54af62f1.json"
+      },
+      {
+        "page_number": 159,
+        "source_page_number": 159,
+        "question_count": 20,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p159__0c6e52d518b9.json"
       },
       {
         "page_number": 160,
         "source_page_number": 160,
-        "question_count": 10,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p160__859e4a6bfe38.json"
       },
       {
         "page_number": 161,
         "source_page_number": 161,
-        "question_count": 2,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p161__7112bad577cb.json"
       },
       {
         "page_number": 162,
         "source_page_number": 162,
-        "question_count": 2,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p162__0265bbe77958.json"
       },
       {
         "page_number": 163,
         "source_page_number": 163,
-        "question_count": 2,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p163__4399fbe79248.json"
       },
       {
         "page_number": 164,
         "source_page_number": 164,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p164__2bd83160c97f.json"
       },
       {
         "page_number": 165,
         "source_page_number": 165,
-        "question_count": 2,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p165__2d0f049be45b.json"
       },
       {
         "page_number": 166,
         "source_page_number": 166,
-        "question_count": 0,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p166__bbb04033aa09.json"
       },
       {
         "page_number": 167,
         "source_page_number": 167,
-        "question_count": 2,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p167__5f2874b02c51.json"
       },
       {
         "page_number": 168,
         "source_page_number": 168,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p168__5451fbd69021.json"
       },
       {
         "page_number": 169,
         "source_page_number": 169,
-        "question_count": 0,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p169__457c2d79c040.json"
       },
       {
         "page_number": 170,
         "source_page_number": 170,
-        "question_count": 2,
+        "question_count": 22,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p170__c7108b8e3192.json"
       },
       {
         "page_number": 171,
         "source_page_number": 171,
-        "question_count": 2,
+        "question_count": 21,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p171__ccc974035dca.json"
       },
       {
         "page_number": 172,
         "source_page_number": 172,
-        "question_count": 0,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p172__f3b565018b76.json"
       },
       {
         "page_number": 173,
         "source_page_number": 173,
-        "question_count": 0,
+        "question_count": 18,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p173__983911075f0c.json"
       },
       {
         "page_number": 174,
         "source_page_number": 174,
-        "question_count": 0,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p174__01dd050154db.json"
       },
       {
         "page_number": 175,
         "source_page_number": 175,
-        "question_count": 0,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p175__fb504cf1d16a.json"
       },
       {
         "page_number": 176,
         "source_page_number": 176,
-        "question_count": 0,
+        "question_count": 17,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p176__cc16cf0872af.json"
       },
       {
         "page_number": 177,
         "source_page_number": 177,
-        "question_count": 0,
+        "question_count": 20,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p177__421cd19b1f94.json"
       },
       {
         "page_number": 178,
         "source_page_number": 178,
-        "question_count": 2,
+        "question_count": 19,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p178__8c1736c14595.json"
       },
       {
         "page_number": 179,
         "source_page_number": 179,
-        "question_count": 2,
+        "question_count": 14,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p179__0dee003350b1.json"
       },
       {
         "page_number": 180,
         "source_page_number": 180,
-        "question_count": 0,
+        "question_count": 16,
         "finalization_status": "question_set_provisional_requires_ai_page_read",
-        "page_read_status": "blocked_until_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
         "static_page_file": "pages/2026__p180__efa698839d0e.json"
       }
     ],
@@ -1584,9 +1996,121 @@
   "review_image_url": "./data/images/2026__p148__a076836abe57.webp",
   "analysis": {
     "analysis_ref": {
-      "category": "현재통합",
-      "source_stem": "2026년 배(소화계통 비뇨계통)",
-      "page_number": 148
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 16
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "위의 영어 이름은 stomach이다.",
+        "간문맥계의 영어 이름은 portal venous system이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 6,
+        "accounted_term_count": 5,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.833,
+        "accounted_terms": [
+          "위(stomach)",
+          "간문맥계(portal venous system)",
+          "간문맥(hepatic portal vein)",
+          "간(liver)",
+          "간문(porta hepatis)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "공판단위(Nephron)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "공깥은 혈관율 정화",
+        "Blood circulation",
+        "• Nephron 콩팥의혈관구조는콩팥전체에서과밀접한관련있음",
+        "• 콩팥의혈관은위치와형태에따라명명함",
+        "모세혈관덩어리",
+        "Portal system",
+        "Renal hilum 2 에서개이상의",
+        "Segmental a. 로분지됨",
+        "공판단위(Nephron)",
+        "Cortical",
+        "efferent arteriole",
+        "efferent arteriole",
+        "동반정맥",
+        "1.Simple pathway",
+        "Artery -> Arteriole -> Capillary -> Venule -> Vein",
+        "2.Arteriovenous shunt",
+        "Artery -> Arteriole -> Venule -> Vein",
+        "(Anastomosis : Capillary )건너뜀",
+        "3.Portal system",
+        "-Venous portal system e.g. 뇌하수체",
+        "-Arterial portal system",
+        "[Arterial portal system]",
+        "Artery -> Afferent arteriole -> Capillary -> Efferent arteriole -> Vein"
+      ],
+      "supplemental_ocr_blocks": [
+        "공같의 험관은 위치와 형태에 따라 명명합",
+        "그림 19-3 콩광의 혈액순환",
+        "업사이동매 합프동머 소요사이동매 둘로리서동권",
+        "(Interlobar artery) (Arcuite artery) (Interlobulnr arteryl (Aferent artericle)",
+        "분전동대 보리",
+        "(Segmental- (Clomerulus)",
+        "artery)",
+        "TFenafzoruscle 모세훨관 덩어리 Portal system",
+        "토리적어스세진 pCT)",
+        "Renal hilurr예l서 27 이상이",
+        "Segmental a 로 분지팀 vein) 던쪽구-서 관",
+        "공짜동매 (DCT)",
+        "(Renal artery) (Efferent artericle)",
+        "efferent Brteriole efferent arTeriole",
+        "'걷실(Cortex)",
+        "세진주위모서 M판 곧은회관",
+        "컴고림관 '속직( Medulla) \"Gapilabuar (Vasa rectal",
+        "{icuafe 주릎 무치 국제치",
+        "톤",
+        "동반정액 공쓰정매",
+        "(Renal vein)",
+        "1.Simple pathway",
+        "2.Arteriovenous sllunt",
+        "Artery > Arteriolel > Venule > Vein",
+        "(Anastornosis : Capillary 건너센)",
+        "콩광서 관고리(Loop of Henle} 3,Portal systern",
+        "~Arterial portal syeiem",
+        "입사이장대 긴표정매 '소입사이징다 [Arterial portal system]",
+        "콩팔 관상면(원쪽에서 주요 혈관의 경로와 이름올 확인할 수 있다 확대 이연보라색 상지외 훨권은 자츰수된 특정물질이 혈액으로 되돌아가논 현",
+        "한 그림오른쪽)에서 겉질과 속질에 걸쳐있는 소염사이동맥의 분지양상울 상이 일어나는 모세혈관율 나타내다:",
+        "관찰할 수 있다: 빨간상자는 동맥은 파라상자는 정춘은 표시하없다: 둘 사"
+      ],
+      "corrected_page_text": "공깥은 혈관율 정화\nBlood circulation\n• Nephron 콩팥의혈관구조는콩팥전체에서과밀접한관련있음\n• 콩팥의혈관은위치와형태에따라명명함\n모세혈관덩어리\nPortal system\nRenal hilum 2 에서개이상의\nSegmental a. 로분지됨\n공판단위(Nephron)\nCortical\nefferent arteriole\nefferent arteriole\n동반정맥\n1.Simple pathway\nArtery -> Arteriole -> Capillary -> Venule -> Vein\n2.Arteriovenous shunt\nArtery -> Arteriole -> Venule -> Vein\n(Anastomosis : Capillary )건너뜀\n3.Portal system\n-Venous portal system e.g. 뇌하수체\n-Arterial portal system\n[Arterial portal system]\nArtery -> Afferent arteriole -> Capillary -> Efferent arteriole -> Vein",
+      "quality_audit": {
+        "pdf_char_count": 463,
+        "pdf_span_count": 53,
+        "pdf_word_count": 89,
+        "ocr_fragment_count": 74,
+        "pdf_line_count": 23,
+        "ocr_line_count": 40,
+        "merged_line_count": 54,
+        "pdf_only_count": 14,
+        "ocr_only_count": 31,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 23,
+        "ocr_only_line_count": 31,
+        "pdf_alpha_count": 418,
+        "ocr_alpha_count": 677,
+        "promoted_ocr_only_count": 0
+      }
     },
     "lecture_exhaustive_text": {
       "extraction_status": "ocr_merged_candidate",

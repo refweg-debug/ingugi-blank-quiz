@@ -1,0 +1,352 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+    "page_number": 27
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p001__a877ce13e0f8.json",
+        "review_image_url": "./data/images/20260415____1___8__p001__a877ce13e0f8.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p002__583dc38187be.json",
+        "review_image_url": "./data/images/20260415____1___8__p002__583dc38187be.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p003__8078f19aaaaf.json",
+        "review_image_url": "./data/images/20260415____1___8__p003__8078f19aaaaf.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p004__825cca322f90.json",
+        "review_image_url": "./data/images/20260415____1___8__p004__825cca322f90.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p005__4eff4bafa716.json",
+        "review_image_url": "./data/images/20260415____1___8__p005__4eff4bafa716.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p006__8f10e0dc86d1.json",
+        "review_image_url": "./data/images/20260415____1___8__p006__8f10e0dc86d1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p007__4c181abe3ca4.json",
+        "review_image_url": "./data/images/20260415____1___8__p007__4c181abe3ca4.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p008__6dff5a67ca02.json",
+        "review_image_url": "./data/images/20260415____1___8__p008__6dff5a67ca02.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p009__1227df906300.json",
+        "review_image_url": "./data/images/20260415____1___8__p009__1227df906300.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p010__0463ae2c029f.json",
+        "review_image_url": "./data/images/20260415____1___8__p010__0463ae2c029f.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p011__3410e6773a20.json",
+        "review_image_url": "./data/images/20260415____1___8__p011__3410e6773a20.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p012__f12956b802e8.json",
+        "review_image_url": "./data/images/20260415____1___8__p012__f12956b802e8.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p013__ebe7c3f791c9.json",
+        "review_image_url": "./data/images/20260415____1___8__p013__ebe7c3f791c9.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p014__2adcbbc7e302.json",
+        "review_image_url": "./data/images/20260415____1___8__p014__2adcbbc7e302.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p015__8d6cef1c698c.json",
+        "review_image_url": "./data/images/20260415____1___8__p015__8d6cef1c698c.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p016__2df61ff1452b.json",
+        "review_image_url": "./data/images/20260415____1___8__p016__2df61ff1452b.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p017__e881ef973e0f.json",
+        "review_image_url": "./data/images/20260415____1___8__p017__e881ef973e0f.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p018__f4607e59abc9.json",
+        "review_image_url": "./data/images/20260415____1___8__p018__f4607e59abc9.webp"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p019__88d14c70976e.json",
+        "review_image_url": "./data/images/20260415____1___8__p019__88d14c70976e.webp"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p020__e84e0b84e393.json",
+        "review_image_url": "./data/images/20260415____1___8__p020__e84e0b84e393.webp"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p021__d6909e9cddbd.json",
+        "review_image_url": "./data/images/20260415____1___8__p021__d6909e9cddbd.webp"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p022__e086f0ef2e8c.json",
+        "review_image_url": "./data/images/20260415____1___8__p022__e086f0ef2e8c.webp"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p023__9d67bd0e5106.json",
+        "review_image_url": "./data/images/20260415____1___8__p023__9d67bd0e5106.webp"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p024__74a6992fe479.json",
+        "review_image_url": "./data/images/20260415____1___8__p024__74a6992fe479.webp"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p025__ceb8c85dd3a8.json",
+        "review_image_url": "./data/images/20260415____1___8__p025__ceb8c85dd3a8.webp"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p026__d30b0c6589f0.json",
+        "review_image_url": "./data/images/20260415____1___8__p026__d30b0c6589f0.webp"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p027__4dbd6bb47e54.json",
+        "review_image_url": "./data/images/20260415____1___8__p027__4dbd6bb47e54.webp"
+      }
+    ],
+    "current_index": 26,
+    "previous_page": 26
+  },
+  "review_image_url": "./data/images/20260415____1___8__p027__4dbd6bb47e54.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+      "page_number": 27
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "쓸개주머니의 영어 이름은 gallbladder이다.",
+        "샘창자의 영어 이름은 duodenum이다.",
+        "가로막의 영어 이름은 diaphragm이다.",
+        "머리의 영어 이름은 head이다.",
+        "이자의 영어 이름은 pancreas이다.",
+        "이자머리의 영어 이름은 head of pancreas이다.",
+        "위의 영어 이름은 stomach이다.",
+        "지라의 영어 이름은 spleen이다.",
+        "작은창자의 영어 이름은 small intestine이다.",
+        "간의 영어 이름은 liver이다.",
+        "막창자의 영어 이름은 cecum이다.",
+        "오름잘록창자의 영어 이름은 ascending colon이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 3,
+          "text": "(duodenum) '가로막의",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 12,
+        "accounted_term_count": 12,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "쓸개주머니(gallbladder)",
+          "샘창자(duodenum)",
+          "가로막(diaphragm)",
+          "머리(head)",
+          "이자(pancreas)",
+          "이자머리(head of pancreas)",
+          "위(stomach)",
+          "지라(spleen)",
+          "작은창자(small intestine)",
+          "간(liver)",
+          "막창자(cecum)",
+          "오름잘록창자(ascending colon)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Referred pain",
+        "Referred pain",
+        "(gallbladder); 생장자",
+        "(duodenum) '가로막의",
+        "셈장자duodenumn);",
+        "이자머리head of pancreas)",
+        "위 쓸개gallbladder)",
+        "쓸개gallbladder) 지라",
+        "간liver) 작은창자small",
+        "intestine; 분동색 간liver)",
+        "(appendix) 구물잘록창자",
+        "(sigmoid colon)",
+        "콩팔kidney)과",
+        "막창자cecumn)와",
+        "(ascending colon)"
+      ],
+      "supplemental_ocr_blocks": [
+        "aliver); 쓸개",
+        "자극에 의해",
+        "(stomach)",
+        "(spleen)",
+        "막창자꼬리",
+        "요관ureter)",
+        "오름잘록창자"
+      ],
+      "corrected_page_text": "Referred pain\nReferred pain\n(gallbladder); 생장자\n(duodenum) '가로막의\n셈장자duodenumn);\n이자머리head of pancreas)\n위 쓸개gallbladder)\n쓸개gallbladder) 지라\n간liver) 작은창자small\nintestine; 분동색 간liver)\n(appendix) 구물잘록창자\n(sigmoid colon)\n콩팔kidney)과\n막창자cecumn)와\n(ascending colon)",
+      "quality_audit": {
+        "pdf_char_count": 12,
+        "pdf_span_count": 1,
+        "pdf_word_count": 2,
+        "ocr_fragment_count": 28,
+        "pdf_line_count": 1,
+        "ocr_line_count": 21,
+        "merged_line_count": 22,
+        "pdf_only_count": 1,
+        "ocr_only_count": 21,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 21,
+        "pdf_alpha_count": 12,
+        "ocr_alpha_count": 234,
+        "promoted_ocr_only_count": 14
+      }
+    }
+  }
+}

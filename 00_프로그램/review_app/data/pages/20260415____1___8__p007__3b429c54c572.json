@@ -1,0 +1,343 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "통합",
+    "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+    "page_number": 7,
+    "note_page_number": 7,
+    "source_page_number": 165,
+    "original_page_number": 165,
+    "original_source_stem": "2026년 배(소화계통 비뇨계통)"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 159,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p001__e48ecd3cd3a1.json"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 160,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p002__373011130436.json"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 161,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p003__858d89eedf07.json"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 162,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p004__628b857e47a9.json"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 163,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p005__35739516c6b6.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 164,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p006__02cef63df96b.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 165,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p007__3b429c54c572.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 166,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p008__74266ef22dd0.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 167,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p009__09703518c5dc.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 168,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p010__969750ce8599.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 169,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p011__fd8bc0f63aab.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 170,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p012__b42a0033765b.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 171,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p013__31e89da900af.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 172,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p014__19834257374a.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 173,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p015__349f2b235219.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 174,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p016__9c566da2f8cc.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 175,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p017__0dad2edcc18c.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 176,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p018__f86e57390b1b.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 177,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p019__239f6b3c48ca.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 178,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p020__85248323e186.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 179,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p021__02eee0479a83.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 180,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p022__8b6e9816d820.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 178,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p023__d290791caa6f.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 173,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p024__6f6b8698c29c.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 179,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p025__d78d1324199f.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p026__6662c4c1f2eb.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 180,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260415____1___8__p027__e14e9c3268b6.json"
+      }
+    ],
+    "current_index": 6,
+    "previous_page": 6,
+    "next_page": 8
+  },
+  "analysis": {
+    "analysis_ref": {
+      "category": "통합",
+      "source_stem": "20260415_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)8_서동욱",
+      "page_number": 7
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "course_propositions": [
+        "갈비뼈의 영어 이름은 rib이다.",
+        "간의 영어 이름은 liver이다.",
+        "신경의 영어 이름은 nerves이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "배벽의 영어 이름은 abdominal wall이다.",
+        "뒤배부분의 영어 이름은 posterior abdominal part이다.",
+        "뒤배벽의 영어 이름은 posterior abdominal wall이다.",
+        "근육의 영어 이름은 muscles이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 23,
+          "text": "Muscles of the posterior abdominal wall",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 10,
+        "accounted_term_count": 9,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.9,
+        "accounted_terms": [
+          "갈비뼈(rib)",
+          "간(liver)",
+          "신경(nerves)",
+          "척주(vertebral column)",
+          "배(abdominal region)",
+          "배벽(abdominal wall)",
+          "뒤배부분(posterior abdominal part)",
+          "뒤배벽(posterior abdominal wall)",
+          "근육(muscles)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "장요근(iliopsoas m.)"
+        ]
+      }
+    },
+    "lecture_exhaustive_text": {
+      "extraction_status": "ocr_merged_candidate",
+      "corrected_blocks": [
+        "Muscles of the posterior abdominal wall",
+        "표 6-2. 뒤배벽의 근육",
+        "quadratus lumborum m",
+        "굳히리근 psoas major m",
+        "작은히리근 엉덩근 psoas major m",
+        "psoas minor m iliacus m 작은히리근",
+        "엉덩뼈 ilium psoas minor m",
+        "greater trochanter 'l하a올",
+        "iliopsoas m",
+        "lesser trochanter"
+      ],
+      "supplemental_ocr_blocks": [
+        "허리네모근",
+        "굳히리근",
+        "3 8 3",
+        "근돌기 고살인대",
+        "작은돌기"
+      ],
+      "corrected_page_text": "Muscles of the posterior abdominal wall\n표 6-2. 뒤배벽의 근육\nquadratus lumborum m\n굳히리근 psoas major m\n작은히리근 엉덩근 psoas major m\npsoas minor m iliacus m 작은히리근\n엉덩뼈 ilium psoas minor m\ngreater trochanter 'l하a올\niliopsoas m\nlesser trochanter",
+      "quality_audit": {
+        "pdf_char_count": 34,
+        "pdf_span_count": 1,
+        "pdf_word_count": 6,
+        "ocr_fragment_count": 24,
+        "pdf_line_count": 1,
+        "ocr_line_count": 15,
+        "merged_line_count": 15,
+        "pdf_only_count": 0,
+        "ocr_only_count": 14,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 1,
+        "ocr_only_line_count": 14,
+        "pdf_alpha_count": 34,
+        "ocr_alpha_count": 169,
+        "promoted_ocr_only_count": 9
+      }
+    }
+  }
+}

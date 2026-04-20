@@ -1,0 +1,1271 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "현재통합",
+    "source_stem": "2026년 골반(여성 남성생식계통)",
+    "page_number": 4,
+    "note_page_number": 4,
+    "source_page_number": 4,
+    "original_page_number": 4,
+    "original_source_stem": "2026년 골반(여성 남성생식계통)",
+    "note_source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤"
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "골반_현재통합_2026년_골반_여성_남성생식계통_p004_recording_20260416-1100_P0010_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____에는 남성과 여성의 외부 생식기가 포함된다.",
+      "answer": {
+        "format": "single_text",
+        "value": "perineum(회음)"
+      },
+      "source_proposition_ids": [
+        "골반_녹음파일_20260416-1100_P0010"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "chunk": "20260416-1100_chunk_001",
+        "record_id": "P0010",
+        "original": "남성과 여성의 외부 생식기 같은 공간이 perineum(회음)입니다.",
+        "evidence": "perineum(회음)에는 외부 생식기와 항문 주위 영역이 포함된다.",
+        "confidence": "높음",
+        "estimated_page": 4,
+        "estimated_page_range": [
+          1,
+          67
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "골반_녹음파일_20260416-1100_P0010",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: perineum(회음)에는 남성과 여성의 외부 생식기가 포함된다. / Original: 남성과 여성의 외부 생식기 같은 공간이 perineum(회음)입니다. / Evidence: perineum(회음)에는 외부 생식기와 항문 주위 영역이 포함된다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: perineum(회음)에는 남성과 여성의 외부 생식기가 포함된다. / Original: 남성과 여성의 외부 생식기 같은 공간이 perineum(회음)입니다. / Evidence: perineum(회음)에는 외부 생식기와 항문 주위 영역이 포함된다. / Page match: date-order estimate across the lecture page range."
+      }
+    },
+    {
+      "question_id": "골반_현재통합_2026년_골반_여성_남성생식계통_p004_recording_20260416-1100_P0011_001",
+      "question_type": "fill_blank",
+      "question_focus": "recording_proposition_review",
+      "blank_mode": "single_term_blank",
+      "prompt": "_____는 크게 3개의 파트로 나눈다.",
+      "answer": {
+        "format": "single_text",
+        "value": "pelvis(골반)"
+      },
+      "source_proposition_ids": [
+        "골반_녹음파일_20260416-1100_P0011"
+      ],
+      "verification_status": "recording_true_proposition_unverified_page_estimate",
+      "recording_source": {
+        "file": "20260416-1100.txt",
+        "chunk": "20260416-1100_chunk_001",
+        "record_id": "P0011",
+        "original": "pelvis(골반)는 크게 3개의 파트로 나눕니다.",
+        "evidence": "pelvis(골반)은 보통 골반대, 골반강, 회음으로 구분해 설명한다.",
+        "confidence": "높음",
+        "estimated_page": 4,
+        "estimated_page_range": [
+          1,
+          67
+        ],
+        "mapping_method": "lecture_date_order_even_distribution"
+      },
+      "proposition_id": "골반_녹음파일_20260416-1100_P0011",
+      "short_explanation": "Generated from a verified true proposition in the recording text.",
+      "full_explanation": "Recording proposition: pelvis(골반)는 크게 3개의 파트로 나눈다. / Original: pelvis(골반)는 크게 3개의 파트로 나눕니다. / Evidence: pelvis(골반)은 보통 골반대, 골반강, 회음으로 구분해 설명한다. / Page match: date-order estimate across the lecture page range.",
+      "explanation": {
+        "short": "Generated from a verified true proposition in the recording text.",
+        "full": "Recording proposition: pelvis(골반)는 크게 3개의 파트로 나눈다. / Original: pelvis(골반)는 크게 3개의 파트로 나눕니다. / Evidence: pelvis(골반)은 보통 골반대, 골반강, 회음으로 구분해 설명한다. / Page match: date-order estimate across the lecture page range."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 2,
+    "question_type_count": {
+      "fill_blank": 2
+    },
+    "question_focus_count": {
+      "recording_proposition_review": 2
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "recording_supplement_status": "recording_proposition_page_estimate_added",
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "source_page_number": 1,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p001__f2afd3b978bf.json",
+        "review_image_url": "./data/images/2026__p001__f2afd3b978bf.webp"
+      },
+      {
+        "page_number": 2,
+        "source_page_number": 2,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p002__bc005814147a.json",
+        "review_image_url": "./data/images/2026__p002__bc005814147a.webp"
+      },
+      {
+        "page_number": 3,
+        "source_page_number": 3,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p003__c28b67c72ed1.json",
+        "review_image_url": "./data/images/2026__p003__c28b67c72ed1.webp"
+      },
+      {
+        "page_number": 4,
+        "source_page_number": 4,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p004__fe3bc61c73d4.json",
+        "review_image_url": "./data/images/2026__p004__fe3bc61c73d4.webp"
+      },
+      {
+        "page_number": 5,
+        "source_page_number": 5,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p005__dcce97cdaa53.json"
+      },
+      {
+        "page_number": 6,
+        "source_page_number": 6,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p006__84d594ee4c7e.json"
+      },
+      {
+        "page_number": 7,
+        "source_page_number": 7,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p007__421da1a9ec48.json"
+      },
+      {
+        "page_number": 8,
+        "source_page_number": 8,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p008__f46c08fe7237.json"
+      },
+      {
+        "page_number": 9,
+        "source_page_number": 9,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p009__1cd29900ac3f.json"
+      },
+      {
+        "page_number": 10,
+        "source_page_number": 10,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p010__a6ca1a181811.json"
+      },
+      {
+        "page_number": 11,
+        "source_page_number": 11,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p011__cf75a79eefe8.json"
+      },
+      {
+        "page_number": 12,
+        "source_page_number": 12,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p012__ed8689d54f13.json"
+      },
+      {
+        "page_number": 13,
+        "source_page_number": 13,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p013__edbbb0929f34.json"
+      },
+      {
+        "page_number": 14,
+        "source_page_number": 14,
+        "question_count": 6,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p014__0da72e748c79.json"
+      },
+      {
+        "page_number": 15,
+        "source_page_number": 15,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p015__5ae15b1efed4.json"
+      },
+      {
+        "page_number": 16,
+        "source_page_number": 16,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p016__d839a4d72ed4.json"
+      },
+      {
+        "page_number": 17,
+        "source_page_number": 17,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p017__cbac807bfe94.json"
+      },
+      {
+        "page_number": 18,
+        "source_page_number": 18,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p018__47aecd021152.json"
+      },
+      {
+        "page_number": 19,
+        "source_page_number": 19,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p019__c172f5bd75a8.json"
+      },
+      {
+        "page_number": 20,
+        "source_page_number": 20,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p020__c9200222e947.json"
+      },
+      {
+        "page_number": 21,
+        "source_page_number": 21,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p021__dc8870cab090.json"
+      },
+      {
+        "page_number": 22,
+        "source_page_number": 22,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p022__76f32ccda113.json"
+      },
+      {
+        "page_number": 23,
+        "source_page_number": 23,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p023__7523f1a65173.json"
+      },
+      {
+        "page_number": 24,
+        "source_page_number": 24,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p024__05724ee303b4.json"
+      },
+      {
+        "page_number": 25,
+        "source_page_number": 25,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p025__c55ab5391970.json"
+      },
+      {
+        "page_number": 26,
+        "source_page_number": 26,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p026__7ac107e9a35c.json"
+      },
+      {
+        "page_number": 27,
+        "source_page_number": 27,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p027__ddecf1caa7ad.json"
+      },
+      {
+        "page_number": 28,
+        "source_page_number": 28,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p028__3347c68bc22c.json"
+      },
+      {
+        "page_number": 29,
+        "source_page_number": 29,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p029__f7770803704f.json"
+      },
+      {
+        "page_number": 30,
+        "source_page_number": 30,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p030__1983d5fcc741.json"
+      },
+      {
+        "page_number": 31,
+        "source_page_number": 31,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p031__3e717e8e7804.json"
+      },
+      {
+        "page_number": 32,
+        "source_page_number": 32,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p032__d547a5394d02.json"
+      },
+      {
+        "page_number": 33,
+        "source_page_number": 33,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p033__9403984feb30.json"
+      },
+      {
+        "page_number": 34,
+        "source_page_number": 34,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/2026__p034__a85b0cc480bd.json"
+      },
+      {
+        "page_number": 35,
+        "source_page_number": 35,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p035__8db108f465a2.json"
+      },
+      {
+        "page_number": 36,
+        "source_page_number": 36,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p036__f3383f56d53c.json"
+      },
+      {
+        "page_number": 37,
+        "source_page_number": 37,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p037__a541c04d89e7.json"
+      },
+      {
+        "page_number": 38,
+        "source_page_number": 38,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p038__a64129c4745e.json"
+      },
+      {
+        "page_number": 39,
+        "source_page_number": 39,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p039__e7f3f2ab91b5.json"
+      },
+      {
+        "page_number": 40,
+        "source_page_number": 40,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p040__b86c90a4df84.json"
+      },
+      {
+        "page_number": 41,
+        "source_page_number": 41,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p041__fb53b8926164.json"
+      },
+      {
+        "page_number": 42,
+        "source_page_number": 42,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p042__cd5252574a9a.json"
+      },
+      {
+        "page_number": 43,
+        "source_page_number": 43,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p043__3b9cb381672d.json"
+      },
+      {
+        "page_number": 44,
+        "source_page_number": 44,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p044__565889687fc2.json"
+      },
+      {
+        "page_number": 45,
+        "source_page_number": 45,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p045__a45dd339bbef.json"
+      },
+      {
+        "page_number": 46,
+        "source_page_number": 46,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p046__42d14abec112.json"
+      },
+      {
+        "page_number": 47,
+        "source_page_number": 47,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p047__808358e47183.json"
+      },
+      {
+        "page_number": 48,
+        "source_page_number": 48,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p048__a9d13ebf1bae.json"
+      },
+      {
+        "page_number": 49,
+        "source_page_number": 49,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p049__5bce0ea59bb7.json"
+      },
+      {
+        "page_number": 50,
+        "source_page_number": 50,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p050__7dcc503c2d4a.json"
+      },
+      {
+        "page_number": 51,
+        "source_page_number": 51,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p051__ce36207237b3.json"
+      },
+      {
+        "page_number": 52,
+        "source_page_number": 52,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p052__d8b5ba1d5cc2.json"
+      },
+      {
+        "page_number": 53,
+        "source_page_number": 53,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p053__2dd146854557.json"
+      },
+      {
+        "page_number": 54,
+        "source_page_number": 54,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p054__19a4e5078492.json"
+      },
+      {
+        "page_number": 55,
+        "source_page_number": 55,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p055__2b7f4642ad58.json"
+      },
+      {
+        "page_number": 56,
+        "source_page_number": 56,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p056__fd8895a345e4.json"
+      },
+      {
+        "page_number": 57,
+        "source_page_number": 57,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p057__adbb940abd26.json"
+      },
+      {
+        "page_number": 58,
+        "source_page_number": 58,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p058__d533152d57a4.json"
+      },
+      {
+        "page_number": 59,
+        "source_page_number": 59,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p059__06f464886c2f.json"
+      },
+      {
+        "page_number": 60,
+        "source_page_number": 60,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p060__cfc8f44c8759.json"
+      },
+      {
+        "page_number": 61,
+        "source_page_number": 61,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p061__5bdc71a8ece9.json"
+      },
+      {
+        "page_number": 62,
+        "source_page_number": 62,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p062__fca677e28a06.json"
+      },
+      {
+        "page_number": 63,
+        "source_page_number": 63,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p063__baedf8440aa2.json"
+      },
+      {
+        "page_number": 64,
+        "source_page_number": 64,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p064__ff678b3c2ecb.json"
+      },
+      {
+        "page_number": 65,
+        "source_page_number": 65,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p065__e174cc4717c8.json"
+      },
+      {
+        "page_number": 66,
+        "source_page_number": 66,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p066__c5832a90434f.json"
+      },
+      {
+        "page_number": 67,
+        "source_page_number": 67,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p067__fcaaeefaebfb.json"
+      },
+      {
+        "page_number": 68,
+        "source_page_number": 68,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p068__37a90b747a7c.json"
+      },
+      {
+        "page_number": 69,
+        "source_page_number": 69,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p069__67ed450d16bf.json"
+      },
+      {
+        "page_number": 70,
+        "source_page_number": 70,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p070__38cf2cc22ea9.json"
+      },
+      {
+        "page_number": 71,
+        "source_page_number": 71,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p071__d1591d21ff96.json"
+      },
+      {
+        "page_number": 72,
+        "source_page_number": 72,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p072__889721ce258f.json"
+      },
+      {
+        "page_number": 73,
+        "source_page_number": 73,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p073__453510dff6c7.json"
+      },
+      {
+        "page_number": 74,
+        "source_page_number": 74,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p074__610975c8434c.json"
+      },
+      {
+        "page_number": 75,
+        "source_page_number": 75,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p075__73abdefa3a48.json"
+      },
+      {
+        "page_number": 76,
+        "source_page_number": 76,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p076__8e3a31392d98.json"
+      },
+      {
+        "page_number": 77,
+        "source_page_number": 77,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p077__cf7ac1bc142f.json"
+      },
+      {
+        "page_number": 78,
+        "source_page_number": 78,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p078__ef8491c6cc1b.json"
+      },
+      {
+        "page_number": 79,
+        "source_page_number": 79,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p079__09902589c694.json"
+      },
+      {
+        "page_number": 80,
+        "source_page_number": 80,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p080__2098d8f4209c.json"
+      },
+      {
+        "page_number": 81,
+        "source_page_number": 81,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p081__c05d8bab71e1.json"
+      },
+      {
+        "page_number": 82,
+        "source_page_number": 82,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p082__c006f66420e1.json"
+      },
+      {
+        "page_number": 83,
+        "source_page_number": 83,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p083__c68890dded3c.json"
+      },
+      {
+        "page_number": 84,
+        "source_page_number": 84,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p084__c3df331dead3.json"
+      },
+      {
+        "page_number": 85,
+        "source_page_number": 85,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p085__114af457eb65.json"
+      },
+      {
+        "page_number": 86,
+        "source_page_number": 86,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p086__ddd22a48e8db.json"
+      },
+      {
+        "page_number": 87,
+        "source_page_number": 87,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p087__f734f31baece.json"
+      },
+      {
+        "page_number": 88,
+        "source_page_number": 88,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p088__d9146339eac7.json"
+      },
+      {
+        "page_number": 89,
+        "source_page_number": 89,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p089__987a8610ece1.json"
+      },
+      {
+        "page_number": 90,
+        "source_page_number": 90,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p090__a070c2630b84.json"
+      },
+      {
+        "page_number": 91,
+        "source_page_number": 91,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p091__bcd3c1680dde.json"
+      },
+      {
+        "page_number": 92,
+        "source_page_number": 92,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p092__782f592832fc.json"
+      },
+      {
+        "page_number": 93,
+        "source_page_number": 93,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p093__31b2f57d6deb.json"
+      },
+      {
+        "page_number": 94,
+        "source_page_number": 94,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p094__ec624a3a6324.json"
+      },
+      {
+        "page_number": 95,
+        "source_page_number": 95,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p095__d4f20be030b4.json"
+      },
+      {
+        "page_number": 96,
+        "source_page_number": 96,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p096__77317c4ddbd3.json"
+      },
+      {
+        "page_number": 97,
+        "source_page_number": 97,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p097__4be0080d4276.json"
+      },
+      {
+        "page_number": 98,
+        "source_page_number": 98,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p098__736e251ec3b4.json"
+      },
+      {
+        "page_number": 99,
+        "source_page_number": 99,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p099__6bd9a6f03367.json"
+      },
+      {
+        "page_number": 100,
+        "source_page_number": 100,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p100__d3ef2ef103d7.json"
+      },
+      {
+        "page_number": 101,
+        "source_page_number": 101,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p101__4333bb267b72.json"
+      },
+      {
+        "page_number": 102,
+        "source_page_number": 102,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p102__c19f9c4937af.json"
+      },
+      {
+        "page_number": 103,
+        "source_page_number": 103,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p103__919b53572b5b.json"
+      },
+      {
+        "page_number": 104,
+        "source_page_number": 104,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p104__27983314162a.json"
+      },
+      {
+        "page_number": 105,
+        "source_page_number": 105,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p105__de1d1ecde205.json"
+      },
+      {
+        "page_number": 106,
+        "source_page_number": 106,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p106__dd5963a85cff.json"
+      },
+      {
+        "page_number": 107,
+        "source_page_number": 107,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p107__41a50a3bd556.json"
+      },
+      {
+        "page_number": 108,
+        "source_page_number": 108,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p108__e269c6517b73.json"
+      },
+      {
+        "page_number": 109,
+        "source_page_number": 109,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p109__6bb657acf905.json"
+      },
+      {
+        "page_number": 110,
+        "source_page_number": 110,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p110__a14d17ec0be2.json"
+      },
+      {
+        "page_number": 111,
+        "source_page_number": 111,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p111__e03643012a87.json"
+      },
+      {
+        "page_number": 112,
+        "source_page_number": 112,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p112__b4af72769659.json"
+      },
+      {
+        "page_number": 113,
+        "source_page_number": 113,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p113__659629e99900.json"
+      },
+      {
+        "page_number": 114,
+        "source_page_number": 114,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p114__7f70b9a576bd.json"
+      },
+      {
+        "page_number": 115,
+        "source_page_number": 115,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p115__f74fc8d89c7f.json"
+      },
+      {
+        "page_number": 116,
+        "source_page_number": 116,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p116__09255898a24d.json"
+      },
+      {
+        "page_number": 117,
+        "source_page_number": 117,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p117__8e20ef4316d9.json"
+      },
+      {
+        "page_number": 118,
+        "source_page_number": 118,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p118__e07c4572a621.json"
+      },
+      {
+        "page_number": 119,
+        "source_page_number": 119,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p119__5f2dac91ebd6.json"
+      },
+      {
+        "page_number": 120,
+        "source_page_number": 120,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p120__25237f30492a.json"
+      },
+      {
+        "page_number": 121,
+        "source_page_number": 121,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p121__e3b4bee2983d.json"
+      },
+      {
+        "page_number": 122,
+        "source_page_number": 122,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p122__3f30031e8008.json"
+      },
+      {
+        "page_number": 123,
+        "source_page_number": 123,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p123__abae0f0314ae.json"
+      },
+      {
+        "page_number": 124,
+        "source_page_number": 124,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p124__e3e4a85c8cb8.json"
+      },
+      {
+        "page_number": 125,
+        "source_page_number": 125,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p125__77d9f267bcf8.json"
+      },
+      {
+        "page_number": 126,
+        "source_page_number": 126,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p126__e06f74f46399.json"
+      },
+      {
+        "page_number": 127,
+        "source_page_number": 127,
+        "question_count": 4,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p127__90fbf654aba9.json"
+      },
+      {
+        "page_number": 128,
+        "source_page_number": 128,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p128__71afcff9320c.json"
+      },
+      {
+        "page_number": 129,
+        "source_page_number": 129,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p129__be191e605ce6.json"
+      },
+      {
+        "page_number": 130,
+        "source_page_number": 130,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p130__ae76b13a3eb4.json"
+      },
+      {
+        "page_number": 131,
+        "source_page_number": 131,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p131__61009053b4b2.json"
+      },
+      {
+        "page_number": 132,
+        "source_page_number": 132,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p132__6702f568c492.json"
+      },
+      {
+        "page_number": 133,
+        "source_page_number": 133,
+        "question_count": 3,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p133__8bb177fb1ffd.json"
+      },
+      {
+        "page_number": 134,
+        "source_page_number": 134,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_from_recording_propositions",
+        "page_read_status": "recording_proposition_page_estimate",
+        "static_page_file": "pages/2026__p134__85d217bbd212.json"
+      }
+    ],
+    "current_index": 3,
+    "previous_page": 3,
+    "next_page": 5
+  },
+  "review_image_url": "./data/images/2026__p004__fe3bc61c73d4.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 4
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "척주의 영어 이름은 vertebral column이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 1,
+        "accounted_term_count": 1,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "척주(vertebral column)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Pelvic girdle",
+        "뼈로 되어 있는 세숫대야 모양",
+        "척추 부분을 두개의 다리뼈에 전달해주는 역할을 한다.",
+        "다리이음뼈",
+        "몸의 무게를 지탱한다.",
+        "hip bone - ilium + ischium + pubis",
+        "원래 따로 되어 있었는데 사춘기 때 융합되어 형성",
+        "(R) hip bone",
+        "(L) hip bone",
+        "5개의 sacral vertebrae로 되어 있다가",
+        "하나로 합쳐져 형성",
+        "두 개의 hip bone과 sacrum이",
+        "앞쪽에서는 pubic symphysis,",
+        "뒤쪽에서는 sacroiliac joint"
+      ],
+      "supplemental_ocr_blocks": [
+        "(R) hip bone 허리뼈",
+        "엉덩뼈 sacral vertebrae로 되어 있다가",
+        "ilium 하월s 합처저 형성",
+        "엉치뼈 sacrum",
+        "꼬리뼈 Coccyx",
+        "넘다리뼈",
+        "femur 두 개의 hip bone과 sacrumol",
+        "위록멘처튼 nattiarohwsis'",
+        "n퓨 두딩뼈",
+        "pubis",
+        "그림 7-3. 뼈골반과 허리뼈, 다리뼈와의 관계(앞모습)"
+      ],
+      "corrected_page_text": "Pelvic girdle\n뼈로 되어 있는 세숫대야 모양\n척추 부분을 두개의 다리뼈에 전달해주는 역할을 한다.\n다리이음뼈\n몸의 무게를 지탱한다.\nhip bone - ilium + ischium + pubis\n원래 따로 되어 있었는데 사춘기 때 융합되어 형성\n(R) hip bone\n(L) hip bone\n5개의 sacral vertebrae로 되어 있다가\n하나로 합쳐져 형성\n두 개의 hip bone과 sacrum이\n앞쪽에서는 pubic symphysis,\n뒤쪽에서는 sacroiliac joint",
+      "quality_audit": {
+        "pdf_char_count": 219,
+        "pdf_span_count": 14,
+        "pdf_word_count": 59,
+        "ocr_fragment_count": 26,
+        "pdf_line_count": 14,
+        "ocr_line_count": 15,
+        "merged_line_count": 25,
+        "pdf_only_count": 10,
+        "ocr_only_count": 11,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 14,
+        "ocr_only_line_count": 11,
+        "pdf_alpha_count": 208,
+        "ocr_alpha_count": 141,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

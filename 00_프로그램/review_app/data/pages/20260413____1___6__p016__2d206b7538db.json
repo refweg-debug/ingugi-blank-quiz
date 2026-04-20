@@ -1,0 +1,346 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 16
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json",
+        "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json",
+        "review_image_url": "./data/images/20260413____1___6__p011__d7e02126d855.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json",
+        "review_image_url": "./data/images/20260413____1___6__p012__f3788709daf3.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json",
+        "review_image_url": "./data/images/20260413____1___6__p013__9b71f56a1451.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json",
+        "review_image_url": "./data/images/20260413____1___6__p014__c4c4582717f7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json",
+        "review_image_url": "./data/images/20260413____1___6__p015__bca091970290.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json",
+        "review_image_url": "./data/images/20260413____1___6__p016__2d206b7538db.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 15,
+    "previous_page": 15,
+    "next_page": 17
+  },
+  "review_image_url": "./data/images/20260413____1___6__p016__2d206b7538db.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 16
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "위의 영어 이름은 stomach이다.",
+        "간문맥계의 영어 이름은 portal venous system이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 6,
+        "accounted_term_count": 5,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.833,
+        "accounted_terms": [
+          "위(stomach)",
+          "간문맥계(portal venous system)",
+          "간문맥(hepatic portal vein)",
+          "간(liver)",
+          "간문(porta hepatis)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "공판단위(Nephron)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "공깥은 혈관율 정화",
+        "Blood circulation",
+        "• Nephron 콩팥의혈관구조는콩팥전체에서과밀접한관련있음",
+        "• 콩팥의혈관은위치와형태에따라명명함",
+        "모세혈관덩어리",
+        "Portal system",
+        "Renal hilum 2 에서개이상의",
+        "Segmental a. 로분지됨",
+        "공판단위(Nephron)",
+        "Cortical",
+        "efferent arteriole",
+        "efferent arteriole",
+        "동반정맥",
+        "1.Simple pathway",
+        "Artery -> Arteriole -> Capillary -> Venule -> Vein",
+        "2.Arteriovenous shunt",
+        "Artery -> Arteriole -> Venule -> Vein",
+        "(Anastomosis : Capillary )건너뜀",
+        "3.Portal system",
+        "-Venous portal system e.g. 뇌하수체",
+        "-Arterial portal system",
+        "[Arterial portal system]",
+        "Artery -> Afferent arteriole -> Capillary -> Efferent arteriole -> Vein"
+      ],
+      "supplemental_ocr_blocks": [
+        "공같의 험관은 위치와 형태에 따라 명명합",
+        "그림 19-3 콩광의 혈액순환",
+        "업사이동매 합프동머 소요사이동매 둘로리서동권",
+        "(Interlobar artery) (Arcuite artery) (Interlobulnr arteryl (Aferent artericle)",
+        "분전동대 보리",
+        "(Segmental- (Clomerulus)",
+        "artery)",
+        "TFenafzoruscle 모세훨관 덩어리 Portal system",
+        "토리적어스세진 pCT)",
+        "Renal hilurr예l서 27 이상이",
+        "Segmental a 로 분지팀 vein) 던쪽구-서 관",
+        "공짜동매 (DCT)",
+        "(Renal artery) (Efferent artericle)",
+        "efferent Brteriole efferent arTeriole",
+        "'걷실(Cortex)",
+        "세진주위모서 M판 곧은회관",
+        "컴고림관 '속직( Medulla) \"Gapilabuar (Vasa rectal",
+        "{icuafe 주릎 무치 국제치",
+        "톤",
+        "동반정액 공쓰정매",
+        "(Renal vein)",
+        "1.Simple pathway",
+        "2.Arteriovenous sllunt",
+        "Artery > Arteriolel > Venule > Vein",
+        "(Anastornosis : Capillary 건너센)",
+        "콩광서 관고리(Loop of Henle} 3,Portal systern",
+        "~Arterial portal syeiem",
+        "입사이장대 긴표정매 '소입사이징다 [Arterial portal system]",
+        "콩팔 관상면(원쪽에서 주요 혈관의 경로와 이름올 확인할 수 있다 확대 이연보라색 상지외 훨권은 자츰수된 특정물질이 혈액으로 되돌아가논 현",
+        "한 그림오른쪽)에서 겉질과 속질에 걸쳐있는 소염사이동맥의 분지양상울 상이 일어나는 모세혈관율 나타내다:",
+        "관찰할 수 있다: 빨간상자는 동맥은 파라상자는 정춘은 표시하없다: 둘 사"
+      ],
+      "corrected_page_text": "공깥은 혈관율 정화\nBlood circulation\n• Nephron 콩팥의혈관구조는콩팥전체에서과밀접한관련있음\n• 콩팥의혈관은위치와형태에따라명명함\n모세혈관덩어리\nPortal system\nRenal hilum 2 에서개이상의\nSegmental a. 로분지됨\n공판단위(Nephron)\nCortical\nefferent arteriole\nefferent arteriole\n동반정맥\n1.Simple pathway\nArtery -> Arteriole -> Capillary -> Venule -> Vein\n2.Arteriovenous shunt\nArtery -> Arteriole -> Venule -> Vein\n(Anastomosis : Capillary )건너뜀\n3.Portal system\n-Venous portal system e.g. 뇌하수체\n-Arterial portal system\n[Arterial portal system]\nArtery -> Afferent arteriole -> Capillary -> Efferent arteriole -> Vein",
+      "quality_audit": {
+        "pdf_char_count": 463,
+        "pdf_span_count": 53,
+        "pdf_word_count": 89,
+        "ocr_fragment_count": 74,
+        "pdf_line_count": 23,
+        "ocr_line_count": 40,
+        "merged_line_count": 54,
+        "pdf_only_count": 14,
+        "ocr_only_count": 31,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 23,
+        "ocr_only_line_count": 31,
+        "pdf_alpha_count": 418,
+        "ocr_alpha_count": 677,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

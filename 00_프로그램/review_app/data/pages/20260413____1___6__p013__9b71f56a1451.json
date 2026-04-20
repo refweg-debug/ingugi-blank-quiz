@@ -1,0 +1,325 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 13
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json",
+        "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json",
+        "review_image_url": "./data/images/20260413____1___6__p011__d7e02126d855.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json",
+        "review_image_url": "./data/images/20260413____1___6__p012__f3788709daf3.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json",
+        "review_image_url": "./data/images/20260413____1___6__p013__9b71f56a1451.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 12,
+    "previous_page": 12,
+    "next_page": 14
+  },
+  "review_image_url": "./data/images/20260413____1___6__p013__9b71f56a1451.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 13
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "골반의 영어 이름은 pelvis이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 2,
+        "accounted_term_count": 2,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "골반(pelvis)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "[앞 내용 복습]",
+        "Histology of kidney",
+        "• Kidney fibrous capsule (renal capsule) 는로둘러싸임",
+        "• Renal v. a. renal pelvis => Renal hilum",
+        "Renal V. a renal pelvis 속 Renal hilurn 1우",
+        "• Renal pyramid = Minor calyx꼭대기",
+        "• Renal pelvis 2-3 Major calices 는개의로나뉨",
+        "-> Minor calyx Major calyx -> Ureter -> Bladder모여",
+        "-> Major calices 2-3 Minor calices 는개의로나뉨",
+        "• Renal pyramid Minor calyx => Renal papilla가되는부분",
+        "• ( ) Renal cortex바깥어두움",
+        "• Renal pyramid Renal column => Renal lobe하나기준가쪽있는부분",
+        "<(-> ) Renal medulla : Renal pyramid 8-18안밝음개",
+        "• Renal pyramid < ->Renal pyramid => Renal column사이공간",
+        "• 주룩주룩세로로곧음",
+        "• Tubule straight cortex 들다발이룬것에존재",
+        "=> Medullary ray",
+        "Medullaryray < > Medullary ray 동글동글",
+        "=> Renal corpuscle",
+        "• 주변구불구불한관",
+        "=> Cortical labyrinth"
+      ],
+      "supplemental_ocr_blocks": [
+        "Major calices는 2-3개이 Minor calices로 나님 Renal pyrarnid가 Minor calyx 되는 부분 > Renal papilla 'medullary",
+        "(바깥 어두움) Renal cortex Renal pyramnid 하나 기준 가쪽 Renal column 있는 부분 수 Renal lobe rays",
+        "<>(안 밝음) Renal medulla : Renal pyrarnid 8-18개",
+        "콩팔경질(Renal cortex)",
+        "cortical",
+        "콩팔속질Renal medulla) labyrinth",
+        "콩광기도Renal colurnn) 직은콩관전Minor calyx) 주진주특 세로로 곧음",
+        "콩팔피라미드(Renal pyramnid) '근깜광잔(Major calyx) Tubule들 straight 다발 이분 것 cortex에 존재",
+        "콩팔깔때가 KRcnal pclvis) 'Medullary ray",
+        "'콩말동렉(Renal artery)",
+        "겉질속질이YCorticomedullary junction) > Renal corpuscle",
+        "주변 구분구분한 관",
+        "콩깔정렉(Renal vein) Cortical labyrinth",
+        "콩팔유두 (Renal papilla)",
+        "콩팔없(Renal lobe)",
+        "요관Ureter)",
+        "섬유피막Fibrous capsule)",
+        "콩항은 콩모양이며 오목히 콩광문 hilum어는 요관; 콩팔동맥과 콩팔정액 인콩팔피라미드는 연장선상의 검질과 구분b다: 겉질과 콩말문은 섬유피",
+        "'이 통과하다: 요관은 굳콩관잔과 작은콩관잔으로 나누어지켜 지방조직에 막에 싸여 있다",
+        "의해 둘러싸여 있다: 각각의 작은콩팔잔에 붙어 있는 원불모양 속질부분"
+      ],
+      "corrected_page_text": "[앞 내용 복습]\nHistology of kidney\n• Kidney fibrous capsule (renal capsule) 는로둘러싸임\n• Renal v. a. renal pelvis => Renal hilum\nRenal V. a renal pelvis 속 Renal hilurn 1우\n• Renal pyramid = Minor calyx꼭대기\n• Renal pelvis 2-3 Major calices 는개의로나뉨\n-> Minor calyx Major calyx -> Ureter -> Bladder모여\n-> Major calices 2-3 Minor calices 는개의로나뉨\n• Renal pyramid Minor calyx => Renal papilla가되는부분\n• ( ) Renal cortex바깥어두움\n• Renal pyramid Renal column => Renal lobe하나기준가쪽있는부분\n<(-> ) Renal medulla : Renal pyramid 8-18안밝음개\n• Renal pyramid < ->Renal pyramid => Renal column사이공간\n• 주룩주룩세로로곧음\n• Tubule straight cortex 들다발이룬것에존재\n=> Medullary ray\nMedullaryray < > Medullary ray 동글동글\n=> Renal corpuscle\n• 주변구불구불한관\n=> Cortical labyrinth",
+      "quality_audit": {
+        "pdf_char_count": 593,
+        "pdf_span_count": 101,
+        "pdf_word_count": 143,
+        "ocr_fragment_count": 48,
+        "pdf_line_count": 21,
+        "ocr_line_count": 28,
+        "merged_line_count": 41,
+        "pdf_only_count": 13,
+        "ocr_only_count": 20,
+        "replaced_with_ocr_count": 3,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 21,
+        "ocr_only_line_count": 20,
+        "pdf_alpha_count": 519,
+        "ocr_alpha_count": 629,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

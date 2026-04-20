@@ -1,0 +1,370 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 9
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 8,
+    "previous_page": 8,
+    "next_page": 10
+  },
+  "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 9
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "근육의 영어 이름은 muscles이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "끝부분의 영어 이름은 end piece이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "복막의 영어 이름은 peritoneum이다.",
+        "벽쪽복막의 영어 이름은 parietal peritoneum이다.",
+        "배대동맥의 영어 이름은 abdominal aorta이다.",
+        "위의 영어 이름은 stomach이다.",
+        "골반입구의 영어 이름은 pelvic inlet이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 8,
+          "text": "- Parietal peritoneum 내려올때가쪽으로내려오다가배골반나뉨",
+          "reason": "term_cluster_requires_concept_inference"
+        },
+        {
+          "block_index": 9,
+          "text": "(abdominal aorta)",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 11,
+        "accounted_term_count": 10,
+        "unresolved_term_count": 0,
+        "missing_term_count": 1,
+        "coverage_ratio": 0.909,
+        "accounted_terms": [
+          "근육(muscles)",
+          "골반(pelvis)",
+          "끝부분(end piece)",
+          "배(abdominal region)",
+          "복막(peritoneum)",
+          "벽쪽복막(parietal peritoneum)",
+          "배대동맥(abdominal aorta)",
+          "위(stomach)",
+          "골반입구(pelvic inlet)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "벽쪽 가슴막(parietal pleura)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Ureter",
+        "[Ureter]",
+        "• 근육으로이루어진관",
+        "-Kidney Bladder 에서생성된소변을로운반",
+        "• -> (Peristalsis) -> 근육으로이루어져자체로수축이완꿈틀운동소변아래로운반",
+        "• Ureter Bladder , 가에비스듬하게통과해소변은한쪽방향으로만흐르는밸브처럼작용",
+        "• Ureter Renal pelvis 끝부분이확장되어형성",
+        "- Parietal peritoneum 내려올때가쪽으로내려오다가배골반나뉨",
+        "(abdominal aorta)",
+        "• , 20-60 여성보다남성에게잘발생세에골고루발생",
+        ", 특히주로앉아서생활하는사람에게잘발생",
+        "• 3잘발생하는부위가지",
+        "1)Ureteropelvic junction",
+        "Renal pelvis와 Ureter 시작되는 부뭐",
+        "2)Pelvic inlet",
+        "배에서골반으로넘어가는부위",
+        "3)Entrance to bladder",
+        "Bladder 안으로들어가는부위",
+        "• Stone (x)은수용성염들이결정이룬것녹음",
+        "[Ureter ]혈액공급",
+        "• Ureter 길어서혈액공급한곳에서일어나는것아님",
+        "-> 가까운위치에서혈액공급됨",
+        "잘 발생하는 부위 3가지",
+        "• 위",
+        "배",
+        "IUreteropelvic junction",
+        "• 중간",
+        "[Pelvic inlet]",
+        "-Gonadal a. ()생식샘",
+        "Common iliac Internal External이로",
+        "() Testicular a.남성",
+        "골반",
+        "Bifurcation 나누어지는부분",
+        "() Ovarian a.여성",
+        "-External iliac a.",
+        "-Internal iliac a. ( )배내장대부분",
+        "• 아래"
+      ],
+      "supplemental_ocr_blocks": [
+        "Ureter 끝부분이 확장되어 Renal pelvis 형성 오른쪽 콩팔동맥 왼쪽 콩팔동액renal a)",
+        "'~내려올 때 Parietal peritoneum 기 으로 내려오다가 배 골반 나님 (renala)",
+        "오른쪽 콩팔 (kidney)",
+        "3JEntrance to bladder",
+        "Bladder 안으로 들어가는 부위 고환동맥",
+        "Stone은 수용성 염들이 결정 이분 것 (속음x) 첫째협칙-요관깔대기이음부 (testicular aa)",
+        "(first constriction-",
+        "[Ureter 훨액공급] ureteropelvic junction)",
+        "Ureter 길어서 훨액공급 한 곳예서 일어나는 것 아님 요관ureter)",
+        "가까운 위치에서 혈액공급림 요관ureter)",
+        "온엉덩동맥",
+        "~Renal artery (common",
+        "중간 둘째협칙-위골반문 iliac a)",
+        "~Abdorninal aorta (second constriction-",
+        "~Gonadal a. (생식생) '[Pelvic inlet] pelvic inlet)",
+        "(남성) Testicular a. Cornmon iliaco Internal External로 속엉딩동맥",
+        "(여성) Ovarian a 나누어지는 Bifurcation 부분 (internal 골반",
+        "~External iliac a. iliac a) 바깥엉당동맥",
+        "아래 (external iliac a)",
+        "셋째협칙-방광의 입구",
+        "~Internal iliac a. (배 내장 대부분) (third constriction-",
+        "entrance to blad-",
+        "der)",
+        "방광bladder)"
+      ],
+      "corrected_page_text": "Ureter\n[Ureter]\n• 근육으로이루어진관\n-Kidney Bladder 에서생성된소변을로운반\n• -> (Peristalsis) -> 근육으로이루어져자체로수축이완꿈틀운동소변아래로운반\n• Ureter Bladder , 가에비스듬하게통과해소변은한쪽방향으로만흐르는밸브처럼작용\n• Ureter Renal pelvis 끝부분이확장되어형성\n- Parietal peritoneum 내려올때가쪽으로내려오다가배골반나뉨\n(abdominal aorta)\n• , 20-60 여성보다남성에게잘발생세에골고루발생\n, 특히주로앉아서생활하는사람에게잘발생\n• 3잘발생하는부위가지\n1)Ureteropelvic junction\nRenal pelvis와 Ureter 시작되는 부뭐\n2)Pelvic inlet\n배에서골반으로넘어가는부위\n3)Entrance to bladder\nBladder 안으로들어가는부위\n• Stone (x)은수용성염들이결정이룬것녹음\n[Ureter ]혈액공급\n• Ureter 길어서혈액공급한곳에서일어나는것아님\n-> 가까운위치에서혈액공급됨\n잘 발생하는 부위 3가지\n• 위\n배\nIUreteropelvic junction\n• 중간\n[Pelvic inlet]\n-Gonadal a. ()생식샘\nCommon iliac Internal External이로\n() Testicular a.남성\n골반\nBifurcation 나누어지는부분\n() Ovarian a.여성\n-External iliac a.\n-Internal iliac a. ( )배내장대부분\n• 아래",
+      "quality_audit": {
+        "pdf_char_count": 634,
+        "pdf_span_count": 155,
+        "pdf_word_count": 155,
+        "ocr_fragment_count": 66,
+        "pdf_line_count": 37,
+        "ocr_line_count": 41,
+        "merged_line_count": 61,
+        "pdf_only_count": 20,
+        "ocr_only_count": 24,
+        "replaced_with_ocr_count": 4,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 37,
+        "ocr_only_line_count": 24,
+        "pdf_alpha_count": 579,
+        "ocr_alpha_count": 584,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}

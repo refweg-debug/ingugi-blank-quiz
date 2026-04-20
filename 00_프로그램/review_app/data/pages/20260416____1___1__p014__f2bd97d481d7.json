@@ -1,0 +1,534 @@
+{
+  "page_ref": {
+    "unit": "골반",
+    "category": "필기본",
+    "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+    "page_number": 14
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [
+    {
+      "question_id": "골반_필기본_20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤_p014_course_골반_필기본_014_course_001_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "골반_필기본_014_course_001"
+      ],
+      "prompt": "_____는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반입구(pelvic inlet)",
+        "accepted_answers": [
+          "골반입구(pelvic inlet)",
+          "pelvic inlet"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반입구(pelvic inlet)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "골반_필기본_20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤_p014_course_골반_필기본_014_course_001_002",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "골반_필기본_014_course_001"
+      ],
+      "prompt": "골반입구(pelvic inlet)는 _____과 골반안(pelvic cavity)을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "배안(abdominal cavity)",
+        "accepted_answers": [
+          "배안(abdominal cavity)",
+          "abdominal cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "배안(abdominal cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "골반_필기본_20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤_p014_course_골반_필기본_014_course_001_003",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "골반_필기본_014_course_001"
+      ],
+      "prompt": "골반입구(pelvic inlet)는 배안(abdominal cavity)과 _____을 나누는 기준이다.",
+      "answer": {
+        "format": "single_text",
+        "value": "골반안(pelvic cavity)",
+        "accepted_answers": [
+          "골반안(pelvic cavity)",
+          "pelvic cavity"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "골반안(pelvic cavity)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "골반_필기본_20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤_p014_course_골반_필기본_014_course_002_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "골반_필기본_014_course_002"
+      ],
+      "prompt": "_____은 가짜골반(false pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "큰골반(greater pelvis)",
+        "accepted_answers": [
+          "큰골반(greater pelvis)",
+          "greater pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "큰골반(greater pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    },
+    {
+      "question_id": "골반_필기본_20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤_p014_course_골반_필기본_014_course_003_001",
+      "question_type": "fill_blank",
+      "blank_mode": "single",
+      "question_focus": "course_exam_style_provisional",
+      "proposition_refs": [
+        "골반_필기본_014_course_003"
+      ],
+      "prompt": "_____은 진골반(true pelvis)이라고도 한다.",
+      "answer": {
+        "format": "single_text",
+        "value": "작은골반(lesser pelvis)",
+        "accepted_answers": [
+          "작은골반(lesser pelvis)",
+          "lesser pelvis"
+        ]
+      },
+      "target": {
+        "kind": "term",
+        "text": "작은골반(lesser pelvis)"
+      },
+      "verification_status": "unsupported_by_canonical",
+      "explanation": {
+        "short": "canonical 洹쇨굅 ?湲?以묒씤 愿怨꾪삎 ?꾧린 紐낆젣瑜??먭????꾩떆 臾명빆?쇰줈 ?앹꽦?덈떎.",
+        "full": "?먮Ц 紐낆젣: 작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다. / 寃利?硫붾え: 일치하거나 충분히 가까운 canonical proposition을 찾지 못했다."
+      }
+    }
+  ],
+  "summary": {
+    "question_count": 5,
+    "question_type_count": {
+      "fill_blank": 5
+    },
+    "question_focus_count": {
+      "course_exam_style_provisional": 5
+    }
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p001__61e6f884aa33.json",
+        "review_image_url": "./data/images/20260416____1___1__p001__61e6f884aa33.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p002__6ad9ce91e0f5.json",
+        "review_image_url": "./data/images/20260416____1___1__p002__6ad9ce91e0f5.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p003__3fd2e9539228.json",
+        "review_image_url": "./data/images/20260416____1___1__p003__3fd2e9539228.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p004__e3f46cb02b19.json",
+        "review_image_url": "./data/images/20260416____1___1__p004__e3f46cb02b19.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p005__b5342ddaf5cc.json",
+        "review_image_url": "./data/images/20260416____1___1__p005__b5342ddaf5cc.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p006__b0c14145ac43.json",
+        "review_image_url": "./data/images/20260416____1___1__p006__b0c14145ac43.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p007__44b5d2f859e7.json",
+        "review_image_url": "./data/images/20260416____1___1__p007__44b5d2f859e7.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p008__e4266bf19293.json",
+        "review_image_url": "./data/images/20260416____1___1__p008__e4266bf19293.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p009__324aa668caa0.json",
+        "review_image_url": "./data/images/20260416____1___1__p009__324aa668caa0.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p010__d2e99f5c3799.json",
+        "review_image_url": "./data/images/20260416____1___1__p010__d2e99f5c3799.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p011__f965202680ec.json",
+        "review_image_url": "./data/images/20260416____1___1__p011__f965202680ec.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p012__a3c8449abdd2.json",
+        "review_image_url": "./data/images/20260416____1___1__p012__a3c8449abdd2.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p013__872df30c5722.json",
+        "review_image_url": "./data/images/20260416____1___1__p013__872df30c5722.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 5,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p014__f2bd97d481d7.json",
+        "review_image_url": "./data/images/20260416____1___1__p014__f2bd97d481d7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p015__a44d25d1c823.json"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p016__ab552fd20c0c.json"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p017__47445983428c.json"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p018__100712d0baeb.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p019__5d744f7f1273.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p020__76e2802a44a1.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p021__021a707b1341.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p022__6a2db0d3b7d8.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p023__0b070b284bf7.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p024__dd7630047095.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p025__46bfa8d9d001.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p026__8259a98dd2ef.json"
+      },
+      {
+        "page_number": 27,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p027__b907a3899e1b.json"
+      },
+      {
+        "page_number": 28,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p028__d6241de66359.json"
+      },
+      {
+        "page_number": 29,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p029__049ba78b0776.json"
+      },
+      {
+        "page_number": 30,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p030__85b6e8ea1084.json"
+      },
+      {
+        "page_number": 31,
+        "question_count": 1,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p031__a77bf11bd63b.json"
+      },
+      {
+        "page_number": 32,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p032__28d3c900eeee.json"
+      },
+      {
+        "page_number": 33,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p033__4bd729b5341f.json"
+      },
+      {
+        "page_number": 34,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260416____1___1__p034__59ef42e93f90.json"
+      }
+    ],
+    "current_index": 13,
+    "previous_page": 13,
+    "next_page": 15
+  },
+  "review_image_url": "./data/images/20260416____1___1__p014__f2bd97d481d7.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260416_필기본_인체의구조와기능1(신화경교수님)_골반1_황서윤",
+      "page_number": 14
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "골반입구(pelvic inlet)는 배안(abdominal cavity)과 골반안(pelvic cavity)을 나누는 기준이다.",
+        "큰골반(greater pelvis)은 가짜골반(false pelvis)이라고도 한다.",
+        "작은골반(lesser pelvis)은 진골반(true pelvis)이라고도 한다.",
+        "큰골반의 영어 이름은 greater pelvis이다.",
+        "골반의 영어 이름은 pelvis이다.",
+        "작은골반의 영어 이름은 lesser pelvis이다.",
+        "위의 영어 이름은 stomach이다.",
+        "척주의 영어 이름은 vertebral column이다.",
+        "엉덩뼈능선의 영어 이름은 iliac crest이다.",
+        "목의 영어 이름은 cervical region이다.",
+        "가짜골반의 영어 이름은 false pelvis이다.",
+        "진골반의 영어 이름은 true pelvis이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [
+        {
+          "block_index": 1,
+          "text": "Greater pelvis and lesser pelvis",
+          "reason": "term_cluster_requires_concept_inference"
+        }
+      ],
+      "coverage_audit": {
+        "page_term_count": 16,
+        "accounted_term_count": 13,
+        "unresolved_term_count": 0,
+        "missing_term_count": 3,
+        "coverage_ratio": 0.812,
+        "accounted_terms": [
+          "큰골반(greater pelvis)",
+          "골반(pelvis)",
+          "작은골반(lesser pelvis)",
+          "위(stomach)",
+          "척주(vertebral column)",
+          "엉덩뼈능선(iliac crest)",
+          "목(cervical region)",
+          "가짜골반(false pelvis)",
+          "진골반(true pelvis)",
+          "골반입구(pelvic inlet)",
+          "배(abdominal region)",
+          "배안(abdominal cavity)",
+          "골반안(pelvic cavity)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": [
+          "엉덩뼈오목엉치하곳(sacral promontory)",
+          "절구(acetabulum)",
+          "두딩밑각(subpubic angle)"
+        ]
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "Greater pelvis and lesser pelvis",
+        "pelvic inlet을 기준으로 나눈다.",
+        "내장 부분(sigmoid colon 등)",
+        "골반에 대한 내장이 위치",
+        "위뒤엉당 뼈가시posterior",
+        "superior iliac spine) 엉치엉당관적sacro-iliac joint)",
+        "엉덩뼈능선iliac crest) 엉치하날개ala of sacrum)",
+        "엉덩뼈오목 엉치하곳(sacral promontory)",
+        "(iliac fossa) 엉치버sacrum)",
+        "엉덩뼈날개ala) (sacrococcygeal joint)",
+        "(anterior superior iliac spine)",
+        "엉덩-ilium) 꼬리워coccyx)",
+        "불기뼈 두덤}pubis) 원금밤문fayi; ' i대 플두리",
+        "궁동-ischium) 절구(acetabulum)",
+        "색깔 표시 내장 부분 (sigmoid colon 등) (A",
+        "두멍결합pubic symphysis)",
+        "두딩밑각(subpubic angle)",
+        "근골반greater pelvis, false pelvis)",
+        "작은골반lesser pelvis, true pelvis) 두멍활pubic arch)"
+      ],
+      "supplemental_ocr_blocks": [
+        "엉치꼬리관절",
+        "워앞엉당뼈가시",
+        "(hip bone)"
+      ],
+      "corrected_page_text": "Greater pelvis and lesser pelvis\npelvic inlet을 기준으로 나눈다.\n내장 부분(sigmoid colon 등)\n골반에 대한 내장이 위치\n위뒤엉당 뼈가시posterior\nsuperior iliac spine) 엉치엉당관적sacro-iliac joint)\n엉덩뼈능선iliac crest) 엉치하날개ala of sacrum)\n엉덩뼈오목 엉치하곳(sacral promontory)\n(iliac fossa) 엉치버sacrum)\n엉덩뼈날개ala) (sacrococcygeal joint)\n(anterior superior iliac spine)\n엉덩-ilium) 꼬리워coccyx)\n불기뼈 두덤}pubis) 원금밤문fayi; ' i대 플두리\n궁동-ischium) 절구(acetabulum)\n색깔 표시 내장 부분 (sigmoid colon 등) (A\n두멍결합pubic symphysis)\n두딩밑각(subpubic angle)\n근골반greater pelvis, false pelvis)\n작은골반lesser pelvis, true pelvis) 두멍활pubic arch)",
+      "quality_audit": {
+        "pdf_char_count": 77,
+        "pdf_span_count": 4,
+        "pdf_word_count": 17,
+        "ocr_fragment_count": 33,
+        "pdf_line_count": 4,
+        "ocr_line_count": 21,
+        "merged_line_count": 22,
+        "pdf_only_count": 1,
+        "ocr_only_count": 18,
+        "replaced_with_ocr_count": 0,
+        "ocr_dominant_page": true,
+        "pdf_backed_line_count": 4,
+        "ocr_only_line_count": 18,
+        "pdf_alpha_count": 74,
+        "ocr_alpha_count": 385,
+        "promoted_ocr_only_count": 15
+      }
+    }
+  }
+}

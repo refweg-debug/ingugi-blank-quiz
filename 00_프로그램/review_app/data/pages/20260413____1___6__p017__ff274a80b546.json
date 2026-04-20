@@ -1,0 +1,368 @@
+{
+  "page_ref": {
+    "unit": "배",
+    "category": "필기본",
+    "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+    "page_number": 17
+  },
+  "question_policy_id": "ingugi_anatomy_course_fill_blank_only_v1",
+  "finalization_status": "question_set_provisional_requires_ai_page_read",
+  "page_read_status": "pending_ai_page_read",
+  "source_verified_status": "verified_but_requires_ai_page_read",
+  "questions": [],
+  "summary": {
+    "question_count": 0,
+    "question_type_count": {},
+    "question_focus_count": {}
+  },
+  "blocked_image_question_reasons": [
+    "ai_page_read_not_complete"
+  ],
+  "navigation": {
+    "pages": [
+      {
+        "page_number": 1,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p001__4cdb4b3da830.json",
+        "review_image_url": "./data/images/20260413____1___6__p001__4cdb4b3da830.webp"
+      },
+      {
+        "page_number": 2,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p002__84fe3cb8da32.json",
+        "review_image_url": "./data/images/20260413____1___6__p002__84fe3cb8da32.webp"
+      },
+      {
+        "page_number": 3,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p003__fd77c87f3341.json",
+        "review_image_url": "./data/images/20260413____1___6__p003__fd77c87f3341.webp"
+      },
+      {
+        "page_number": 4,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p004__5fb3d8c22b38.json",
+        "review_image_url": "./data/images/20260413____1___6__p004__5fb3d8c22b38.webp"
+      },
+      {
+        "page_number": 5,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p005__04015d538ae8.json",
+        "review_image_url": "./data/images/20260413____1___6__p005__04015d538ae8.webp"
+      },
+      {
+        "page_number": 6,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p006__ea2cade77ae1.json",
+        "review_image_url": "./data/images/20260413____1___6__p006__ea2cade77ae1.webp"
+      },
+      {
+        "page_number": 7,
+        "question_count": 2,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p007__4c6129422d73.json",
+        "review_image_url": "./data/images/20260413____1___6__p007__4c6129422d73.webp"
+      },
+      {
+        "page_number": 8,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p008__5ea3174da894.json",
+        "review_image_url": "./data/images/20260413____1___6__p008__5ea3174da894.webp"
+      },
+      {
+        "page_number": 9,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p009__80116fe1b08b.json",
+        "review_image_url": "./data/images/20260413____1___6__p009__80116fe1b08b.webp"
+      },
+      {
+        "page_number": 10,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p010__1bac24eaab60.json",
+        "review_image_url": "./data/images/20260413____1___6__p010__1bac24eaab60.webp"
+      },
+      {
+        "page_number": 11,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p011__d7e02126d855.json",
+        "review_image_url": "./data/images/20260413____1___6__p011__d7e02126d855.webp"
+      },
+      {
+        "page_number": 12,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p012__f3788709daf3.json",
+        "review_image_url": "./data/images/20260413____1___6__p012__f3788709daf3.webp"
+      },
+      {
+        "page_number": 13,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p013__9b71f56a1451.json",
+        "review_image_url": "./data/images/20260413____1___6__p013__9b71f56a1451.webp"
+      },
+      {
+        "page_number": 14,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p014__c4c4582717f7.json",
+        "review_image_url": "./data/images/20260413____1___6__p014__c4c4582717f7.webp"
+      },
+      {
+        "page_number": 15,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p015__bca091970290.json",
+        "review_image_url": "./data/images/20260413____1___6__p015__bca091970290.webp"
+      },
+      {
+        "page_number": 16,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p016__2d206b7538db.json",
+        "review_image_url": "./data/images/20260413____1___6__p016__2d206b7538db.webp"
+      },
+      {
+        "page_number": 17,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p017__ff274a80b546.json",
+        "review_image_url": "./data/images/20260413____1___6__p017__ff274a80b546.webp"
+      },
+      {
+        "page_number": 18,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p018__3ed1ebc10e4d.json"
+      },
+      {
+        "page_number": 19,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p019__1d0006216018.json"
+      },
+      {
+        "page_number": 20,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p020__0d2c3b8a9c80.json"
+      },
+      {
+        "page_number": 21,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p021__f88f1eaee23a.json"
+      },
+      {
+        "page_number": 22,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p022__4be9593acffe.json"
+      },
+      {
+        "page_number": 23,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p023__1074d2d10b78.json"
+      },
+      {
+        "page_number": 24,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p024__a5a0ea66e73a.json"
+      },
+      {
+        "page_number": 25,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p025__a18b97f5b840.json"
+      },
+      {
+        "page_number": 26,
+        "question_count": 0,
+        "finalization_status": "question_set_provisional_requires_ai_page_read",
+        "page_read_status": "pending_ai_page_read",
+        "static_page_file": "pages/20260413____1___6__p026__70cd9d431f5b.json"
+      }
+    ],
+    "current_index": 16,
+    "previous_page": 16,
+    "next_page": 18
+  },
+  "review_image_url": "./data/images/20260413____1___6__p017__ff274a80b546.webp",
+  "analysis": {
+    "analysis_ref": {
+      "category": "필기본",
+      "source_stem": "20260413_필기본_인체의구조와기능1(신화경교수님)_배(소화비뇨계통)6_이다윤",
+      "page_number": 17
+    },
+    "propositions": {
+      "finalization_status": "provisional_requires_ai_page_read",
+      "page_block_source": "note_diff+exhaustive_text_record",
+      "textual_record_status": "pending_visual_transcription",
+      "course_propositions": [
+        "상피의 영어 이름은 epithelium이다.",
+        "위의 영어 이름은 stomach이다.",
+        "배의 영어 이름은 abdominal region이다.",
+        "간의 영어 이름은 liver이다."
+      ],
+      "note_concept_inference_propositions": [],
+      "canonical_propositions": [],
+      "textbook_context_propositions": [],
+      "supportive_synthesized_propositions": [],
+      "unresolved_notes": [],
+      "coverage_audit": {
+        "page_term_count": 4,
+        "accounted_term_count": 4,
+        "unresolved_term_count": 0,
+        "missing_term_count": 0,
+        "coverage_ratio": 1.0,
+        "accounted_terms": [
+          "상피(epithelium)",
+          "위(stomach)",
+          "배(abdominal region)",
+          "간(liver)"
+        ],
+        "unresolved_terms": [],
+        "missing_terms": []
+      }
+    },
+    "note_exhaustive_text": {
+      "extraction_status": "ocr_fallback_pending_ai_page_read",
+      "corrected_blocks": [
+        "• 여과기능",
+        "Renal Corpuscle",
+        "• Glomerulus Glomerulus capsule 가을밀고들어감",
+        "-> parietal layer + (capsular space) + visceral layer",
+        "• Capsular space Renal corpuscle 혈액에서여과된액이에모임",
+        "-> Renal corpuscle Proximal convoluted tubule 에가장가까운로감",
+        ": 검은색혈액의흐름",
+        ": 초록색여과액의흐름",
+        "혈관많은부분",
+        "Tubule 이시작되는부분",
+        "[Macula densa]",
+        "Thick ascending limb이",
+        "Renal corpuscle afferent arteriole 자신의중에서도과가까운부분",
+        "-Parietal layer : simple squamous epithelium",
+        "-Visceral layer : ( ) podocyte여과위해특수분화된형태",
+        "visceral layer => Podocyte여과를위한특수",
+        "-Proximal convoluted tubule : 부터",
+        "- 발이문어처럼뻗어있음",
+        ": simple columnar simple cubodial epithelium또는",
+        "- 3종류가지",
+        "primary",
+        "컴리워anerular celli",
+        "-primary Pedicel 는붕떠있고이혈관의",
+        "secondary",
+        "basement membrane 에맞닿아있음",
+        "primary 에서나옴",
+        "-Pedicel Podocyte primary 이다른의",
+        "process Pedicel 의끼리깍지끼듯배열",
+        "> 이 사이 간격이 Filtration slit (Filtration pore)",
+        "primary",
+        "혈관과비슷한",
+        "방향으로나옴",
+        "• layer 여과는모세혈관과그사이에서일어남",
+        "-layer = podocyte"
+      ],
+      "supplemental_ocr_blocks": [
+        "그림 19-5 콩광소체 Capsular space 혈액에서 여과된 액이 Renal corpuscle예 모임",
+        "검은색 : 혈액의 흐름",
+        "토리주머니 박종",
+        "'주머니공간 (Parietal layer of 초목색 : 여과액의 흐름",
+        "여과액 훌륭 {Capsular glomerular capsulel 문세동팩 PL",
+        "convoluted apparatus):",
+        "@토ara체 처림\"접 dlerisa) [Macula dersa]",
+        "토리주머니내창층 '민쪽서관 Thick ascending limbol",
+        "발세모 (Distal tubule) 자신의 Renal corpuscle 중데서도 afferent arteriole과 가까운 부분",
+        "(Podocyte of",
+        "visceral layer of 날세동댁",
+        "glornerular capsule) (Efferent arteriole} DCT ~Parietal layer : simple squamous epitheliurn",
+        "토리 내피 'MMD ~Visceral layer : (여과 위해 특수 분화도 형태) podocyte",
+        "'~발이 문어처럼 뻗어없몸 '(Pedicel) of glometulus) PCT ~Proxirnal convoluted tubule 부터 :",
+        "~종류 3가지 (a) 공팔소체Renal corpuscle) simnple columnar 또는 sirnple cubodial epitheliur",
+        "primary 토리주머니 내장촌",
+        "secondary Pedicel (Visceral layer of glomerular capsulel (b) 콩광소체 조직학Histology of renal corpuscle}",
+        "~prirnary는 불떠임고 Pedicel이l 힘관의 발줄기 반세도 세포체",
+        "secotdaty(Pedicell (Filttinai slits) (Podocyte cell body}",
+        "basernent mnemnbrane에l 맞닿이 윗몸 (a) 콤팔소체는 토리사구체 glomerulus)라고 하는 모세롭관궁치로 동근",
+        "uritay어서 나급 토리주머니에 돌러싸여 있다 토리주머니의 나장촌은 발세되podocyte}",
+        "~Pedicelol 다른 Podocyte의 prirnary",
+        "process이l Pedicel끼리 꽉지끼듯 배월 라고 하는 상피세포이여 발세포는 모세혈관율 수많온 박-기pedicel)로",
+        "꽉지끼듯이 덮고 있다: 혈액은 둘세동맥과 날세동말올 통히여 도리로 유",
+        ")기",
+        "입후 배준되다",
+        "#세acyte} (b} 봉필소체 조직단면 토래이의 모세련관은 두리주머니의 벽중단증편",
+        "'lumen) 3:S aarigfy 평상피PL로 덮인 주머니공객CS)예 둘러싸여 있다: 콤말소체에 인접히",
+        "{@국해,늄n_",
+        "기",
+        "(Glomerular \"률로움워관- ~무라보 토리 -발독기",
+        "\"\" M 터 (c} 여과논 혈액에 압력이 가해저 모세혈관의 창 토리바닥막GBM); 발들",
+        "여괴막 { (i 7t 오 다 (X300; H8E)",
+        "(Pedicels) 여 치밑반점D)과 토리쪽급순세관PCT} 민쪽급순세관DCTJ이I 관찰원",
+        "l 보러왜달-_논 \"기사이 여괴듬새filtration sit들 통과하는 과정에서 이두어지다:",
+        "(Flltratlon imembranej 박독기름 가진 박",
+        "(Basement 콤뱀= (d) 주사전지현미경SFM은 도리모세혈관올 덮고 있는 발세포의 일치돌",
+        "'기와 발물기의 형태적 특징울 보여주고 있다 (X800)",
+        "'내장(영m 등",
+        "of visceral layer)",
+        "(c} 여괴막(Flltratlon membrane) (d) 발세되P odocytes} 여가는 모세히관과 그 layer 사이에서 일어남",
+        "~layer podocyte"
+      ],
+      "corrected_page_text": "• 여과기능\nRenal Corpuscle\n• Glomerulus Glomerulus capsule 가을밀고들어감\n-> parietal layer + (capsular space) + visceral layer\n• Capsular space Renal corpuscle 혈액에서여과된액이에모임\n-> Renal corpuscle Proximal convoluted tubule 에가장가까운로감\n: 검은색혈액의흐름\n: 초록색여과액의흐름\n혈관많은부분\nTubule 이시작되는부분\n[Macula densa]\nThick ascending limb이\nRenal corpuscle afferent arteriole 자신의중에서도과가까운부분\n-Parietal layer : simple squamous epithelium\n-Visceral layer : ( ) podocyte여과위해특수분화된형태\nvisceral layer => Podocyte여과를위한특수\n-Proximal convoluted tubule : 부터\n- 발이문어처럼뻗어있음\n: simple columnar simple cubodial epithelium또는\n- 3종류가지\nprimary\n컴리워anerular celli\n-primary Pedicel 는붕떠있고이혈관의\nsecondary\nbasement membrane 에맞닿아있음\nprimary 에서나옴\n-Pedicel Podocyte primary 이다른의\nprocess Pedicel 의끼리깍지끼듯배열\n> 이 사이 간격이 Filtration slit (Filtration pore)\nprimary\n혈관과비슷한\n방향으로나옴\n• layer 여과는모세혈관과그사이에서일어남\n-layer = podocyte",
+      "quality_audit": {
+        "pdf_char_count": 726,
+        "pdf_span_count": 124,
+        "pdf_word_count": 150,
+        "ocr_fragment_count": 131,
+        "pdf_line_count": 34,
+        "ocr_line_count": 56,
+        "merged_line_count": 76,
+        "pdf_only_count": 20,
+        "ocr_only_count": 42,
+        "replaced_with_ocr_count": 2,
+        "ocr_dominant_page": false,
+        "pdf_backed_line_count": 34,
+        "ocr_only_line_count": 42,
+        "pdf_alpha_count": 687,
+        "ocr_alpha_count": 1333,
+        "promoted_ocr_only_count": 0
+      }
+    }
+  }
+}
